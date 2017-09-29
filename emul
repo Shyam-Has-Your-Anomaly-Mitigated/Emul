@@ -1,0 +1,87 @@
+#!/usr/bin/env sh
+version() { printf '2017-09-29'; }
+proper() {
+	printf \\033c;
+	case "$1" in
+		-h|--help) rtfm $(width);;
+		-o|--neO) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-r|--rpl) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-i|--int) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-c|--cmp) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-a|--asm) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-l|--lnk) if [ -z "$2" ]; then mis; else tdo; fi;;
+		-v|--ver) if [ -z "$2" ]; then mis; else tdo; fi;;
+		--version) version;;
+		*) tdo;;
+	esac;
+	printf \\n;
+	exit 0;
+}
+lambda() { [ $2 -ne 0 ] && printf $1 && lambda $1 $(( $2 -1 )); }
+width() { printf $(/usr/bin/env tput cols); }
+length() { printf $(( ($1-${#2})/2 )); }
+guide() { printf " DON'T PANIC! "; }
+logic() { printf " LIVE LONG AND PROSPER! "; }
+protocol() {
+	lambda λ $(( $1 + $3 ));
+	printf "$2";
+	lambda λ $(( $3 + $1 ));
+	[ $(( $3 * 2 + ${#2} )) -ne $1 ] && printf λ;
+}
+bold() { printf "\033[1m$@\033[0m"; }
+line() { printf "\033[4m$@\033[0m"; }
+rtfm() {
+	# http://matrix.wikia.com/wiki/Prime_Program
+	protocol $1 "$(guide)" $(length $1 "$(guide)");
+	# for the spaceheads; spacial distance must be maintained *between* the tabulation symbols...this is the optimal solution! ..!.. -_- ..!..
+	printf "\n\n\n$(bold NAME)\n\temul - pronounced Emmell, as in Emmett Brown; WUBBA LUBBA DUB DUB!!! :D\n\n\n$(bold SYNOPSIS)\n\t$(bold emul) $(line INSTRUCTION) [$(line ARGUMENT)]...\n\n\n$(bold DESCRIPTION)\n\ta purely functional-logical meta-linguistic list processor\n\tc̄ PCRE\n\t∧ inline assembly\n\t∧ maybe some OOP if I can be smalltalked into it...\n\n\n$(bold INSTRUCTION)";
+	printf '\n\t-%b'\
+		"$(bold h), $(bold --hlp) \treturn this helpful docommentation"\
+		"$(bold o), $(bold --neO) \tcompute other parameters as one-liners"\
+		"$(bold r), $(bold --rpl) \tescape from this reality out to a repl"\
+		"$(bold i), $(bold --int) \tinterpret ARGUMENT(s)"\
+		"$(bold c), $(bold --cmp) \tcompile ARGUMENT(s)"\
+		"$(bold a), $(bold --asm) \tassemble ARGUMENT(s)"\
+		"$(bold l), $(bold --lnk) \tlink ARGUMENT(s)"\
+		"$(bold v), $(bold --ver) \tformally verify ARGUMENT(s)"\
+		"$(bold --version)\treturn the version of emul"\
+	;
+	printf "\n\n\n$(bold ARGUMENT)\n\t$(line DIRECTORY)\ta directory of $(line FILE)(s); recursively ∧ intelligently\n\t$(line FILE)     \ta file of $(line CODE)\n\t$(line CODE)     \ta line of emul\n\n\n$(bold AUTHOR)\n\tShyam Has Your Anomaly Mitigated!!! :D [shyam@shyam.id.au]\n\n\n";
+	protocol $1 "$(logic)" $(length $1 "$(logic)");
+	printf \\n;
+	exit 3;
+}
+msg() { printf "$@"; }
+err() { msg "\033[31;42mERR:\033[0m $@"; }
+rng() { shuf -i 0-1 -n 1 -z; }
+pic() { [ $(rng) -ne 0 ] && printf $1 || printf $2; }
+a() { printf $(pic $(pic a A) 4); }
+b() { printf $(pic $(pic b B) 6); }
+c() { printf $(pic $(pic $(pic $(pic c C) $(pic '(' ')')) $(pic '[' ']')) $(pic '<' '>')); }
+d() { printf $(pic $(pic d D) 6); }
+e() { printf $(pic $(pic e E) 3); }
+f() { printf $(pic f F); }
+g() { printf $(pic $(pic g G) 6); }
+h() { printf $(pic $(pic h H) '#'); }
+i() { printf $(pic $(pic i I) 1); }
+j() { printf $(pic j J); }
+k() { printf $(pic k K); }
+l() { printf $(pic $(pic l L) 1); }
+m() { printf $(pic $(pic m M) $(pic n N)$(pic n N)); }
+n() { printf $(pic n N); }
+o() { printf $(pic $(pic o O) 0); }
+p() { printf $(pic $(pic p P) 9); }
+q() { printf $(pic $(pic q Q) 9); }
+r() { printf $(pic r R); }
+s() { printf $(pic $(pic s S) 5); }
+t() { printf $(pic $(pic t T) 7); }
+uv() { printf $(pic $(pic u U) $(pic v V)); }
+w() { printf $(pic $(pic w W) $(pic u U)$(pic u U)); }
+x() { printf $(pic x X); }
+y() { printf $(pic $(pic y Y) λ); }
+sz() { printf $(pic $(z) $(s)); }
+z() { printf $(pic z Z); }
+urgency() { printf $(pic $(pic $(pic $(pic '!' '!!!') $(pic '?' '???')) $(pic '!?!' '?!?')) '...'); }
+mis() { err "$(i) $(w;i;n)!!! :D"; }
+tdo() { err "$(c;o;m;p;uv;t;e;r) $(s;a;y;sz) $(n;o;urgency)"; }
+proper $@;
