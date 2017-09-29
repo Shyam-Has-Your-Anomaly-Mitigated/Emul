@@ -21,7 +21,7 @@
 <br>**12:26:05** But I think closures are goto statements for nested functions; so what do I know?
 
 **shyam.id.au**
-<br>**12:42:50** @~~xxxx~~ How do you pronounce "data"? I'm thinking either "duh-tah", "day-tah", or "dat(a)"; like my name, "shyama", where you open your mouth after the 'm' for the silent 'a', instead of keeping it closed.
+<br>**12:42:50** @jack How do you pronounce "data"? I'm thinking either "duh-tah", "day-tah", or "dat(a)"; like my name, "shyama", where you open your mouth after the 'm' for the silent 'a', instead of keeping it closed.
 
 **shyam.id.au**
 <br>**01:00:47** https://www.youtube.com/watch?v=7PCkvCPvDXk
@@ -41,7 +41,7 @@
 <br>**02:37:13** 💩
 <br>**02:40:53** I'm between languages at the moment; I'm considering lisp ∵ I've read wonders about...something to do with metaprogramming...it can do "-thing"s to itself...or something magical; I cannot remember what it was...
 
-**~~xxxx~~**
+**jack**
 <br>**02:42:39** lisp does a lot of things right (homoiconicity is amazing) but I cannot live without a type system
 
 ...
@@ -67,7 +67,7 @@
 <br>**08:05:25** S-expressions is just set theory, right?
 
 **shyam.id.au**
-<br>**08:14:26** @~~xxxx~~ ML is Lisp with types. (REF 2017-09-20T02:42:39)
+<br>**08:14:26** @jack ML is Lisp with types. (REF 2017-09-20T02:42:39)
 <br>**08:16:31** Ocaml = CL
 <br>**08:16:38** SML = Scheme
 <br>**08:17:38** That's full of assumptions though primarily based on CLOS...
