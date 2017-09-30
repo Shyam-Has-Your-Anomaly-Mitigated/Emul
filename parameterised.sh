@@ -48,6 +48,7 @@ droste() { $0; }
 f() { [ "$1" = 'x' ] && ret y; }
 recf() { $@; }
 retf() { ret "$@"; }
-recf $(retf 'f x')
+first_class='f';
+recf $(retf "$first_class x");
 ret \\n;
 # closures are possible by "stringing" the functions
