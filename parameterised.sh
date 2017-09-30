@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 # version = impure
-version() { $1 '2017-09-30'; }
+version() { $1 '2017-10-01'; }
 # description = impure
 description() { $1 'this program requires an argument to debate over'; }
 # proper = ret "$(clr)$@";ret \\n;exit 0
@@ -52,3 +52,9 @@ first_class='f';
 recf $(retf "$first_class x");
 ret \\n;
 # closures are possible by "stringing" the functions
+a() {
+	b() { ret 'b'; }
+	b;
+	ret 'a';
+}
+a;
