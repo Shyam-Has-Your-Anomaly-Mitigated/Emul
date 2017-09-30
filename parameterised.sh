@@ -50,3 +50,4 @@ recf() { $@; }
 retf() { ret "$@"; }
 recf $(retf 'f x')
 ret \\n;
+# closures are possible by "stringing" the functions
