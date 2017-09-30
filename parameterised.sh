@@ -40,3 +40,7 @@ PATTERN3() { $1 "$($2 "$(3)")"; }
 pattern3_a() { $1 $2 $($3); }
 pattern3_b() { $1 $(2) $3; }
 pattern3_c() { $1 $(2 $3); }
+
+# recursion is as simple as...
+droste() { $0; }
+
