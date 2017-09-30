@@ -8,7 +8,7 @@
 **2017-09-19**
 
 ...
-	
+
 **shyam.id.au**
 <br>**11:16:49** I'm thinking about dropping Haskell (and Prolog) for Curry; it solves more than just the pronunciation problem! :smile:
 <br>**11:21:08** It's basically Haskell++; but instead of a classic post-increment, it utilises a logical post-increment.
@@ -73,7 +73,7 @@
 <br>**08:17:38** That's full of assumptions though primarily based on CLOS...
 
 **~~yyyy~~**
-<br>**08:20:50**I am not sure I see the connection between s-exprs and set theory, care to explain?
+<br>**08:20:50** I am not sure I see the connection between s-exprs and set theory, care to explain?
 
 **shyam.id.au**
 <br>**08:26:14** Let's just say I thought that explains all the parens?
