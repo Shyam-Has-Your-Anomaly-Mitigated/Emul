@@ -44,3 +44,9 @@ pattern3_c() { $1 $(2 $3); }
 # recursion is as simple as...
 droste() { $0; }
 
+# just look what posix can do!!! :D
+f() { [ "$1" = 'x' ] && ret y; }
+recf() { $@; }
+retf() { ret "$@"; }
+recf $(retf 'f x')
+ret \\n;
