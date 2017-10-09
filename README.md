@@ -389,7 +389,11 @@ compare _ 0 = _
 <br>**03:46:00** This could work for values within a distance of 1 from zero; by recursing twice, before `(==)` both "heads".
 <br>**03:46:43** `(==) (f x_0) (f f x_1)`
 
-*actually it must be `(==) (f x) (f f x)`*
+...
+
+**shyam.id.au**
+<br>**5:20:34** actually it must be `(==) (f x) (f f x)`
+<br>**5:25:25** No, it's more like `(==) (head x) (head (tail x))`
 
 ...
 
