@@ -389,4 +389,6 @@ compare _ 0 = _
 <br>**03:46:00** This could work for values within a distance of 1 from zero; by recursing twice, before `(==)` both "heads".
 <br>**03:46:43** `(==) (f x_0) (f f x_1)`
 
+...
+
 ---
