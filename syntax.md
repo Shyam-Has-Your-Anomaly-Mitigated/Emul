@@ -65,3 +65,7 @@
 	8<< https://github.com/Shyam-Has-Your-Anomaly-Mitigated/sextu.pl/blob/master/Modules/Keypto/Keypto.pm6
 	8<< perl6 cannot do this:
 	s:g/\\(.)/\$0/
+	8<< but shyamscript (sanskrit) can:
+	s:g/\\(.)/$special_char$0/
+	8<< I will have to try that in perl6; but I don't think it will work; $special_char is just a string/char/WE...
+	8<< whatever I do about it; it must be logical!
