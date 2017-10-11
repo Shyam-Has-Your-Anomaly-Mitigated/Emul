@@ -55,3 +55,13 @@
 	$rav = $.var 8<< $rav == [0: 1] ($rav is storing the ADDRESS of $var; has nothing to do with 0, the ADDRESS of the ADDRESS of $var)
 	$,rav == $var 8<< $rav == [1: 2] (I think I get it now... $,rav uses $rav as an ADDRESS, and $.rav is the ADDRESS of $rav)
 	
+	8<< sextu.pl has something about capturing escapes....
+	$esc = /(\\)n/
+	8<< ...or maybe it was...
+	$special_char = \\
+	8<< now fucking escape this shit already!!! DX<
+	printf($specialchar"n")
+	8<< ...
+	8<< https://github.com/Shyam-Has-Your-Anomaly-Mitigated/sextu.pl/blob/master/Modules/Keypto/Keypto.pm6
+	8<< perl6 cannot do this:
+	s:g/\\(.)/\$0/
