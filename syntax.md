@@ -69,3 +69,7 @@
 	s:g/\\(.)/$special_char$0/
 	8<< I will have to try that in perl6; but I don't think it will work; $special_char is just a string/char/WE...
 	8<< whatever I do about it; it must be logical!
+	s:g/\\(.)/\ $0/
+	8<< that is from sextu.pl; we just need to totes ignore whitespace!!! (Like it says in the sexy comments!!!)
+	8<< whitespace can be stored in a fucking stringy character!!!
+	8<< I'm the fucking best!!! :D
