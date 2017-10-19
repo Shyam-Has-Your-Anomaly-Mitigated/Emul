@@ -1,3 +1,4 @@
+	8<< syntax highlighting = græy
 	8< comments are cut with scissors >8
 	...trails off to a single line comment
 	8<< or double snip the single-line comments...
@@ -74,10 +75,14 @@
 	8<< whitespace can be stored in a fucking stringy character!!!
 	8<< I'm the fucking best!!! :D
 	
+	8<< syntax highlighting = traffic light red
 	8<< Label
 	#the_address_is_4lph4num3r1c
+	
+	8<< syntax highlighting = traffic light green
 	8<< goto
 	@the_address_is_4lph4num3r1c
 	
+	8<< syntax highlighting = weedy green
 	8<< logical (in)equalities are indicative by Vulcan Salutations \V/, LL&P
 	\V/,8<7\V/, 8<< TRUE
