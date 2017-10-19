@@ -1,4 +1,4 @@
-	8<< syntax highlighting = metallic græy
+	8<< syntax highlighting = steely græy
 	8< comments are cut with scissors >8
 	...trails off to a single line comment
 	8<< or double snip the single-line comments...
