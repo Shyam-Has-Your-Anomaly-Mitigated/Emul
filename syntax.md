@@ -73,3 +73,9 @@
 	8<< that is from sextu.pl; we just need to totes ignore whitespace!!! (Like it says in the sexy comments!!!)
 	8<< whitespace can be stored in a fucking stringy character!!!
 	8<< I'm the fucking best!!! :D
+	
+	8<< Label
+	#the_address_is_4lph4num3r1c
+	8<< goto
+	@the_address_is_4lph4num3r1c
+	
