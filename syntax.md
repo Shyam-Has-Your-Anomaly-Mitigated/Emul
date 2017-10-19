@@ -79,3 +79,5 @@
 	8<< goto
 	@the_address_is_4lph4num3r1c
 	
+	8<< logical (in)equalities are indicative by Vulcan Salutations \V/, LL&P
+	\V/,8<7\V/, 8<< TRUE
