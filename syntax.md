@@ -86,3 +86,55 @@
 	8<< syntax highlighting = weedy green (or fractal fern green)
 	8<< logical (in)equalities are indicative by Vulcan Salutations \V/, LL&P
 	\V/,8<7\V/, 8<< TRUE
+	8<< for those who lack the intellectual capacity for science fiction
+	¿8<7? 8<< FALSE
+	8<< these are called logic chains; all the "-thing"s will be lists!!! :D
+	
+	8<< list
+	(...)
+	8< indexing (AKA functional list, or list as a function)
+	(...)(0)
+	8<< debatable parameter list; functions only accept a single parameter, which must be a list
+	f(...)
+	f((...)(0))
+	8<<< currying/closing
+	f(...)(0)
+	
+	8<< ordered list
+	((0),(1),(2),(3))
+	8<< chaotic list (AKA commutative/declarative/dictionary/ETC)
+	(#a, #b, #c, #d) = ((1)@b, (0)@a, (2), (3))
+	
+	8<< functions
+	: f(#0, #1, #2, #3) = {: instruction: list∴ return}
+	: f((a),(b),(c),(d)) 8<< IDK why anyone would actually want to do this though...
+	∴ escape from this ℝeality
+	8<< : is premise, ∴ is conclusion; if any premise fails, err will avoid conclusion
+	
+	8<< if statements
+	: ¿...? {: instruction: list}: ¿...? {: instruction: list}
+	8<< unnested if statements
+	: ¿...? {: instruction: list}∧ ¿...? {: instruction: list}
+	8<< else if statements
+	: ¿...? {: instruction: list}∨ ¿...? {: instruction: list}
+	8<< if else statements
+	: ¿...? {: instruction: list}∨ {: instruction: list}
+	
+	8< data types >8
+	8<< single bit list
+	10100111001 == (1,0,1,0,0,1,1,1,0,0,1) 8<< bits
+	8<< double bit list
+	1211112 == (1,2,1,1,1,1,2) 8<< tits
+	110321 == (1,1,0,3,2,1) 8<< quits
+	8<< quad bit list
+	1337 == (1,3,3,7) 8<< dits
+	539 == (5,3,9) 8<< hits
+	8<< numeric lists
+	012 == (0,1,2) 8<< base 3, or higher
+	8<< fractured lists
+	3.14159 == ((3),(14159))
+	8<< Achar lists
+	"012abc^*$" == (00110000,00110001,00110010,01100001,01100010,01100011,01011110,00101010,00100100)
+	8<< Uchar lists
+	"|abs| ⌈ceiling⌉ ⌊floor⌋ [inclusive] (exclusive) [inclusive-exclusive) (exclusive-inclusive]" == (01111100,01100001,01100010,01110011,01111100,00100000,10001100001000,01100011,01100101,01101001,01101100,01101001,01101110,01100111,10001100001001,00100000,10001100001010,01100110,01101100,01101111,01101111,01110010,10001100001011,00100000,01011011,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,01011101,00100000,00101000,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101001,00100000,01011011,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101101,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101001,00100000,00101000,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101101,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,01011101)
+	8<< decided against single value lists being mandatory for fractional lists
