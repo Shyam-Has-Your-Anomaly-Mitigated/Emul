@@ -169,6 +169,8 @@
 	∨(a,f(x)) == ¿¬ a? {: f(x)}
 	8<< list of instruction lists
 	({: a(): b(): c()}, f(x)) 8<< f(x) isn't processed, it's just closed; calling list(1)() will process f(x)
+	8<< no
+	({: a(): b(): c()}, f(x)) 8<< f(x) return is list(1), but list(0)() will process the instruction list
 	
 	8<< all the maths before is wrong; these are all commutative...
 	+(+a,+b,-c,+d,-e,-f,+g) 8<< a+b-c+d-e-f+g
