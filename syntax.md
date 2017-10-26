@@ -86,6 +86,8 @@
 	8<< syntax highlighting = weedy green (or fractal fern green)
 	8<< logical (in)equalities are indicative by Vulcan Salutations \V/, LL&P
 	\V/,8<7\V/, 8<< TRUE
+	8<< only if u use logic symbols instead of veezes
+	\∨/,8<7/∧\` 8<< TRUE
 	8<< for those who lack the intellectual capacity for science fiction
 	¿8<7? 8<< FALSE
 	8<< these are called logic chains; all the "-thing"s will be lists!!! :D
