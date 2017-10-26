@@ -141,3 +141,31 @@
 	8<< Uchar lists
 	"|abs| ⌈ceiling⌉ ⌊floor⌋ [inclusive] (exclusive) [inclusive-exclusive) (exclusive-inclusive]" == (01111100,01100001,01100010,01110011,01111100,00100000,10001100001000,01100011,01100101,01101001,01101100,01101001,01101110,01100111,10001100001001,00100000,10001100001010,01100110,01101100,01101111,01101111,01110010,10001100001011,00100000,01011011,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,01011101,00100000,00101000,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101001,00100000,01011011,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101101,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101001,00100000,00101000,01100101,01111000,01100011,01101100,01110101,01110011,01101001,01110110,01100101,00101101,01101001,01101110,01100011,01101100,01110101,01110011,01101001,01110110,01100101,01011101)
 	8<< decided against single value lists being mandatory...for fractional lists
+	
+	8<< this is just sugar syntax; everything is a list
+	¿(a∧b)∨c? == ((a,b),(c))
+	¿a∧(b∨c)? == (a,((b),(c)))
+	¿a∧b∨c? == ??? 8<< I'll think about it; but there's only 2 decisions, and it could just throw bugs at the user instead... (and that is preferable)
+	8<< signed logic; constant functions means no negative assignments (-=)
+	(¬a) == ¬(a) ¬= a
+	8<< signed numbers; no such thing as subtraction ...a may be +a?
+	(-a) == -(a) ¬= a ~= (+a) == +a
+	8<< subtraction; the addition symbol is a function
+	+ a -b
+	8<< lets explore a == +a
+	a = + 3
+	a 2 == 5
+	+ a 2 == + (+ 3) 2 == + 5
+	+ 5 == 5 8<< hopefully this won't cause any problems...
+	8<< logic should be functional to avoid throwing bugs at the user
+	∨((∧(a,b)),c) == ((a,b),(c))
+	∧(a,(∨(b,c))) == (a,((b),(c))
+	8<< every "-thing" is either/both a list, and a function; a functional list!!! :D
+	
+	∧(a,b,c,d,e,f(x),g(y)) 8<< all must be true for g(y); but g(y) can be any "-thing", unless ∧() is compositionally composed... (inception functions are functions within functions, but not functions being called before they infiltrate the function)
+	∨(a,b,c,d,e,f,g) 8<< ∨() will return true upon first truthful indice of the list, or die("nah, I'm just kidding; it will be false! q:")
+	8<< functional if statements
+	∧(a,f(x)) == ¿a? {: f(x)} 8<< I'll get around to prepending uncut lines with s/^\t/\t:/g when I'm in the mood... (dev uncut version of the script is better...almost like DVD/BRD extras where they comment on the content; but not like uncut content...)
+	∨(a,f(x)) == ¿¬ a? {: f(x)}
+	8<< list of instruction lists
+	({: a(): b(): c()}, f(x)) 8<< f(x) isn't processed, it's just closed; calling list(1)() will process f(x)
