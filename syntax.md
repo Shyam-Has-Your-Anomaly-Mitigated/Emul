@@ -169,3 +169,15 @@
 	∨(a,f(x)) == ¿¬ a? {: f(x)}
 	8<< list of instruction lists
 	({: a(): b(): c()}, f(x)) 8<< f(x) isn't processed, it's just closed; calling list(1)() will process f(x)
+	
+	8<< all the maths before is wrong; these are all commutative...
+	+(+a,+b,-c,+d,-e,-f,+g) 8<< a+b-c+d-e-f+g
+	-(+a,+b,-c,+d,-e,-f,+g) 8<< -a-b+c-d+e+f-g ¬ a-b+c-d+e+f-g
+	×(a,b,-c) 8<< -abc
+	÷(a,b,-c) 8<< -1/(abc) ¬ (1/a,1/b,-1/c)
+	8<< fractions are functional lists
+	÷(x) 8<< 1/x
+	×(y,÷(x)) == ×(÷(x),y) 8<< y/x
+	8<< decimals are binary lists; I mean double lists ∵ binary is ambiguous... (bit lists are lists of bits; binary digits ...no more ambiguity!!! :)
+	(3,14159) 8<< 3.14159
+	(3,14159,0) 8<< not a decimal fraction
