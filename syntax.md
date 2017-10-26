@@ -110,7 +110,8 @@
 	8<< functions
 	: f(#0, #1, #2, #3) = {: instruction: list∴ return}
 	: f((a),(b),(c),(d)) 8<< IDK why anyone would actually want to do this though...
-	∴ escape from this ℝeality
+	∴ escape from this ℝeality 8<< return statement
+	∵ epic_fail 8<< exit status
 	8<< : is premise, ∴ is conclusion; if any premise fails, err will avoid conclusion
 	
 	8<< if statements
