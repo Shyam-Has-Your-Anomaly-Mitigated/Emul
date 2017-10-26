@@ -92,12 +92,12 @@
 	
 	8<< list
 	(...)
-	8< indexing (AKA functional list, or list as a function)
+	8<< indexing (AKA functional list, or list as a function)
 	(...)(0)
 	8<< debatable parameter list; functions only accept a single parameter, which must be a list
 	f(...)
 	f((...)(0))
-	8<<< currying/closing
+	8<< currying/closing
 	f(...)(0)
 	
 	8<< ordered list
