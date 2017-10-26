@@ -181,3 +181,7 @@
 	8<< decimals are binary lists; I mean double lists ∵ binary is ambiguous... (bit lists are lists of bits; binary digits ...no more ambiguity!!! :)
 	(3,14159) 8<< 3.14159
 	(3,14159,0) 8<< not a decimal fraction
+	
+	8<< maths needs more correcting...
+	×(-1,x) 8<< -x
+	8<< IDK, I'm thinking constant functions should be signed internally...
