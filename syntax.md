@@ -214,3 +214,21 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< maths needs more correcting...
 	×(-1,x) 8<< -x
 	8<< IDK, I'm thinking constant functions should be signed internally...
+
+Hasell has "-thing"s I hate...
+
+	-- all functions shoud take a list of functions...
+
+	head [] = []
+	head ((h:_):t) = h : head t
+	
+	tail [] = []
+	tail ((_:h):t) = h : tail t
+	
+	zip [] = []
+	zip x = if ziptest x then head x : zip (tail x) else []
+	 where
+	  ziptest [] = True
+	  ziptest (h:t) = if h == [] then False else ziptest t
+	
+	-- some "-thing" like that... (IDK if they even function?)
