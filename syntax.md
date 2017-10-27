@@ -367,6 +367,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< perl 6 junctions & other quantum tech need to be considered... (couldn't just use functional logic?)
 	8<< express by hand
 	: [string,pattern](substitution<>)
+	8<< I mean [string,pattern] would be what string(/.../) returns; but that doesn't make sense... (I just imagine pattern would be an alternate language to regular/rational expressions...)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
