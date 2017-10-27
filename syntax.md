@@ -307,6 +307,9 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		∵ fawlty  8<< functional logic won't see it anyway ∵ it throws bugs at the user
 		∴ err     8<< this throws bugs at the user; fawlty is default ∵
 	>8
+	
+	who needs more than one list type?
+		(,f)(0)(x) == {:f}(0)(x) == {:f}(x)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
