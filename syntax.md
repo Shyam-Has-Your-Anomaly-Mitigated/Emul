@@ -342,7 +342,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		: instructions()("3"())
 	8<< hmm...
 	
-	8<< indexing
+	8<< indexing; sideFX!!! DX<
 		list = (list(0))
 	8<< but...
 		: list = 3
