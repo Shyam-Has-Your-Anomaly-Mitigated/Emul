@@ -291,6 +291,8 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			-(,1,3,3,7) 8<< (,-1,-3,-3,-7) == -1-3-3-7 == -14
 			-(,1337) 8<< -(,(,1,3,3,7)) == -1337
 			8<< I am happy with this...
+		it makes sense that...
+			(,1,3,3,7) == (1337()) == 1337 ¬= (1337) == (,(,1,3,3,7))
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
