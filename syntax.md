@@ -309,7 +309,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	>8
 	
 	8<< who needs more than one list type?
-		(,f(x)) == (,f)(x) == (,f)(0)(x) == {:f}(0)(x) == {:f}(x) == {:f(x)}()
+		(,f(,x)) == (,f)(,x) == (,f)(,0)(,x) == {:f}(,0)(,x) == {:f}(,x) == {:f(,x)}()
 		8<< IDK, with the last one, I'd like to be able to store parameters without processing the function
 		8<< But I do like indexing/sublisting instruction lists
 	8<< okay; lets just use sugar
