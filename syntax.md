@@ -132,6 +132,10 @@
 	: instruction: list[∴ (output) ∨ ()][∵ exit_code ∨ success_FTW]
 	8<< output is just an ordinary pattern-matchable list
 	f(x)(0) ≠ f(x) 8<< I just remembered about ≠ !!! :D
+	8<<
+	8<< some more functions
+	=(a,b,c) 8<< a == b == c
+	≠(a,b,c) 8<< (a ¬= b ¬= c) ∧ (a ¬= c)
 	
 	8<< if statements
 	: ¿...? {: instruction: list}: ¿...? {: instruction: list}
