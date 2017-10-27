@@ -1,5 +1,9 @@
 #!/usr/bin/env sh
-version() { ret '2017-09-30'; }
+version() {
+	ret '2017-09-30';
+	# I CBF...
+	ret ' ($n days ago)';
+}
 proper() {
 	ret \\033c;
 	case "$1" in
