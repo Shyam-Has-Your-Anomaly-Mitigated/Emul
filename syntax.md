@@ -1,3 +1,8 @@
+	(curvies)  8<< empty is a circle/ball
+	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/ETC
+	[boxies]   8<< empty is a square/box
+	<pointies> 8<< empty is a rhombus/diamond
+	
 	8<< syntax highlighting = steely græy
 	8< comments are cut with scissors >8
 	...trails off to a single line comment
@@ -113,6 +118,20 @@
 	∴ escape from this ℝeality 8<< return statement
 	∵ epic_fail 8<< exit status
 	8<< : is premise, ∴ is conclusion; if any premise fails, err will avoid conclusion
+	8<<
+	8<< anatomy of a function; follows the IPOE (silent E) model [boxies are optional ∨ default_behaviour]
+	namespace(input) = {process}
+	8<< namespaces are encoding/language dependant; save for some special characters (TBD/TBA/ETC)
+	श्याम == Śyāma == Shyam == SHYAM == Shyam_Has_Your_Anomaly_Mitigated == SHYAM_Has_Your_Anomaly_Mitigated == Shyam_Has_Your_Anomaly_Mitigated_Has_Your_Anomaly_Mitigated == ETC()
+	8<< input is just an ordinary pattern-matchable list
+	(h,t)(/^(.)(.*)$/) == (h:t) @Haskell 8<< or maybe it's (h,t)(/^(\w)(\w*)$/) ...user decides; but should /./ be a bit? /0|1/
+	(x,y)(0,1) 8<< positional parameters
+	(h,t)(0) 8<< valid
+	(a,b,c)(0,1,2,3) 8<< fawlty; why would the implementation specify the 4th index without using it? ambiguity begins with c = ∨(2,(2,3)) ...perl has quantum junctions? TBD/TBA/ETC
+	8<< process
+	: instruction: list[∴ (output) ∨ ()][∵ exit_code ∨ success_FTW]
+	8<< output is just an ordinary pattern-matchable list
+	f(x)(0) ≠ f(x) 8<< I just remembered about ≠ !!! :D
 	
 	8<< if statements
 	: ¿...? {: instruction: list}: ¿...? {: instruction: list}
