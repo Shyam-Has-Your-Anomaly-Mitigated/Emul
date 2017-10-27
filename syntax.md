@@ -379,6 +379,9 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< probably not [eager] & {lazy} though; I want infinity
 	8<< but ∴ & ∵ could just be functions?
 
+	8<< I see no reason for {instruction} ∵ I'm lazy
+	: [list]<dex>(parameter)
+
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
 	-- all functions shoud take a single list as input...
