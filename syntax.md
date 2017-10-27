@@ -142,13 +142,13 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	≠(a,b,c) 8<< (a ¬= b ¬= c) ∧ (a ¬= c)
 	
 	8<< if statements
-	: ¿...? {: instruction: list}: ¿...? {: instruction: list}
+	: ¿...? {: instruction: list}(): ¿...? {: instruction: list}()
 	8<< unnested if statements
-	: ¿...? {: instruction: list}∧ ¿...? {: instruction: list}
+	: ¿...? {: instruction: list}()∧ ¿...? {: instruction: list}()
 	8<< else if statements
-	: ¿...? {: instruction: list}∨ ¿...? {: instruction: list}
+	: ¿...? {: instruction: list}()∨ ¿...? {: instruction: list}()
 	8<< if else statements
-	: ¿...? {: instruction: list}∨ {: instruction: list}
+	: ¿...? {: instruction: list}()∨ {: instruction: list}()
 	
 	8< data types >8
 	8<< single bit list
@@ -195,12 +195,14 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	∧(a,b,c,d,e,f(x),g(y)) 8<< all must be true for g(y); but g(y) can be any "-thing", unless ∧() is compositionally composed... (inception functions are functions within functions, but not functions being called before they infiltrate the function)
 	∨(a,b,c,d,e,f,g) 8<< ∨() will return true upon first truthful indice of the list, or die("nah, I'm just kidding; it will be false! q:")
 	8<< functional if statements
-	∧(a,f(x)) == ¿a? {: f(x)} 8<< I'll get around to prepending uncut lines with s/^\t/\t:/g when I'm in the mood... (dev uncut version of the script is better...almost like DVD/BRD extras where they comment on the content; but not like uncut content...)
-	∨(a,f(x)) == ¿¬ a? {: f(x)}
+	∧(a,f(x)) == ¿a? {: f(x)}() 8<< I'll get around to prepending uncut lines with s/^\t/\t:/g when I'm in the mood... (dev uncut version of the script is better...almost like DVD/BRD extras where they comment on the content; but not like uncut content...)
+	∨(a,f(x)) == ¿¬ a? {: f(x)}()
 	8<< list of instruction lists
 	({: a(): b(): c()}, f(x)) 8<< f(x) isn't processed, it's just closed; calling list(1)() will process f(x)
 	8<< no
 	({: a(): b(): c()}, f(x)) 8<< f(x) return is list(1), but list(0)() will process the instruction list
+	8<< this is the opposite
+	({: a(): b(): c()}(), f)
 	
 	8<< all the maths before is wrong; these are all commutative...
 	+(+a,+b,-c,+d,-e,-f,+g) 8<< a+b-c+d-e-f+g
