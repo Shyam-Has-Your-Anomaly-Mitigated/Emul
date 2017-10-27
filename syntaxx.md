@@ -20,8 +20,8 @@
 		: ∧(a,b,c,d,e,f(x),g(y)) 8<< all must be true for g(y); but g(y) can be any "-thing", unless ∧() is compositionally composed...
 		: ∨(a,b,c,d,e,f,g) 8<< ∨() will return true upon first truthful indice of the list, or false; could return [true/false, [indices<>]] but commutativity is not a good idea here
 		8<< functional if statements
-		: ∧(a,f(x)) 8<< ¿a? {: f(x)}()
-		: ∨(a,f(x)) 8<< ¿¬a? {: f(x)}()
+		: ∧(a,#f(x)) 8<< ¿a? {: @f(x)}()
+		: ∨(a,#f(x)) 8<< ¿¬a? {: @f(x)}()
 
 		: <(,a,b,c,d,e,f,g) 8<< returns (, lowest_value, (lowest_indices))
 		: >(,a,b,c,d,e,f,g) 8<< returns (, highest_value, (highest_indices))
