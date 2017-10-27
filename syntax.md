@@ -281,11 +281,16 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		every "-thing" returns a list; no need to check that type...but list internals can be typed
 		initiators will be seperators; but we just won't tell anyone in the official docommentation
 			sh(,yam)
+			8<< a list/function as output will have the leading initiator/separator
 		who needs operators??? unmanned is optimal!!! :D
 		official docommentation will only mention snake_case, and only have examples with snake_case
 			unicameral alphabets are the best; I have a CAPITAL habit...
 		this is useful to avoid passing in a list of lists
 			f(,list())
+		negating/signing works like so...
+			-(,1,3,3,7) 8<< (,-1,-3,-3,-7) == -1-3-3-7 == -14
+			-(,1337) 8<< -(,(,1,3,3,7)) == -1337
+			8<< I am happy with this...
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
