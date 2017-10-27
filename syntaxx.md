@@ -1,4 +1,5 @@
 	8<< s/,/:/ in lists
+	8<< s/()/<>/ for dexes
 	[
 		8< multi comments >8
 		8<< single comments; for docommentation
