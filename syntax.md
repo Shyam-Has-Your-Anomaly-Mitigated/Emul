@@ -1,3 +1,7 @@
+I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + script)
+<br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [latinised](https://en.wiktionary.org/wiki/scriptum))
+<br>...only because it's turning out better than I expected; I was saving that for my last language, but my first may as well be my last...
+
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/ETC
 	[boxies]   8<< empty is a square/box
