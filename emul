@@ -3,7 +3,7 @@ version() { ret '2017-09-30'; }
 proper() {
 	ret \\033c;
 	case "$1" in
-		-h|--help) rtfm $(width) "$(guide)" "$(logic)" $(length $(width) "$(guide)") $(length $(width) "$(logic)");;
+		-h|--hlp|--help) rtfm $(width) "$(guide)" "$(logic)" $(length $(width) "$(guide)") $(length $(width) "$(logic)");;
 		-o|--neO) [ -z "$2" ] && mis || tdo;;
 		-r|--rpl) [ -z "$2" ] && mis || tdo;;
 		-i|--int) [ -z "$2" ] && mis || tdo;;
