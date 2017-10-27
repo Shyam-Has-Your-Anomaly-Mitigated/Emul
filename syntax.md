@@ -312,6 +312,14 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		(,f(x)) == (,f)(x) == (,f)(0)(x) == {:f}(0)(x) == {:f}(x) == {:f(x)}()
 		8<< IDK, with the last one, I'd like to be able to store parameters without processing the function
 		8<< But I do like indexing/sublisting instruction lists
+	8<< okay; lets just use sugar
+		{:f(,x):g(,y)} == (.(,f,(,x)),(,g,(,y)))
+		8<< EG
+		: instructions = ((f,(x)),(g,(x)))
+		: instructions(0)(0)(instructions(0)(1)())
+		: instructions(1)(0)(instructions(1)(1)())
+		8<< OR
+		: follow(instructions())
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
