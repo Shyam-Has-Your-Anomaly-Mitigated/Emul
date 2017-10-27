@@ -110,6 +110,10 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	f((...)(0))
 	8<< currying/closing
 	f(...)(0)
+	8<< list of instructions
+	{...}
+	8<< process {: instruction: list}(, parameter, list) ...REMEBER: list starts with comma; to simplify minimisation/reformatting (just think of it as an instruction initiator; where "-thing"s are initiated into the list)
+	{...}(0)
 	
 	8<< ordered list
 	((0),(1),(2),(3))
