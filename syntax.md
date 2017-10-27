@@ -281,7 +281,9 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			sh(,yam)
 		who needs operators??? unmanned is optimal!!! :D
 		official docommentation will only mention snake_case, and only have examples with snake_case
-			unicameral is the best; I have a CAPITAL habit...
+			unicameral alphabets are the best; I have a CAPITAL habit...
+		this is useful to avoid passing in a list of lists
+			f(,list())
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
