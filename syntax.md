@@ -232,8 +232,41 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	: list = (,a,b,c,d,e,f,g)
 	: <(list())
 	: >(list())
+	
+	8<< lets get one "-thing" understood
+	(,(,a,b,c,d,e,f,g)(0)) ¬= (,(,a,b,c,d,e,f,g)()) == (,a,b,c,d,e,f,g) ¬= (,(,a,b,c,d,e,f,g))
+	8<< alternatively
+	: list = (,a,b,c,d,e,f,g)
+	: (,list(0)) ¬= (,list()) == list ¬= (,list)
+	8<<
+	8<< inequality
+	¬(,=(,x,y))
+	8<< EG
+	∧(,¬(,=(,x,y)),{...}(...))
+	8<<
+	8< more understandments:
+		lists & functions are important
+			scalars are redundant; just measure the length of a list
+			functional logic FTW!!! :D
+		this file needs to be DRY cleaned up c̄ improved organisation; fuck that, it's declarative!!! :D
+			#!decruftification
+		every script should compress to a one-liner
+			initiation makes it easier to /^.*$/ on the fly while hacking
+		explicit is better than implicit; I like to know what to expect without any surprises
+			numbers should probably be quoted; perhaps even double quoted, just to be sure
+		type signatures can probably be a functional list of events
+			(,(parameters()),(return())) 8<< unless...
+			(signature())(-1) 8<< return
+		lists should be...
+			list(,x,y) 8<< sublist between x & y indices (inclusive)
+		assignment can probably be a functional list
+			assign(, return(, name("a"), "list"), 3) 8<< name() throws bugs at the user for fawlty parameters
+			a = (...) 8<< isn't ambiguous; it's not a,=(...)
+			8<< maybe namespace can be an object that stores types / assignment; return(, #a, "list")
+		every "-thing" returns a list; no need to check that type...but list internals can be typed
+	>8
 
-Hasell has "-thing"s I hate...
+Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
 	-- all functions shoud take a single list as input...
 
