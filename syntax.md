@@ -308,7 +308,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		∴ err     8<< this throws bugs at the user; fawlty is default ∵
 	>8
 	
-	who needs more than one list type?
+	8<< who needs more than one list type?
 		(,f)(0)(x) == {:f}(0)(x) == {:f}(x) == {:f(x)}()
 		8<< IDK, with the last one, I'd like to be able to store parameters without processing the function
 
