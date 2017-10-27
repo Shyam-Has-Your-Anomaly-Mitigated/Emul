@@ -359,6 +359,12 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	
 	8<< lazy evaluation could put instructions as data
 		{} == []
+		
+	8<< regular/rational expressions
+	: string = [...]
+	: string(/.../) 8<< matching
+	: string(/.../.../) 8<< substitution
+	8<< perl 6 junctions & other quantum tech need to be considered... (couldn't just use functional logic?)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
