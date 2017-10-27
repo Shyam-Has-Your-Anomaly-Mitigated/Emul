@@ -377,6 +377,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 
 	8<< we're keeping {instruction} for ∴ & ∵
 	8<< probably not [eager] & {lazy} though; I want infinity
+	8<< but ∴ & ∵ could just be functions?
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
