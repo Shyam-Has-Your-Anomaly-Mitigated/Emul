@@ -7,6 +7,10 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	[boxies]   8<< empty is a square/box
 	<pointies> 8<< empty is a rhombus/diamond
 	
+	dex is (); which is all the "-thing"s
+	index is positive; from the first/start/front
+	outdex is negative; from the last/end/back
+	
 	8<< syntax highlighting = steely græy
 	8< comments are cut with scissors >8
 	...trails off to a single line comment
