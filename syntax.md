@@ -348,6 +348,10 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< IDK aobut that...
 	8<< maybe [indexing] & (processing)
 	8<< data could be <pointy>
+	
+	8<< data is in a box, dex points to "-thing"s inside the box
+	: [data]<dex>(parameter)
+	: {instruction}<dex>(parameter)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
