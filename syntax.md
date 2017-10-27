@@ -297,6 +297,9 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			+3 == (+1,+1,+1)
 			-3 == (-1,-1,-1)
 			8<< it should be in this file, or in slack; as pattern matching (h+t)
+			3.14159 == (,(,+1,+1,+1),(,make_all_one(,range(,1,14159))))
+			8<< or...
+			3.14159 == (,+1,+1,+1,make_all_one(,range(,1,14159))())
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
