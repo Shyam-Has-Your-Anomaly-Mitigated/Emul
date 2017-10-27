@@ -321,6 +321,23 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		8<< OR
 		: follow(instructions())
 
+	8<< numbers are a list of signed ones[ and fraction as a number list]
+	8<< namespace is just a list of characters; so maybe quotes is optional?
+		: "snake free" = {:f(,x)}
+		: "snake free"(3)
+	
+		: instructions = {...}
+		: data = (...)
+	8<< process instruction list
+		: instructions()()
+	8<< process sublist of instruction list
+		: (instructions(0,1,2))()
+	8<<
+		: instructions()(data())
+		: instructions()(3())
+		: instructions()("3"())
+	8<< hmm...
+
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
 	-- all functions shoud take a single list as input...
