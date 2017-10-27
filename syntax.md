@@ -375,6 +375,9 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	: ~(string,/.../) 8<< returns the match, which can be empty; status code is either success/true or fail/false
 	: ~(string,s/.../.../) 8<< returns the substitution; status code is either success/true or fail/false
 
+	8<< we're keeping {instruction} for ∴ & ∵
+	8<< probably not [eager] & {lazy} though; I want infinity
+
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
 	-- all functions shoud take a single list as input...
