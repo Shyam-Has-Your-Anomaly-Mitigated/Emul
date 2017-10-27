@@ -347,6 +347,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		: list(0)(0)(0) == 3
 	8<< IDK aobut that...
 	8<< maybe [indexing] & (processing)
+	8<< data could be <pointy>
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
