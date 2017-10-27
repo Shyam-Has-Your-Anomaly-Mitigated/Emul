@@ -368,6 +368,12 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< express by hand
 	: [string,pattern](substitution<>)
 	8<< I mean [string,pattern] would be what string(/.../) returns; but that doesn't make sense... (I just imagine pattern would be an alternate language to regular/rational expressions...)
+	
+	8<< functional strings
+	: "function namespace"(...)
+	: [string<>]
+	: ~(string,/.../) 8<< returns the match, which can be empty; status code is either success/true or fail/false
+	: ~(string,s/.../.../) 8<< returns the substitution; status code is either success/true or fail/false
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
