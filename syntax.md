@@ -231,6 +231,7 @@ Hasell has "-thing"s I hate...
 	
 	-- input: list of lists
 	-- output: zips all of the input lists; no need for zip0(), zip1(), zip2(), zip3(), .., zipN()
+	-- this is how I bypass Haskell not supporting overriding/overloading/whatever...
 	zip [] = []
 	zip x = if ziptest x then head x : zip (tail x) else []
 	 where
