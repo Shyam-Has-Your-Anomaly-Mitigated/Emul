@@ -331,12 +331,22 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< process instruction list
 		: instructions()()
 	8<< process sublist of instruction list
-		: (instructions(0,1,2))()()
+		: instructions(0,1,2)()
 	8<<
 		: instructions()(data())
 		: instructions()(3())
 		: instructions()("3"())
 	8<< hmm...
+	
+	8<< indexing
+		list = (list(0))
+	8<< but...
+		: list = 3
+		: list(0) == 3
+		: list(0)(0) == 3
+		: list(0)(0)(0) == 3
+	8<< IDK aobut that...
+	8<< maybe [indexing] & (processing)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
