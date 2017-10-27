@@ -1,6 +1,6 @@
 	8<< s/,/:/ in lists
 	8<< s/()/<>/ for dexes
-	[
+	∴ [
 		8< multi comments >8
 		8<< single comments; for docommentation
 		; single comments means s/:/;/ & s/;/:/; for text editing
@@ -68,3 +68,4 @@
 		∴ escape
 		∵ ftw
 	]<>(input)
+	∵ 8<< nothing inherits; ftw in this case
