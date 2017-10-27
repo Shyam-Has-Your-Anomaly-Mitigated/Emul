@@ -331,7 +331,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	8<< process instruction list
 		: instructions()()
 	8<< process sublist of instruction list
-		: (instructions(0,1,2))()
+		: (instructions(0,1,2))()()
 	8<<
 		: instructions()(data())
 		: instructions()(3())
