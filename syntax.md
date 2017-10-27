@@ -228,6 +228,10 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	
 	<(,a,b,c,d,e,f,g) 8<< returns (, lowest_value, (lowest_indices))
 	>(,a,b,c,d,e,f,g) 8<< returns (, highest_value, (highest_indices))
+	8<< alternatively
+	: list = (,a,b,c,d,e,f,g)
+	: <(list())
+	: >(list())
 
 Hasell has "-thing"s I hate...
 
