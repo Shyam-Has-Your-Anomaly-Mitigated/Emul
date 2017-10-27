@@ -219,12 +219,18 @@ Hasell has "-thing"s I hate...
 
 	-- all functions shoud take a single list as input...
 
+	-- input: list of lists
+	-- output: list of all the heads of the input lists
 	head [] = []
 	head ((h:_):t) = h : head t
 	
+	-- input: list of lists
+	-- output: list of all the tails of the input lists
 	tail [] = []
 	tail ((_:h):t) = h : tail t
 	
+	-- input: list of lists
+	-- output: zips all of the input lists; no need for zip0(), zip1(), zip2(), zip3(), .., zipN()
 	zip [] = []
 	zip x = if ziptest x then head x : zip (tail x) else []
 	 where
