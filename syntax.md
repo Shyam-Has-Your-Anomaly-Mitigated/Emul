@@ -263,16 +263,18 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			list(,a,b,c,d,e,f,g) 8<< sublist of indices a/b/c/d/e/f/g
 			8<< need a range operator to generate a parameter list for such sublisting...
 			8<< I know; just use a function!!! :D
-			list(,range(0,a),range(,b,c),d,range(e,f),range(g,-1))
+			list(,range(,0,a),range(,b,c),d,range(,e,f),range(,g,-1))
 			8<< positively increasing infinite lists
-			range(x,-1)
+			range(,x,-(,1))
 			8<< negatively increasing infinite lists
-			egnar(x,+1)
+			egnar(,x,+(,1))
 		assignment can probably be a functional list
 			assign(, return(, name("a"), "list"), 3) 8<< name() throws bugs at the user for fawlty parameters
 			a = (...) 8<< isn't ambiguous; it's not a,=(...)
 			8<< maybe namespace can be an object that stores types / assignment; return(, #a, "list")
 		every "-thing" returns a list; no need to check that type...but list internals can be typed
+		initiators will be seperators; but we just won't tell anyone in the official docommentation
+			sh(,yam)
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
