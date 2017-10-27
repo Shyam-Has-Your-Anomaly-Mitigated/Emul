@@ -226,8 +226,8 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	×(-1,x) 8<< -x
 	8<< IDK, I'm thinking constant functions should be signed internally...
 	
-	<(,a,b,c,d,e,f,g) 8<< returns (, lowest_index, lowest_value)
-	>(,a,b,c,d,e,f,g) 8<< returns (, highest_index, highest_value)
+	<(,a,b,c,d,e,f,g) 8<< returns (, lowest_value, (lowest_indices))
+	>(,a,b,c,d,e,f,g) 8<< returns (, highest_value, (highest_indices))
 
 Hasell has "-thing"s I hate...
 
