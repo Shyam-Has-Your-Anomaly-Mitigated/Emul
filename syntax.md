@@ -120,7 +120,7 @@
 	8<< : is premise, ∴ is conclusion; if any premise fails, err will avoid conclusion
 	8<<
 	8<< anatomy of a function; follows the IPOE (silent E) model [boxies are optional ∨ default_behaviour]
-	namespace(input) = {process}
+	namespace(input)[(pattern) ∨ (positional)] = {process}
 	8<< namespaces are encoding/language dependant; save for some special characters (TBD/TBA/ETC)
 	श्याम == Śyāma == Shyam == SHYAM == Shyam_Has_Your_Anomaly_Mitigated == SHYAM_Has_Your_Anomaly_Mitigated == Shyam_Has_Your_Anomaly_Mitigated_Has_Your_Anomaly_Mitigated == ETC()
 	8<< input is just an ordinary pattern-matchable list
