@@ -279,6 +279,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 		every "-thing" returns a list; no need to check that type...but list internals can be typed
 		initiators will be seperators; but we just won't tell anyone in the official docommentation
 			sh(,yam)
+		who needs operators??? unmanned is optimal!!! :D
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
