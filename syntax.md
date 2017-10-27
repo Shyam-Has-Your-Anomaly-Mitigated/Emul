@@ -262,6 +262,12 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			8<< no
 			list(,a,b,c,d,e,f,g) 8<< sublist of indices a/b/c/d/e/f/g
 			8<< need a range operator to generate a parameter list for such sublisting...
+			8<< I know; just use a function!!! :D
+			list(,range(0,a),range(,b,c),d,range(e,f),range(g,-1))
+			8<< positively increasing infinite lists
+			range(x,-1)
+			8<< negatively increasing infinite lists
+			egnar(x,+1)
 		assignment can probably be a functional list
 			assign(, return(, name("a"), "list"), 3) 8<< name() throws bugs at the user for fawlty parameters
 			a = (...) 8<< isn't ambiguous; it's not a,=(...)
