@@ -302,6 +302,10 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 			3.14159 == (,+1,+1,+1,(,make_all_one(,range(,1,14159))()))
 			3.14159 == (,+1,+1,+1,make_all_one(,range(,1,14159)))
 			8<< just check number(-1) is a list to know if it's a fraction
+		∵ success 8<< true; this is all functional logic requires (so don't use ∵ for functional communication! I probably will anyway ∵ I do it with UNIX/POSIX shell scripts)
+		∵ fail    8<< false
+		∵ fawlty  8<< functional logic won't see it anyway ∵ it throws bugs at the user
+		∴ err     8<< this throws bugs at the user; fawlty is default ∵
 	>8
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
