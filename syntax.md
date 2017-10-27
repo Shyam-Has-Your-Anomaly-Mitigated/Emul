@@ -365,6 +365,8 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	: string(/.../) 8<< matching
 	: string(/.../.../) 8<< substitution
 	8<< perl 6 junctions & other quantum tech need to be considered... (couldn't just use functional logic?)
+	8<< express by hand
+	: [string,pattern](substitution<>)
 
 Hasell has "-thing"s I hate... (besides it being the Python of FP; not a complement!)
 
