@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 version() {
 	# this is assuming Earth days...
-	ret 'HE 12017-09-30';
+	ret 'HE 12017-10-27';
 	# I CBF...
 	ret ' ($n days ago)';
 }
