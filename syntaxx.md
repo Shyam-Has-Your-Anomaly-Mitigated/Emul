@@ -23,7 +23,7 @@
 		: ∧(a,#f(x)) 8<< ¿a? {: @f(x)}()
 		: ∨(a,#f(x)) 8<< ¿¬a? {: @f(x)}()
 		8<< #f(input) is a list [f, input)
-		8<< ∧(x,y) & ∨(x,y) both call @y<>
+		8<< ∧(x,y) & ∨(x,y) both call @y<>; hmm...
 
 		: <(,a,b,c,d,e,f,g) 8<< returns (, lowest_value, (lowest_indices))
 		: >(,a,b,c,d,e,f,g) 8<< returns (, highest_value, (highest_indices))
