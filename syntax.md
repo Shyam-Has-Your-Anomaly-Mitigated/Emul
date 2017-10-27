@@ -243,6 +243,8 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	¬(,=(,x,y))
 	8<< EG
 	∧(,¬(,=(,x,y)),{...}(...))
+	8<< FFS; it's just...
+	≠(,x,y)
 	8<<
 	8< more understandments:
 		lists & functions are important
