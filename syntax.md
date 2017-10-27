@@ -123,7 +123,7 @@
 	namespace(input)[(pattern) ∨ (positional)] = {process}
 	8<< namespaces are encoding/language dependant; save for some special characters (TBD/TBA/ETC)
 	श्याम == Śyāma == Shyam == SHYAM == Shyam_Has_Your_Anomaly_Mitigated == SHYAM_Has_Your_Anomaly_Mitigated == Shyam_Has_Your_Anomaly_Mitigated_Has_Your_Anomaly_Mitigated == ETC()
-	8<< input is just an ordinary pattern-matchable list
+	8<< (input)(pattern) is just an ordinary pattern-matchable list
 	(h,t)(/^(.)(.*)$/) == (h:t) @Haskell 8<< or maybe it's (h,t)(/^(\w)(\w*)$/) ...user decides; but should /./ be a bit? /0|1/
 	(x,y)(0,1) 8<< positional parameters
 	(h,t)(0) 8<< valid
