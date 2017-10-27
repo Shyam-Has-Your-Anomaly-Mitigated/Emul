@@ -5,6 +5,7 @@
 		8<< single comments; for docommentation
 		; single comments means s/:/;/ & s/;/:/; for text editing
 
+		8<< [box]<pointer>(parameter)
 		: [list]<dex>(input)
 		8<< dexing makes any type of list into an uncontained/universal list
 		: f<>(...) 8<< will scope the function locally
