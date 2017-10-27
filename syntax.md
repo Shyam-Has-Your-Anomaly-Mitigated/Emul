@@ -1,4 +1,4 @@
-I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + script)
+I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code))
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [latinised](https://en.wiktionary.org/wiki/scriptum))
 <br>...only because it's turning out better than I expected; I was saving that for my last language, but my first may as well be my last...
 
