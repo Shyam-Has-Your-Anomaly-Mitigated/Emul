@@ -189,6 +189,7 @@ I'm leaning towards renaming this "Shyamscript" (as in Shyam + Sanskrit + [scrip
 	∧(a,(∨(b,c))) == (a,((b),(c))
 	8<< every "-thing" is either/both a list, and a function; a functional list!!! :D
 	
+	¬(a,b,c,d,e,f,g) 8<< ¬a,¬b,¬c,¬d,¬e,¬f,¬g
 	∧(a,b,c,d,e,f(x),g(y)) 8<< all must be true for g(y); but g(y) can be any "-thing", unless ∧() is compositionally composed... (inception functions are functions within functions, but not functions being called before they infiltrate the function)
 	∨(a,b,c,d,e,f,g) 8<< ∨() will return true upon first truthful indice of the list, or die("nah, I'm just kidding; it will be false! q:")
 	8<< functional if statements
