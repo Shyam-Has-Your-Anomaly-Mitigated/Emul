@@ -139,5 +139,5 @@
 		8<< you can always sublist ∴ & ∵ out of the list
 		:a=[:f(:x):g(:y)∴escape∵ftw]
 		:b=[:a<:0:1>]
-		8<< and these: @goto & #address
+		8<< and these: @goto/dereference/indirection & #address/pointer/label
 	>8
