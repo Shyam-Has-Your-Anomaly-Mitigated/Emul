@@ -72,3 +72,12 @@
 		∵ ftw
 	]<>(input)
 	∵ 8<< nothing inherits; ftw in this case
+	
+	8<
+		functions may just return lists; where empty is false
+		and use commas instead; or even spaces...
+		[g f(x y)]<>([g f 3 3 3]<>)
+		I'm too lazy...but that *dexing hurts my brain; but I'll adapt
+		[f(x)]<>(3)
+		[f(x)](f 3)
+	>8
