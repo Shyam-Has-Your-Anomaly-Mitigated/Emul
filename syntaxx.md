@@ -32,7 +32,7 @@
 		: <(list())
 		: >(list())
 
-		: list = (,a,b,c,d,e,f,g)
+		: list = [a b c d e f g]
 		: <<(list<>) 8<< a<b<c<d<e<f<g
 		: >>(list<>) 8<< a>b>c>d>e>f>g
 		: <=(list<>) 8<< a<=b<=c<=d<=e<=f<=g
