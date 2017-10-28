@@ -140,4 +140,10 @@
 		:a=[:f(:x):g(:y)∴escape∵ftw]
 		:b=[:a<:0:1>]
 		8<< and these: @goto/dereference/indirection & #address/pointer/label
+		
+		process=[:premise(:1):premise(:2):premise(:3)∴return∵fawlty]
+		8<< dex=<{x|x∈ℤ,<=(:0:x:2)<>}>8<< ambiguity is cutting through!!!
+		dex=[{x|x∈ℤ,<=(:0:x:2)<>}]8<< the dex could also be <:0>
+		input=[]
+		[process<>]<dex<>>(input<>)8<<[output<>]
 	>8
