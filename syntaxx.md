@@ -89,7 +89,7 @@
 	>8
 	8<
 		single-width namespaces must be commutative
-		∧() returns list of all true indices; allowing the user to find how far it got in the logic chain, which could be useful...
+		∧() returns list of all true indices; allowing the user to find how far it got in the logic chain, which could be useful...that's not commutative, but I'm willing to make the exception here
 		∧∧() behaves as the uncut ∧()
 		∨() returns list of all true indices
 		∨∨() behaves as the uncut ∨()
