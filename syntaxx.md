@@ -116,7 +116,7 @@
 		
 		[a(), b(), c()]()
 		I'm in favor of keeping the format, and delimiters
-		[process]<dex>(input)
+		[process]<dex>(input) 8<< [output]
 		for
 		[[a(), b(), c(), d(), e(), f(), g()]<0,1,2>]()
 		I mean
