@@ -32,6 +32,12 @@
 		: <(list())
 		: >(list())
 
+		: list = (,a,b,c,d,e,f,g)
+		: <<(list<>) 8<< a<b<c<d<e<f<g
+		: >>(list<>) 8<< a>b>c>d>e>f>g
+		: <=(list<>) 8<< a<=b<=c<=d<=e<=f<=g
+		: >=(list<>) 8<< a>=b>=c>=d>=e>=f>=g
+
 		: +(+a,+b,-c,+d,-e,-f,+g) 8<< a+b-c+d-e-f+g
 		: -(+a,+b,-c,+d,-e,-f,+g) 8<< -a-b+c-d+e+f-g ¬ a-b+c-d+e+f-g
 		: ×(a,b,-c) 8<< -abc
