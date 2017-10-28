@@ -143,7 +143,10 @@
 		
 		process=[:premise(:1):premise(:2):premise(:3)∴return∵fawlty]
 		8<< dex=<{x|x∈ℤ,<=(:0:x:2)<>}>8<< ambiguity is cutting through!!!
+		8<< [process<>]dex(input<>)8<<[output<>]
 		dex=[{x|x∈ℤ,<=(:0:x:2)<>}]8<< the dex could also be <:0>
+		8<< input=()
+		8<< [process<>]<dex<>>input8<<[output<>]
 		input=[]
 		[process<>]<dex<>>(input<>)8<<[output<>]
 		
@@ -152,4 +155,12 @@
 		list<>8<< ..!.. -_- ..!..
 		8<< just provide input
 		list<>()8<< *\ ^_^ /*
+		
+		input=()
+		8<< if bugs are thrown at the user
+		list<>input8<<...
+		8<< just space out
+		list<>input 8<<...
+		8<< or even
+		list <> input 8<< ...
 	>8
