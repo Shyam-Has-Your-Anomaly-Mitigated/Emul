@@ -103,3 +103,11 @@
 		I guess curvies can be precedence
 		(<> f) []
 	>8
+	8<
+		8<< [a b c] [ ]
+		(<> [a b c d e f g] [0 1 2]) []
+		8<< it doesn't work
+		[a b c] 8<< a list of data
+		[a [] b [] c []] 8<< a list of instructions
+		8<< need separators?..
+	>8
