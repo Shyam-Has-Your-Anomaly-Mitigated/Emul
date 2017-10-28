@@ -132,3 +132,9 @@
 		IDK if bin/hex/ETC needs to be compiled, but there can also be an assemble() function...
 		
 	>8
+	8<
+		8<< I'm also sold on this syntax
+		:a = [:f(x):g(y)]
+		:[:a<>∴escape∵ftw]<>()
+		8<< and these: @goto & #address
+	>8
