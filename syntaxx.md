@@ -135,7 +135,7 @@
 	8<
 		8<< I'm also sold on this syntax
 		:a=[:f(:x):g(:y)]
-		:[:a<>∴escape∵ftw]<>
+		:[:a<>∴escape∵ftw]<> 8<< unscoping/localisation
 		8<< you can always sublist ∴ & ∵ out of the list
 		:a=[:f(:x):g(:y)∴escape∵ftw]
 		:b=[:a<:0:1>]
