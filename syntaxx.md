@@ -7,7 +7,7 @@
 
 		8<< [box]<pointer>(parameter)
 		: [list]<dex>(input)
-		8<< dexing makes any type of list into an uncontained/universal list
+		8<< dexing makes any type of list into an uncontained/universal/raw list
 		: f<>(...) 8<< will scope the function locally
 		: f<> 8<< will process if no parameters are required, or throw bugs at the user
 		: f() 8<< will scope the function remotely
