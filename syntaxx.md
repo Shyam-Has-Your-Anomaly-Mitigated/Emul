@@ -129,5 +129,6 @@
 		for string-based meta programming; that wouldn't work for compilers, unless...
 		, f = compile("[a(), b(), c()]()"<>)
 		, f
+		IDK if bin/hex/ETC needs to be compiled, but there can also be an assemble() function...
 		
 	>8
