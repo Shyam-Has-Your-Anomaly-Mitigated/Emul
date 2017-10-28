@@ -87,3 +87,10 @@
 		[f(x)]<>(3)
 		[f(x)](f 3)
 	>8
+	8<
+		single-width namespaces must be commutative
+		∧() returns list of all true indices; allowing the user to find how far it got in the logic chain, which could be useful...
+		∧∧() behaves as the uncut ∧()
+		∨() returns list of all true indices
+		∨∨() behaves as the uncut ∨()
+	>8
