@@ -146,4 +146,10 @@
 		dex=[{x|x∈ℤ,<=(:0:x:2)<>}]8<< the dex could also be <:0>
 		input=[]
 		[process<>]<dex<>>(input<>)8<<[output<>]
+		
+		list<>
+		8<< if bugs are thrown at the user
+		list<>8<< ..!.. -_- ..!..
+		8<< just provide input
+		list<>()8<< *\ ^_^ /*
 	>8
