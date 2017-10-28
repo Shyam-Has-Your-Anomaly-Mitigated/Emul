@@ -94,3 +94,12 @@
 		∨() returns list of all true indices
 		∨∨() behaves as the uncut ∨()
 	>8
+	8<
+		perhaps *dexing could be a function
+		<>([...],[<>(dex ())])
+		perhaps input could be boxed in
+		[<> [f]] []
+		<> f [] 8<< <> (f []) ...not what I want; scoping
+		I guess curvies can be precedence
+		(<> f) []
+	>8
