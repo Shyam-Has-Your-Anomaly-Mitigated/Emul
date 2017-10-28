@@ -110,4 +110,7 @@
 		[a b c] 8<< a list of data
 		[a [] b [] c []] 8<< a list of instructions
 		8<< need separators?..
+		8<<
+		8<< I'm thinking about it all incorrectly
+		[(a []) (b []) (c [])] []
 	>8
