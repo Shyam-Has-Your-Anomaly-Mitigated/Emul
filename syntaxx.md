@@ -113,4 +113,21 @@
 		8<<
 		8<< I'm thinking about it all incorrectly
 		[(a []) (b []) (c [])] []
+		
+		[a(), b(), c()]()
+		I'm in favor of keeping the format, and delimiters
+		[process]<dex>(input)
+		for
+		[[a(), b(), c(), d(), e(), f(), g()]<0,1,2>]()
+		I mean
+		[f(x)](input<>)
+		can't do that with a function, if all function *puts are lists
+		
+		also shell-style...
+		, f = "[a(), b(), c()]()"
+		, f
+		for string-based meta programming; that wouldn't work for compilers, unless...
+		, f = compile("[a(), b(), c()]()"<>)
+		, f
+		
 	>8
