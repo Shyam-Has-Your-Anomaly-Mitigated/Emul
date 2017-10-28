@@ -134,10 +134,10 @@
 	>8
 	8<
 		8<< I'm also sold on this syntax
-		:a=[:f(x):g(y)]
+		:a=[:f(:x):g(:y)]
 		:[:a<>∴escape∵ftw]<>
 		8<< you can always sublist ∴ & ∵ out of the list
-		:a=[:f(x):g(y)∴escape∵ftw]
-		:b=[a<0,1>]
+		:a=[:f(:x):g(:y)∴escape∵ftw]
+		:b=[:a<:0:1>]
 		8<< and these: @goto & #address
 	>8
