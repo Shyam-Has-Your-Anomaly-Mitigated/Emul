@@ -208,4 +208,32 @@
 		8<<
 		: f x = [∴ =(x, y, z)] 8<< =( type(x): type(()) )
 		∴ f(x<>)(y: z)
+		
+		8<< these are the same thing
+		∴ f
+		∴ [f<>]
+
+		∴ g(f(process dex input <>)<>)
+		8<< so can do stuff like this
+		: f = (process dex input)
+		: h = g f
+		8<< hmm, so you can't do [∴ g f x] ?
+		: x = (3)
+		: f = (a)() 8<< f(1:2:3), =(a:1)
+		: g = [∴ a()<>]() 8<< g()(a)
+		∴ g f x 8<< [∴ a()]() (b<>)() (c)
+		8<<         [∴ b()]() (c)
+		8<<         [∴ [e]]
+		
+		8<< IDK...
+		: f (x) = [x]
+		∴ f (3) 8<< x == 3
+		8<<
+		: f = [x]
+		∴ f (3) 8<< x == 3
+		8<<
+		: f (x) = [x:y]
+		∴ f (3) (2, 1) 8<< (x == 3) && (y == 2)
+		8<< pattern matching comes from the first input, and the second input satisfies dependent overflows; which is relativistically positional
+		∴ f (input<>) (overflow<>)
 	>8
