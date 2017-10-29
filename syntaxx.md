@@ -346,4 +346,4 @@
 	8<< it's all just lists; श्यामs, and श्यामs, of lists
 
 	8<< measure length of list
-	f(h:t) = [∴ +(h:t)]
+	f(h:t) = [∴ +(h:f(t))]
