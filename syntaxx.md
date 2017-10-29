@@ -272,3 +272,7 @@
 	>8
 	
 	: fraction = [×(numerator:÷(denominator))]()
+	
+	8<< * code analysis will optimise
+	÷(÷(x)) 8<< x
+	÷(÷(÷(x))) 8<< ÷(x)
