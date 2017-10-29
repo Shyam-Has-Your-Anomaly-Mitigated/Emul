@@ -1,3 +1,4 @@
+# Scrabble
 Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code))
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [Latinised](https://en.wiktionary.org/wiki/scriptum))
 <br>Yeah, I know I'll probably radicalise it (probably moreso than Perl/Python/ETC); but only at the beginning of a solar/lunar orbit, or my birthday...
