@@ -195,7 +195,7 @@
 		∴ f("nopping"<>)(3)
 		8<< probably need to add "patterns as an ordered list" to the "namespace as an object...or a list of lists"; pattern matching is just simplified/ergonomic if statements...
 
-		primitives = [-(1): 0: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]]
+		primitives = [-(1): 0: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
 		primitives<3> 8<< language/encoding dependent
 		
 		8<< preprocessor will swap [∴ ... ∵ ...] into [∵ ... ∴ ...] but the user shouldn't do it, or I'll throw bugs at them myself; "premise X, premise Y, premise Z, and because REASON, therefore RETURN" is¬ good ∵ "and because", where "and" is a function ...for literacy!
