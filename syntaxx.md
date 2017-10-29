@@ -239,5 +239,5 @@
 		∴ f (input<>) (underflow<>) (overflow<>)
 		∴ f (input<>) (underflow<>: overflow<>)
 		8<< you need a sharp tool to open a box
-		8<< you can throw a ball into a box; it's like a chemical reaction
+		8<< you can throw a ball into a box; it's like a chemical reaction...the results of which, are packed in a box, and can be stored in a namespace
 	>8
