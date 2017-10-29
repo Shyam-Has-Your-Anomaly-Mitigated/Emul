@@ -236,4 +236,5 @@
 		∴ f (3) (2, 1) 8<< (x == 3) && (y == 2)
 		8<< pattern matching comes from the primary input, and the remaining inputs satisfy dependent overflows; which is relativistically positional
 		∴ f (input<>) (overflow<>)
+		∴ f (input<>) (underflow<>) (overflow<>)
 	>8
