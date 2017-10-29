@@ -310,11 +310,16 @@
 	8<< lets execute list comprehensions
 	; f(h:t) = [∨∨(∧∧(=(h:x):h):f(t))] 8<< input = list
 	8<< for each in list, if predicate()<>, each
+	: f() = [∴ []]
 	: f(h:t) = [
 		8<< ∴ in the input?
-		∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>])<f(1:श्याम)>∴ [])<f(1:श्याम)>
+		;∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>])<f(1:श्याम)>∴ [])<f(1:श्याम)>
 		8<< hmm; seems like I might need dysfunctional logic...it could be lazy though?
 		8<< I'm ℝeally tired... #excuses
+		8<<
+		8<< I think this should function
+		: ∧∧<>(predicate()<>∴ [h: f(t)<>])
+		∴ []
 	]
 	
 	8<< functional logic
