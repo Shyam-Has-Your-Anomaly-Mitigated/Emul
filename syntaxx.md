@@ -294,4 +294,6 @@
 	
 	8<< fuck off; numbers are now...
 	[base: sign: int: fraction]
+	sign == [] 8<< unsigned/positive
+	sign == [1] 8<< negative
 	8<< I just killed -1; !!! :D
