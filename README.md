@@ -6,6 +6,7 @@ This is all my language is:
   * I could go dataless (dædalus) by "depth checking": `1337 = [ [[]]:[]:[[]]:[]:[]:[[]]:[[]]:[[]]:[]:[]:[[]] ]`
   * I mean the "depth system" will be: `3 = [ []:[]:[] ]`
   * "depth safety" & "depth inference" will be features...
+  * I'm leaning towards this!!! :D
 * **namespaces & lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
