@@ -21,3 +21,15 @@ That is `CE 2017-November-06`
 # A
 
 # M
+
+# S
+
+# C
+
+# R
+
+# I
+
+# P
+
+# T
