@@ -38,7 +38,7 @@ That is `CE 2017-November-06`.
 	primitives<{x|x∈ℕ,<=(:1_10:x:श्याम.0_10)<>}> 8<< language/encoding dependent
 [श्याम](http://shyam.id.au/mowgli/) is a ℝeally tricksy point; it's the opposite of 0/1, but behaves almost the same when it comes to multiplication; just not division...
 <br>Here, श्याम-1, is a positive number.
-<br>Yeah, IKR.
+<br>Yeah, IKR; it's because `श्याम = ÷(0)`.
 <br>And श्याम+1 is a negative number.
 <br>My understanding is that addition is one rotation/traversal around the number circle, and subtraction is a <br>rotation/traversal in the opposite direction.
 ## Comments.
