@@ -3,7 +3,7 @@ SHYAM Script ...the programming tool will probably be shortened to `shyams`
 This is all my language is:
 * **base-1 data:** `1`
 * **lists:** `[]`, `<>`, `()`
-* functions as a **list** of instructions to be processed
+* functions as a `list()` of instructions to be processed
 * functional logic; no if/else statements
 
 # Scrabble!!! :D
