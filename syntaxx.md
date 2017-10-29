@@ -241,4 +241,10 @@
 		8<< you need a sharp tool to open a box
 		8<< you can throw a ball into a box; it's like a chemical reaction...the results of which, are packed in a box, and can be stored in a namespace
 		8<< experiencing massively epic déjà vu; but I feel like last time I was doing this in a game chat...or interacting with others in some interactive/competitive environment; but that was about half a decade ago...it was a game that ran on linux, and I think I was using Ubuntu at the time...I liked that game...but I played way too much...and IDK how programming would've come into the conversation...this is probably a falsified memory...neurons are crossing as they jump bridges...fawlty mental leaps...but I do remember having a hack at a purely literate programming language, half a decade ago (unrelated/independent of the game I mentioned); shortly, until I realised how poorly "designed" natural language is...
+		
+		8<< I think guards are just
+		f (h:t) = [∨∨(∧∧(guard_1()<>: treasure_1()<>)<> : ∧∧(guard_2()<>: treasure_2()<>)<>)]
+		8<< not sure how to
+		f x = [∴ x]
+		8<< that would work, but need to check the type of x; what kind of list is it?
 	>8
