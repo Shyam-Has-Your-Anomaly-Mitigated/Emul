@@ -206,6 +206,6 @@
 		∴ f x 8<< x is a ball of input; of type () ... =( type(x): type(()) )
 		∴ f(x<>)
 		8<<
-		: f x = [∴ =(x, y, z)]
-		∴ f(x)(y: z)
+		: f x = [∴ =(x, y, z)] 8<< =( type(x): type(()) )
+		∴ f(x<>)(y: z)
 	>8
