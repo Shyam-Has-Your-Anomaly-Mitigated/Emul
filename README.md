@@ -6,6 +6,7 @@ This is all my language is:
 * functions as a `[list<>]()` of instructions to be processed
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
+* functional monads: no list comprehensions
 
 *I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
 
