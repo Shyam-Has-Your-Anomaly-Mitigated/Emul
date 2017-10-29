@@ -302,6 +302,9 @@
 	[base: sign: fraction: int]
 	8<< this is all configurable though...
 	8<< the most important "-thing" is elegance
+	8<<
+	8<< just do it how the syntax is
+	sign<>int<>.fraction<>_base<> = [: sign: int: fraction: base]
 	
 	: {x|x∈list,predicate()<>}
 	8<< lets execute list comprehensions
