@@ -1,3 +1,8 @@
+* base-1
+* lists
+* functions as a list of instructions to be processed
+* functional logic; no if/else statements
+
 # Scrabble!!! :D
 Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code)).
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [Latinised](https://en.wiktionary.org/wiki/scriptum)).
