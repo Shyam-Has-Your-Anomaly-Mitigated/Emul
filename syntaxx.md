@@ -251,4 +251,14 @@
 		8<< where ever the primitives list is; need to add other bases...bit,tit,quit,octopussy,dit,hit,etc
 		8<< no; numbers are stored as base-1 lists
 		8<< just need syntax for other bases bsides base-10
+		: binary = base(number: base) 8<< $\text{number}_\text{base}$
+		: decimal = [3]
+		: binary = f(string: number: number) 8<< number_string: from_base: to_base
+		: binary = f(["3"<>: "_10"<>]: 2) 8<< "11_2"
+		8<<                    ^^ that is totes ambiguous; but we'll just make the base decimal (and configurable)
+		
+		8<< numbers stored with base
+		3_10 = [10: [1:1:1]]
+		11_2 = [2: [1:1:1]]
+		3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
 	>8
