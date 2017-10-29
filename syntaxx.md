@@ -272,9 +272,10 @@
 	>8
 	
 	: fraction = [∴ ×(numerator:÷(denominator))]()
+	∴ fraction(x,y)
 	8<< or
 	: fraction = [×(numerator:÷(denominator))]()
-	∴ fraction(x,y)
+	∴ [∴ fraction<0>](x,y)
 	
 	8<< * code analysis will optimise
 	÷(÷(x)) 8<< x
