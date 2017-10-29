@@ -8,7 +8,7 @@ This is all my language is:
 * functional logic; no if/else statements
 * functional monads: no list comprehensions
   * time is an implicit first parameter for all functions
-  * time is used for RNG
+  * time is used explicitly for RNG
 
 *I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
 
