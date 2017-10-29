@@ -247,4 +247,6 @@
 		8<< not sure how to
 		: f x = [∴ x]
 		8<< that would work, but need to check the type of x; what kind of list is it? no; the first input is x
+		
+		8<< where ever the primitives list is; need to add other bases...bit,tit,quit,octopussy,dit,hit,etc
 	>8
