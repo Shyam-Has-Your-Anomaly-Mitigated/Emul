@@ -43,10 +43,10 @@ That is `CE 2017-November-06`.
 ## Lists.
 	: [: process<>∴ return∵ reason]<: dex<>>(: input<>) 8<< [: output<>]
 ## Numbers.
-	int.fraction_base 8<< [base, int, fraction]
-	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}, int, []]
-	.fraction 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}, [], fraction]
-	_base 8<< [base, [], []]
+	int.fraction_base 8<< [base: int: fraction]
+	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}: int: []]
+	.fraction 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}: []: fraction]
+	_base 8<< [base: []: []]
 Changing the base is as simple as changine `<0>`.
 <br>`int` & `fraction` are base-1 as a list
 <br>And `base` is base-10 by default, and `int` & `fraction` is zero by default; both recreationally configurable
