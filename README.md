@@ -4,6 +4,7 @@ This is all my language is:
 * **base-1 data:** `1`
 * **lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed
+  * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
 
 # Scrabble!!! :D
