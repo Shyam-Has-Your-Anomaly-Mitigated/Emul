@@ -271,4 +271,4 @@
 		
 	>8
 	
-	: fraction = [×(numerator:÷(denominator))]
+	: fraction = [×(numerator:÷(denominator))]()
