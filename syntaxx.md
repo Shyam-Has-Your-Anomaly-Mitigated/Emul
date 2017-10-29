@@ -332,3 +332,13 @@
 	∧∧(: true∴ return) 8<< [:true∴return∴true]
 	false = []
 	true = ¬(false)
+	
+	false = []
+	true = [[]]
+	number = [sign:int:fraction:base]
+	negative_sign = false
+	positive_sign = true
+	[int:fraction:base] = [[base_one]:[base_one]:[base_one]]
+	one = []
+	3 = [[]:[]:[]]
+	8<< this can totes work!!! :D
