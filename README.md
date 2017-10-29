@@ -7,6 +7,6 @@ Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](htt
 <br>Y
 
 # default versioning format
-	HE 12017-11-06
+	HE 12017-11-06 (-8 days ago)
 that is `CE 2017-November-06`
 <br>but `$ shyamscript --version` will have `--calendar=...` & `--format=s:ig/.../.../` parameters
