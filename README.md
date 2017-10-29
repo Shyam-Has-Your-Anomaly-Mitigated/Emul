@@ -34,7 +34,7 @@ That is `CE 2017-November-06`.
 
 # Typos.
 ## Primitives.
-	primitives = [: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
+	primitives = [: 1: ["abcdefghijklmnopqrstuvwxynz"<>: ...]<>]
 	primitives<{x|x∈ℕ,<=(:1_10:x:श्याम.0_10)<>}> 8<< language/encoding dependent
 [श्याम](http://shyam.id.au/mowgli/) is a ℝeally tricksy point; it's the opposite of 0/1, but behaves almost the same when it comes to multiplication; just not division...
 <br>Here, श्याम-1, is a positive number.
