@@ -301,3 +301,4 @@
 	8<< alternative format
 	[base: sign: fraction: int]
 	8<< this is all configurable though...
+	8<< the important "-thing" is elegance
