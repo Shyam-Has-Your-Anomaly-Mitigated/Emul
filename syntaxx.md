@@ -344,3 +344,6 @@
 	8<< this can totes work!!! :D
 	8<< http://www.commitstrip.com/en/2017/06/07/ai-inside/
 	8<< it's all just lists; श्यामs, and श्यामs, of lists
+
+	8<< measure length of list
+	f(h:t) = [∴ +(h:t)]
