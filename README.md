@@ -33,6 +33,9 @@ That is `CE 2017-November-06`.
 # P
 
 # Typos.
+## Primitives
+	primitives = [: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
+	primitives<{x|x∈ℕ,<=(:1_10:x:∞_10)<>}> 8<< language/encoding dependent
 ## Comments.
 	8< multi comments >8
 	8<< single comments; for docommentation
@@ -41,8 +44,8 @@ That is `CE 2017-November-06`.
 	: [: process<>∴ return∵ reason]<: dex<>>(: input<>) 8<< [: output<>]
 ## Numbers.
 	int.fraction_base 8<< [base, int, fraction]
-	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}], int, []]
-	.fraction 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}], [], fraction]
+	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}, int, []]
+	.fraction 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}, [], fraction]
 	_base 8<< [base, [], []]
 Changing the base is as simple as changine `<0>`.
 <br>`int` & `fraction` are base-1 as a list
