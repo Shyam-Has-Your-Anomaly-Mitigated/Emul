@@ -6,7 +6,7 @@ This is all my language is:
 * **namespaces & lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
-* functional logic; no if/else statements
+* functional logic; no [if/else statements](http://www.commitstrip.com/en/2017/06/07/ai-inside/)
 * functional monads; no list comprehensions
   * time is used implicitly as the zeroeth parameter for all functions
   * time is used explicitly for RNG
