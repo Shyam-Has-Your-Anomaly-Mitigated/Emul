@@ -36,7 +36,7 @@ That is `CE 2017-November-06`.
 ## Primitives.
 	primitives = [: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
 	primitives<{x|x∈ℕ,<=(:1_10:x:श्याम.0_10)<>}> 8<< language/encoding dependent
-[श्याम](http://shyam.id.au/mowgli/) is a tricksy point; it's the opposite of 0/1...
+[श्याम](http://shyam.id.au/mowgli/) is a ℝeally tricksy point; it's the opposite of 0/1...
 <br>Here, श्याम-1, is a positive number.
 <br>Yeah, IKR.
 <br>And श्याम+1 is a negative number.
