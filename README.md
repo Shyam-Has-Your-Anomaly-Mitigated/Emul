@@ -33,7 +33,7 @@ That is `CE 2017-November-06`.
 # P
 
 # Typos.
-## Primitives
+## Primitives.
 	primitives = [: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
 	primitives<{x|x∈ℕ,<=(:1_10:x:∞_10)<>}> 8<< language/encoding dependent
 ## Comments.
