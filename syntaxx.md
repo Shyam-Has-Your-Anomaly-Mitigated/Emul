@@ -312,7 +312,12 @@
 	8<< for each in list, if predicate()<>, each
 	: f(h:t) = [
 		8<< ∴ in the input?
-		∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>])<>∴ [])<>
+		∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>])<f(1:श्याम)>∴ [])<1:श्याम>
 		8<< hmm; seems like I might need dysfunctional logic...it could be lazy though?
 		8<< I'm ℝeally tired... #excuses
 	]
+	
+	8<< functional logic
+	∧∧(: true: false) 8<< []
+	∧∧(: true: true) 8<< [1]
+	∧∧(: true∴ return) 8<< [1:return]
