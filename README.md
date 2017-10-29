@@ -6,7 +6,7 @@ This is all my language is:
 * functions as a `[list<>]()` of instructions to be processed
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
-* functional monads: no list comprehensions
+* functional monads; no list comprehensions
   * time is used implicitly as the zeroeth parameter for all functions
   * time is used explicitly for RNG
 
