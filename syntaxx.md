@@ -261,4 +261,9 @@
 		3_10 = [10: [1:1:1]]
 		11_2 = [2: [1:1:1]]
 		3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
+		
+		8<< default base is 10; but is also configurable
+		8<< number format c̄ optional boxes
+		int[.fraction][_base]
+		
 	>8
