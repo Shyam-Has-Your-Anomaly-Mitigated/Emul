@@ -38,12 +38,15 @@ That is `CE 2017-November-06`.
 	8<< single comments; for docommentation
 	; single comments means s/:/;/ & s/;/:/; for text editing
 ## Lists.
-	[process<>]<dex<>>(input<>) 8<< [output<>]
+	: [: process<>]<: dex<>>(: input<>) 8<< [: output<>]
 ## Numbers.
-	int.fraction_base 8<< [base<0>, int, fraction]
+	int.fraction_base 8<< [base, int, fraction]
+	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}], int, []]
+	.fraction 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}], [], fraction]
+	_base 8<< [base, [], []]
 Changing the base is as simple as changine `<0>`.
 <br>`int` & `fraction` are base-1 as a list
-<br>And `base` is base-10 by default, and `fraction` is zero by default; both recreationally configurable
-<br>OK?
+<br>And `base` is base-10 by default, and `int` & `fraction` is zero by default; both recreationally configurable
+<br>OK? Just measure the length of the components for the number...maybe that is how we will do numbers instead?
 ### EG.
-	3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
+	3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1_10:x:14159_10)<>}]
