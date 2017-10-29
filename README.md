@@ -4,6 +4,7 @@ This is all my language is:
 * **sugar:** `3.14159_10` & `"1"` & ETC
 * **base-1 data:** unsigned `1`
   * I could go dataless (dedalus) by "depth checking": `1337 = [ [[]]:[]:[[]]:[]:[]:[[]]:[[]]:[[]]:[]:[]:[[]] ]`
+  * I mean: `3 = [ []:[]:[] ]`
 * **namespaces & lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
