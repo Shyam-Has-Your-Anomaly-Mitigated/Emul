@@ -37,7 +37,7 @@ That is `CE 2017-November-06`.
 	primitives = [: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]<>]
 	primitives<{x|x∈ℕ,<=(:1_10:x:श्याम.0_10)<>}> 8<< language/encoding dependent
 श्याम is a tricksy point...
-<br>Here, श्याम-1 is a positive number.
+<br>Here, श्याम-1, is a positive number.
 <br>Yeah, IKR.
 <br>And श्याम+1 is a negative number.
 <br>My understanding is that addition is one rotation/traversal around the number circle, and subtraction is a <br>rotation/traversal in the opposite direction
