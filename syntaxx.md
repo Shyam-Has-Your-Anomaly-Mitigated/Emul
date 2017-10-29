@@ -291,3 +291,7 @@
 	
 	-1 == -1
 	+1 == 1
+	
+	8<< fuck off; numbers are now...
+	[base: sign: int: fraction]
+	8<< I just killed -1; !!! :D
