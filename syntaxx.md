@@ -330,3 +330,5 @@
 	∧∧(: true: false) 8<< [:true:false∴true]
 	∧∧(: true: true) 8<< [:true:true∴true]
 	∧∧(: true∴ return) 8<< [:true∴return∴true]
+	false = []
+	true = ¬(false)
