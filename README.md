@@ -41,3 +41,5 @@ That is `CE 2017-November-06`.
 	[process<>]<dex<>>(input<>) 8<< [output<>]
 ## Numerical types.
 	int.fraction_base 8<< [base<0>, int, fraction] ...changing the base is as simple as changine <0>
+### EG
+	3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
