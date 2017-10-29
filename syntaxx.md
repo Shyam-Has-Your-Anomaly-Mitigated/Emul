@@ -238,4 +238,5 @@
 		∴ f (input<>) (overflow<>)
 		∴ f (input<>) (underflow<>) (overflow<>)
 		∴ f (input<>) (underflow<>: overflow<>)
+		8<< you need a sharp tool to open a box
 	>8
