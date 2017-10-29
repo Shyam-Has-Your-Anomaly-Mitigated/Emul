@@ -1,6 +1,6 @@
 * base-1
-* lists
-* functions as a list of instructions to be processed
+* lists: [], <>, ()
+* functions as a **list** of instructions to be processed
 * functional logic; no if/else statements
 
 # Scrabble!!! :D
