@@ -202,7 +202,7 @@
 		
 		8<< not sure if I covered this yet
 		: f x = [∴ x]
-		: f = [∴ [<>]]
+		: f = [∴ [<>]] 8<< actually this doesn't work; you can have lists of empty lists of any list type EG [ []: <>: () ]
 		∴ f x 8<< x is a ball of input; of type () ... =( type(x): type(()) )
 		∴ f(x<>)
 		8<<
