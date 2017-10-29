@@ -326,3 +326,7 @@
 	∧∧(: true: false) 8<< []
 	∧∧(: true: true) 8<< [1]
 	∧∧(: true∴ return) 8<< [1:return]
+	8<< I fixed the list comprehension by scoping the ∧∧() function
+	∧∧(: true: false) 8<< [:true:false∴true]
+	∧∧(: true: true) 8<< [:true:true∴true]
+	∧∧(: true∴ return) 8<< [:true∴return∴true]
