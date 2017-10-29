@@ -7,7 +7,7 @@ Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](htt
 <br>B
 <br>Y
 
-# [default versioning format](https://youtu.be/czgOWmtGVGs)
+# [Habitual versioning format](https://youtu.be/czgOWmtGVGs)
 	HE 12017-11-06 (-8 days ago)
 That is `CE 2017-November-06`
 <br>But `$ shyamscript --version` will have `--calendar=...` & `--format=s:ig/.../.../` parameters
@@ -15,3 +15,9 @@ That is `CE 2017-November-06`
 <br>I assume all the users know that would be considered unstable
 <br>Do I care?
 <br>CBF
+
+# Y
+
+# A
+
+# M
