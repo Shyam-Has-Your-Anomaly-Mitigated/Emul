@@ -5,6 +5,7 @@ This is all my language is:
 * **base-1 data:** unsigned `1`
   * I could go dataless (dædalus) by "depth checking": `1337 = [ [[]]:[]:[[]]:[]:[]:[[]]:[[]]:[[]]:[]:[]:[[]] ]`
   * I mean the "depth system" will be: `3 = [ []:[]:[] ]`
+  * "depth safety" will be a feature...
 * **namespaces & lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
