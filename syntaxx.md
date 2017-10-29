@@ -302,3 +302,14 @@
 	[base: sign: fraction: int]
 	8<< this is all configurable though...
 	8<< the most important "-thing" is elegance
+	
+	: {x|x∈list,predicate()<>}
+	8<< lets execute list comprehensions
+	; f(h:t) = [∨∨(∧∧(=(h:x):h):f(t))] 8<< input = list
+	8<< for each in list, if predicate()<>, each
+	: f(h:t) = [
+		8<< ∴ in the input?
+		∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>])<>∴ [])<>
+		8<< hmm; seems like I might need dysfunctional logic...it could be lazy though?
+		8<< I'm ℝeally tired... #excuses
+	]
