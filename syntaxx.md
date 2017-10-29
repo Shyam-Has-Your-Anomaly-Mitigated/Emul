@@ -297,3 +297,7 @@
 	sign == [] 8<< unsigned/positive
 	sign == [1] 8<< negative
 	8<< I just killed -1; !!! :D
+	8<<
+	8<< alternative format
+	[base: sign: fraction: int]
+	8<< this is all configurable though...
