@@ -42,5 +42,8 @@ That is `CE 2017-November-06`.
 ## Numerical types.
 	int.fraction_base 8<< [base<0>, int, fraction]
 Changing the base is as simple as changine `<0>`.
+`int` & `fraction` are base-1 as a list
+And `base` is base-10 by default, and `fraction` is zero by default; both recreationally configurable
+OK?
 ### EG.
 	3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
