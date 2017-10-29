@@ -270,3 +270,5 @@
 		[base<0>, int, fraction]
 		
 	>8
+	
+	: fraction = [×(numerator:÷(denominator))]
