@@ -7,7 +7,7 @@ This is all my language is:
   * I mean the "depth system" will be: `3 = [ []:[]:[] ]`
   * "depth safety" & "depth inference" will be features...
   * I'm leaning towards this!!! :D
-* **namespaces & lists:** `[]`, `<>`, `()`
+* **data & namespaces & lists:** `[]`, `<>`, `()`
 * functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no [if/else statements](http://www.commitstrip.com/en/2017/06/07/ai-inside/)
