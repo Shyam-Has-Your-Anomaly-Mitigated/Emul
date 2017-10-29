@@ -7,6 +7,8 @@ This is all my language is:
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
 * functional monads: no list comprehensions
+  * time is an implicit first parameter for all functions
+  * time is used for RNG
 
 *I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
 
