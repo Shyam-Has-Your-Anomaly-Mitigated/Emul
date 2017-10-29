@@ -164,3 +164,48 @@
 		8<< or even
 		: list <> input 8<< ...
 	>8
+	8<
+		8< https://en.wikipedia.org/wiki/Tacit_programming
+		: example(x) = baz(bar(foo(x)))
+		: example = baz(bar(foo(x)<>)<>)
+		>8
+		: example = baz(bar(foo()<>)<>) 8<< trying to run foo() without satisfying dependencies will return a function; I've probably contradicted this else where, but this is a STANDING_ORDER!
+		∴ example(3: "3") 8<< ∧∧(=(x: [1:1:1])<>: ≠([1:1:1]: ['3'])<>) ..."3" is unused; to err, or not to err? TBA/TBD/ETC
+
+		8<< tacit ...looks like <> in a box is the input list (contents) of that box; yet another STANDING_ORDER!?!
+		: f = [∴ [<>]] 8<< f x = [∴ x], valid 8<< x = [...], for x = (...) you must do it outside of pattern matching
+		: g = f 8<< g = [∴ [<>]], g x = [∴ x] ...g is not f; they are both constant functions, so they cannot manipulate each other anyway...which means they both point to the same address anyway; so g is f
+		∴ g(3: 2: 1) 8<< [3: 2: 1]
+		∴ g(3: ...)<> 8<< err: return must be a list, as either a box (process/data), dex, or input
+
+		: err = "\nfawlty input\n\0"
+		8<< escape() doesn't need to be passed<> around...and I think can even remove the parameter ∵ unkown namespaces in f() are positionally relative to the input box; but namespaces are boxes, so the respective inputs are automatically packed into a box each if the pattern matching overflows
+		: f = [∴ ∨∨(∧∧(=(length(x<>)<>: 1)<>: x<>)<>: escape(err<>))]
+		8<< IDK, I was attempting to tacit on; but can't f, nor f<>, nor f()<>, nor f(y)<>; and h is boxed for consistency c̄ every"-thing"s a list of sorts
+		: g(h:t) = +(h<>: t<>: f(y<>)<>)
+		∴ g(3,2,1)(102) 8<< 108
+		8<< it's not a good idea to use single-width alphabet functions; they are useful for parameters...at least [h: t: x: y: z: t: ...]
+
+		∴ [∴ x<>](3)<>
+		8<< unmatched functions
+		: f = [∴ x<>]
+		∴ f(3, ...) 8<< =(x<>, 3)
+		8<< matching functions
+		: f(h:t) = [∴ x<>]
+		∴ f("nopping"<>)(3)
+		8<< probably need to add "patterns as an ordered list" to the "namespace as an object...or a list of lists"; pattern matching is just simplified/ergonomic if statements...
+
+		primitives = [-(1): 0: 1: ["abcdefghijklmnopqrstuvwxyz"<>: ...]]
+		primitives<3> 8<< language/encoding dependent
+		
+		8<< preprocessor will swap [∴ ... ∵ ...] into [∵ ... ∴ ...] but the user shouldn't do it, or I'll throw bugs at them myself; "premise X, premise Y, premise Z, and because REASON, therefore RETURN" is¬ good ∵ "and because", where "and" is a function ...for literacy!
+		
+		8<< not sure if I covered this yet
+		: f x = [∴ x]
+		: f = [∴ [<>]]
+		∴ f x 8<< x is a ball of input; of type () ... =( type(x): type(()) )
+		∴ f(x<>)
+		8<<
+		: f x = [∴ =(x, y, z)]
+		∴ f(x)(y: z)
+	>8
