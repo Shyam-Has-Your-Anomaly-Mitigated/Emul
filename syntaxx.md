@@ -265,5 +265,7 @@
 		8<< default base is 10; but is also configurable
 		8<< number format c̄ optional boxes
 		int[.fraction][_base]
+		8<< all numbers stored equally; for simplicity/ergonomics
+		[base<0>, int, fraction]
 		
 	>8
