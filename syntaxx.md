@@ -170,7 +170,7 @@
 		: example = baz(bar(foo(x)<>)<>)
 		>8
 		: example = baz(bar(foo()<>)<>) 8<< trying to run foo() without satisfying dependencies will return a function; I've probably contradicted this else where, but this is a STANDING_ORDER!
-		∴ example(3: "3") 8<< ∧∧(=(x: [1:1:1])<>: ≠([1:1:1]: ['3'])<>) ..."3" is unused; to err, or not to err? TBA/TBD/ETC
+		∴ example(3: "3") 8<< ∧∧(=(x: [1:1:1])<>: ≠([1:1:1]: ['3'])<>) ..."3" is unused; to err, or not to err? TBA/TBD/ETC ...just throw warnings at the user; STANDING_ORDER!
 
 		8<< tacit ...looks like <> in a box is the input list (contents) of that box; yet another STANDING_ORDER?!?
 		: f = [∴ [<>]] 8<< f x = [∴ x], valid 8<< x = [...], for x = (...) you must do it outside of pattern matching
