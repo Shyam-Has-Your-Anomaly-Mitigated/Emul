@@ -38,7 +38,7 @@ That is `CE 2017-November-06`.
 	8<< single comments; for docommentation
 	; single comments means s/:/;/ & s/;/:/; for text editing
 ## Lists.
-	: [: process<>]<: dex<>>(: input<>) 8<< [: output<>]
+	: [: process<>∴ return∵ reason]<: dex<>>(: input<>) 8<< [: output<>]
 ## Numbers.
 	int.fraction_base 8<< [base, int, fraction]
 	int 8<< [{1|x∈ℕ,<=(:1_10:x:10_10)<>}], int, []]
