@@ -234,6 +234,6 @@
 		8<<
 		: f (x) = [x:y]
 		∴ f (3) (2, 1) 8<< (x == 3) && (y == 2)
-		8<< pattern matching comes from the first input, and the second input satisfies dependent overflows; which is relativistically positional
+		8<< pattern matching comes from the primary input, and the remaining inputs satisfy dependent overflows; which is relativistically positional
 		∴ f (input<>) (overflow<>)
 	>8
