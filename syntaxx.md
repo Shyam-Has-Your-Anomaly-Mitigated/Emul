@@ -237,4 +237,5 @@
 		8<< pattern matching comes from the primary input, and the remaining inputs satisfy dependent overflows; which is relativistically positional
 		∴ f (input<>) (overflow<>)
 		∴ f (input<>) (underflow<>) (overflow<>)
+		∴ f (input<>) (underflow<>: overflow<>)
 	>8
