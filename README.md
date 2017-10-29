@@ -7,6 +7,8 @@ This is all my language is:
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
 
+*I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
+
 # Scrabble!!! :D
 Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code)).
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [Latinised](https://en.wiktionary.org/wiki/scriptum)).
