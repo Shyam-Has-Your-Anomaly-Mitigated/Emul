@@ -2,8 +2,8 @@ SHYAM Script ...the programming tool will probably be shortened to `shyams`
 ### Abstract
 This is all my language is:
 * **base-1 data:** unsigned `1`
-* **lists:** `[]`, `<>`, `()`
-* functions as a `[list<>]()` of instructions to be processed
+* **namespaces & lists:** `[]`, `<>`, `()`
+* functions as a `[list<>]()` of instructions to be processed; both input & output are lists
   * **pattern matching:** `(h:t)` works for all lists, including numbers
 * functional logic; no if/else statements
 * functional monads; no list comprehensions
