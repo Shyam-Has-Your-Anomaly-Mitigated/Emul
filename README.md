@@ -41,6 +41,12 @@ That is `CE 2017-November-06`.
 <br>Yeah, IKR; it's because `श्याम = ÷(0)`.
 <br>And श्याम+1 is a negative number.
 <br>My understanding is that addition is one rotation/traversal around the number circle, and subtraction is a <br>rotation/traversal in the opposite direction.
+<br>
+<br>Maybe we don't need characters to be primitive; they can just be base-1 versions of the binary (or whatever the hardware).
+<br>A
+<br>Y
+<br>H
+<br>So, yeah...
 ## Comments.
 	8< multi comments >8
 	8<< single comments; for docommentation
