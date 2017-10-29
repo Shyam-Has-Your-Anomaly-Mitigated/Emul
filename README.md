@@ -12,6 +12,12 @@ This is all my language is:
 
 *I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
 
+[My cake has been a lie!](https://youtu.be/8oi12dCzHG4)
+<br>Monads are purely [dysfunctional excuses](https://blog.plover.com/prog/burritos.html)!
+<br>Closures are purely an excuse to support goto statements!
+<br>Currying is purely an excuse to support parametric multiplicity!
+<br>Higher-order functions are purely an excuse to support function pointers!
+
 # Scrabble!!! :D
 Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code)).
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [Latinised](https://en.wiktionary.org/wiki/scriptum)).
