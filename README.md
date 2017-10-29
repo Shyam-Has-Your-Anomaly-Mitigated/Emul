@@ -39,7 +39,7 @@ That is `CE 2017-November-06`.
 	; single comments means s/:/;/ & s/;/:/; for text editing
 ## Lists.
 	[process<>]<dex<>>(input<>) 8<< [output<>]
-## Numerical types.
+## Numbers.
 	int.fraction_base 8<< [base<0>, int, fraction]
 Changing the base is as simple as changine `<0>`.
 <br>`int` & `fraction` are base-1 as a list
