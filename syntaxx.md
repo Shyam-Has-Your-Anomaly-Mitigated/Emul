@@ -263,6 +263,7 @@
 		3.14159_10 = [10: [1:1:1]: {1|x∈ℕ,<=(:1:x:14159_10)<>}]
 		
 		8<< default base is 10; but is also configurable
+		8<< default fraction is 0; also configurable, just for recreation
 		8<< number format c̄ optional boxes
 		int[.fraction][_base]
 		8<< all numbers stored equally; for simplicity/ergonomics
