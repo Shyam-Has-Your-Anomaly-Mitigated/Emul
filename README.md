@@ -1,4 +1,4 @@
-# Scrabble
+# Scrabble!!! :D
 Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](https://en.wikipedia.org/wiki/Source_code)).
 <br>Romanised as "Śyāmascriptum" (from Saṃskṛtam, [Latinised](https://en.wiktionary.org/wiki/scriptum)).
 <br>Yeah, I know I'll probably radicalise it (probably moreso than Perl/Python/ETC); but only at the beginning of a solar/lunar orbit, or my birthday...
@@ -7,7 +7,7 @@ Changed name from "Emul" to "Shyamscript" (as in Shyam + Sanskrit + [script](htt
 <br>Because it was unscripted!
 <br>Yeah, exactly.
 
-# [Habitual --versioning behaviour](https://youtu.be/czgOWmtGVGs)
+# [Habitual --versioning behaviour](https://youtu.be/czgOWmtGVGs).
 	HE 12017-11-06 (-8 days ago)
 That is `CE 2017-November-06`.
 <br>But `$ shyamscript --version` will have `--calendar=...` & `--format=s:ig/.../.../` parameters.
@@ -32,4 +32,12 @@ That is `CE 2017-November-06`.
 
 # P
 
-# T
+# Typos.
+## Comments.
+	8< multi comments >8
+	8<< single comments; for docommentation
+	; single comments means s/:/;/ & s/;/:/; for text editing
+## Lists.
+	[process<>]<dex<>>(input<>) 8<< [output<>]
+## Numerical types.
+	int.fraction_base 8<< [base<0>, int, fraction] ...changing the base is as simple as changine <0>
