@@ -401,6 +401,6 @@
 	g()f()<>
 	8<< IDK...
 	8<< it doesn't make sense to  ∴[<>] but not ∴<>
-	8<< there's also ∴[]() ...but that returns a [list<>]
+	8<< there's also ∴[instruction<>]() ...but that returns a [list<>]
 	8<< I'm sticking with I/O as boxes packed & ready to ship
 	
