@@ -450,4 +450,4 @@
 	any_type_of_list<dex<>> 8<< sub_list<> ...cannot survive in the wild; put it in a [safe<>]
 
 	8<< commutativity checking
-	result = superposition(function:input) 8<< ◊(true: false) ...not sure if it should be ∧ or ∨; so I superpositioned() it
+	result = superposition(function:input) 8<< ◊(true: false) ...not sure if it should be ∧∧() or ∨∨(); so I superpositioned() it
