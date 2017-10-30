@@ -420,7 +420,7 @@
 	f(input) = [
 		∨∨(
 			: ∧∧(=(input:pattern_1):function_1)
-			:  ∧∧(=(input:pattern_2):function_2)
+			: ∧∧(=(input:pattern_2):function_2)
 			: ∧∧(=(input:pattern_3):function_3)
 		)
 	]
