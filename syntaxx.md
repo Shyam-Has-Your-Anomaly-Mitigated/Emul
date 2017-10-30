@@ -391,7 +391,7 @@
 	8<< I'm thinking more along the lines of...
 	(pattern<>)[instruction<>]<dex<>>(input<>)<dex<>>(underflow<>)<dex<>>(flow<>)<dex<>>(overflow<>)<dex<>>
 	[data<>]<dex<>>
-	<dex<>>
+	(data<>)<dex<>>
+	<data<>><dex<>>
 	<dex<>><dex<>>
-	<dex<>><dex<>><dex<>>
 	
