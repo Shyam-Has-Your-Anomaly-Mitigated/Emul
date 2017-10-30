@@ -50,7 +50,7 @@ That is `CE 2017-November-06`.
 IDK; this is in my SEP field for now...
 <br>If anyone makes changes to my language, I want to be able to use those changes.
 <br>If anyone uses any of my ideas in their language, I want to be able to use ideas from their language.
-<br>It will only be FLOSS if I get FLOSS in return; I wouldn't feed a starving cow killer/eater/ETC ∵ they desecrate the most sacred "-thing" to my religion...what I believe in. (Why not other animals/lifeforms? ∵ Ahiṃsā also means no killing plants ∴ it would be hypocritical of me.)
+<br>It will only be FLOSS if I get FLOSS in return; I wouldn't feed a starving cow killer/eater/wearer/ETC ∵ they desecrate the most sacred "-thing" to my religion...what I believe in. (Why not other animals/lifeforms? ∵ Ahiṃsā also means no killing plants ∴ it would be hypocritical of me.)
 <br>It would be like, if I went out to graveyards, and walked all over the graves; which is like [walking all over Uluru](https://en.wikipedia.org/wiki/Uluru#Climbing).
 <br>I do not understand why burials exist for religions that hold Hell down c̄ the Heavens above; why do they trap themselves closer to Hell?
 <br>I think cremation is more logical; it allows most of the body to goto Heaven, leaving only the ashes of sinful karma to be offered to the Ganga for purification.
