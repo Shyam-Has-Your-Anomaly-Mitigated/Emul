@@ -507,4 +507,4 @@
 	: k = "xyz"
 	: n = 3.0_10
 	: l = [n<1>:j<>:n<-2>:n<2>:k<>:n<-1>] 8<< maybe dexes can start from 1; as in 1 is the 1st dex
-	8<< l == "+abc03xyz10"
+	∴ ""(l<>) 8<< "+abc03xyz10"
