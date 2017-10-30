@@ -451,3 +451,7 @@
 
 	8<< commutativity checking
 	result = =(superposition([[function<>]]:superposition([[input<>]]))<>) 8<< ◊(true: false) ...not sure if it should be ∧∧() or ∨∨(); so I superpositioned() it
+	8<< every combination of inputs
+	superposition([inputs]) 8<< not [input<>] nor input<> ...one parameter for inputs, two parameters for functions(inputs<>), three parameters for ???
+	8<< doesn't scramble functions, nor inputs
+	superposition([functions]: [inputs])
