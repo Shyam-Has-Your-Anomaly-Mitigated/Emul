@@ -350,4 +350,11 @@
 	8<< it's all just lists; श्यामs, and श्यामs, of lists
 
 	8<< measure length of list
-	f(h:t) = [∴ +(h:f(t))]
+	: f(h:t) = [∴ +(h:f(t))]
+	
+	8<< need a way to get all (input<>) ...excluding (flow<>)
+	: f (x<>) = [x]
+	: f x#(a<>:b<>:c<>) = [x] 8<< x = [a<>:b<>:c<>]
+	: f x#(h:t) = [x] 8<< x = [h:t]
+	8<< final pattern is greedy; but only for (input<>)
+
