@@ -412,4 +412,5 @@
 	8<< no need
 	f(x) = [x]
 	f(input<>) 8<< =(x: [input<>])
+	g(h:t) = [x = [h:t]] 8<< =(x: [h:t]) ...lqtm
 	
