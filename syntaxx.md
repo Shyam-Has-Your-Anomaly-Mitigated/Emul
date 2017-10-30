@@ -394,4 +394,10 @@
 	(data<>)<dex<>>
 	<data<>><dex<>>
 	<dex<>><dex<>>
+	8<< I guess a function can return any type of list?
+	8<< I'd prefer consistency for all I/O...
+	f() = [∴[<input<>>]]
+	g()<f()<><>>
+	g()f()<>
+	8<< IDK...
 	
