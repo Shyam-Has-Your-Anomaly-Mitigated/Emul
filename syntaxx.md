@@ -477,6 +477,7 @@
 		8<< a & b & c all point to the same memory address
 		
 		IDK about dexing though; whether to point to various other [functions], or to just store a whole new [function<>]
+		it would be faster in the long run not to point, but demands more memory; which is cheap, and getting moreso
 	>8
 	
 	routine<prescoping<>>()
