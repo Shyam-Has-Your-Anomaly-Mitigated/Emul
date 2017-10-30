@@ -403,4 +403,7 @@
 	8<< it doesn't make sense to  ∴[<>] but not ∴<>
 	8<< there's also ∴[instruction<>]() ...but that returns a [list<>]
 	8<< I'm sticking with I/O as boxes packed & ready to ship
+	8<< <dexing<>> returns a box
+	8<< =( [function<>](): function() ) returns a box
+	8<< =( [data<>]: data ) is a box
 	
