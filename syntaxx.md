@@ -474,3 +474,5 @@
 	routines<scoping<>>
 	routine()<postscoping<>>
 	[routine<subbing<>>]()
+	
+	8<< should be able to type symbolic functions; I think it's possible...
