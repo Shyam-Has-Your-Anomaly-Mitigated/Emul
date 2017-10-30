@@ -442,3 +442,8 @@
 	8<< but then
 	"function_name" = "gunction_name"
 	8<< hmm...
+	"not_a_good_idea?"<>
+	
+	8<< only [process<>] is mandatory; no other list type can exist without [process<>]
+	(pattern<>)[process<>](input<>)(underflow<>)(flow<>)(overflow<>) 8<< [output<>]
+	any_type_of_list<dex<>> 8<< [sub_list<>]
