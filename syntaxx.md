@@ -389,7 +389,7 @@
 	]
 	
 	8<< I'm thinking more along the lines of...
-	(pattern<>)[process<>]<dex<>>(input<>)<dex<>>(underflow<>)<dex<>>(flow<>)<dex<>>(overflow<>)<dex<>> 8<< [output<>]<dex<>>
+	(pattern<>)<dex<>>[process<>]<dex<>>(input<>)<dex<>>(underflow<>)<dex<>>(flow<>)<dex<>>(overflow<>)<dex<>> 8<< [output<>]<dex<>>
 	[data<>]<dex<>>
 	(data<>)<dex<>>
 	<data<>><dex<>>
