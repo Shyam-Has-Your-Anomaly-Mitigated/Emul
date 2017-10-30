@@ -498,4 +498,6 @@
 		: b = length(a<>)
 		: =(a:b)
 		I think this is funneh
+		
+		higher than thou bases need character recognition, which can be shared c̄ strings
 	>8
