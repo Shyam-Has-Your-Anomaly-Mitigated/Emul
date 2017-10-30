@@ -1,7 +1,7 @@
 SHYAM Script ...the programming tool will probably be shortened to `shyams`
 ### Abstract
 This is all my language is:
-* **sugar:** `3.14159_10` & `"1"` & ETC
+* **sugar:** `∓3.14159_10` & `"1"` & ETC
   * Need sugar syntax...
 * ~~**base-1 data:** unsigned `1`~~
   * I could go dataless (dædalus) by "depth checking": `1337 = [ [[]]:[]:[[]]:[]:[]:[[]]:[[]]:[[]]:[]:[]:[[]] ]`
