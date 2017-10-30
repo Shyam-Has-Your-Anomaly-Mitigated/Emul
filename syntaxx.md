@@ -510,6 +510,8 @@
 	: l = [n<1>:j<>:n<-2>:n<2>:k<>:n<-1>] 8<< maybe dexes can start from 1; as in 1 is the 1st dex
 	∴ ""(l<>) 8<< "+abc03xyz10"
 	8<< hmm; numbers would need to be stored as characters to make it work...
+	: characterise(3<2>) 8<< "3"
+	: characterise(3) 8< "+3.0_10"
 	
 	: g = ""('f')
 	∴ =(: f(): ["f"()<>]: [g()<>])
