@@ -418,10 +418,10 @@
 	f(x) = [∴ composition(x): meta: data]
 	8<< pattern matching can be stored inside the [function<>]
 	f(input) = [
-		∴ ∨∨(
-			: ∧∧(match(input:pattern_1)∴function_1<>(input))
-			: ∧∧(match(input:pattern_2)∴function_2<>(input))
-			: ∧∧(match(input:pattern_3)∴function_3<>(input))
+		∴ ∨∨<>(
+			: ∧∧<>(match(input:pattern_1)∴function_1<>(input))
+			: ∧∧<>(match(input:pattern_2)∴function_2<>(input))
+			: ∧∧<>(match(input:pattern_3)∴function_3<>(input))
 		)
 	]
 	8<< match() can accept regular/rational expressions; needs sugar...
