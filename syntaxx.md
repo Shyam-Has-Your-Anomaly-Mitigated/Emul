@@ -468,6 +468,8 @@
 		: "abc"<>() 8< this is where it becomes ambiguous
 		just do this
 		: (pattern<>)["abc"()<>](input<>)(underflow<>)(flow<>)(overflow<>)
+		
+		treating memory addresses as constant functions means no defragmenting
 	>8
 	
 	routine<prescoping<>>()
