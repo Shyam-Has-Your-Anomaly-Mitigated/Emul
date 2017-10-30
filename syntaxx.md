@@ -468,6 +468,7 @@
 		: "abc"<>() 8< this is where it becomes ambiguous
 		just do this
 		: (pattern<>)["abc"()<>](input<>)(underflow<>)(flow<>)(overflow<>)
+		it's all for prescoping; instead of dexing the "namespace"
 		
 		treating memory addresses as constant functions means no defragmenting
 		
@@ -508,3 +509,6 @@
 	: n = 3.0_10
 	: l = [n<1>:j<>:n<-2>:n<2>:k<>:n<-1>] 8<< maybe dexes can start from 1; as in 1 is the 1st dex
 	∴ ""(l<>) 8<< "+abc03xyz10"
+	
+	: g = ""('f')
+	∴ =(: f(): ["f"()<>]: [g()<>])
