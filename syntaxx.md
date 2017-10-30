@@ -361,7 +361,7 @@
 	false = []
 	true = ¬(false) 8<< EG [[]]
 	8<< =(h:[]) ... true ∴ [[]] & false ∴ []
-	: ¬(h:t) = [∴=(h:[]):¬(t)<>] 8<< final call will scope the empty list from ¬() = []
+	: ¬(h:t) = [∴ [=(h:[]):¬(t)<>]] 8<< final call will scope the empty list from ¬() = []
 	: ¬() = [] 8<< actually it would be optimal to match an empty (input<>) last instead; ∴[] is implicit, it's like void/whatever
 	∴ ¬(a,b,c,d,e,f,g) 8<< (¬a,¬b,¬c,¬d,¬e,¬f,¬g)
 
