@@ -446,4 +446,5 @@
 	
 	8<< only [process<>] is mandatory; no other list type can exist without [process<>]
 	(pattern<>)[process<>](input<>)(underflow<>)(flow<>)(overflow<>) 8<< [output<>]
-	any_type_of_list<dex<>> 8<< [sub_list<>]
+	[any_type_of_list<dex<>>] 8<< [sub_list<>]
+	any_type_of_list<dex<>> 8<< sub_list<> ...cannot survive in the wild; put it in a [safe<>]
