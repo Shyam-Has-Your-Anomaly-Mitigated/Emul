@@ -318,15 +318,19 @@
 		8<< I'm ℝeally tired... #excuses
 		8<<
 		8<< I think this should function
-		: ∧∧<>(predicate()<>∴ [h: f(t)<>])<>
-		∴ []
+		;∴ ∨∨(∧∧(predicate()<>∴ [h: f(t)<>]): [])
+		8<< ∨∨() returns the first non-empty list
+		8<< ∧∧() returns [: true/false∴ [h: f(t)<>∴true/false]() ...do we need ∨∨()?
+		8<< false = []
+		8<< true = ¬(false)
+		∴ ∧∧(predicate()<>∴ [h: f(t)<>])
 	]
 	
 	8<< functional logic
 	∧∧(: true: false) 8<< []
 	∧∧(: true: true) 8<< [1]
 	∧∧(: true∴ return) 8<< [1:return]
-	8<< I fixed the list comprehension by prescoping the ∧∧() function
+	8<< I fixed the list comprehension by prescoping the ∧∧() function...now I think postscoping is the right way to solve the problem?
 	∧∧(: true: false) 8<< [:true:false∴true]
 	∧∧(: true: true) 8<< [:true:true∴true]
 	∧∧(: true∴ return) 8<< [:true∴return∴true]
