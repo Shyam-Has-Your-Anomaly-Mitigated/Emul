@@ -361,7 +361,22 @@
 	false = []
 	true = ¬(false) 8<< EG [[]]
 	8<< =(h:[]) ... true ∴ [[]] & false ∴ []
+	8<< [[]:[]] == [[]:[]:] == [:[]:[]] == [:[]:[]:] == [:[]:[]]
 	: ¬(h:t) = [∴ [=(h:[]):¬(t)<>]] 8<< final call will scope the empty list from ¬() = []
 	: ¬() = [] 8<< actually it would be optimal to match an empty (input<>) last instead; ∴[] is implicit, it's like void/whatever
 	∴ ¬(a,b,c,d,e,f,g) 8<< (¬a,¬b,¬c,¬d,¬e,¬f,¬g)
+	
+	: f(h:t) = [
+		∴ [+(h:f(t))]
+	]
+	: g<f(length(g))>()
+	8<< I'm attempting to REPL...
+	: f(h:t) = [
+		: input = [...]
+		: x = g<+(h:f(t))>(input<>)
+		;; do some"-thing" with x
+		: y = g<+(h:f(t))>(input<>)
+		∴ [=(x:y)]
+	]
+	
 
