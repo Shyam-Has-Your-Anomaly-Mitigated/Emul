@@ -424,6 +424,7 @@
 			: ∧∧<>(match(input:pattern_3)∴function_3<>(input))
 		)
 	]
+	8<< all of the internal prescoping allows f() to be prescoped where ever it's processed
 	8<< match() can accept regular/rational expressions; needs sugar...
 	8<< logic() can just return ...whatever; YKWIM
 	8<< pattern matching is like bit masking...
