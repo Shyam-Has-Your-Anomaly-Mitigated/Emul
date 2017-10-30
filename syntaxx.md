@@ -318,7 +318,7 @@
 		8<< I'm ℝeally tired... #excuses
 		8<<
 		8<< I think this should function
-		: ∧∧<>(predicate()<>∴ [h: f(t)<>])
+		: ∧∧<>(predicate()<>∴ [h: f(t)<>])<>
 		∴ []
 	]
 	
