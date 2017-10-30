@@ -461,3 +461,11 @@
 	8<< now I see problems
 	list<><()> 8<< no I think that's unambiguous
 	
+	8<
+		namespaces are memory addresses
+		I want to be able to use a string as a namespace
+		: "abc"() 8<< I don't think that's ambiguous
+		: "abc"<>() 8< this is where it becomes ambiguous
+		just do this
+		: (pattern<>)["abc"()<>](input<>)(underflow<>)(flow<>)(overflow<>)
+	>8
