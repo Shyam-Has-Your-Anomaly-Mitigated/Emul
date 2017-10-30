@@ -433,7 +433,7 @@
 	8<< pattern matching is like bit masking...
 	mask(input:pattern)
 	
-	8<< wherever the list comprehension function is; it can be called comprehend()
+	8<< wherever the list comprehension function is; it can be called comprehend(list<>)
 	
 	8<< I'm not sure, but I think this is how it ℝeally is
 	"function_name"(pattern<>) = instructions
