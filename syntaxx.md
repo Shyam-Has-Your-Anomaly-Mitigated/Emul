@@ -357,4 +357,11 @@
 	: f x#(a<>:b<>:c<>) = [∴x] 8<< x = [a<>:b<>:c<>]
 	: f x#(h:t) = [∴x] 8<< x = [h:t<>]
 	8<< final pattern is greedy; but only for (input<>)
+	
+	false = []
+	true = ¬(false) 8<< EG [[]]
+	8<< =(h:[]) ... true ∴ [[]] & false ∴ []
+	¬(h:t) = [∴=(h:[]):¬(t)<>] 8<< final call will scope the empty list from ¬() = []
+	¬() = [] 8<< actually it would be optimal to match an empty (input<>) last instead
+	¬(a,b,c,d,e,f,g) 8<< (¬a,¬b,¬c,¬d,¬e,¬f,¬g)
 
