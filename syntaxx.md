@@ -456,4 +456,4 @@
 	8<< doesn't scramble functions, nor inputs
 	superposition([functions]: [inputs])
 	8<< language independence
-	superposition = ◊
+	superposition = ◊ = <> 8<< I don't see any problems...
