@@ -14,7 +14,7 @@ This is all my language is:
 * functional logic; no [if/else statements](http://www.commitstrip.com/en/2017/06/07/ai-inside/)
 * functional monads; no list comprehensions
   * time is used implicitly as the zeroeth parameter for all functions
-  * time is used explicitly for RNG
+  * time is used explicitly for RNG; it may be insecure, but IDC
 
 *I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
 
