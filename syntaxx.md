@@ -501,3 +501,10 @@
 		
 		higher than thou bases need character recognition, which can be shared c̄ strings
 	>8
+	
+	8<< string manipulation
+	: a = "abc"
+	: z = "xyz"
+	: n = 3.0_10
+	: l = [n<1>:j<>:n<3>:n<2>:k<>:n<4>] 8<< maybe dexes can start from 1; as in 1 is the 1st dex
+	8<< l == "+abc03xyz10"
