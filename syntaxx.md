@@ -406,4 +406,10 @@
 	8<< <dexing<>> returns a box
 	8<< ∧∧( [function<>](): function() ) returns a box
 	8<< ∧∧( [data<>]: data ) is a box
+	8<< (input<>) returns a box ...or whatever; YKWIM
+	
+	8<< I'm pretty sure predexing is [input<>]? ...I meant some"-thing" like [<>()] or even [<><>()]
+	8<< no need
+	f(x) = [x]
+	f(input<>) 8<< =(x: [input<>])
 	
