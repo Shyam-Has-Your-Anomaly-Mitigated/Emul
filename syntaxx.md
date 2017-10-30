@@ -388,4 +388,10 @@
 		: f(+(h:head(t)<>)<>:tail(t)<>)
 	]
 	
-
+	8<< I'm thinking more along the lines of...
+	(pattern<>)[instructions<>]<dex<>>(input<>)<dex<>>(underflow<>)<dex<>>(overflow<>)<dex<>>
+	[data<>]<dex<>>
+	<dex<>>
+	<dex<>><dex<>>
+	<dex<>><dex<>><dex<>>
+	
