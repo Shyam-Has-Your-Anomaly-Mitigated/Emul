@@ -494,6 +494,7 @@
 		1337 in binary only has 11 digits, but needs to perform depth checking
 		but this will all be configurable
 		...just let the optimiser handle it
+		no; you need base-1 for pattern matching...at least, the way I want to do it
 		
 		if I want to know what 3 is...
 		: a = [[]:[]:[]]
