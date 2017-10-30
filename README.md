@@ -52,7 +52,7 @@ IDK; this is in my SEP field for now...
 <br>If anyone uses any of my ideas in their language, I want to be able to use ideas from their language.
 <br>It will only be FLOSS if I get FLOSS in return; I wouldn't feed a starving cow killer/eater ∵ they desecrate the most sacred "-thing" to my religion...what I believe in.
 <br>It would be like, if I went out to graveyards, and walked all over the graves; which is like [walking all over Uluru](https://en.wikipedia.org/wiki/Uluru#Climbing).
-<br>I do not understand why burials exist for religious that hold Hell down c̄ the Heavens above; why do they trap themselves closer to Hell?
+<br>I do not understand why burials exist for religions that hold Hell down c̄ the Heavens above; why do they trap themselves closer to Hell?
 <br>I think cremation is more logical; it allows most of the body to goto Heaven, leaving only the ashes of sinful karma to be offered to the Ganga for purification.
 <br>I wish I could measure my own sinful karma, and live to manipulate it; but I also wish I could manipulate my body fat more favourably...
 
