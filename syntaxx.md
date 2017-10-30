@@ -378,5 +378,14 @@
 		: y = g<+(h:f(t))>(input<>)
 		∴ [=(x:y)]
 	]
+	8<< hmm...
+	: f(h:t) = [
+		: input = [...]
+		: x = g<h>input<>)
+		;; do some"-thing" with x
+		: y = g<h>(input<>)
+		: =(x:y)]
+		: f(+(h:head(t)):tail(t))
+	]
 	
 
