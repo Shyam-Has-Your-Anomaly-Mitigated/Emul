@@ -418,10 +418,13 @@
 	f(x) = [∴ composition(x): meta: data]
 	8<< pattern matching can be stored inside the [function<>]
 	f(input) = [
+		: function_1(pattern_1<>) = process_1
+		: function_2(pattern_2<>) = process_2
+		: function_3(pattern_3<>) = process_3
 		∴ ∨∨<>(
-			: ∧∧<>(match(input:pattern_1)∴function_1<>(input))
-			: ∧∧<>(match(input:pattern_2)∴function_2<>(input))
-			: ∧∧<>(match(input:pattern_3)∴function_3<>(input))
+			: ∧∧<>(match(input:pattern_1)∴function_1<>(input<>))
+			: ∧∧<>(match(input:pattern_2)∴function_2<>(input<>))
+			: ∧∧<>(match(input:pattern_3)∴function_3<>(input<>))
 		)
 	]
 	8<< all of the internal prescoping allows f() to be prescoped where ever it's processed
