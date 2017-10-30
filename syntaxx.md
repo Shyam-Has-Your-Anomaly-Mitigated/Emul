@@ -455,3 +455,5 @@
 	superposition([inputs]) 8<< not [input<>] nor input<> ...one parameter for inputs, two parameters for functions(inputs<>), three parameters for ???
 	8<< doesn't scramble functions, nor inputs
 	superposition([functions]: [inputs])
+	8<< language independence
+	superposition = ◊
