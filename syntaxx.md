@@ -475,6 +475,8 @@
 		: b = a
 		: c = b
 		8<< a & b & c all point to the same memory address
+		
+		IDK about dexing though; whether to point to various other [functions], or to just store a whole new [function<>]
 	>8
 	
 	routine<prescoping<>>()
