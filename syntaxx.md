@@ -432,3 +432,5 @@
 	8<< logic() can just return ...whatever; YKWIM
 	8<< pattern matching is like bit masking...
 	mask(input:pattern)
+	
+	8<< wherever the list comprehension function is; it can be called comprehend()
