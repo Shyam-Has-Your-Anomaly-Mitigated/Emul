@@ -470,6 +470,11 @@
 		: (pattern<>)["abc"()<>](input<>)(underflow<>)(flow<>)(overflow<>)
 		
 		treating memory addresses as constant functions means no defragmenting
+		
+		: a = [function<>]
+		: b = a
+		: c = b
+		8<< a & b & c all point to the same memory address
 	>8
 	
 	routine<prescoping<>>()
