@@ -459,5 +459,5 @@
 	superposition = ◊ = <> 8<< I don't see any problems...
 	8<< it could also be x() or ><()
 	8<< now I see problems
-	list< ><() > 8<< no I think that's unambiguous
+	list<><()> 8<< no I think that's unambiguous
 	
