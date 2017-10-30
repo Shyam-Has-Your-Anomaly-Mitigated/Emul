@@ -353,8 +353,8 @@
 	: f(h:t) = [∴ +(h:f(t))]
 	
 	8<< need a way to get all (input<>) ...excluding (flow<>)
-	: f (x<>) = [x]
-	: f x#(a<>:b<>:c<>) = [x] 8<< x = [a<>:b<>:c<>]
-	: f x#(h:t) = [x] 8<< x = [h:t]
+	: f (x<>) = [x] 8<< I think f (x) = [∴x] works anyway...just like f(h:t) = [:x=[h:t]∴x]
+	: f x#(a<>:b<>:c<>) = [∴x] 8<< x = [a<>:b<>:c<>]
+	: f x#(h:t) = [∴x] 8<< x = [h:t]
 	8<< final pattern is greedy; but only for (input<>)
 
