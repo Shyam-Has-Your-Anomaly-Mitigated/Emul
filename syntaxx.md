@@ -414,3 +414,6 @@
 	f(input<>) 8<< =(x: [input<>])
 	g(h:t) = [x = [h:t]] 8<< =(x: [h:t]) ...lqtm
 	
+	8<< this is a "-thing"
+	f(x) = [∴ composition(x): meta: data]
+	
