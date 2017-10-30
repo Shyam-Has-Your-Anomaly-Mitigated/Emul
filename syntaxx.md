@@ -424,5 +424,5 @@
 			: ∧∧(match(input:pattern_3)∴function_3<>(input))<>
 		)<>
 	]
-	8<< match() can accept regular expressions
+	8<< match() can accept regular/rational expressions
 	
