@@ -16,7 +16,7 @@ This is all my language is:
   * time is used implicitly as the zeroeth parameter for all functions
   * time is used explicitly for RNG; it may be insecure, but IDC
 
-*I have no clue how to type check when you only have one type of data, and every"-thing" else is a list...*
+*I have no clue how to type check when ~~you only have one type of data, and~~ every"-thing" ~~else~~ is a list...*
 
 [My cake has been a lie!](https://youtu.be/8oi12dCzHG4)
 <br>Monads are purely [dysfunctional excuses](https://blog.plover.com/prog/burritos.html)!
