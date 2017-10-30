@@ -493,6 +493,7 @@
 		1337 in base-1 must count through a list of 1337 "ones"; 1337 digits
 		1337 in binary only has 11 digits, but needs to perform depth checking
 		but this will all be configurable
+		...just let the optimiser handle it
 		
 		if I want to know what 3 is...
 		: a = [[]:[]:[]]
