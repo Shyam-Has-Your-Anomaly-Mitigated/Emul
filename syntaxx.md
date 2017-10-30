@@ -385,7 +385,7 @@
 		;; do some"-thing" with x
 		: y = g<h>(input<>)
 		: =(x:y)]
-		: f(+(h:head(t)<>)<>:tail(t)<>)
+		: f(+(h:t<1>)<>:(th:tt)[∴ tt](t)<>) 8<< <1> is the first dex
 	]
 	
 	8<< I'm thinking more along the lines of...
