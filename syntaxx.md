@@ -424,6 +424,6 @@
 			: ∧∧(match(input:pattern_3)∴function_3<>(input))
 		)
 	]
-	8<< match() can accept regular/rational expressions
+	8<< match() can accept regular/rational expressions; needs sugar...
 	8<< logic() can just return ...whatever; YKWIM
 	
