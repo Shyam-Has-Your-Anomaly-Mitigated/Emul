@@ -458,3 +458,6 @@
 	8<< language independence
 	superposition = ◊ = <> 8<< I don't see any problems...
 	8<< it could also be x() or ><()
+	8<< now I see problems
+	list< ><() >
+	
