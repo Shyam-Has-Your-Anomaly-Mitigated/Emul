@@ -648,6 +648,9 @@
 			: "ETC" 8<< anyone else who does not actually use Shyamscript
 		]
 		8<< https://en.wikipedia.org/wiki/Namasudra
+		: namaśūdra = [
+			: "end user"
+		]
 		8<< https://en.wikipedia.org/wiki/Chandala
 		: caṇḍāla = [
 			: "maintenance programmer"
