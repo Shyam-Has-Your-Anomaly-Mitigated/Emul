@@ -694,7 +694,7 @@
 	8<<
 	8<< I need to get the namespace as a string!!!
 	: namespace(#namespace) 8<< ["namespace"]
-	8<<
+	8<< you can easily find out if a function already exists
 	: a = namespace
 	: b = namespace
 	: c = namespace
