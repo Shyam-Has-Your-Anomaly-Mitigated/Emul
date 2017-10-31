@@ -667,7 +667,7 @@
 			"1337 programmer" 8<< productive/fluent at Shyamscript; gṛhastha "produce" descendents by demonstration
 		]
 		: brahmacārī = [
-			"noobies" 8<< learning Shyamscript
+			"n00bies" 8<< learning Shyamscript
 		]
 
 		8<< http://vedicsciences.net/
