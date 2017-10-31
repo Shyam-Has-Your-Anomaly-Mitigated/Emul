@@ -1,4 +1,4 @@
-# Orgasm Runs ₲on Arnold Schwarzenegger Machine
+# Orgasm Runs ₲on Arnold Schwarzenegger Machines
 *this will be used for my web browser; `shyam://loka/address parameters`*
 
 need to study instruction sets, and virtual machines:
