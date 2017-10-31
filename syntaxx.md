@@ -741,4 +741,5 @@
 	: print = {: [:print("abc")∴"xyz"]()} 8<< IDK... backticks are for `$hell`, and curlies are unused
 	: print = process([:print("abc")∴"xyz"]<>)
 	: =(print: "abc")
-	
+
+	8<< I need to write a shell using Shyamscript; no more backticks!!! :D
