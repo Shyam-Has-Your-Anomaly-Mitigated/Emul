@@ -518,7 +518,7 @@
 	: g = ""('f')
 	∴ =(: f(): ["f"()<>]: [g()<>])
 
-	8<< internalised & inline pattern matching
+	8<< internalised & inlined pattern matching
 	f(input) = [
 		: function_1(pattern_1<>) = process_1
 		: function_2 = (pattern_2<>)process_2
