@@ -7,10 +7,10 @@ need to study instruction sets, and virtual machines:
 `orgasm`:
 * assemble to ℂomplex instructions
   1. optimisation will be done here
-  * process c̄ the ℂomplex computer
+  * process ℂomplex instructions c̄ the ℂomplex computer
   * cross-assemble (self-optimising) to ℝeal instructions
     1. optimisation may be possible if it's designed optimally for the first "pass" (like transpiling, but transoptimising)
-    * process c̄ the ℝeal computer
+    * process ℝeal instructions c̄ the ℝeal computer
 * interpret ℂomplex instructions c̄ the ℂomplex computer
 * REPL ℂomplex instructions c̄ the ℂomplex computer
 * 100% configurable c̄ transpiler; this works similar to cross-assembling
