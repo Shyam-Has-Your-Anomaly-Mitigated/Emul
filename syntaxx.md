@@ -730,4 +730,5 @@
 	8<< namespaces may just be strings; who needs quotes... ∧∧(=([':':':']: "::"): =([':']: ":"))
 	=('a': "a"<>: ["abc"<0><>])
 	=("a":['a'])
+	8<< also need quotes for syntax highlighting
 	
