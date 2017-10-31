@@ -713,7 +713,7 @@
 	8<< numbers; now it makes sense for base-1 to be [] or 0, but the optimiser can do that instead...
 	: (h+t)[∴h](3) 8<< 1 or [: []: [[]]: []: [[]]]
 	: (h+t)[∴h](-3) 8<< -1 or [: [[]]: [[]]: []: [[]]]
-	8<< this is the reason for base-1; maybe, but I can't remember all of the reasons for base-1...it's easy to loop/iterate/whatever (s:(ih:it):(fh:ft):b) pattern matching
+	8<< this is the reason for base-1; maybe, but I can't remember all of the reasons for base-1...it's easy to loop/iterate/whatever ((sh:st):(ih:it):(fh:ft):(bh:bt)) pattern matching
 	: (a+b+c+d+e+f+g)[∴a](π) 8<< +1 ... +2.14159_10
 	: (a+b+c+d+e+f+g)[∴b](π) 8<< +1 ... +1.14159_10
 	: (a+b+c+d+e+f+g)[∴c](π) 8<< +1 ... +0.14159_10 (above zero, can take another positive)
