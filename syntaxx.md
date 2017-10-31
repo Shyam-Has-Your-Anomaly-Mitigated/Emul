@@ -691,3 +691,6 @@
 	8<< the base language doesn't even have namespaces; they are no"-thing" more than sugar-coated redundancy
 	8<< the preprocessor can refactor them out
 	8<< after that, just let the optimiser deal with it
+	8<<
+	8<< I need to get the namespace as a string!!!
+	: namespace(namespace) 8<< "namespace"
