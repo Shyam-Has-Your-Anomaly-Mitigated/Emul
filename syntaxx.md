@@ -528,3 +528,151 @@
 			: ∧∧<>(match(input:pattern_3)∴(pattern_3<>)process_3<>(input<>))
 		)
 	]
+	
+	8<
+		8<< hmm...
+		8<< https://en.wikipedia.org/wiki/Stotra
+		8<< https://en.wikipedia.org/wiki/Sthapatyaveda
+		8<< https://en.wikipedia.org/wiki/Tantras
+		8<< https://en.wikipedia.org/wiki/Kama_Sutra
+		8<< https://en.wikipedia.org/wiki/Yoga
+		8<< https://en.wikipedia.org/wiki/Chakra
+		8<< https://en.wikipedia.org/wiki/Moksha
+		8<< https://en.wikipedia.org/wiki/Om
+		8<< https://en.wikipedia.org/wiki/Swastika
+		8<< ^ probably the solution to race conditions
+		8<< https://en.wikipedia.org/wiki/Mudra
+		8<< 
+
+		8<< https://en.wikipedia.org/wiki/Sutra
+		8<< https://en.wiktionary.org/wiki/sutra#English
+		: sūtra (sutra) = grammarian_aphorism 8<< could be =("string"); grammars in my SEP field for now...
+		8<< https://en.wiktionary.org/wiki/mantra#English
+		8<< https://en.wikipedia.org/wiki/Mantra
+		: mantra = function()
+		8<< https://en.wiktionary.org/wiki/shloka#English
+		8<< https://en.wikipedia.org/wiki/Shloka
+		8<< cannot think of a more fitting definition for "par excellence" when it comes to mantras; but I may change my mind...
+		: śloka (shloka) = commutative mantras
+		8<< https://en.wikipedia.org/wiki/Subhashita
+		8<< this is probably logic programming; in my SEP field for now...
+		8<< https://en.wikipedia.org/wiki/Shiksha
+		8<< IDK, I'll think about it; SEP field...
+		8<< Probably syntax...
+		8<< https://en.wikipedia.org/wiki/Vedic_science
+		8<< https://en.wikipedia.org/wiki/Vedanga
+		: śikṣā = syntactics
+		: chandas = ["measurements":"benchmarking":"profiling":"static code analysis":"dynamic code analysis":etc] 
+		: vyākaraṇa = grammars
+		: nirukta = semantics
+		: kalpa = "computational instructions (more than just data; metadata, inceptiondata,..)"
+		: jyotiṣa = "predictive inference/deference/deduction/induction/ETC"
+		8<< https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika
+		8<< this took the longest to find, and was also the last "-thing" I added; I was searching for "-thing"s like "vedic science"...
+		: nyāyá = logic
+		: vaiśeṣika = s-expressions
+		: sāṃkhya = ...
+		: yoga<@patañjali> = meta sāṃkhya
+		: mimāṃsā = ...
+		: mimāṃsā<vedanta,uttara> = ...
+		8<< ^^^^^^ I'll do this some other time...
+		8<< there's also this...
+		8<< https://en.wikipedia.org/wiki/Skandha#Description:_the_five_skandhas
+		8<< https://en.wikipedia.org/wiki/Skandha#Understanding_in_Theravada_Abhidhamma
+		
+		8<< temporæl mantra
+		8<< https://en.wikipedia.org/wiki/Jyotisha
+		ज्योतिष() 8<< [posix_unix]
+		ज्योतिष(hmm) 8<< [undecided] ... probably (calendar) 8<< [default_format]
+		ज्योतिष(calendar:format) 8<< EG ("HE":s("gi")(#/C Y-M-D h:m:s.z/z<-1>/)) 8<< [rng]
+		8<< regular/rational expressions will probably work like that if they're lazy...no just #address it; or some"-thing"...
+
+		8<< https://en.wikipedia.org/wiki/%C5%9Aruti
+		8<< https://en.wikipedia.org/wiki/Programming_language_specification
+		
+		8<< https://en.wikipedia.org/wiki/Shastra
+		8<< https://en.wikipedia.org/wiki/Programming_language_reference
+		
+		8<< https://en.wikipedia.org/wiki/Dharma
+		8<< https://en.wikipedia.org/wiki/Best_practice
+		
+		8<< https://en.wikipedia.org/wiki/Ayurveda
+		8<< https://en.wikipedia.org/wiki/Debugger
+		8<< https://en.wikipedia.org/wiki/Programming_tool
+		
+		8<< https://en.wikipedia.org/wiki/Indian_martial_arts
+		8<< https://en.wikipedia.org/wiki/Self-defense
+		8<< https://en.wikipedia.org/wiki/Secure_by_default
+		8<< https://en.wikipedia.org/wiki/Secure_by_design
+		8<< https://en.wikipedia.org/wiki/Formal_methods
+		
+		8<< https://en.wikipedia.org/wiki/Smriti
+		8<< https://en.wikipedia.org/wiki/Library_(computing)
+		8<< https://en.wikipedia.org/wiki/Modular_programming
+		
+		8<< https://en.wikipedia.org/wiki/Yuga
+		8<< https://en.wikipedia.org/wiki/Software_development_process
+		
+		8<< https://en.wikipedia.org/wiki/Namaste
+		8<< https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+		
+		8<< https://en.wikipedia.org/wiki/Sv%C4%81dhy%C4%81ya
+		8<< https://en.wikipedia.org/wiki/Metaprogramming
+		
+		8<< https://en.wikipedia.org/wiki/Prana
+		8<< processing, run-time, ETC
+		
+		8<< https://en.wikipedia.org/wiki/Maya_(illusion)
+		8<< rendering; graphics, audio, text, ETC
+		8<< non-primitive data types; strings, numbers, ETC
+		
+		8<< https://en.wikipedia.org/wiki/Karma
+		8<< [output<>]
+		8<< reaction could also mean reactive programming; I think it's some"-thing" to do with interruption...
+		
+		8<< https://en.wikipedia.org/wiki/Varna_(Hinduism)
+		: brāhmaṇa = [
+			: "meta programmer"
+			: "programming language researcher"
+			: "programming tool programmer" 8<< āyurveda
+		]
+		: kṣatriya = [
+			: "system programmer" 8<< low-level; inline assembly()
+		]
+		: vaiśya = [
+			: "application programmer" 8<< high-level; assphobic (from assembly + phobic; akin to homophobic, relating to homoiconicity)
+		]
+		: śūdra = [
+			: "program designers" 8<< UML
+			: "project managers" 8<< PHBs (Pointy-Haired Bosses)
+			: "ETC" 8<< anyone else who does not actually use Shyamscript
+		]
+		8<< https://en.wikipedia.org/wiki/Namasudra
+		8<< https://en.wikipedia.org/wiki/Chandala
+		: caṇḍāla = [
+			: "maintenance programmer"
+		]
+
+		8<< https://en.wikipedia.org/wiki/Ashrama_(stage)
+		: sannyāsī = [
+			"ℂomplex programmer" 8<< influencing Shyamscript
+		]
+		: vānaprastha = [
+			"ℝeal programmer" 8<< teaching Shyamscript
+		]
+		: gṛhastha = [
+			"1337 programmer" 8<< productive/fluent at Shyamscript; gṛhastha "produce" descendents by demonstration
+		]
+		: brahmacārī = [
+			"noobies" 8<< learning Shyamscript
+		]
+
+		8<< http://vedicsciences.net/
+		8<< the computational religion; I've just realised the page content is pretty disparate from the titular text from the search engine...
+		
+		8<< this...
+		8<< https://en.wikipedia.org/wiki/Sa%E1%B9%85kh%C4%81ra#Sankhara-khandha
+		8<< reminds me of that...
+		8<< https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
+		8<< probably unrelated...
+	>8
