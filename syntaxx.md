@@ -720,7 +720,7 @@
 	: (a+b+c+d+e+f+g)[∴d](π) 8<< +1 ... -1.14159_10
 	: (a+b+c+d+e+f+g)[∴e](π) 8<< -1 ... -0.14159_10 (below zero, can take another negative)
 	: (a+b+c+d+e+f+g)[∴f](π) 8<< -1 ... +1.14159_10
-	: (a+b+c+d+e+f+g)[∴g](π) 8<< +1 ... +0.14159_10 (above zero, can take another positive)
+	: (a+b+c+d+e+f+g)[∴g](π) 8<< +1.14159_10
 	
 	8<< number format
 	[sign:int:fraction:base]
