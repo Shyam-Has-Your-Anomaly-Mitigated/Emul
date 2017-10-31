@@ -699,3 +699,32 @@
 	: b = namespace
 	: c = namespace
 	: namespace(#namespace) 8<< ["namespace":"a":"b":"c"]
+	
+	8<< pattern matching
+	8<<
+	8<< non-numerical lists
+	: (h:t)[∴h]("abcdefg") 8<< "a"
+	: (h:t)[∴t]("abcdefg") 8<< "bcdefg"
+	8<< numerical lists depends on the format
+	: [∴π]() 8<< +3.14159_10
+	: [∴π_10]() 8<< +3.14159_10
+	; [∴3_10_2]() 8<< 11_2
+	: (h:t)[∴h](π) 8<< "+"
+	8<< numbers; now it makes sense for base-1 to be [] or 0, but the optimiser can do that instead...
+	: (h+t)[∴h](3) 8<< 1 or [: []: [[]]: []: [[]]]
+	: (h+t)[∴h](-3) 8<< -1 or [: [[]]: [[]]: []: [[]]]
+	8<< hmm..
+	: (a+b+c+d+e+f+g)[∴a](π) 8<< +1 ... +2.14159_10
+	: (a+b+c+d+e+f+g)[∴b](π) 8<< +1 ... +1.14159_10
+	: (a+b+c+d+e+f+g)[∴c](π) 8<< +1 ... +0.14159_10 (above zero, can take another positive)
+	: (a+b+c+d+e+f+g)[∴d](π) 8<< +1 ... -1.14159_10
+	: (a+b+c+d+e+f+g)[∴e](π) 8<< -1 ... -0.14159_10 (below zero, can take another negative)
+	: (a+b+c+d+e+f+g)[∴f](π) 8<< -1 ... +1.14159_10
+	: (a+b+c+d+e+f+g)[∴g](π) 8<< +1 ... +0.14159_10 (above zero, can take another positive)
+	
+	8<< number format
+	[sign:int:fraction:base]
+	: sign = [: [[]:[]:[]]: [[]:[]]: [[]]: []] 8<< ['±':'∓':'-':'+']
+	: int = fraction = base = base_1
+	
+	8<< namespaces may just be strings; who needs quotes... ∧∧(=([':':':']: "::"): =([':']: ":"))
