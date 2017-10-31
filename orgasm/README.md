@@ -5,13 +5,14 @@ need to study instruction sets, and virtual machines:
 * [ASIP, CISC, RISC, EDGE (TRIPS), VLIW (EPIC), MISC, OISC, NISC, ZISC, Comparison](https://en.wikipedia.org/wiki/Template:CPU_technologies)
 
 `orgasm`:
-* assemble to the ℂomplex computer
+* assemble to ℂomplex instructions
   1. optimisation will be done here
   * process c̄ the ℂomplex computer
-  * cross-assemble (self-optimising) to ℝeal computers
+  * cross-assemble (self-optimising) to ℝeal instructions
+    1. optimisation may be possible if it's designed optimally for the first "pass" (like transpiling, but transoptimising)
     * process c̄ the ℝeal computer
-* interpret c̄ the ℂomplex computer
-* REPL c̄ the ℂomplex computer
+* interpret ℂomplex instructions c̄ the ℂomplex computer
+* REPL ℂomplex instructions c̄ the ℂomplex computer
 * 100% configurable c̄ transpiler; this works similar to cross-assembling
 
 need to find the files with my notes; that was a long time ago... (I think it's on my 16TB...)
