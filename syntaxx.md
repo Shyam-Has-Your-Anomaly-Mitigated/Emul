@@ -735,3 +735,10 @@
 	8<< hmm...I was going to make [∵ fail]() output errs, or whatever; but...
 	∴ standard_output() 8<< doesn't need to be returned; it's like a printf(), but could even be parameterised...
 	∵ success
+
+	: return = [:print("abc")∴"xyz"]()
+	: =(return: "xyz")
+	: print = {: [:print("abc")∴"xyz"]()} 8<< IDK... backticks are for `$hell`, and curlies are unused
+	: print = process([:print("abc")∴"xyz"]<>)
+	: =(print: "abc")
+	
