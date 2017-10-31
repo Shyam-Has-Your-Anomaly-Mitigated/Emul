@@ -693,4 +693,9 @@
 	8<< after that, just let the optimiser deal with it
 	8<<
 	8<< I need to get the namespace as a string!!!
-	: namespace(namespace) 8<< "namespace"
+	: namespace(#namespace) 8<< ["namespace"]
+	8<<
+	: a = namespace
+	: b = namespace
+	: c = namespace
+	: namespace(#namespace) 8<< ["namespace":"a":"b":"c"]
