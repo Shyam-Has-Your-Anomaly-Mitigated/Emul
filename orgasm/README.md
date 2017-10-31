@@ -1,4 +1,4 @@
-# O R G Arnold Schwarzenegger Machine
+# Orgasm Runs G Arnold Schwarzenegger Machine
 
 need to study instruction sets, and virtual machines:
 * [ASIP, CISC, RISC, EDGE (TRIPS), VLIW (EPIC), MISC, OISC, NISC, ZISC, Comparison](https://en.wikipedia.org/wiki/Template:CPU_technologies)
