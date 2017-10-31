@@ -1,4 +1,5 @@
 # Orgasm Runs ₲on Arnold Schwarzenegger Machine
+*this will be used for my web browser; `shyam://loka parameters`*
 
 need to study instruction sets, and virtual machines:
 * [ASIP, CISC, RISC, EDGE (TRIPS), VLIW (EPIC), MISC, OISC, NISC, ZISC, Comparison](https://en.wikipedia.org/wiki/Template:CPU_technologies)
