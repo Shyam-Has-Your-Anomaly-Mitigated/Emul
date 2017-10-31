@@ -7,7 +7,7 @@ need to study instruction sets, and virtual machines:
 * assemble to the ℂomplex computer
   1. optimisation will be done here
   * process c̄ the ℂomplex computer
-  * cross-assemble to ℝeal computers
+  * cross-assemble (self-optimising) to ℝeal computers
     * process c̄ the ℝeal computer
 * interpret c̄ the ℂomplex computer
 * REPL c̄ the ℂomplex computer
