@@ -728,3 +728,5 @@
 	: int = fraction = base = base_1
 	
 	8<< namespaces may just be strings; who needs quotes... ∧∧(=([':':':']: "::"): =([':']: ":"))
+	=('a': ["abc"<0>])
+	
