@@ -522,7 +522,6 @@
 	f(input) = [
 		: function_1(pattern_1<>) = process_1
 		: function_2 = (pattern_2<>)process_2
-		: function_3 = 
 		∴ ∨∨<>(
 			: ∧∧<>(match(input:pattern_1)∴function_1<>(input<>))
 			: ∧∧<>(match(input:pattern_2)∴function_2<>(input<>))
