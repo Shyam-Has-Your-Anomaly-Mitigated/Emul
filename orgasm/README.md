@@ -1,3 +1,5 @@
+# O R G Arnold Schwarzenegger Machine
+
 need to study instruction sets, and virtual machines:
 * [ASIP, CISC, RISC, EDGE (TRIPS), VLIW (EPIC), MISC, OISC, NISC, ZISC, Comparison](https://en.wikipedia.org/wiki/Template:CPU_technologies)
 
@@ -13,3 +15,5 @@ need to study instruction sets, and virtual machines:
 
 need to find the files with my notes; that was a long time ago...
 <br>some"-thing" about `.dna` files, and stuff...
+
+lets face it, the ℂomplexity will probably just be lists...
