@@ -17,3 +17,6 @@ need to find the files with my notes; that was a long time ago... (I think it's 
 <br>some"-thing" about `.dna` (probably configuration) & `.cum` (probably language) files, and stuff... (pretty sure there were more file types...)
 
 lets face it, the ℂomplexity will probably just be lists...
+
+## Arnold Schwarzenegger Machine
+*this is the ℂomplex computer*
