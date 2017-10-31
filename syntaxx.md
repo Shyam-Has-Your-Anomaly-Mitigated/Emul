@@ -679,3 +679,15 @@
 		8<< https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs
 		8<< probably unrelated...
 	>8
+	
+	: (pattern_1<>)[(pattern_a<>)[process<>](input_a<>)<>](input_1<>)
+	: ["abc"()<>] 8<< abc ...the instructions from namespace("abc") get dexed into the box
+	: ["abc"()<>]() 8<< abc() ...IDK about ["abc"()<>()] though
+	8<< need a way to coerce a namespace into a string...
+	: abc 8<< [abc<>]
+	8<< but constant functions means a namespace can only...
+	8<< actually, IDK if it would be compilable...
+	8<< it's better to coerce a string into a namespace, and then =(namespace:["string"()<>] ...all that matters is string() and namespace() pointing to the same address
+	8<< the base language doesn't even have namespaces; they are no"-thing" more than sugar-coated redundancy
+	8<< the preprocessor can refactor them out
+	8<< after that, just let the optimiser deal with it
