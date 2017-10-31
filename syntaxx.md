@@ -649,11 +649,11 @@
 		]
 		8<< https://en.wikipedia.org/wiki/Namasudra
 		: namaśūdra = [
-			: "end user"
+			: "maintenance programmer"
 		]
 		8<< https://en.wikipedia.org/wiki/Chandala
 		: caṇḍāla = [
-			: "maintenance programmer"
+			: "end user"
 		]
 
 		8<< https://en.wikipedia.org/wiki/Ashrama_(stage)
