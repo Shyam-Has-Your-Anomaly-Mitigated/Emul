@@ -19,4 +19,4 @@ need to find the files with my notes; that was a long time ago... (I think it's 
 lets face it, the ℂomplexity will probably just be lists...
 
 ## Arnold Schwarzenegger Machine
-*this is the ℂomplex computer*
+*this is the ℂomplex computer; yes it's `asm`...*
