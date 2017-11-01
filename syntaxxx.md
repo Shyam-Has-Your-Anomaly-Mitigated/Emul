@@ -52,3 +52,7 @@
 	8<< no; I guess base language can just be pure c̄ no mantras by default...but need asm[]...IDK...SEP field for now...
 	8<< 100% configurable; at least for syntactic representation...possibly every"-thing" else too
 	8<< my ===[] will return true [[]] or false []; no need to throw bugs at the user, but it can throw warnings...which can be disabled
+
+	: ===["&&": ===]
+	8<< it does return true/false; so it makes sense
+	8<< but IDK; I think there's more than one "and" in maths/logic/whatever...I just cannot remember what it is, and it may just be based on some other programming language
