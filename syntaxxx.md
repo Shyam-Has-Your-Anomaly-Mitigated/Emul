@@ -49,4 +49,5 @@
 	: ===[3: mantra]
 	: 3[] 8<< I see no"-thing" fawlty with this?
 	8<< these mantras are base language; but the data types are not
+	8<< no; I guess base language can just be pure c̄ no mantras by default...but need asm[]...IDK...SEP field for now...
 	
