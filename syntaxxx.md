@@ -10,4 +10,6 @@
 	8<< Oh, right; I just thought of what I forgot in syntaxx.md
 	===["namespace": box]
 	8<< we can change the name later
+	8<< namespaces are sugar anyway; or whatever
+	8<< this language just became fully 100% functional!!! :D
 	mantra = [:a:b:c:d:e:f:g∴return∵reason]
