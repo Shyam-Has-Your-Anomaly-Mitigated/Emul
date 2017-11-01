@@ -757,6 +757,7 @@
 		boxing (as in you need boxing lessons to become a box; aka hacker, but we box the problem into submission)
 		
 		JAB (Just Another Boxer)
+		ℝeal Boxers use Shyamscript (instead of sigmatism)
 
 		<>
 		tiping the box over; <> rhombus is a rotated box, to tip the contents out
