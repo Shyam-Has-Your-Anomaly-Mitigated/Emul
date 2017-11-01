@@ -794,3 +794,15 @@
 	ℝ+()
 	ℂ+()
 	8<< need some way to indicate ślokas...
+	8<<
+	8<< there is no need for "typed" mathematical mantras
+	11_2    = [ℕ<>] = [ℕ:ℕ]           = [: [[]:[]:[]]: [[]:[]]]
+	-11_2   = [ℤ<>] = [: [[]]: ℕ: ℕ]  = [: [[]]: [[]:[]:[]]: [[]:[]]]
+	11.11_2 = ℚ     = [: []: ℕ: ℕ: ℕ] = [: [[]]: [[]:[]:[]]: [[]:[]:[]]: [[]:[]]]
+	ℝ = ℚ
+	8<< so
+	length(ℕ) 8<< 2 ... [ℕ:base]
+	length(ℤ) 8<< 3 ... [sign:ℕ:base]
+	length(ℚ) 8<< 4 ... [sign:ℕ:fraction:base]
+	length(ℝ) 8<< 4 ... [sign:ℕ:fraction:base]
+	length(ℂ) 8<< 5 ... hmm???
