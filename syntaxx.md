@@ -861,3 +861,7 @@
 	8<< that makes no sense
 	8<< () to recite the mantra & () as a namespace; how to () other namespaces, when () is the namespace?
 	8<< lqtm...
+	
+	8<< I'm sure there is a reason not to do this
+	{pattern<>}[mantra<>][input<>][flow<>]
+	8<< looks like you could prescope; hmm, I'll think about it...
