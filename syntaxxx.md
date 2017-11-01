@@ -72,5 +72,37 @@
 	8<< missing delimiters won't throw bugs at the user; it will just parameterise the list #BitchOfALanguage
 	8<< unless there's fancy patterns involved... (I could <pattern<>>it instead; but I won't)
 
-	[a:b:c][]["abc"<>] 8<< =[a:"a"] & =[b:"b"] & =[c:"c"]
+	: [a:b:c][]["abc"<>] 8<< =[a:"a"] & =[b:"b"] & =[c:"c"]
 	8<< every"-thing" is a list; but you could argue 'a' is also a list
+	8<< hmm... "abc" vs ["a":"b":"c"]
+	8<< I guess there is nothing wrong with scalars, as long as they are boxed
+	8<< nāma is a box; that goes for parameters
+	
+	: {a:b:c}f["abc"<>]
+	: {a:b:c}f['a':'b':'c']
+	: f[]
+	8<< if there are no parameters
+	: f[][flow<>]
+	
+	8<< nāma is a box, no matter what
+	8<< I need to sleep...
+	8<< I ℝeally don't like single values
+	8<< but []<> & [] & [[]] & ETC are a single values
+
+	: f"abc"
+	8<< I think I already did that
+	
+	8<< it's confusing to
+	: "f"[]
+	: @["f"]<>[]
+	
+	8<< look; just focus on mantras accepting [lists<>], and returning [lists<>]
+	8<< it doesn't matter if you can put single values in a list; that is the point of a list
+	: =[['a':'b':'c']: "abc"]
+	: =[f['a']: f"a"]
+	8<< so the important part is
+	: {pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
+	8<< [process<>] is the only mandatory part
+	8<< [overflow<>] depends on [flow<>] depends on [underflow<>] depends on [input<>] depends on [process<>]
+	8<< [input<>] is [] if {pattern<>} is missing
+
