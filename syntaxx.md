@@ -775,4 +775,13 @@
 		8<< it's not that big
 		: [[∴÷([[]:[]:[]:[]])]]
 		8<< still not that big
+		
+		the only reason I can think of for starting at zero comes from loops
+		; max = 10
+		; for(i = 0; i<max; ++i)
+		but it could be
+		; max = 10
+		; for(i = 1; i<=max; ++i)
+		so it's not an excuse
+		...as for indexing?
 	>8
