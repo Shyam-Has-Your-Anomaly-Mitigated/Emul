@@ -872,4 +872,4 @@
 	x = [a:b:c]
 	y = [d:e:f:g]
 	{h:t}f x y
-	8<< h=[a], t=[b:c], flow=[d:e:f:g]
+	8<< h=[a], t=[b:c], /.*flow/=[d:e:f:g]
