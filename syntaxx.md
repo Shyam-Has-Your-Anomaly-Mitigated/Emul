@@ -743,3 +743,25 @@
 	: =(print: "abc")
 
 	8<< I need to write a shell using Shyamscript; no more backticks!!! :D
+	
+	8<
+		<>
+		sharp diamond box cutting tool
+		box opener
+		unboxer/unboxing
+		dexing
+		unscoping
+		
+		[scoping]
+
+		<>
+		tiping the box over; <> rhombus is a rotated box, to tip the contents out
+		[]<>
+		this also means Shyamscript is actually a zero base (baseless) language!!! :D
+		
+		8<< regular/rational expressions
+		(match)f(substitution)
+		8<< or
+		(substitution)f(match)
+		8<< hmm; I'll think about it later...
+	>8
