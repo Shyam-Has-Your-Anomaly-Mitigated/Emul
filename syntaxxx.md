@@ -24,3 +24,4 @@
 	8<< I wonder what feminists would prefer; f[boxes<>] or f(balls<>) ...I was wondering why they call it a box; but you put "-thing"s into boxes
 	8<< ℝeal boxers will say "this is a bitch of a language"
 	8<< "I'd box that"; that's what "L-word lace" said
+	: f("Ada"<>)
