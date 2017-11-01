@@ -17,5 +17,5 @@
 	8<< OMG; you can
 	print"string"
 
-	8<< dexing is like a different type of function
+	8<< dexing is like a different type of mantra
 	{{pattern<>}<>}mantra
