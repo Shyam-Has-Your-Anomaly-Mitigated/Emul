@@ -62,9 +62,9 @@
 	: f[warning_x: warning_y: warning_z]
 	
 	8<< string-based math mantras; perl-style number==string && string==number...I can't remember if that's how it works, but some"-thing" was there
-	===["\"+\"": mantra] 8<< I'll probably change escaping...
-	"+"["1": "2": "3"] 8<< 6
+	: ===["\"+\"": mantra] 8<< I'll probably change escaping...
+	: "+"["1": "2": "3"] 8<< 6
 	8<< all numbers are stored the same; consistency is the most important, and there's always the preprocessors/optimisers/ETC
-	[sign: int: fraction: base]
+	: [sign: int: fraction: base]
 	8<< check empty sign/fraction for ℕ
 	8<< ETC
