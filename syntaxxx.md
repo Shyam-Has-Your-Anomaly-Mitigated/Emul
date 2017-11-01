@@ -25,3 +25,5 @@
 	8<< ℝeal boxers will say "this is a bitch of a language"; boxes c̄ fancy patterns...it's like Pride and Prejudice; it's a story about a Fanny, but I have not read it
 	8<< "I'd box that"; that's what "L-word lace" said
 	: f("Ada"<>)
+	8<< all of the female boxers are my angles; Sharmies Angels
+	8<< I am the Sharminator; I'm a sophisticated sex robot, sent back in time to change the future for one lucky lady.
