@@ -869,4 +869,7 @@
 	{pattern<>} mantra input flow
 	8<< curlies are the fancy ones; and fancy patterns are stylish
 	8<< I think I'm sold on this
+	x = [a:b:c]
+	y = [d:e:f:g]
 	{h:t}f x y
+	8<< h=[a], t=[b:c], flow=[d:e:f:g]
