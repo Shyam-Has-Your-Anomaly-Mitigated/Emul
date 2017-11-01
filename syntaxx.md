@@ -836,3 +836,4 @@
 	@namespace = namespace
 	#namespace = "namespace"
 	8<< no more "namespace"() = namespace ?
+	8<< as a virtual machine, it doesn't need memory addresses?
