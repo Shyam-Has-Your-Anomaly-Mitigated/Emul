@@ -16,3 +16,6 @@
 	===[#[mantra]<0>: any"-thing"] 8<< err; namespaces are constant functions, but isn't this just preprocessed? I think a lot of language implementation is just preprocessing...
 	8<< OMG; you can
 	print"string"
+
+	8<< dexing is like a different type of function
+	{{pattern<>}<>}mantra
