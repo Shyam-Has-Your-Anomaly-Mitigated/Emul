@@ -865,3 +865,5 @@
 	8<< I'm sure there is a reason not to do this
 	{pattern<>}[mantra<>][input<>][flow<>]
 	8<< looks like you could prescope; hmm, I'll think about it...
+	8<< alternatively
+	pattern mantra input flow
