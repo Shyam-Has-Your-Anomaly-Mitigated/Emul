@@ -112,5 +112,5 @@
 	: "a"<> 8<< will scope the character
 	: =[[:"a"<>:"b"<>:"c"<>]: "abc"]
 	
-	8<< fine; there can be 'a'
+	8<< fine; there can be 'a'; but you just can't f'a'
 	8<< numbers don't have this problem
