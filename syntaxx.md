@@ -786,3 +786,10 @@
 		so it's not an excuse
 		...as for indexing?
 	>8
+	
+	8<< all math functions will be "typed" (in more ways than one)
+	ℕ+()
+	ℤ+()
+	ℚ+()
+	ℝ+()
+	ℂ+()
