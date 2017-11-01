@@ -29,15 +29,20 @@
 	8<< I am The Sharminator; I'm a sophisticated sex robot, sent back in time to change the future for one lucky lady...but if she wants to be an angel, she must support my harem of angels
 	8<>8
 	8<< lesbians will probably do that alot
-	f 8< >8
+	: f 8< >8
 	8<< not a problem; docommentation
-	f 8 <> 8
+	: f 8 <> 8
 	8<< not a problem; f 8<> 8 ...hmm; could be a problem
-	f 8<> 8
+	: f 8<> 8
 	8<< this will just throw bugs at the user for ambiguity
 	8<< no; comments take precedence
 	8<< https://youtu.be/9ZVwJfkM0Eg
 	
-	===[address: value] 8<< both address & value are lists; but address makes the most sense to be a String
-	@["address":"f"] 8<< [address: f]
-	#[address] 8<< ["address": "a": "b": "c"]
+	: ===[address: mantra] 8<< both address & value are lists; but address makes the most sense to be a String
+	: @["address":"f"] 8<< [address: f]
+	: #[address] 8<< ["address": "a": "b": "c"]
+	8<< string-based addresses can have spaces; but
+	: ===["spaced out": mantra]
+	: @["spaced out"]<0>[] 8<< scoped
+	: @["spaced out"]<0><>[] 8<< unscoped
+	
