@@ -805,7 +805,7 @@
 	length(ℤ) 8<< 3 ... [sign:ℕ:base]
 	length(ℚ) 8<< 4 ... [sign:ℕ:fraction:base]
 	length(ℝ) 8<< 4 ... [sign:ℕ:fraction:base]
-	length(ℂ) 8<< 5 ... hmm???
+	length(ℂ) 8<< 4 ... hmm???
 	
 	fractions are unnatural, but it's really about the ops; I'll also use this to argue 0 as a natural number...
 	0 = []
@@ -813,6 +813,6 @@
 	ℤ = ["-":"∓":"±"]
 	ℚ = ["÷"]
 	R = ["∞"] 8<< ∞ is irrational, right?
-	ℂ = [√(-1)]
+	ℂ = [√(-1)] 8<< this could just be ℂ=R=ℚ; and use symbolics
 	can't use single quotes, no primitives besides []
 	the whole point of this was to say unsigned [ℚ:R:ℂ] cannot be ℕ
