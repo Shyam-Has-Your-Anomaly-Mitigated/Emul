@@ -844,3 +844,20 @@
 	
 	8<< parameters could be moved to the front...
 	(y)(x)f(h:t) 8<< h is the head of x, t is the tail of x, y is the first unknown namespace (positionally/relativity)
+	8<< I don't like this, but it will be configurable
+	8<<
+	8<< I was thinking about attempting to make parameter lists functional
+	()f
+	8<< but realised there would be no place for parameters; unless
+	()f[x]
+	()()f[x][y]
+	8<< no...
+	()[[f<>]<>[x]]
+	namespace[f<>]
+	8<< I don't like where this is going
+	(pattern<>)[mantra<>](input<>)(flow<>)
+	8<< I just realised
+	()[]
+	8<< that makes no sense
+	8<< () to recite the mantra & () as a namespace; how to () other namespaces, when () is the namespace?
+	8<< lqtm...
