@@ -827,3 +827,6 @@
 	8<< box your instructional mantras/ślokas/ETC
 	8<< I'm boxing
 	8<< I'm boxing mantras/ślokas/ETC
+	
+	8<< problem solving requires meditation
+	8<< processing requires reciting/chanting/ETC
