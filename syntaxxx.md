@@ -19,3 +19,5 @@
 
 	8<< dexing is like a different type of mantra
 	: {{pattern<>}<>}[process<>]
+
+	8<< I think the reason against f[] is because mathematicians use f(); but that's just a silly reason
