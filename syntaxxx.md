@@ -45,4 +45,8 @@
 	: ===["spaced out": mantra]
 	: @["spaced out"]<0>[] 8<< scoped
 	: @["spaced out"]<0><>[] 8<< unscoped
+	8<< number-based addresses
+	: ===[3: mantra]
+	: 3[] 8<< I see no"-thing" fawlty with this?
+	8<< these mantras are base language; but the data types are not
 	
