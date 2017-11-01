@@ -58,3 +58,4 @@
 	8<< but IDK; I think there's more than one "and" in maths/logic/whatever...I just cannot remember what it is, and it may just be based on some other programming language
 
 	8<< warnings can throw bugs at the user; but not by default
+	: f[warning_x: warning_y: warning_z]
