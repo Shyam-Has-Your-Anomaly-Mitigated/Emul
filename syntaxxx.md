@@ -59,3 +59,10 @@
 
 	8<< warnings can throw bugs at the user; but not by default
 	: f[warning_x: warning_y: warning_z]
+	
+	8<< string-based math mantras; perl-style number==string && string==number...I can't remember if that's how it works, but some"-thing" was there
+	"+"("1": "2": "3") 8<< 6
+	8<< all numbers are stored the same
+	[sign: int: fraction: base]
+	8<< check empty sign/fraction for ℕ
+	8<< ETC
