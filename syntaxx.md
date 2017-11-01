@@ -4,7 +4,7 @@
 		8< multi comments >8
 		8<< single comments; for docommentation
 		; single comments means s/:/;/ & s/;/:/; for text editing
-		;; single comments; for "put the boxes I asked for, here"
+		;; single comments; for "put the boxes I asked for, here" ...this is more of a convention, than any"-thing"
 
 		8<< [box]<pointer>(parameter); process/follow a list of instructions [...](...) or [[...]<...>](...)
 		: [list]<dex>(input)
