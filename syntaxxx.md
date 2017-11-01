@@ -70,4 +70,4 @@
 	8<< ETC
 	
 	8<< missing delimiters won't throw bugs at the user; it will just parameterise the list #BitchOfALanguage
-	8<< unless there's fancy patterns involved...
+	8<< unless there's fancy patterns involved... (I could <pattern<>>it instead; but I won't)
