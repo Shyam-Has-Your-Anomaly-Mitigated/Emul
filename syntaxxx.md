@@ -21,3 +21,4 @@
 	: {{pattern<>}<>}[process<>]
 
 	8<< I think the reason against f[] is because mathematicians use f(); but that's just a silly reason
+	8<< I wonder what feminists would prefer; f[boxes<>] or f(balls<>) ...I was wondering why they call it a box; but you put "-thing"s into boxes
