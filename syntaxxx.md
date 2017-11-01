@@ -18,4 +18,4 @@
 	print"string"
 
 	8<< dexing is like a different type of mantra
-	{{pattern<>}<>}mantra
+	{{pattern<>}<>}[mantra<>]
