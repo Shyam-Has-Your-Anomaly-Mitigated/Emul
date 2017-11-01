@@ -114,7 +114,7 @@
 	
 	8<< fine; there can be 'a'; but you just can't f'a'
 	8<< numbers don't have this problem
-	: f'a' 8<< what is the structure of 'a' ?
+	: f'a' 8<< what is the list structure of 'a' ?
 	
 	8<< it's better to force separation; unless they are literal boxes
 	: f[]
