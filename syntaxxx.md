@@ -56,12 +56,14 @@
 	: ===["&&": ===]
 	8<< it does return true/false; so it makes sense
 	8<< but IDK; I think there's more than one "and" in maths/logic/whatever...I just cannot remember what it is, and it may just be based on some other programming language
+	8<< it could be @@ or ## instead of &&...I'll stick with ==== for now
 
 	8<< warnings can throw bugs at the user; but not by default
 	: f[warning_x: warning_y: warning_z]
 	
 	8<< string-based math mantras; perl-style number==string && string==number...I can't remember if that's how it works, but some"-thing" was there
-	"+"("1": "2": "3") 8<< 6
+	===["\"+\"": mantra] 8<< I'll probably change escaping...
+	"+"["1": "2": "3"] 8<< 6
 	8<< all numbers are stored the same; consistency is the most important, and there's always the preprocessors/optimisers/ETC
 	[sign: int: fraction: base]
 	8<< check empty sign/fraction for ℕ
