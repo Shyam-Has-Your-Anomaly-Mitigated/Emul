@@ -795,7 +795,7 @@
 	ℂ+()
 	8<< need some way to indicate ślokas...
 	8<<
-	8<< there is no need for "typed" mathematical mantras
+	8<< there is no need for "typed" mathematical mantras; just measure the length of the parametrick "number"
 	11_2    = [ℕ<>] = [ℕ:ℕ]           = [: [[]:[]:[]]: [[]:[]]]
 	-11_2   = [ℤ<>] = [: [[]]: ℕ: ℕ]  = [: [[]]: [[]:[]:[]]: [[]:[]]]
 	11.11_2 = ℚ     = [: []: ℕ: ℕ: ℕ] = [: [[]]: [[]:[]:[]]: [[]:[]:[]]: [[]:[]]]
