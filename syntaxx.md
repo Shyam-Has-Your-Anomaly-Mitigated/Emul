@@ -768,4 +768,9 @@
 		8<< or
 		: (substitution)f(match)
 		8<< hmm; I'll think about it later...
+		
+		[श्याम]
+		8<< I just put >∞ into a box; so how big is the box?
+		[[∴÷(0)]]
+		8<< it's not that big
 	>8
