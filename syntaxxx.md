@@ -68,3 +68,5 @@
 	: [sign: int: fraction: base]
 	8<< check empty sign/fraction for ℕ
 	8<< ETC
+	
+	8<< missing delimiters won't throw bugs at the user; it will just parameterise the list #BitchOfALanguage
