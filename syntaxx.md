@@ -833,6 +833,6 @@
 	8<< processing requires reciting/chanting/ETC
 	
 	8<< where ever the #namespace is
-	8<< @namespace = namespace
-	8<< #namespace = "namespace"
+	@namespace = namespace
+	#namespace = "namespace"
 	8<< no more "namespace"() = namespace ?
