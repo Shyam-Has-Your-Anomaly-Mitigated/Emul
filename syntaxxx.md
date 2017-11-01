@@ -37,3 +37,7 @@
 	8<< this will just throw bugs at the user for ambiguity
 	8<< no; comments take precedence
 	8<< https://youtu.be/9ZVwJfkM0Eg
+	
+	===[address: value] 8<< both address & value are lists; but address makes the most sense to be a String
+	@["address":"f"] 8<< [address: f]
+	#[address] 8<< ["address": "a": "b": "c"]
