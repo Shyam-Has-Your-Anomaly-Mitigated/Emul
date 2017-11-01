@@ -812,7 +812,7 @@
 	ℕ = ["+":"×"]
 	ℤ = ["-":"∓":"±"]
 	ℚ = ["÷"]
-	R = ["∞"]
+	R = ["∞"] 8<< ∞ is irrational, right?
 	ℂ = [√(-1)]
 	can't use single quotes, no primitives besides []
 	the whole point of this was to say unsigned [ℚ:R:ℂ] cannot be ℕ
