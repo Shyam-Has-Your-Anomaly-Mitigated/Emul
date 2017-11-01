@@ -866,4 +866,5 @@
 	{pattern<>}[mantra<>][input<>][flow<>]
 	8<< looks like you could prescope; hmm, I'll think about it...
 	8<< alternatively
-	pattern mantra input flow
+	{pattern} mantra input flow
+	8<< curlies are the fancy ones; and fancy patterns are stylish
