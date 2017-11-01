@@ -7,7 +7,7 @@
 	: {pattern<>}process input underflow flow overflow 8<< output
 	
 	: process = [
-	8<< Oh, right; I just thought of what I forgot in syntaxx.md
+	8<< oh, right; I just thought of what I forgot in syntaxx.md
 	: ===["namespace": box]
 	8<< we can change the name later
 	8<< namespaces are sugar anyway; or whatever
@@ -22,3 +22,4 @@
 
 	8<< I think the reason against f[] is because mathematicians use f(); but that's just a silly reason
 	8<< I wonder what feminists would prefer; f[boxes<>] or f(balls<>) ...I was wondering why they call it a box; but you put "-thing"s into boxes
+	8<< ℝeal boxers will say "this is a bitch of a language"
