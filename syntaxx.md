@@ -873,3 +873,9 @@
 	y = [d:e:f:g]
 	{h:t}f x y
 	8<< h=[a], t=[b:c], /.*flow/=[d:e:f:g]
+	
+	empty = []
+	=[f[]:f empty]
+	
+	I just thought of some"-thing"; but I forgot
+
