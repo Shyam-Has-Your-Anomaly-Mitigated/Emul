@@ -820,5 +820,5 @@
 	8<< these ślokas return a list of two values
 	∓(1:2:3) 8<< =([-6: 6]: [-(1:2:3):+(1:2:3)])
 	±(1:2:3) 8<< =([6: -6]: [+(1:2:3):-(1:2:3)])
-
+	8<< addition & subtraction is just 0+number & 0-number
 	
