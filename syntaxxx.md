@@ -35,3 +35,5 @@
 	8<< not a problem; f 8<> 8 ...hmm; could be a problem
 	f 8<> 8
 	8<< this will just throw bugs at the user for ambiguity
+	8<< no; comments take precedence
+	8<< https://youtu.be/9ZVwJfkM0Eg
