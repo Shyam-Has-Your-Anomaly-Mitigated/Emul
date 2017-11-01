@@ -806,3 +806,12 @@
 	length(ℚ) 8<< 4 ... [sign:ℕ:fraction:base]
 	length(ℝ) 8<< 4 ... [sign:ℕ:fraction:base]
 	length(ℂ) 8<< 5 ... hmm???
+	
+	fractions are unnatural, but it's really about the ops; I'll also use this to argue 0 as a natural number...
+	0 = []
+	ℕ = ["+":"×"]
+	ℤ = ["-":"∓":"±"]
+	ℚ = ["÷"]
+	R = ["∞"]
+	ℂ = [√(-1)]
+	can't use single quotes, no primitives besides []
