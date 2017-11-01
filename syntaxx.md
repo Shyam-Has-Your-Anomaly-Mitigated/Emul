@@ -821,4 +821,9 @@
 	∓(1:2:3) 8<< =([-6: 6]: [-(1:2:3):+(1:2:3)])
 	±(1:2:3) 8<< =([6: -6]: [+(1:2:3):-(1:2:3)])
 	8<< addition & subtraction is just 0+numbers & 0-numbers
+	8<< most other mantras need you to (h:t) ∓(...) & ±(...); unless you type/box your own
+	
+	8<< I'm going to stop replacing "write" c̄ "type", or even "hack"; and instead use "box"
+	8<< box your instructions
+	8<< I'm boxing
 	
