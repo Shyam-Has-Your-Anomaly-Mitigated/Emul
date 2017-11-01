@@ -106,3 +106,11 @@
 	8<< [overflow<>] depends on [flow<>] depends on [underflow<>] depends on [input<>] depends on [process<>]
 	8<< [input<>] is [] if {pattern<>} is missing
 
+	8<< no
+	: =[["abc"<0>]: "a"]
+	8<< but "abc"<0> does not mean 'a'
+	: "a"<> 8<< will scope the character
+	: =[[:"a"<>:"b"<>:"c"<>]: "abc"]
+	
+	8<< fine; there can be 'a'
+	8<< numbers don't have this problem
