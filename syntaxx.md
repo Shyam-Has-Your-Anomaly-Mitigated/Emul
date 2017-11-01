@@ -809,9 +809,9 @@
 	
 	fractions are unnatural, but it's really about the ops; I'll also use this to argue 0 as a natural number...
 	0 = []
-	ℕ = ["+":"×"]
-	ℤ = ["-":"∓":"±"]
-	ℚ = ["÷"]
+	ℕ = [+:×]
+	ℤ = [-:∓:±]
+	ℚ = [÷]
 	R = ["∞"] 8<< ∞ is irrational, right?
 	ℂ = [√(-1)] 8<< this could just be ℂ=R=ℚ; and use symbolics
 	can't use single quotes, no primitives besides []
