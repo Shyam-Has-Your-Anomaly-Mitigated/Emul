@@ -760,8 +760,8 @@
 		this also means Shyamscript is actually a zero base (baseless) language!!! :D
 		
 		8<< regular/rational expressions
-		(match)f(substitution)
+		: (match)f(substitution)
 		8<< or
-		(substitution)f(match)
+		: (substitution)f(match)
 		8<< hmm; I'll think about it later...
 	>8
