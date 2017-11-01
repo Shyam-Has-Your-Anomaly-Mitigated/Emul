@@ -787,10 +787,10 @@
 		...as for indexing?
 	>8
 	
-	8<< all math functions will be "typed" (in more ways than one)
+	8<< all math mantras will be "typed" (in more ways than one)
 	ℕ+()
 	ℤ+()
 	ℚ+()
 	ℝ+()
 	ℂ+()
-	8<< need some way to indicate a śloka...
+	8<< need some way to indicate ślokas...
