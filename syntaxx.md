@@ -868,3 +868,5 @@
 	8<< alternatively
 	{pattern<>} mantra input flow
 	8<< curlies are the fancy ones; and fancy patterns are stylish
+	8<< I think I'm sold on this
+	{h:t}f x y
