@@ -824,6 +824,6 @@
 	8<< most other mantras need you to (h:t) ∓(...) & ±(...); unless you type/box your own
 	
 	8<< I'm going to stop replacing "write" c̄ "type", or even "hack"; and instead use "box"
-	8<< box your instructions
+	8<< box your instructional mantras/ślokas/ETC
 	8<< I'm boxing
 	
