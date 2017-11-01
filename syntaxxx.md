@@ -71,3 +71,6 @@
 	
 	8<< missing delimiters won't throw bugs at the user; it will just parameterise the list #BitchOfALanguage
 	8<< unless there's fancy patterns involved... (I could <pattern<>>it instead; but I won't)
+
+	[a:b:c][]["abc"<>] 8<< =[a:"a"] & =[b:"b"] & =[c:"c"]
+	8<< every"-thing" is a list; but you could argue 'a' is also a list
