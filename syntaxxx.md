@@ -28,4 +28,10 @@
 	8<< all of the female boxers are my angles; Sharmies Angels
 	8<< I am The Sharminator; I'm a sophisticated sex robot, sent back in time to change the future for one lucky lady...but if she wants to be an angel, she must support my harem of angels
 	8<>8
-	8<< ^ lesbians will probably do that alot
+	8<< lesbians will probably do that alot
+	f 8< >8
+	8<< not a problem; docommentation
+	f 8 <> 8
+	8<< not a problem; f 8<> 8 ...hmm; could be a problem
+	f 8<> 8
+	8<< this will just throw bugs at the user for ambiguity
