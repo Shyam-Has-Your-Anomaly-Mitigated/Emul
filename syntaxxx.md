@@ -12,4 +12,5 @@
 	8<< we can change the name later
 	8<< namespaces are sugar anyway; or whatever
 	8<< this language just became fully 100% functional!!! :D
-	=[mantra: [:a:b:c:d:e:f:g∴return∵reason]]
+	=[: mantra: @["mantra"]: [:a:b:c:d:e:f:g∴return∵reason]]
+	===[#[mantra]<0>] 8<< err; namespaces are constant functions, but isn't this just preprocessed? I think a lot of language implementation is just preprocessing...
