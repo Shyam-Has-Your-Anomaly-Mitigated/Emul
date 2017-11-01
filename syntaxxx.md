@@ -26,4 +26,4 @@
 	8<< "I'd box that"; that's what "L-word lace" said
 	: f("Ada"<>)
 	8<< all of the female boxers are my angles; Sharmies Angels
-	8<< I am The Sharminator; I'm a sophisticated sex robot, sent back in time to change the future for one lucky lady.
+	8<< I am the Sharminator; I'm a sophisticated sex robot, sent back in time to change the future for one lucky lady.
