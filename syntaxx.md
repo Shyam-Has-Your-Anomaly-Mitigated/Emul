@@ -816,3 +816,7 @@
 	ℂ = [√(-1)] 8<< this could just be ℂ=R=ℚ; and use symbolics
 	can't use single quotes, no primitives besides []
 	the whole point of this was to say unsigned [ℚ:R:ℂ] cannot be ℕ
+	
+	8<< these mantras return a list of two values
+	∓(1:2:3) 8<< =([-6: 6]: [[∴-1-2-3]():[∴1+2+3]()])
+	±(1:2:3) 8<< =([6: -6]: [[∴1+2+3]():[∴-1-2-3]()])
