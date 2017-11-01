@@ -815,4 +815,4 @@
 	R = ["∞"]
 	ℂ = [√(-1)]
 	can't use single quotes, no primitives besides []
-	the whole point of this was to say unsigned ℚ cannot be ℕ
+	the whole point of this was to say unsigned [ℚ:R:ℂ] cannot be ℕ
