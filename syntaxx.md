@@ -839,3 +839,5 @@
 	8<< as a virtual machine, it doesn't need memory addresses?
 	@("namespace") = @(["namespace"<>]) 8<< memory addresses are just lists of lists; assemblers/compilers/interpreters/REPLs/ETC can convert, but if you're ["building"<>:"an"<>:"address"<>] it will attract bugs
 	
+	8<< dexing cannot be functional ∵ mantras return lists ∴ you wouldn't be able to unbox
+	[]<>
