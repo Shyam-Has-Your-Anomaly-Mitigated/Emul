@@ -833,7 +833,8 @@
 	8<< processing requires reciting/chanting/ETC
 	
 	8<< where ever the #namespace is
-	@namespace = namespace
+	@"namespace" = namespace
 	#namespace = "namespace"
 	8<< no more "namespace"() = namespace ?
 	8<< as a virtual machine, it doesn't need memory addresses?
+	@"namespace" = @["namespace"<>] 8<< memory addresses are just lists of lists
