@@ -841,3 +841,6 @@
 	
 	8<< dexing cannot be functional ∵ mantras return lists ∴ you wouldn't be able to unbox
 	[]<>
+	
+	8<< parameters could be moved to the front...
+	(y)(x)f(h:t) 8<< h is the head of x, t is the tail of x, y is the first unknown namespace (positionally/relativity)
