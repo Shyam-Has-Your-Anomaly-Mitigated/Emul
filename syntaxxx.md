@@ -157,6 +157,8 @@
 		8<< but every"-thing"s a list to begin with...only under the hood; that's base language; the ℂomplex computer
 		8<< just because Shyamscript allows you to access "datatypes" as if they are lists, doesn't mean you can use them mantrally; as I/O
 		8<< it's like saying; just because you *can* eat meat, doesn't mean you *should*
+		8<< or; just because you *can* kill, doesn't mean you *should*
+		8<< or; just because you *can* exploit, doesn't mean you *should*
 	>8
 
 	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you
