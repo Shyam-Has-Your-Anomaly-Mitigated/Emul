@@ -29,7 +29,7 @@ nāmas
 * plural of nāma
 
 box
-* `[x]`; `x` is `/.*/`
+* `[x]`, where `x` is `/.*/`
 * the ~~most common~~ only type of list; ~~besides~~ {patterns<>} and <dexing<>> are domesticated lists, as they cannot survive in the wild
 * type c̄ keyboard (hack/code/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 
