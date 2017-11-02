@@ -52,9 +52,15 @@ JAB
 
 \*dex & \*dexes & \*dexed & \*dexing & ETC
 * `box<dex<>>`
-* indexing is from the front/start/first/ETC
-* outdexing is from the back/end/last/ETC
+* indexing is <positive<>>; from the front/start/first/ETC
+* outdexing is <negative<>>; from the back/end/last/ETC
 * unscope/unscoped/unscoping
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
+
+### balancing act
+	(curvies)  8<< empty is a circle/ball
+	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
+	[boxies]   8<< empty is a square/box
+	<pointies> 8<< empty is a rhombus/diamond
