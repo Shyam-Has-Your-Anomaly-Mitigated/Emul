@@ -159,6 +159,7 @@
 		8<< it's like saying; just because you *can* eat meat, doesn't mean you *should*
 		8<< or; just because you *can* kill, doesn't mean you *should*
 		8<< or; just because you *can* exploit, doesn't mean you *should*
+		8<< or; just because you *can* be unethical, doesn't mean you *should*
 	>8
 
 	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you
