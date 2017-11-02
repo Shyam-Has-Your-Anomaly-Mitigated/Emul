@@ -25,7 +25,7 @@ mantrally
 * as in "mantrally commutative"
 
 nāma & nāmas & nāmæd & nāmȧng
-* addressable namespace
+* immutable/mantral addressable namespace for boxes; see "box"
 
 box
 * `[x]`, where `x` is `/.*/`
