@@ -151,6 +151,7 @@
 		; [∴ x][][b] 8<< throw bugs at the user
 		: [∴ x][][y: z] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
 		: [∴ x][][y: z: e: b] 8<< throw bugs at the user
+		8<< all nāmas are lists
 		
 		8<< but every"-thing"s a list to begin with...only under the hood; that's base language; the ℂomplex computer
 		8<< just because Shyamscript allows you to access "datatypes" as if they are lists, doesn't mean you can use them mantrally; as I/O
