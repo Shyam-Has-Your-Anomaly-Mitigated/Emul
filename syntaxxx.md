@@ -210,3 +210,6 @@
 	8<< this would solve the halting problem
 	: ===["f": [][f<0>]]
 	8<< zero <dexing<>> can do it
+	8<< positive is indexing
+	8<< negative is outdexing
+	8<< zero is breaking the fourth wall
