@@ -23,11 +23,8 @@ mantrally
 ślokally 
 * as in "mantrally commutative"
 
-nāma
+nāma & nāmas & nāmæd & nāmaing
 * addressable namespace
-
-nāmas
-* plural of nāma
 
 box
 * `[x]`, where `x` is `/.*/`
