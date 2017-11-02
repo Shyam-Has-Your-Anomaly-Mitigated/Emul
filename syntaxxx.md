@@ -169,3 +169,18 @@
 
 	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you...you can always make your own types
 	8<< this is just one of the many reasons for me wanting to study artificial intelligence for my M.IT
+	
+	8<< format
+	: {pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
+	8<< dexing can treat mantras as a list of lists
+	: ===["f": {pattern<>}[process<>]]
+	: =[f<>: {pattern<>}[process<>]]
+	: =[f<1>: [{pattern<>}<>]]
+	: =[f<2>: [process<>]]
+	: =[f<><>: {pattern<>}[process<>]<>] 8<< unscoped
+	8<< all mantras have {pattern<>}
+	: ===["g": {}[instructions<>]]
+	: =[g<>: {}[instructions<>]]
+	: =[g<1>: []]
+	: =[g<2>: [instructions<>]]
+	: =[g<><>: {}[instructions<>]<>] 8<< unscoped
