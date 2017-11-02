@@ -208,3 +208,5 @@
 	: ===["g": [][f]]
 	8<< f[] should be able to access g[]
 	8<< this would solve the halting problem
+	: ===["f": [][f<0>]]
+	8<< zero <dexing<>> can do it
