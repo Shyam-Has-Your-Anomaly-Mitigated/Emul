@@ -199,3 +199,7 @@
 	8<< hmm
 	: nāma<> 8<< unscoping
 	: nāma<non_zero<>> 8<< dexing
+	
+	8<< maybe śloka could be self-correcting mantras?
+	8<< have the wrong datatypes? not to worry; I can chant the mantra you need!
+	8<< chanting the wrong mantra? not to worry; I can manipulate the data types/structures!
