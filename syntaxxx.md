@@ -185,3 +185,4 @@
 	: =[g<2>: [instructions<>]]
 	: =[g<><>: {}[instructions<>]<>] 8<< unscoped
 	8<< it's lazy ∴ all mantras are unrecited/unchanted/unprocessed/uncomputed/uncalculated until it's required; but even then...
+	8<< this means you can learn more about a mantra; it's like recorded history
