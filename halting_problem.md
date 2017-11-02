@@ -28,3 +28,4 @@
 	8<< I need a new mantra that provides the dex of where "I" am in [me<0><>]; for now mahā-mantra
 	: mahā[] 8<< a number; the dex of where "I" am in [me<0><>]
 	: ===["halting_problem.md": [][∴halting_problem.md<0><mahā[]>[]]] 8<< self-referentially recursive?
+	8<< program counter; that's what mahā[] can use
