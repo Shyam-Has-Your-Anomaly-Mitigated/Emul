@@ -50,8 +50,8 @@ JAB
 
 \*dex & \*dexes & \*dexed & \*dexing & ETC
 * `box<dex<>>`
-* indexing is from the front
-* outdexing is from the back
+* indexing is from the front/start/first
+* outdexing is from the back/end/last
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
