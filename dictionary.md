@@ -1,5 +1,6 @@
 mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedia](https://en.wikipedia.org/wiki/Mantra)]
 * `{}[function<>][]`
+* `{}[process<>][]`
 
 mantras
 * plural of mantra
@@ -46,3 +47,11 @@ boxer
 
 JAB
 * Just Another Boxer; do you even box?
+
+\*dex & \*dexes & \*dexed & \*dexing & ETC
+* `box<dex<>>`
+* indexing is from the front
+* outdexing is from the back
+
+\*flow & \*flows & \*flowed & \*flowing & ETC
+* `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>]
