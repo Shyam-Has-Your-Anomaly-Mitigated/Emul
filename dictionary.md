@@ -1,7 +1,7 @@
 mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedia](https://en.wikipedia.org/wiki/Mantra)]
 * `{}[function<>][]`
 * `{}[process<>][]`
-* a computational box
+* a computational box; see "box"
 
 mantras
 * plural of mantra
