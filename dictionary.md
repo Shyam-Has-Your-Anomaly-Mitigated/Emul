@@ -2,7 +2,7 @@ mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedi
 * function()
 
 śloka (shloka) [: [wiktionary](https://en.wiktionary.org/wiki/shloka#English): [wikipedia](https://en.wikipedia.org/wiki/Shloka)]
-* commutative mantra
+* commutative mantra; named parameters don't count
 
 nāma
 * addressable namespace
