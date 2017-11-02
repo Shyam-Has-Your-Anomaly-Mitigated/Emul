@@ -62,6 +62,7 @@ JAB
 * `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
 
 ℂomputer
+* ℂomplex computer
 * virtual machine
 
 ### balancing act
