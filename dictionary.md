@@ -69,6 +69,15 @@ c̄
 * with (English; medicine...usually used by doctors, I guess)
 * cum (Latin; means "with" in English)
 
+ℝ
+* ℝeality
+
+ℂ
+* ℂomplexity
+
+ℕ
+* ℕaturality; pertaining to ℕature
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
