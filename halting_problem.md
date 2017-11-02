@@ -7,7 +7,7 @@
 	8<< circular recursivity; I think there's an unsolved problem in mathematics where something like this happens...but I guess it's just self-referential recursivity in disguise
 	: ===["a": [∴ b]]
 	: ===["b": [∴ a]]
-	8<< that unsolved mathematical problem is just a non-halting mantra
+	8<< that unsolved mathematical problem is just a non-halting mantra...I guess I need to box a mantra to prove that, to prove this (what I'm doing in this file; attempting to solve the halting problem)
 	: ===["a": [∴ b]]
 	: ===["b": [∴ c]]
 	: ===["c": [∴ a]]
