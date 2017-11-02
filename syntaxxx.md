@@ -216,6 +216,7 @@
 	8<< zero is breaking the fourth wall
 	
 	8<< see halting_problem.md
+	8<< it has the new mahā[] mantra that uses the ℂomputational program counter
 
 	: [pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
 	: pattern process input underflow flow overflow 8<< output
