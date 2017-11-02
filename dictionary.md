@@ -32,7 +32,7 @@ box
 * the ~~most common~~ only type of list; ~~besides~~ {patterns<>} and <dexing<>> are domesticated lists, as they cannot survive in the wild
 * type c̄ keyboard (hack/code/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 * scope/scoped/scoping
-* (ℂomplex/ℝeal) computer; ℂomputer
+* (ℂomplex/ℝeal) computer
 
 boxes
 * plural of box
@@ -60,6 +60,9 @@ JAB
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
+
+ℂomputer
+* virtual machine
 
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
