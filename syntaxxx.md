@@ -11,7 +11,7 @@
 	: ===["namespace": box]
 	8<< we can change the name later
 	8<< namespaces are sugar anyway; or whatever
-	8<< this language just became fully 100% functional!!! :D
+	8<< this language just became fully 100% mantral!!! :D
 	: =[: process: @["process"]: [:a:b:c:d:e:f:g∴return∵reason]]
 	: ===[#[process]<0>: any"-thing"] 8<< err; namespaces are mantras, but isn't this just preprocessed? I think a lot of language implementation is just preprocessing...
 	8<< OMG; you can
@@ -125,3 +125,37 @@
 	8<< unboxing is box<>, and boxing is [dex<>]
 	
 	: {/input/substitution/}f[input<>]
+	
+	8<< the whole "eveery\"-thing\"s a list" ideo
+	8<
+		8<< mantras return a single list
+		: [∴ [3]] 8<< [3]
+		: [∴ 3] 8<< throw bugs at the user
+		8<< mantras accept a single list as input
+		: ===["y": [3]]
+		: {x}[∴ x][y<>] 8<< =[x: y: [3]] ... x is the [input<>] list
+		8<< alternatively
+		: ===["y": [3:2:1]]
+		: {h:t}[∴ x][y<>] 8<< ∧∧[=[h: [3]]: =[t: [2:1]]] ... [h<>:t<>] is the [input<>] list
+		8<< alternatively
+		: ===["y": [1:2:3:4:5:6:7:8:9:10]]
+		: {a:b:c:d:e:f:g}[∴ x][y<>] 8<< ∧∧[=[a: [1]]: =[b: [2]]: =[c: [3]]: =[d: [4]]: =[e: [5]]: =[f: [6]]: =[g: [7:8:9:10]]] ... [a<>:b<>:c<>:d<>:e<>:f<>:g<>] is the [input<>] list
+		8<< and then there's flow
+		: ===["y": [3]]
+		: ===["z": "3"]
+		: ===["e": '3'] 8<< err ... UNIX/TLA
+		" ===["b": 3] 8<< bug ... UNIX/TLA
+		: [∴ x][][y] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
+		: [∴ x][][z] 8<< =[x: z: "3"] ... x is the first (positional) from the [flow<>] list
+		; [∴ x][][e] 8<< throw bugs at the user
+		; [∴ x][][b] 8<< throw bugs at the user
+		: [∴ x][][y: z] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
+		: [∴ x][][y: z: e: b] 8<< throw bugs at the user
+		
+		8<< but every"-thing"s a list to begin with...only under the hood; that's base language; the ℂomplex computer
+		8<< just because Shyamscript allows you to access "datatypes" as if they are lists, doesn't mean you can use them mantrally; as I/O
+		8<< it's like saying; just because you *can* eat meat, doesn't mean you *should*
+	>8
+
+	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you
+	8<< this is just one of the many reasons for me wanting to study artificial intelligence for my M.IT
