@@ -9,9 +9,12 @@ nāma
 
 box
 * the most common type of list; besides {patterns<>} and <dexing<>>
+* type c̄ keyboard (hack/code/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 
 boxing
+* placing into a box
 * typing c̄ keyboard (hacking/coding/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 
 boxed
+* placed into a box
 * typed c̄ keyboard (hacked/coded/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
