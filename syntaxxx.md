@@ -144,7 +144,7 @@
 		: ===["y": [3]]
 		: ===["z": "3"]
 		: ===["e": '3'] 8<< err ... UNIX/TLA
-		" ===["b": 3] 8<< bug ... UNIX/TLA
+		: ===["b": 3] 8<< bug ... UNIX/TLA
 		: [∴ x][][y] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
 		: [∴ x][][z] 8<< =[x: z: "3"] ... x is the first (positional) from the [flow<>] list
 		; [∴ x][][e] 8<< throw bugs at the user
