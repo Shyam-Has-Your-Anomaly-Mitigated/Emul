@@ -204,7 +204,7 @@
 	8<< have the wrong datatypes? not to worry; I can chant the mantra you need!
 	8<< chanting the wrong mantra? not to worry; I can manipulate the data types/structures!
 	
-	8<< the next "-thing" will be to access the; hmm...
+	8<< the next "-thing" will be to access the; hmm... https://en.wikipedia.org/wiki/Template:Flatland
 	: ===["g": [][f]]
 	8<< f[] should be able to access g[]
 	8<< this would solve the halting problem
