@@ -65,6 +65,10 @@ JAB
 * ℂomplex computer
 * virtual machine
 
+c̄
+* with (English; medicine...usually used by doctors, I guess)
+* cum (Latin)
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
