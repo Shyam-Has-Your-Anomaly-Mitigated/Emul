@@ -162,5 +162,5 @@
 		8<< or; just because you *can* be unethical, doesn't mean you *should*
 	>8
 
-	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you
+	8<< all numbers are equal ∵ the optimiser should "understand" your program enough to do subtyping for you...you can always make your own types
 	8<< this is just one of the many reasons for me wanting to study artificial intelligence for my M.IT
