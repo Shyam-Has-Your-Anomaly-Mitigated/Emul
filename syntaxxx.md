@@ -198,7 +198,7 @@
 	: =[nāma<dex<>>: [a:b:c]<dex<>>]
 	8<< hmm
 	: nāma<> 8<< unscoping
-	: nāma<non_zero<>> 8<< dexing
+	: nāma<non_zero<>> 8<< dexing...still/and/also/ETC unscoping
 	
 	8<< maybe śloka could be self-correcting mantras?
 	8<< have the wrong datatypes? not to worry; I can chant the mantra you need!
