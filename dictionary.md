@@ -6,3 +6,12 @@ mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedi
 
 nāma
 * addressable namespace
+
+box
+* the most common type of list; besides {patterns<>} and <dexing<>>
+
+boxing
+* typing c̄ keyboard (hacking/coding/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
+
+boxed
+* typed c̄ keyboard (hacked/coded/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
