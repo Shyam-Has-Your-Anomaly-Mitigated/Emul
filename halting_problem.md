@@ -7,6 +7,10 @@
 	8<< circular recursivity; I think there's an unsolved problem in mathematics where something like this happens...but I guess it's just self-referential recursivity in disguise
 	: ===["a": [∴ b]]
 	: ===["b": [∴ a]]
+	8<<
+	: ===["a": [∴ b]]
+	: ===["b": [∴ c]]
+	: ===["c": [∴ a]]
 	
 	8<< more on <zero<>> dexing
 	: ===["h": [][g]]
