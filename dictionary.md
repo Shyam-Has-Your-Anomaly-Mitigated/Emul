@@ -61,7 +61,7 @@ JAB
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
 
-ℂomputer
+ℂompute & ℂomputes & ℂomputed & ℂomputing & ℂomputer & ℂomputers & ℂomputation & ℂomputations & ℂomputational & ETC
 * ℂomplex computer
 * virtual machine
 
