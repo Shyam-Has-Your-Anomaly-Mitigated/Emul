@@ -34,6 +34,9 @@ box
 * the ~~most common~~ only type of list; ~~besides~~ {patterns<>} and <dexing<>> are domesticated lists, as they cannot survive in the wild
 * type c̄ keyboard (hack/code/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 
+boxes
+* plural of box
+
 boxing
 * placing into a box
 * typing c̄ keyboard (hacking/coding/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
@@ -44,6 +47,7 @@ boxed
 
 boxer
 * a Shyamscript user; can you even box? I'll box some boxing lessons for you; after I box a Shyamscript implementation...
+* one who boxes
 
 JAB
 * Just Another Boxer; do you even box?
