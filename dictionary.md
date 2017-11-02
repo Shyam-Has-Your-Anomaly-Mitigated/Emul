@@ -53,8 +53,8 @@ JAB
 
 \*dex & \*dexes & \*dexed & \*dexing & ETC
 * `box<dex<>>`
-* indexing is <positive<>>; from the front/start/first/ETC
-* outdexing is <negative<>>; from the back/end/last/ETC
+* indexing is `<positive<>>`; from the front/start/first/ETC
+* outdexing is `<negative<>>`; from the back/end/last/ETC
 * unscope/unscoped/unscoping
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
