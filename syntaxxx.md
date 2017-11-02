@@ -126,7 +126,7 @@
 	
 	: {/input/substitution/}f[input<>]
 	
-	8<< the whole "every\"-thing\"s a list" ideo
+	8<< the whole "every\"-thing\"s a list" idea
 	8<
 		8<< mantras return a single list
 		: [∴ [3]] 8<< [3]
