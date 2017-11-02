@@ -1,6 +1,6 @@
 mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedia](https://en.wikipedia.org/wiki/Mantra)]
-* `{}[function<>][]`
-* `{}[process<>][]`
+* `[][function<>][]`
+* `[][process<>][]`
 * a computational box
 
 mantras
@@ -29,7 +29,7 @@ nāma & nāmas & nāmæd & nāmȧng
 
 box
 * `[x]`, where `x` is `/.*/`
-* the ~~most common~~ only type of list; ~~besides~~ {patterns<>} and <dexing<>> are domesticated lists, as they cannot survive in the wild
+* the ~~most common~~ only type of list; ~~besides~~ `[patterns<>]` and `<dexes<>>` are domesticated lists, as they cannot survive in the wild
 * type c̄ keyboard (hack/code/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 * scope/scoped/scoping
 * (ℂomplex/ℝeal) computer
@@ -59,7 +59,7 @@ JAB
 * unscope/unscoped/unscoping
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
-* `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
+* `[pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
 
 ℂompute & ℂomputes & ℂomputed & ℂomputing & ℂomputer & ℂomputers & ℂomputation & ℂomputations & ℂomputational & ETC
 * ℂomplex computer
