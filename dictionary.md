@@ -40,3 +40,9 @@ boxing
 boxed
 * placed into a box
 * typed c̄ keyboard (hacked/coded/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
+
+boxer
+* a Shyamscript user
+
+JAB
+* Just Another Boxer
