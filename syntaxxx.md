@@ -147,11 +147,14 @@
 		: ===["b": 3] 8<< bug ... UNIX/TLA
 		: {}[∴ x][][y] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
 		: {}[∴ x][][z] 8<< =[x: z: "3"] ... x is the first (positional) from the [flow<>] list
-		; {}[∴ x][][[e]] 8<< =[x: [e]: [3]] ... x is the first (positional) from the [flow<>] list
-		; {}[∴ x][][[b]] 8<< =[x: [b]: "3"] ... x is the first (positional) from the [flow<>] list
+		: {}[∴ x][][[e]] 8<< =[x: [e]: [3]] ... x is the first (positional) from the [flow<>] list
+		: {}[∴ x][][[b]] 8<< =[x: [b]: "3"] ... x is the first (positional) from the [flow<>] list
 		: {}[∴ x][][y: z] 8<< =[x: y: [3]] ... x is the first (positional) from the [flow<>] list
 		: {}[∴ x][][y: z: e: b] 8<< throw bugs at the user
 		: {}[∴ x][][y: z: [e]: [b]] 8<< don't throw bugs at the user
+		: ===["flow": [[3]:[2:1]]]]
+		: {}[∴ x][][flow<>] 8<< =[x: flow<1>: [3]]
+		; {}[∴ x][][3] 8<< throw bugs at the user
 		8<< all nāmas are lists
 		8<< it's also better practice to {}f so other users know you've boxed a mantra
 		
