@@ -1,5 +1,5 @@
 mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedia](https://en.wikipedia.org/wiki/Mantra)]
-* [function<>][]
+* `[function<>][]`
 
 mantras
 * plural of mantra
