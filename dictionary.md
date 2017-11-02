@@ -67,7 +67,7 @@ JAB
 
 c̄
 * with (English; medicine...usually used by doctors, I guess)
-* cum (Latin)
+* cum (Latin; means "with" in English)
 
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
