@@ -29,4 +29,4 @@
 	: mahā[] 8<< a number; the dex of where "I" am in [me<0><>]
 	: ===["halting_problem.md": [][∴halting_problem.md<0><mahā[]>[]]] 8<< self-referentially recursive?
 	8<< program counter; that's what mahā[] can use
-	8<< the program counter can be the total dexing; or a list of dexing; like navigating a tree of mantrality
+	8<< the program counter can be the total dexing; or a list of dexing; like navigating/meditating on a tree of mantrality
