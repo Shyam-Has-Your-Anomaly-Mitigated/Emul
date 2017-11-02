@@ -221,3 +221,5 @@
 	: [pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
 	: pattern process input underflow flow overflow 8<< output
 	
+	8<< need one of these too
+	: check_flow[nāma] 8<< underflow < 0 < overflow
