@@ -24,3 +24,5 @@
 	8<< no, I think they are the right way; but you have to give h[] a call...
 	8<<
 	8<< zero dexing can also be used with @[] & #[]
+
+	8<< I need a new mantra that provides the dex of where "I" am in [me<0><>]
