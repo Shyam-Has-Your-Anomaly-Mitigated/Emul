@@ -54,4 +54,4 @@ JAB
 * outdexing is from the back
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
-* `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>]
+* `{pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>]`
