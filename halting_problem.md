@@ -31,3 +31,7 @@
 	: [][∴halting_problem.md<0><mahā[]>[]] 8<< self-referentially recursive?
 	8<< program counter; that's what mahā[] can use
 	8<< the program counter can be the total dexing; or a list of dexing; like navigating/meditating on a tree of mantrality
+
+	8<< throw RNG into the mantras c̄ the unsolved problems in mathematics; and it's more challenging
+
+	8<< I'll solve all of these after I get an implementation; unless I do it before...
