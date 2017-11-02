@@ -191,3 +191,11 @@
 	8<< if {patterns<>} are mandatory then
 	: [][f<>]
 	8<< now we have a single type of [list<>]...with <dexing<>>
+
+	8<< but that doesn't make sense
+	: ===["nāma": [a<>][b<>][c<>]]
+	: =[nāma<dex<>>: [[a<>]:[b<>]:[c<>]]<dex<>>]
+	: =[nāma<dex<>>: [a:b:c]<dex<>>]
+	8<< hmm
+	: nāma<> 8<< unscoping
+	: nāma<non_zero<>> 8<< dexing
