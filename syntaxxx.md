@@ -212,4 +212,5 @@
 	8<< zero <dexing<>> can do it
 	8<< positive is indexing
 	8<< negative is outdexing
+	8<< empty is dexing
 	8<< zero is breaking the fourth wall
