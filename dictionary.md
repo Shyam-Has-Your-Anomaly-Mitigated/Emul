@@ -23,7 +23,7 @@ mantrally
 ślokally 
 * as in "mantrally commutative"
 
-nāma & nāmas & nāmæd & nāmaing
+nāma & nāmas & nāmæd & nāmȧng
 * addressable namespace
 
 box
