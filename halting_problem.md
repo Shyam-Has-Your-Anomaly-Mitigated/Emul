@@ -25,4 +25,5 @@
 	8<<
 	8<< zero dexing can also be used with @[] & #[]
 
-	8<< I need a new mantra that provides the dex of where "I" am in [me<0><>]
+	8<< I need a new mantra that provides the dex of where "I" am in [me<0><>]; for now mahā-mantra
+	: mahā[] 8<< a number; the dex of where "I" am in [me<0><>]
