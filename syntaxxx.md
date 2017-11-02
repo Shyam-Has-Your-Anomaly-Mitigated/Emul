@@ -220,6 +220,14 @@
 
 	: [pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
 	: pattern process input underflow flow overflow 8<< output
+	8<< I guess nāmas can store boxes side-by-side?
+	: ===["f": [pattern<>][process<>]] 8<< [pattern<>][process<>]
+	: f[input<>] 8<< [pattern<>][process<>][input<>]
+	: f input 8<< [pattern<>][process<>][input<>]
+	8<< unless
+	: ===["f": [pattern<>][process<>]] 8<< [[pattern<>][process<>]]
+	: f<>[input<>] 8<< [pattern<>][process<>][input<>]
+	: f <>input 8<< [pattern<>][process<>][input<>]
 	
 	8<< need one of these too
 	: check_flow[nāma] 8<< underflow < 0 < overflow
