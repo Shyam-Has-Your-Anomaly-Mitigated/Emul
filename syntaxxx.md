@@ -214,3 +214,9 @@
 	8<< negative is outdexing
 	8<< empty is dexing
 	8<< zero is breaking the fourth wall
+	
+	8<< see halting_problem.md
+
+	: [pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
+	: pattern process input underflow flow overflow 8<< output
+	
