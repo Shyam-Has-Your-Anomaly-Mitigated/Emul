@@ -42,7 +42,7 @@ boxed
 * typed c̄ keyboard (hacked/coded/ETC); Shyamscript is a language of lists, so every"-thing" that's boxed is a box
 
 boxer
-* a Shyamscript user
+* a Shyamscript user; can you even box? I'll box some boxing lessons for you; after I box a Shyamscript implementation...
 
 JAB
 * Just Another Boxer
