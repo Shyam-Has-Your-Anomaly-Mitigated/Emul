@@ -11,6 +11,7 @@
 	: ===["a": [∴ b]]
 	: ===["b": [∴ c]]
 	: ===["c": [∴ a]]
+	8<< I think there was another/same unsolved maths problem that returns zero, one, or some"-thing"...a halting mantra
 	
 	8<< more on <zero<>> dexing
 	: ===["h": [][g]]
