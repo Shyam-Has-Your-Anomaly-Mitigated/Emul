@@ -243,3 +243,7 @@
 	: type process input underflow flow overflow 8<< output
 	: =[type: [pattern]: [[pattern<>]]]
 	: =[type: [input: underflows<>: flow<>: overflows<>]: [[input<>]: underflows<>: flow<>: overflows<>]]
+	8<< hmm; need return type...
+	: =[type: [input: underflows<>: flow<>: return<>]]
+	8<< this makes no sense...well, it does; but no more positionals
+	8<< IDK; I like overflow...I think it could be useful for metaprogramming in some way
