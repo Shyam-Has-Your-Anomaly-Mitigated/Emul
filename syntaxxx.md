@@ -254,4 +254,6 @@
 	: type process input flow 8<< output
 	8<< may as well just
 	: type process input 8<< output
+	8<< hmm
+	: =[input: [input_1: input_2: input_3]] 8<< input_1 is [pattern<>] from before
 
