@@ -302,7 +302,7 @@
 	8<< the mantra should be self-correcting, and be able to check a <dex<>> from its' <zeroeth<>> dex
 	8<< boxes cannot be side-by-side any more; throw all the bugs you want at the user
 	
-	8<< only initiated boxes are dexable
+	8<< only initiated boxes are dexable; no bugs are thrown at the user, but warnings will be
 	;; box 8<< ; box
 	:: box 8<< : box
 	∴∴ box 8<< ∴ box
