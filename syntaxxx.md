@@ -383,3 +383,7 @@
 		that would be the same "-thing"
 		hmm...
 	>8
+	8<
+		mantras are non-recursive by default
+		nāmas provide a means for self-reference
+	>8
