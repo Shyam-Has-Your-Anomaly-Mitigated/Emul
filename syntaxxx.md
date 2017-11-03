@@ -314,7 +314,9 @@
 	∵ []∵ box
 	8<< IDK; I think it's better to multiply the initiator
 	;; box 8<< ; [; box]
-	:: box 8<< : [: box] ...this is where it ℝeally matters
+	:: box 8<< : [: box]
 	∴∴ box 8<< ∴ [∴ box]
 	∵∵ box 8<< ∵ [∵ box]
-	
+	:∴ box 8<< : [∴ box] ...this is where it ℝeally matters
+	8<< I think I've decided against that notion; the original idea was ::box as :[:box] but that doesn't return :box
+
