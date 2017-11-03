@@ -343,3 +343,8 @@
 	8<< ∵ meta data
 	8<< ∴ escape_out_of_scope_through_fourth_wall ...well, transmit a message to the outside ℝeality
 	: [; "non-returning box"] 8<< ; []
+
+	8<
+		if the ∵[reason<>] is fawlty; ask the caṇḍāla what they want the mantra to do
+		the caṇḍāla can choose to escape to their ℝeality if they aren't a boxing caṇḍāla
+	>8
