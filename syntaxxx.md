@@ -300,5 +300,5 @@
 	
 	8<< now missing initiation will throw bugs at the user; unless...
 	8<< the mantra should be self-correcting, and be able to check a <dex<>> from its' <zeroeth<>> dex
-
+	8<< boxes cannot be side-by-side any more
 
