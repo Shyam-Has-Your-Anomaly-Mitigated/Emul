@@ -266,10 +266,10 @@
 	8<< could make every"-thing" a list
 	: [type; pattern; process; input] 8<< output
 	: ===["f"; [type; pattern; process; input]] 8<< output
-	: [f<1>; f<2>; f<3>; [f<4>; flow]]
-	: [f<1>; f<2>; f<3>; [f<4>: flow]]
-	: [f<1>; f<2>; f<3>; [f<4>∴ flow]]
-	: [f<1>; f<2>; f<3>; [f<4>∵ flow]]
+	: [f<1>; f<2>; f<3>; [f<4><>; flow]]
+	: [f<1>; f<2>; f<3>; [f<4><>: flow]]
+	: [f<1>; f<2>; f<3>; [f<4><>∴ flow]]
+	: [f<1>; f<2>; f<3>; [f<4><>∵ flow]]
 	8<< ; unrecites a mantra
 	8<< : recites a mantra; as a premise
 	8<< ∴ returns a mantra
