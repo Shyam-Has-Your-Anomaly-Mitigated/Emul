@@ -274,5 +274,5 @@
 	8<< : recites a mantra; as a premise
 	8<< ∴ returns a mantra
 	8<< ∵ is just meta data, allow with any unrecited mantras
-	8<< lazy means we can manipulate the [input<>] any time
+	8<< lazy means we can manipulate the [input<>] any time; well, any of the mantra ℝeally...
 
