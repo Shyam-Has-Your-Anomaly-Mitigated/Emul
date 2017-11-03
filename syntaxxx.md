@@ -1,6 +1,6 @@
 	8< multi comments >8
 	8<< single comments; for docommentation
-	; single comments means s/:/;/ & s/;/:/; for text editing
+	; single comments means s/:/;/ & s/;/:/; for text editing ...these are dexable comments (as data)
 	;; single comments; for "put the boxes I asked for, here" ...this is more of a convention, than any"-thing"
 
 	: {pattern<>}[process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
