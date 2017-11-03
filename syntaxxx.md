@@ -323,3 +323,8 @@
 	8<< initiation is dīkṣā
 	===["dīkṣā"; [; ";"; ":"; "∴"; "∵"]] 8<< self-hosted 
 	8<< disciple is śiṣyaḥ; the dex is just the position of the śiṣyaḥ
+	
+	8<< I don't want to store the dīkṣā & śiṣyaḥ as [dīkṣā; śiṣyaḥ]
+	8<< a builtin mantra could return the dīkṣā for an input śiṣyaḥ instead
+	8<< but it's better to force-feed the boxer the ℝeality pill, instead of offering the boxer the ℂomplexity pill
+	8<< it can be configurable instead; give the boxer the option like Morpheus™
