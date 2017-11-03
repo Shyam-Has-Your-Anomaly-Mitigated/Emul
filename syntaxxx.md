@@ -354,3 +354,10 @@
 		; [: mantra]<1><1> 8<< ; ":"
 		; [: mantra]<1><2> 8<< ; [mantra<>]
 	>8
+	8<
+		the script processor will attempt to correct any fawlts
+		...
+		no; missing dīkṣā won't be obvious
+		...
+		actually; maybe with types/inference/ETC
+	>8
