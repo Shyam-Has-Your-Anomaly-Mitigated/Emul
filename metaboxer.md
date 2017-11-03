@@ -1,0 +1,1 @@
+*I'm [planning](https://xkcd.com/927/) to become a formally verified [linguist/grammarian/lexicographer/ETC](https://en.wikipedia.org/wiki/List_of_programming_language_researchers) (metaprogrammer); [WUBBA LUBBA DUB DUB](https://youtu.be/kJa2kwoZ2a4)!!! :D*
