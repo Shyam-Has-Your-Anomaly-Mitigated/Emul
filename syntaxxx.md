@@ -262,5 +262,9 @@
 	: type pattern process input 8<< output
 	8<< or
 	: [type: pattern] process input 8<< output
-	
+	8<<
+	8<< could make every"-thing" a list
+	: [type; pattern; process; input] 8<< output
+	8<< : recites a mantra
+	8<< ; unrecites a mantra
 
