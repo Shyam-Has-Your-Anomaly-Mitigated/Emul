@@ -238,3 +238,8 @@
 	8<< but it is more practical to
 	: nāma["nāma": nāma] 8<< a self-hosted mantra
 	8<< by bringing the most important/significant/relevant/ETC information to the front
+
+	: [type<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
+	: type process input underflow flow overflow 8<< output
+	: =[type: [pattern]: [[pattern<>]]]
+	: =[type: [input: underflows<>: flow<>: overflows<>]]
