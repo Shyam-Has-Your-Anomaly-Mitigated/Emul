@@ -348,3 +348,9 @@
 		if the ∵[reason<>] is fawlty; ask the caṇḍāla what they want the mantra to do
 		the caṇḍāla can choose to escape to their ℝeality if they aren't a boxing caṇḍāla
 	>8
+	8<
+		: mantra 8<< ; reaction
+		; [: mantra]<1> 8<< ; reaction
+		; [: mantra]<1><1> 8<< ; ":"
+		; [: mantra]<1><2> 8<< ; [mantra<>]
+	>8
