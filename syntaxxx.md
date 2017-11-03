@@ -377,4 +377,8 @@
 		[][]
 		I think those are all the combinations you'd need
 		hmm..
+		01
+		0011
+		0101
+		that would be the same "-thing"
 	>8
