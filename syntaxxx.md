@@ -320,3 +320,6 @@
 	:∴ box 8<< : [∴ box] ...this is where it ℝeally matters
 	8<< I think I've decided against that notion; the original idea was ::box as :[:box] but [:box] doesn't ∴box
 
+	8<< initiation is dīkṣā
+	===["dīkṣā"; [; ";"; ":"; "∴"; "∵"]] 8<< self-hosted 
+	8<< disciple is śiṣyaḥ; the dex is just the position of the śiṣyaḥ
