@@ -297,4 +297,6 @@
 	8<< optimal; length is 1
 	: [process] 8<< output
 	8<< boxes, dexes, and initiators will be configurable
+	
+	8<< now missing initiation will throw bugs at the user; unless...
 
