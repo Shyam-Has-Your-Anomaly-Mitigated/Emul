@@ -231,3 +231,5 @@
 	
 	8<< need one of these too
 	: check_flow[nāma] 8<< underflow < 0 < overflow
+	
+	: =[nāma: ===]
