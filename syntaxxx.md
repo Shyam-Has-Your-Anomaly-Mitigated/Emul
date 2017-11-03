@@ -330,3 +330,6 @@
 	8<< it can be configurable instead; give the boxer the option like Morpheus™
 	
 	8<< need to be able to manipulation the dīkṣā...
+	
+	8<< side-by-side boxen; almost every"-thing"s a list...just not dexing
+	":" [mantra<>]
