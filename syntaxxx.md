@@ -242,4 +242,4 @@
 	: [type<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]
 	: type process input underflow flow overflow 8<< output
 	: =[type: [pattern]: [[pattern<>]]]
-	: =[type: [input: underflows<>: flow<>: overflows<>]]
+	: =[type: [input: underflows<>: flow<>: overflows<>]: [[input<>]: underflows<>: flow<>: overflows<>]]
