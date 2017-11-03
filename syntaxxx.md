@@ -299,4 +299,6 @@
 	8<< boxes, dexes, and initiators will be configurable
 	
 	8<< now missing initiation will throw bugs at the user; unless...
+	8<< the mantra should be self-correcting, and be able to check a <dex<>> from its' <zeroeth<>> dex
+
 
