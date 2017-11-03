@@ -247,3 +247,6 @@
 	: =[type: [input: underflows<>: flow<>: return<>]]
 	8<< this makes no sense...well, it does; but no more positionals
 	8<< IDK; I like overflow...I think it could be useful for metaprogramming in some way
+	8<< might as well
+	: [[type_1<>]: [type_2<>]: [type_3<>]][process<>][input_1<>][input_2<>][input3<>] 8<< [output<>]
+	8<< but I like flow
