@@ -328,3 +328,5 @@
 	8<< a builtin mantra could return the dīkṣā for an input śiṣyaḥ instead
 	8<< but it's better to force-feed the boxer the ℝeality pill, instead of offering the boxer the ℂomplexity pill
 	8<< it can be configurable instead; give the boxer the option like Morpheus™
+	
+	8<< need to be able to manipulation the dīkṣā...
