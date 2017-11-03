@@ -287,3 +287,14 @@
 	: reason[]
 	8<< both inputs can be mantras and will return a list of occurrences
 	8<< otherwise they operate from where ever they are chanted
+	
+	8<< typed; length is 4
+	: [type; pattern; process; input] 8<< output
+	8<< untyped; length is 3
+	: [pattern; process; input] 8<< output
+	8<< purely positional; length is 2
+	: [process; input] 8<< output
+	8<< optimal; length is 1
+	: [process] 8<< output
+	8<< initiators will be configurable
+
