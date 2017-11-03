@@ -233,3 +233,7 @@
 	: check_flow[nāma] 8<< underflow < 0 < overflow
 	
 	: =[nāma: ===]
+	8<< it is more literate to
+	: nāma[a_mantra: "like this"]
+	8<< but it is more practical to
+	: nāma["nāma": nāma] 8<< a self-hosted mantra
