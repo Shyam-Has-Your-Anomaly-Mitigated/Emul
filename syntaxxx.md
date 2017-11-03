@@ -342,3 +342,4 @@
 	: mantra 8<< ; result
 	8<< ∵ meta data
 	8<< ∴ escape_out_of_scope_through_fourth_wall ...well, transmit a message to the outside ℝeality
+	: [; "non-returning box"] 8<< ; []
