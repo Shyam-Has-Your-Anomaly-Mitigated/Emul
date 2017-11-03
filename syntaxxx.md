@@ -360,4 +360,13 @@
 		no; missing dīkṣā won't be obvious
 		...
 		actually; maybe with types/inference/ETC
+		
+		a versioning system will be builtin
+		...
+		if a user starts using spaced indentation in a tabbed script; all indentation will be converted to spaces
+		if a user starts using tabbed indentation in a spaced script; all indentation will be converted to tabs
+		...
+		adapt to the user; don't attempt to force the user to adapt...that never works
+		...
+		but the user may want to change their habitses; so it can be configurable, as to whether Shyamscript will adapt, or the user will adapt
 	>8
