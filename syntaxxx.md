@@ -333,3 +333,12 @@
 	
 	8<< side-by-side boxen; almost every"-thing"s a list...just not dexing
 	":" [mantra<>]
+	8<< I mean
+	: ===[";"; ;] 8<< (meta) data
+	: ===[":"; :] 8<< recital
+	: ===["∴"; ∴] 8<< return
+	: ===["∵"; ∵] 8<< reason
+	8<< and
+	: mantra 8<< ; result
+	8<< ∵ meta data
+	8<< ∴ escape_out_of_scope_through_fourth_wall ...well, transmit a message to the outside ℝeality
