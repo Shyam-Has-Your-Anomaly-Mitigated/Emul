@@ -318,5 +318,5 @@
 	∴∴ box 8<< ∴ [∴ box]
 	∵∵ box 8<< ∵ [∵ box]
 	:∴ box 8<< : [∴ box] ...this is where it ℝeally matters
-	8<< I think I've decided against that notion; the original idea was ::box as :[:box] but [:box] doesn't return :box
+	8<< I think I've decided against that notion; the original idea was ::box as :[:box] but [:box] doesn't ∴box
 
