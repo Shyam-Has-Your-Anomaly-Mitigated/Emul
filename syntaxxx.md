@@ -265,6 +265,13 @@
 	8<<
 	8<< could make every"-thing" a list
 	: [type; pattern; process; input] 8<< output
-	8<< : recites a mantra
+	: ===["f"; [type; pattern; process; input]] 8<< output
+	: [f<1>; f<2>; f<3>; [f<4>; flow]]
+	: [f<1>; f<2>; f<3>; [f<4>: flow]]
+	: [f<1>; f<2>; f<3>; [f<4>∴ flow]]
+	: [f<1>; f<2>; f<3>; [f<4>∵ flow]]
 	8<< ; unrecites a mantra
+	8<< : recites a mantra; as a premise
+	8<< ∴ returns a mantra
+	8<< ∵ is just meta data, allow with any unrecited mantras
 
