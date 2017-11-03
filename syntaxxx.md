@@ -370,3 +370,11 @@
 		...
 		but the user may want to change their habitses; so it can be configurable, as to whether Shyamscript will adapt, or the user will be expected to adapt
 	>8
+	8<
+		only need two symbols/glyphs/characters/representations/ETC
+		[]
+		[[]]
+		[][]
+		I think those are all the combinations you'd need
+		hmm..
+	>8
