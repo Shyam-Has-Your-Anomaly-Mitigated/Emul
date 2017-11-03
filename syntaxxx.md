@@ -257,5 +257,7 @@
 	8<< hmm
 	: =[input: [input_1: input_2: input_3]] 8<< input_1 is [input<>] from before
 	: =[type: [type_1: type_2: type_3]] 8<< type_1 is [pattern<>] from before
+	8<< it's not ℝeally types though; just pattern matching...
+	8<< CanFP Slack has some"-thing"; centrifugal types...but IDK what I was on about...I decided against the nāma containing the return type though; well, users can do it, but it's meaningless to Shyamscript
 	
 
