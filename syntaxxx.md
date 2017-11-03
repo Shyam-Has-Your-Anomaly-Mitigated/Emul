@@ -250,3 +250,8 @@
 	8<< might as well
 	: [[type_1<>]: [type_2<>]: [type_3<>]][process<>][input_1<>][input_2<>][input3<>] 8<< [output<>]
 	8<< but I like flow
+	8<< flow is better; you can box all of them together
+	: type process input flow 8<< output
+	8<< may as well just
+	: type process input 8<< output
+
