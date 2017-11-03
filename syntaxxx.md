@@ -237,4 +237,4 @@
 	: nāma[a_mantra: "like this"]
 	8<< but it is more practical to
 	: nāma["nāma": nāma] 8<< a self-hosted mantra
-	8<< by bringing the most relevant information to the front
+	8<< by bringing the most important/significant/relevant/ETC information to the front
