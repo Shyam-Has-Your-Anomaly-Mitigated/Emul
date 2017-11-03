@@ -312,3 +312,9 @@
 	: []: box
 	∴ []∴ box
 	∵ []∵ box
+	8<< IDK; I think it's better to multiply the initiator
+	;; box 8<< ; [; box]
+	:: box 8<< : [: box] ...this is where it ℝeally matters
+	∴∴ box 8<< ∴ [∴ box]
+	∵∵ box 8<< ∵ [∵ box]
+	
