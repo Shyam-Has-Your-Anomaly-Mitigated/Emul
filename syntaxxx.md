@@ -255,5 +255,7 @@
 	8<< may as well just
 	: type process input 8<< output
 	8<< hmm
-	: =[input: [input_1: input_2: input_3]] 8<< input_1 is [pattern<>] from before
+	: =[input: [input_1: input_2: input_3]] 8<< input_1 is [input<>] from before
+	: =[type: [type_1: type_2: type_3]] 8<< type_1 is [pattern<>] from before
+	
 
