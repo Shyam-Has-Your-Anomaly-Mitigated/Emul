@@ -283,3 +283,7 @@
 	8<< need a way to check the delimitation type [; ";"; ":"; "∴"; "∵"]
 	8<< ℝeally need delimiters to be mandatory initiators now
 
+	: mahā[]
+	: reason[]
+	8<< both inputs can be mantras and will return a list of occurrences
+	8<< otherwise they operate from where ever they are chanted
