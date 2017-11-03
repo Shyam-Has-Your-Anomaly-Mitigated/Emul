@@ -270,9 +270,16 @@
 	: [f<1>; f<2>; f<3>; [f<4><>: flow]]
 	: [f<1>; f<2>; f<3>; [f<4><>∴ flow]]
 	: [f<1>; f<2>; f<3>; [f<4><>∵ flow]]
-	8<< ; unrecites a mantra
+	8<< ; unrecites a mantra; meta data
 	8<< : recites a mantra; as a premise
 	8<< ∴ returns a mantra
 	8<< ∵ is just meta data, allow with any unrecited mantras
+	8<<                      ^^^^^ what is that???
 	8<< lazy means we can manipulate the [input<>] any time; well, any of the mantra ℝeally...
+	8<<
+	8<< chant mahā[], meditate back through time to the last chanted mantra, return [∵ reason]
+	: reason[]
+	8<<
+	8<< need a way to check the delimitation type [; ";"; ":"; "∴"; "∵"]
+	8<< ℝeally need delimiters to be mandatory initiators now
 
