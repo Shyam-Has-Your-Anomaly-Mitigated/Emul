@@ -368,5 +368,5 @@
 		...
 		adapt to the user; don't attempt to force the user to adapt...that never works
 		...
-		but the user may want to change their habitses; so it can be configurable, as to whether Shyamscript will adapt, or the user will adapt
+		but the user may want to change their habitses; so it can be configurable, as to whether Shyamscript will adapt, or the user will be expected to adapt
 	>8
