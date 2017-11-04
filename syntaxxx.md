@@ -393,3 +393,4 @@
 	; [∴ [: mantra<>]]<[[; x<>]; [; y<>]; [; z<>]]>
 	8<< or
 	; [∴ [: mantra<>]]<[; x<>]; [; y<>]; [; z<>]>
+	8<< this is for the program counter; to just plug & play
