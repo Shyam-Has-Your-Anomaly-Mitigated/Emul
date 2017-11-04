@@ -402,3 +402,4 @@
 	8<< self-repairing mantras can do a recount post-repairal
 	8<< I'm thinking about Elms' time-travelling debugger; but more intelligent
 	8<< <; []; []> is just <><>
+	8<< I think dexing should be a dīkṣā...
