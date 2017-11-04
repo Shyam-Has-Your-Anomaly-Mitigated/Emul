@@ -397,5 +397,5 @@
 	8<< this is for the program counter; to just plug & play
 	; [: mahāmantra<>]<: [; +++<>; []]> 8<< nāmas won't have input by default
 	8<< mahāmantra is the file; the meta mantra; the mantra of mantras
-	: [; +++<>; []] 8<< program counter function
-	: [; ===<>; ["program_counter": [; +++<>; []]]]
+	: [; +++<>; []] 8<< program counter mantra; non-empty input changes the count
+	: [; ===<>; ["program_count": [; +++<>; []]]]
