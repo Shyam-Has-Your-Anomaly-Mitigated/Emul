@@ -400,3 +400,4 @@
 	: [; +++<>; []] 8<< program counter mantra; non-empty input changes the count
 	: [; ===<>; ["program_count": [; +++<>; []]]]
 	8<< self-repairing mantras can do a recount post-repairal
+	8<< I'm thinking about Elms' time-travelling debugger; but more intelligent
