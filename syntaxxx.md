@@ -399,3 +399,4 @@
 	8<< mahāmantra is the file; the meta mantra; the mantra of mantras
 	: [; +++<>; []] 8<< program counter mantra; non-empty input changes the count
 	: [; ===<>; ["program_count": [; +++<>; []]]]
+	8<< self-repairing mantras can do a recount post-repairal
