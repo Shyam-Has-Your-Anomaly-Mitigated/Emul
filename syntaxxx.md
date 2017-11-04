@@ -387,3 +387,6 @@
 		mantras are non-recursive by default
 		nāmas provide a means for self-reference
 	>8
+	
+	; [∴ mantra<>]<x<>><y<>><z<>>
+	; [∴ mantra<>][[; x<>]; [; y<>]; [; z<>]]
