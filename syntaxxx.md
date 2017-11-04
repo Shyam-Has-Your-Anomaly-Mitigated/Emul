@@ -386,6 +386,7 @@
 	8<
 		mantras are non-recursive by default
 		nāmas provide a means for self-reference
+		nāmas are required for zero dexing
 	>8
 	
 	; [∴ [: mantra<>]]<; x<>><; y<>><; z<>>
