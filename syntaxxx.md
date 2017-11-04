@@ -389,10 +389,10 @@
 		nāmas are required for zero dexing
 	>8
 	
-	: [∴ [: mantra]]<; x<>><; y<>><; z<>>
+	; [: mantra]<; x<>><; y<>><; z<>>
 	8<< should be
-	: [∴ [: mantra]]<; [[; x<>]; [; y<>]; [; z<>]]<>>
+	; [: mantra]<; [[; x<>]; [; y<>]; [; z<>]]<>>
 	8<< or
-	: [∴ [: mantra]]<; [; x<>]; [; y<>]; [; z<>]>
+	; [: mantra]<; [; x<>]; [; y<>]; [; z<>]>
 	8<< this is for the program counter; to just plug & play
-	: [∴ [: mantra]]<: [; +++<>; []]> 8<< nāmas won't have input by default
+	; [: mantra]<: [; +++<>; []]> 8<< nāmas won't have input by default
