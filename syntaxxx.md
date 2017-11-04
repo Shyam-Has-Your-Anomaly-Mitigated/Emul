@@ -395,9 +395,10 @@
 	8<< or
 	; [: mahāmantra<>]<; [; x<>]; [; y<>]; [; z<>]>
 	8<< this is for the program counter; to just plug & play
-	; [: mahāmantra<>]<; [: [; +++<>; []]]<>> 8<< nāmas won't have input by default
+	; [: mahāmantra<>]<; [: [; +++<>; []]]<; []; []>> 8<< nāmas won't have input by default
 	8<< mahāmantra is the file; the meta mantra; the mantra of mantras
 	: [; +++<>; []] 8<< program counter mantra; non-empty input changes the count
 	: [; ===<>; ["program_count": [; +++<>; []]]]
 	8<< self-repairing mantras can do a recount post-repairal
 	8<< I'm thinking about Elms' time-travelling debugger; but more intelligent
+	8<< <; []; []> is just <><>
