@@ -475,3 +475,5 @@
 	8<< dīkṣā has precedence over śiṣyaḥ; so
 	:[;∨.[;[;0]];[:[;∧.[;[;0]];[;<;<<;<=]]:[;∧.[;[;0]];[;>;>>;>=]]]]
 	8<< I just have a habit of putting the spaces after delimiters from commas/(semi)colons/ETC in English
+	8<< I guess users can configure both; since they can always implement the mantras themselves
+	8<< it's just bad practice
