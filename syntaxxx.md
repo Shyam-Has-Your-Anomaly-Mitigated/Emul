@@ -601,6 +601,9 @@
 		a = {∴ b}
 		c = a()
 		c()
+		8<< or
+		a = {∴ b}
+		a()()
 		8<< is better than
 		a = {∴ b()}
 		a()
