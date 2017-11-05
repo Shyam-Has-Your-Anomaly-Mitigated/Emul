@@ -589,6 +589,7 @@
 		mahāmantra(evolved_mahāmantra) 8<< replace mahāmantra with evolved_mahāmantra
 		===() 8<< return the (lookup table) box of nāmas
 		===("new_nāma", mantra) 8<< add new_nāma() to the (lookup table) box of nāmas
+		===(nāma) 8<< returns the corresponding mantra, along with every nāma that points to it; including the parametric nāma...no, wait; I thought that was @() & #() ??? one accepts a nāma as a string, and the other accepts a mantra
 		...
 		===() returns the "dictionary" of nāmas
 		no nāmas have changed
