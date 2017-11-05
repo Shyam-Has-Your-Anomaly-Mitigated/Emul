@@ -589,6 +589,8 @@
 		mahāmantra(evolved_mahāmantra) 8<< replace mahāmantra with evolved_mahāmantra
 		===() 8<< return the (lookup table) box of nāmas
 		===("new_nāma", mantra) 8<< add new_nāma() to the (lookup table) box of nāmas
+		...
+		===() returns the "dictionary" of nāmas
 		no nāmas have changed
 		the mantras for +++() & mahāmantra() are constant; but not what they allow the user to interface with
 	>8
