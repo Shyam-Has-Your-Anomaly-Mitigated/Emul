@@ -406,7 +406,7 @@
 	8<< "."; that is a "pointy" "-thing"
 	; [; abc] 8<< ; [; abc]
 	; [; abc]. [; [0]] 8<< ; abc
-	8<< it's decided; zero dexing is unscoping, and empty dexing escapes into a higher dimensional ℝeality
+	8<< it's decided; zero dexing is unscoping, and empty dexing escapes into a higher dimensional ℝeality (off the number line; the beaten path)
 
 	; [; [; []; []; []]; [; []; []]; [; []]]
 	8<
@@ -437,3 +437,6 @@
 	8<< Śruti will be boxable (hackable) by the mahāmantra
 
 	8<< pattern matching c̄ perl 6 junctions
+	
+	8<< configuration will only allow one direction for the number line; only allowing
+	: [; ∨. [; [0]]; [:[; ∧. [; [0]]; [; <; <<; <=]]: [; ∧. [; [0]]; [; >; >>; >=]]]]
