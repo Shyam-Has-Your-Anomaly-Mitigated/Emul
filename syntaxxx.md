@@ -405,4 +405,5 @@
 	8<< I think dexing should be a dīkṣā; I need to be able to manipulate all the "-thing"s...
 	8<< "."; that is a "pointy" "-thing"
 	; [; abc] 8<< ; [; abc]
-	; [; abc]. [; []] 8<< ; abc
+	; [; abc]. [; [0]] 8<< ; abc
+	8<< it's decided; zero dexing is unsoping, and empty dexing escapes into a higher dimensional ℝeality
