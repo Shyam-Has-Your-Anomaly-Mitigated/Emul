@@ -435,3 +435,5 @@
 	
 	8<< configuration will be c̄ Śruti
 	8<< Śruti will be boxable (hackable) by the mahāmantra
+
+	8<< pattern matching c̄ perl 6 junctions
