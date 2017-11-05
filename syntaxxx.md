@@ -431,3 +431,4 @@
 	
 	8<< === is for śiṣyaḥ nāmas, ≠≠≠ is for dīkṣā nāmas; it's not zzz
 	8<< IDK how dīkṣās will be described; SEP field for now...
+	8<< actually dīkṣās will only be configurable; no ≠≠≠ mantra by default, yet
