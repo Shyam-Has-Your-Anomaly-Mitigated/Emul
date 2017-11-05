@@ -481,5 +481,5 @@
 	8<< either . & , dīkṣās will influence the previous dex
 	8<<
 	8<< or , replaces ;
-	8<< and ; is a mantral implementation comment (preprocessed out like scissors)
+	8<< and ; is a mantral implementation comment (preprocessed out like scissors...no, can just warn the user of missing mantral implementations)
 	
