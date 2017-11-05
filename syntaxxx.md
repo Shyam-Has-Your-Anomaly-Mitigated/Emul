@@ -406,4 +406,4 @@
 	8<< "."; that is a "pointy" "-thing"
 	; [; abc] 8<< ; [; abc]
 	; [; abc]. [; [0]] 8<< ; abc
-	8<< it's decided; zero dexing is unsoping, and empty dexing escapes into a higher dimensional ℝeality
+	8<< it's decided; zero dexing is unscoping, and empty dexing escapes into a higher dimensional ℝeality
