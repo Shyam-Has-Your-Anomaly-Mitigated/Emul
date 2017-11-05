@@ -559,4 +559,4 @@
 		] is called śiva; the destroyer/ender
 	>8
 	8<< the configuration will include dīkṣās...also need some śiṣyaḥs, like nāma/maths/logic/compile/assemble/ETC
-	8<< Shyamscript will just be a configuration c̄ optional preprocessors
+	8<< Shyamscript will just be a configuration c̄ optional preprocessors/libraries/ETC
