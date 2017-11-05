@@ -535,6 +535,7 @@
 	nāma. [; [; 1]; [; 1]]        8<< ;         ...the dīkṣā
 	nāma. [; [; 1]; [; 2]]        8<< dex       ...the śiṣyaḥ
 	nāma. [; [; 1]; [; 2]; [; 0]] 8<<           ...the śiṣyaḥ mantra unboxed
+	nāma. [; [; 1]; [; 1; 2]]     8<< ; dex       ...the dīkṣā & śiṣyaḥ subdexes of the first dex in the nāma mantra
 	
 	8<< the configurable preprocessor will allow for f(x) or similar/whatever...SEP field for now
 
