@@ -417,5 +417,5 @@
 		 ○●●●
 		hmm; I need more dimensions...
 		● box existence
-		○ enter into boxal/boxial (dimensional) plane
+		○ enter/descend into boxal/boxial (dimensional) plane
 	>8
