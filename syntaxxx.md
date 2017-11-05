@@ -404,5 +404,5 @@
 	8<< <; []; []> is just <><>
 	8<< I think dexing should be a dīkṣā; I need to be able to manipulate all the "-thing"s...
 	8<< "."; that is a "pointy" "-thing"
-	; [abc] 8<< ; [abc]
-	; [abc]. [] 8<< ; abc
+	; [; abc] 8<< ; [; abc]
+	; [; abc]. [; []] 8<< ; abc
