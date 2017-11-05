@@ -439,18 +439,18 @@
 	8<< pattern matching c̄ perl 6 junctions
 	
 	8<< configuration will only allow one direction for the number line; only allowing
-	: [; ∨. [; [0]]; [: [; ∧. [; [0]]; [; <; <<; <=]]: [; ∧. [; [0]]; [; >; >>; >=]]]]
+	: [; ∨. [; [; 0]]; [: [; ∧. [; [; 0]]; [; <; <<; <=]]: [; ∧. [; [; 0]]; [; >; >>; >=]]]]
 	8<< hmm...
 	: [
 		; ∨
 		. [
-			; [0]
+			; [; 0]
 		]
 		; [
 			: [
 				; ∧
 				. [
-					; [0]
+					; [; 0]
 				]
 				; [
 					; <
@@ -461,7 +461,7 @@
 			: [
 				; ∧
 				. [
-					; [0]
+					; [; 0]
 				]
 				; [
 					; >
@@ -471,4 +471,7 @@
 			]
 		]
 	]
-
+	
+	8<< dīkṣā has precedence over śiṣyaḥ; so
+	:[;∨.[;[;0]];[:[;∧.[;[;0]];[;<;<<;<=]]:[;∧.[;[;0]];[;>;>>;>=]]]]
+	8<< I just have a habit of putting the spaces after delimiters from commas/(semi)colons/ETC in English
