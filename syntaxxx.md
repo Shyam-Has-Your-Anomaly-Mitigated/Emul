@@ -519,3 +519,22 @@
 	]
 	8<< flows is a list of flow
 	: [; nāma. [; [; 0]]; [; parameter; flows. [; [; 0]]]]
+
+	8<< I've mentioned this before; but anyway
+	dīkṣā śiṣyaḥ
+	8<< is
+	; dex
+	8<< so
+	: [; =. [; [; 0]]; [;[nāma; [; dex]]]]
+	8<< then
+	nama                          8<< ; [; dex] ...the nāma mantra
+	nāma. [; []]                  8<<           ...the mantra where nāma is chanted from (where this dexation is happening)
+	nāma. [; [; 0]]               8<< ; dex     ...the nāma mantra unboxed
+	nāma. [; [; 1]]               8<< ; dex     ...the first dex in the nāma mantra
+	nāma. [; [; 1]; [; 0]]        8<<           ...the first dex unboxed from the nāma mantra
+	nāma. [; [; 1]; [; 1]]        8<< ;         ...the dīkṣā
+	nāma. [; [; 1]; [; 2]]        8<< dex       ...the śiṣyaḥ
+	nāma. [; [; 1]; [; 2]; [; 0]] 8<<           ...the śiṣyaḥ mantra unboxed
+	
+	8<< the configurable preprocessor will allow for f(x) or similar/whatever...SEP field for now
+
