@@ -564,3 +564,18 @@
 	8<< you must iterate all values of the expression before you can aggregate the results
 	8<< otherwise we're better off using known data-points, and extrapolating; but that would risk compounding errors...
 	8<< the seer
+
+	8<
+		+++ is the program counter mantra
+		=== is the nāma mantra
+		mahāmantra is the file
+		...
+		but nāmas are immutable?
+		need to manipulate the mahāmantra; artificial/synthetic intelligence would be able to do it
+		I don't think compile() & assemble() & process() will do it
+		the program counter can be manipulated
+		so can the mahāmantra, and with that; any nāma can be manipulated
+		...
+		so no constants
+		but the language can be modal; read-mode will be constant, write-mode will be variable
+	>8
