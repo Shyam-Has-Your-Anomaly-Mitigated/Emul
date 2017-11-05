@@ -563,3 +563,4 @@
 
 	8<< you must iterate all values of the expression before you can aggregate the results
 	8<< otherwise we're better off using known data-points, and extrapolating; but that would risk compounding errors...
+	8<< the seer
