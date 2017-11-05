@@ -594,4 +594,6 @@
 		===() returns the "dictionary" of nāmas
 		no nāmas have changed
 		the mantras for +++() & mahāmantra() are constant; but not what they allow the user to interface with
+		
+		if there's one "-thing" I hate; it's everyone faking artificial/synthetic intelligence, and attempting to pass it off as the being worthy of calling it "intelligent" in any way/shape/form/ETC
 	>8
