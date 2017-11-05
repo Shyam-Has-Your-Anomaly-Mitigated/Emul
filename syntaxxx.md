@@ -477,3 +477,9 @@
 	8<< I just have a habit of putting the spaces after delimiters from commas/(semi)colons/ETC in English
 	8<< I guess users can configure both; since they can always implement the mantras themselves
 	8<< it's just bad practice
+
+	8<< either . & , dīkṣās will influence the previous dex
+	8<<
+	8<< or , replaces ;
+	8<< and ; is a mantral implementation comment (preprocessed out like scissors)
+	
