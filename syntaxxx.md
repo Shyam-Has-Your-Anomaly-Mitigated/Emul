@@ -608,3 +608,12 @@
 		a = {∴ b()}
 		a()
 	>8
+
+	8<
+		artificial/synthetic intelligence doesn't require that much computing power either
+		https://waitbutwhy.com/wp-content/uploads/2015/01/gif
+		no ifs, ands, or buts either; okay, we need oars, and...
+		http://www.commitstrip.com/en/2017/06/07/ai-inside/
+		
+		you need intelligence to make intelligence
+	>8
