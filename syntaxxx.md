@@ -419,3 +419,7 @@
 		● box existence
 		○ enter/descend into boxal/boxial (dimensional) plane
 	>8
+
+	: [; ===<>; []] 8<< the (lookup table) box of nāmas
+	: [; ===<>; [; "empty"; []]] 8<< append empty to the nāma box, unless empty is predefined; in which scenario, throw bugs at the user
+	: [; =; [; empty; []]] 8<< true
