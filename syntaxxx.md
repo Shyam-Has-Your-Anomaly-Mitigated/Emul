@@ -539,3 +539,9 @@
 	
 	8<< the configurable preprocessor will allow for f(x) or similar/whatever...SEP field for now
 
+	8<< a dīkṣā followed by another dīkṣā, will be cancelled; warn the user about it
+	; "these comments must be in a box; and can be used as data"
+	, "these dīkṣā are for non-spiritual data; unrecited mantras"
+	
+	8<< dīkṣā śiṣyaḥ are stored as [dīkṣā, śiṣyaḥ]
+	8<< so the base language is just ["[", ",", "]"]
