@@ -597,3 +597,11 @@
 		
 		if there's one "-thing" I hate; it's everyone faking artificial/synthetic intelligence, and attempting to pass it off as the being worthy of calling it "intelligent" in any way/shape/form/ETC
 	>8
+	8<
+		a = {∴ b}
+		c = a()
+		c()
+		8<< is better than
+		a = {∴ b()}
+		a()
+	>8
