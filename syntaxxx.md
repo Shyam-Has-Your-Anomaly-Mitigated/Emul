@@ -558,3 +558,5 @@
 		https://en.wikipedia.org/wiki/Shiva
 		] is called śiva; the destroyer/ender
 	>8
+	8<< the configuration will include dīkṣās
+	8<< Shyamscript will just be a configuration c̄ optional preprocessors
