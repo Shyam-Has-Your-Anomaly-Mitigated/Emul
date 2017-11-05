@@ -483,3 +483,37 @@
 	8<< or , replaces ;
 	8<< and ; is a mantral implementation comment (preprocessed out like scissors...no, can just warn the user of missing mantral implementations)
 	
+	: [
+		; ∨
+		. [
+			; [; 0]
+		]
+		; [
+			: [
+				; ∧
+				. [
+					; [; 0]
+				]
+				; [
+					; [
+						; <
+						; <<
+						; <=
+					]
+				]
+			]
+			: [
+				; ∧
+				. [
+					; [; 0]
+				]
+				; [
+					;[
+						; >
+						; >>
+						; >=
+					]
+				]
+			]
+		]
+	]
