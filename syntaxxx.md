@@ -423,3 +423,8 @@
 	: [; ===. [; [0]]; []] 8<< the (lookup table) box of nāmas
 	: [; ===. [; [0]]; [; "empty"; []]] 8<< append empty to the nāma box, unless empty is predefined; in which scenario, throw bugs at the user
 	: [; =. [; [0]]; [; empty; []]] 8<< true
+	8<< śiṣyaḥ can end with a dīkṣā; boxes cannot be side-by-side
+	; etc.... dex
+	8<< is
+	; etc...
+	. dex
