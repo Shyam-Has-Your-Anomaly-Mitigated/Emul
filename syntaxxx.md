@@ -545,3 +545,16 @@
 	
 	8<< dīkṣā śiṣyaḥ are stored as [dīkṣā, śiṣyaḥ]
 	8<< so the base language is just ["[", ",", "]"]
+	8<
+		https://en.wikipedia.org/wiki/Trimurti
+		the base language is called trimūrti
+		
+		https://en.wikipedia.org/wiki/Brahma
+		[ is called brahmā; the creator/starter
+		
+		https://en.wikipedia.org/wiki/Vishnu
+		, is called viṣṇu; the maintainer/delimiter/separator
+		
+		https://en.wikipedia.org/wiki/Shiva
+		] is called śiva; the destroyer/ender
+	>8
