@@ -617,3 +617,11 @@
 		
 		you need intelligence to make intelligence
 	>8
+
+	non-commutative logic mantras
+	< ≤ = ≠ ≥ >
+	commutative "logic" mantras
+	≫ 8<< [greatest_value, [dexes<>]]
+	≪ 8≪ [lowest_value, [dexes<>]]
+	8≪ this is better than 8<<
+	
