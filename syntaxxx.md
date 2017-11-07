@@ -619,7 +619,7 @@
 	>8
 
 	non-commutative logic mantras
-	< ≤ = ≠ ≥ >
+	< ≤ = ∧ ∨ ≠ ≥ >
 	commutative "logic" mantras
 	≫ 8<< [greatest_value, [dexes<>]]
 	≪ 8≪ [lowest_value, [dexes<>]]
