@@ -1,3 +1,5 @@
+If he sues me, I'll change it to "A Shyam Machine".
+
 # [Orgasm Runs ₲on Arnold Schwarzenegger Machines](http://forlackofabettercomic.com/?id=47)
 *this will be used for my web browser; `shyam://loka/address parameters`*
 
