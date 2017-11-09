@@ -677,7 +677,7 @@
 		
 		some museums have square-wheeled trikes; which roll smoothly over bumpy terrain
 		the square wheel is the DSL
-		the terrain is the problem
+		the terrain is the problematic domain
 		
 		General-purpose langauges
 		
