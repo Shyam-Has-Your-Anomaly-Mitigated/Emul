@@ -696,6 +696,7 @@
 		https://en.wikipedia.org/wiki/Bean_machine
 		is that neural networks?
 		I was using functions...
+		my interpretation of "neural network" was more cerebral
 		
 		my motto: Just Wing It
 		my logo: ✗
