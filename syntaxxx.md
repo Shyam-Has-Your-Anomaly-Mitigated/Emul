@@ -630,4 +630,6 @@
 	[, [type, /^(.)(.*)$/], process, input] 8≪ output
 	8≪ the first group is the head, and the second ground is the tail
 	[, [type, /^(.)(.*)$/, head, tail/], process, input] 8≪ output
+	8≪ it would be trivial to...
+	[, [type, /^(.*)(.)$/, head, tail/], process, input] 8≪ output
 	
