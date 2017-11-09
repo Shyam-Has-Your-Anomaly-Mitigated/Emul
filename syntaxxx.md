@@ -685,4 +685,8 @@
 		
 		...did I forget to type how much I hate those who preach against reinventing the wheel?
 	>8
+	8<
+		but formal methods are the hand sanitiser of boxing
+		https://xkcd.com/1161/
+	>8
 	
