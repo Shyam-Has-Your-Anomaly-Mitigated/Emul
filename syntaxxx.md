@@ -705,6 +705,7 @@
 		is that neural networks?
 		I was using functions...
 		my interpretation of "neural network" was more cerebral
+		I found out about the probability machine from here: https://www.youtube.com/watch?v=YHFKyuu6clg
 		
 		my motto: Just Wing It
 		my logo: ✗
