@@ -635,4 +635,5 @@
 	8≪ or even...
 	[, [type, /^(.*)(.)$/, tail, head/], process, input] 8≪ output
 	8≪ is there any reason not to use rational expressions?
+	8≪ types need to be able to be added by the user; EG \w is a word, \d is a number, ETC, \custom is a user type
 	
