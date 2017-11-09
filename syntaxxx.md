@@ -625,3 +625,9 @@
 	≪ 8≪ [lowest_value, [dexes<>]]
 	8≪ this is better than 8<<
 	
+	8≪ pattern matching c̄ regular expressions
+	[, [type, pattern], process, input] 8≪ output
+	[, [type, /^(.)(.*)$/], process, input] 8≪ output
+	8≪ the first group is the head, and the second ground is the tail
+	[, [type, /^(.)(.*)$/, head, tail/], process, input] 8≪ output
+	
