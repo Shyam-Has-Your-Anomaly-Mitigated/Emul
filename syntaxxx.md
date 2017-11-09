@@ -680,6 +680,8 @@
 		it's like people who attempt property/forex/ETC investment, and fall in with the masses of foreclosures/bankruptcies; it's just gambling c̄ sharks (for someone to win, others must lose; and there's only so much money in this ℝeality)
 		
 		they are called "tech giants", not "business giants"
+		
+		magicians (illusionists) guard an empty safe; business people are no different
 	>8
 	8<
 		DSLs
