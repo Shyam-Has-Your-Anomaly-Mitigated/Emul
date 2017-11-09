@@ -608,7 +608,7 @@
 		a = {∴ b()}
 		a()
 		
-		^ neural networks
+		^ neural networks; the mantras need to be boxed as input though
 		
 		also; "Functional Pointing" @ http://shyam.id.au/cs/
 	>8
