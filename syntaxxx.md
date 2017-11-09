@@ -710,4 +710,15 @@
 	8<
 		metaprogramming is the broadest concept
 		any language is metaprogramming for ℝeal computational instructions; EG RISCy binary
+		
+		we need social hierarchy; metaˣprogrammers
+		
+		meta⁰: ℝeal computational instructions
+		meta¹: language users
+		meta²: "metaprogramming"; using the language
+		meta³: language modifiers (preprocessors); changing the language
+		meta⁴: language researchers; reinventing the wheel
+		
+		changing the language is like in Futurama; where the DME moves the ℝeality around the ship, instead of moving the ship around within the ℝeality
+		http://futurama.wikia.com/wiki/Dark_matter_engine
 	>8
