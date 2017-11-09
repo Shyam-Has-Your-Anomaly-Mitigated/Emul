@@ -644,6 +644,7 @@
 		
 		Shyams Versioning Network (where network pertains to system)
 		‣ formatters can be used on both ends
-		‣ minifiers will be used before transferring between SVNs 
+		‣ minifiers will be used before transferring between SVNs...if a caṇḍāla doesn't use a formatter, their versioning will be performed on minified source
+		‣ it's trivial to switch format; so switching/updating/ETC formatters will automatically reversion the source
 	>8
 	
