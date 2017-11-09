@@ -720,5 +720,6 @@
 		meta⁴: language researchers; reinventing the wheel
 		
 		changing the language is like in Futurama; where the DME moves the ℝeality around the ship, instead of moving the ship around within the ℝeality
+		https://theinfosphere.org/Dark_Matter_Engines
 		http://futurama.wikia.com/wiki/Dark_matter_engine
 	>8
