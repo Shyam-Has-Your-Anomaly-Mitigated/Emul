@@ -692,4 +692,12 @@
 		but formal methods are the hand sanitiser of boxing
 		https://xkcd.com/1161/
 	>8
-	
+	8<
+		https://en.wikipedia.org/wiki/Bean_machine
+		is that neural networks?
+		I was using functions...
+		
+		my motto: Just Wing It
+		my logo: ✗
+		DJM...
+	>8
