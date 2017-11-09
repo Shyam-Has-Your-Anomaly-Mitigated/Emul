@@ -648,5 +648,35 @@
 		‣ formatters can be used on both ends
 		‣ minifiers will be used before transferring between SVNs...if a caṇḍāla doesn't use a formatter, their versioning will be performed on minified source
 		‣ it's trivial to switch format; so switching/updating/ETC formatters will automatically reversion the source
+	
+		problem solving should be biased towards the problem solver
+		coding conventions (how your source looks) are like business suits (how you look); they should be unenforced, to relieve unrelated mental stress...unless you want me to start wearing whiteface? lqtm
+	>8
+	8<
+		business people are just snake-oil salespeople
+		requiring an NDA for "business processes" is just so business people can make themselves out to be more important than they ℝeally are
+		open sourcing "business processes" will probably put most business people out of commission
+		
+		mysterious people aren't to be trusted
+		neither are religions that keep secrets; such as the Vatican, and Scientology
+		open sourcing religions will probably put most religions out of commission
+		
+		relious people should follow what they preach; I'm referring to so-called suicidal religions (EG "kill yourself to save the environment")
+		people who claim to know the future, should be able to know the history
+		
+		religions
+		religious
+		...just by flipping a single letter, you can manipulate the meaning of a word into some"-thing" with meaning; entropy...
+	>8
+	8<
+		DSLs
+		
+		some museums have square-wheeled trikes; which roll smoothly over bumpy terrain
+		the square wheel is the DSL
+		the terrain is the problem
+		
+		General-purpose langauges
+		
+		Jack of all trades, master of none...except for Perl; but Perl is a DSL for text processing (but like C++; as in text processing c̄ extras)
 	>8
 	
