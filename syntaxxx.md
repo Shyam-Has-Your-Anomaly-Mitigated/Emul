@@ -638,6 +638,8 @@
 	8≪ types need to be able to be added by the user; EG \w is a word, \d is a number, ETC, \custom is a user type
 	
 	8<
+		metaprogramming FTW!!! :D
+	
 		no coding conventions, only preprocessors & formatters (minifiers, beautifiers/prettyprinters, ETC)
 		collaborative boxing should use preprocessors as a sort of DSL; I guess CSL (Collaboration Specific Language)
 		but the convention is to use formatters for stylish "-thing"s that don't influence the quality of computational instructions like indentation, and snake_case/CamelCase; and preprocessors for engineering "-thing"s that do influence the quality of computational instructions like constants/variables, and recursion/loops
