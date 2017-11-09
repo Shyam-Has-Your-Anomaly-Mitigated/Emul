@@ -672,6 +672,8 @@
 		tech giants are not where they are because of their "business processes"
 		ex-employees who attempt to startup their own tech giant only prove my point
 		it's like people who attempt property/forex/ETC investment, and fall in with the masses of foreclosures/bankruptcies; it's just gambling c̄ sharks (for someone to win, others must lose; and there's only so much money in this ℝeality)
+		
+		they are called "tech giants", not "business giants"
 	>8
 	8<
 		DSLs
