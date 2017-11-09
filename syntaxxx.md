@@ -607,6 +607,10 @@
 		8<< is better than
 		a = {∴ b()}
 		a()
+		
+		^ neural networks
+		
+		also; "Functional Pointing" @ http://shyam.id.au/cs/
 	>8
 
 	8<
