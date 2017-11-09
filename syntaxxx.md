@@ -707,3 +707,7 @@
 		my logo: ✗
 		DJM...
 	>8
+	8<
+		metaprogramming is the broadest concept
+		any language is metaprogramming for ℝeal computational instructions; EG RISCy binary
+	>8
