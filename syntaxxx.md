@@ -655,6 +655,7 @@
 	
 		problem solving should be biased towards the problem solver
 		coding conventions (how your source looks) are like business suits (how you look); they should be unenforced, to relieve unrelated mental stress...unless you want me to start wearing whiteface? lqtm
+		I only have 10% of my brain; how much of that should be used for "-thing"s unrelated to the problem I'm attempting to solve?
 	>8
 	8<
 		business people are just snake-oil salespeople
