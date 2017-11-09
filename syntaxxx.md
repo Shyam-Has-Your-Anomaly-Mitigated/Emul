@@ -667,6 +667,10 @@
 		religions
 		religious
 		...just by flipping a single letter, you can manipulate the meaning of a word into some"-thing" with meaning; entropy...
+		
+		back to "business processes"
+		tech giants are not where they are because of their "business processes"
+		ex-employees who attempt to startup their own tech giant only prove my point
 	>8
 	8<
 		DSLs
