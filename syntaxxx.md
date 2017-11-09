@@ -678,5 +678,7 @@
 		General-purpose langauges
 		
 		Jack of all trades, master of none...except for Perl; but Perl is a DSL for text processing (but like C++; as in text processing c̄ extras)
+		
+		...did I forget to type how much I hate those who preach against reinventing the wheel?
 	>8
 	
