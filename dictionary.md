@@ -84,6 +84,12 @@ c̄
 querious
 * query + curious
 
+DSL
+* Domain Specific Language
+
+CSL
+* Collaboration Specific Language; a preprocessor to replace coding conventions
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
