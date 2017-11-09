@@ -634,4 +634,5 @@
 	[, [type, /^(.*)(.)$/, head, tail/], process, input] 8≪ output
 	8≪ or even...
 	[, [type, /^(.*)(.)$/, tail, head/], process, input] 8≪ output
+	8≪ is there any reason not to use rational expressions?
 	
