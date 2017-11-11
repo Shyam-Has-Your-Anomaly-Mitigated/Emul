@@ -49,7 +49,7 @@
 			2: a/c/i/r tells shyams what to use, instead of requiring parameters
 			3: pending...
 
-		I think some mantras will be self-hosted...declarative processing makes sense for nāmamantras
+		I think some mantras will be self-hosted / cross-hosted...declarative processing makes sense for nāmamantras
 			< ≤ = ∧ ∨ ≠ ≥ >
 			IDK what ones I was thinking about
 		
