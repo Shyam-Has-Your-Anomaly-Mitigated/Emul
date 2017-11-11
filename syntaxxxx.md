@@ -71,7 +71,7 @@
 			recited mantras require 4 dīkṣās/śiṣyas
 				: [
 					, [] 8< the type can be inferred until I think about it some more; empty/untyped can be inferred >8
-					, pattern
+					, [] 8< empty/unpatterned pattern can be inferred for f()(); the 2ⁿᵈ mantra is patternless
 					, process
 					, input
 				]
@@ -87,8 +87,10 @@
 				: f[, x]
 				: [, "f". [0], "x"]]
 				^ that is the way to do it unsugared
+			would like zero == false; but IDK...
 		>8
 		: interval[, "[-3,0)", "(0,3]"] 8< [, -3, -2, -1, 1, 2, 3] >8
+		: intervals[, "[-3,0)", "(0,3]"] 8< [, [, -3, -2, -1], [, 1, 2, 3]] >8
 		: [, nāma. [0], [
 			, "¬"
 			, [
