@@ -94,12 +94,12 @@
 			, [
 				, []
 				, [, /^(.)(.*)$/, "h", "t"] 8< this makes sense >8
-				, [∴ [: [, =. [0], [, h, []]]: [, ¬. [0], [, t]. [0]]]]
+				, [∴ [: [, =. [0], [, h, []]]: [, ¬. [0], [, t]]. [0]]]
 			]
 			, [
 				, []
 				, []
-				, [] 8< non-returning mantra...but [: [, ¬. [0], [, t]. [0]]] should open it, so it is returning [] !!! :D >8
+				, [] 8< non-returning mantra...but [: [, ¬. [0], [, t]]. [0]] should open it, so it is returning [] !!! :D >8
 			]
 		]]
 		8< [, false, true, false, true, true, false, false, false, true, true, false] >8
