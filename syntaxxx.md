@@ -723,7 +723,7 @@
 		(meta)²: "metaprogramming"; using the language
 		(meta)³: language modifiers (preprocessors); changing the language
 		(meta)⁴: language researchers; reinventing the wheel
-		(meta)⁵: using one language to write code in another language, which could be the same language...but that's what compilers/interpreters/ETC do anyway
+		(meta)⁵: using one language to write code in another language, which could be the same language...but that's what compilers/interpreters/ETC do anyway; I think I'm thinking more along the lines of an intelligent/sentient "being" writing code (but I cannot remember)
 		
 		changing the language is like in Futurama; where the DME moves the ℝeality around the ship, instead of moving the ship around within the ℝeality
 		https://theinfosphere.org/Dark_Matter_Engines
