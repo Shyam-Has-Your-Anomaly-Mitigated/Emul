@@ -89,23 +89,23 @@
 				^ that is the way to do it unsugared
 			would like zero == false; but IDK...
 		>8
-		: interval[, "[-3,0)", "(0,3]"] 8< [, -3, -2, -1, 1, 2, 3] >8
-		: intervals[, "[-3,0)", "(0,3]"] 8< [, [, -3, -2, -1], [, 1, 2, 3]] >8
-		: [, nāma. [0], [
+		: [, "interval". [, 0], [, "[-3,0)", "(0,3]"]] 8< [, -3, -2, -1, 1, 2, 3] >8
+		: [, "intervals". [, 0], [, "[-3,0)", "(0,3]"]] 8< [, [, -3, -2, -1], [, 1, 2, 3]] >8
+		: [, "nāma". [0], [
 			, "¬"
 			, [
 				, []
 				, [, /^(.)(.*)$/, "h", "t"] 8< this makes sense >8
-				, [∴ [: [, =. [0], [, h, []]]: [, ¬. [0], [, t]]. [0]]]
+				, [∴ [: [, "=". [, 0], [, "h", []]]: [, "¬". [, 0], [, "t"]]. [, 0]]]
 			]
 			, [
 				, []
 				, []
-				, [] 8< non-returning mantra...but [: [, ¬. [0], [, t]]. [0]] should open it, so it is returning [] !!! :D >8
+				, [] 8< non-returning mantra...but [: [, "¬". [, 0], [, "t"]]. [, 0]] should open it, so it is returning [] !!! :D >8
 			]
 		]]
 		8< [, false, true, false, true, true, false, false, false, true, true, false] >8
-		: [, ¬. [0], [, true, false, true, false, false, true, true, true, false, false, true]]
+		: [, "¬". [, 0], [, true, false, true, false, false, true, true, true, false, false, true]]
 	]
 	8<
 		this will only throw warnings at the user; unless the user disables these/all warnings...
