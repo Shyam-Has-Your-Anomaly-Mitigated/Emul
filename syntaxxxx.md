@@ -91,7 +91,8 @@
 				: f[, x]
 				: [, "f". [, [, 0]], "x"]]
 				^ that is the way to do it unsugared
-			would like zero == false; but IDK...
+			would like empty == zero == false; but IDK...
+				[] == 0 == false
 		>8
 		8< [, -3, -2, -1, 1, 2, 3] >8
 		: [, "interval". [, [, 0]], [, "[-3,0)", "(0,3]"]]
