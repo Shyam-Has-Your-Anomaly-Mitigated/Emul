@@ -46,7 +46,7 @@
 
 		file extensions may change (nth_character: meaning)
 			1: language (t/s/o/p)
-			2: a/c/i/r tells shyams what to use, instead of requiring parameters
+			2: a/c/i/r tells shyams what to use, instead of requiring parameters; parameters have precedence over extensions
 			3: pending...
 
 		I think some mantras will be self-hosted / cross-hosted...declarative processing makes sense for nāmamantras
