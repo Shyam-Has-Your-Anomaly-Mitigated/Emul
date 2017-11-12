@@ -33,6 +33,10 @@
 				negative is outdex
 				zero is all dexes...but a range [-3,3] would include 0; just do [-3,0) & (0,3]...it makes no sense to start at 0, and end at -1
 				empty is dimensional escape velocity
+				...
+				[: f[x]].[,[,1]] will call the fupnction
+				[: f[x]].[,[,1],[,0]] is [, ":"]
+				[: f[x]].[,[,1],[,1]] is [, f[x]]
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
