@@ -54,13 +54,13 @@
 			2: a/c/i/r tells shyams what to use, instead of requiring parameters; parameters have precedence over extensions
 			3: pending...
 
-		Shyamscriptor from Shyamscript + (preprocess)or
+		Shyamscriptor, from Shyamscript + (preprocess)or
 			8≪ line comments
 			8<< line comments
 			<dexing>
 			: f[,x]
 			: f(,x)
-				: f[,x], where the input is [x]
+				: f[,x], where the input is [,x]
 				: f[,x,y,z], where the input is [,x,y,z]
 				...
 				I mean f[] is given the parameter box as boxed input
