@@ -6,6 +6,7 @@
 				8<< this is just a wast of an extra character
 				linguistic simplicity is better; fewer rules means fewer frustrations
 				comments are balanced/nestable; that's some"-thing" I've always hated about other languages
+				8≪ & 8<< can be preprocessed along with <dexing> 
 			>8
 
 		trimūrti (/^.*\.t$/ files)
