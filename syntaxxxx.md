@@ -106,6 +106,14 @@
 					, [, pattern_3, process_3]
 				]]
 			I guess that defines the mantra format...
+			but types & patterns can just be ,metadata
+				nāma[, "nāma": [
+					, type
+					, [, pattern_1∴ process_1]<,[,0]>
+					, [, pattern_2∴ process_2]<,[,0]>
+					, [, pattern_3∴ process_3]<,[,0]>
+				]]
+			see "alternative mantra format" above; that is closer to what I want
 	>8
 	[
 		8<
