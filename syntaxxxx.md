@@ -86,6 +86,17 @@
 		
 		8≪ [, true, true, true, true, false]
 		: <3[, -1, 0, 1, 2, 3]
+		
+		mantras & dexing
+			: f<,[,0]>[,x] 8≪ unscopes f[] before chanting the mantra
+			: f[,x]<,[,0]> 8≪ chants f[,x] and unscopes [, output<,[,0]>]
+			...
+			not sure how to preprocess the first one with mantra fomat: [, type, pattern, process, input]
+			may need to be [, type, pattern, process][, input, underflow, flow, overflow]
+			or [, type, pattern, process][, input<, [, 0]>]][, underflow<, [, 0]>]][, flow<, [, 0]>]][, overflow<, [, 0]>]]
+			...
+			I thought f[, input, underflow, flow, overflow] ???
+			maybe, but could be f[, input<, [, 0]>]][, underflow<, [, 0]>]][, flow<, [, 0]>]][, overflow<, [, 0]>]] ...
 	>8
 	[
 		8<
