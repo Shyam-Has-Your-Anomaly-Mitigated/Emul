@@ -6,7 +6,7 @@
 				8<< this is just a wast of an extra character
 				linguistic simplicity is better; fewer rules means fewer frustrations
 				comments are balanced/nestable; that's some"-thing" I've always hated about other languages
-				8≪ & 8<< can be preprocessed along with <dexing> 
+				8≪ & 8<< can be preprocessed along with <dexing>
 			>8
 
 		trimūrti (/^.*\.t$/ files)
@@ -53,6 +53,20 @@
 			1: language (t/s/o/p)
 			2: a/c/i/r tells shyams what to use, instead of requiring parameters; parameters have precedence over extensions
 			3: pending...
+
+		Shyamscriptor from Shyamscript + (preprocess)or
+			8≪ line comments
+			8<< line comments
+			<dexing>
+			: f[,x]
+			: f(,x)
+				: f[,x], where the input is [x]
+				: f[,x,y,z], where the input is [,x,y,z]
+				...
+				I mean f[] is given the parameter box as boxed input
+				it can use pattern matching to name dexes, and even choose to ignore the tail
+				but the idea is to encourage best practices for generalisation
+			some"-thing" like CPP for system-dependent ASM, defaulting to Shyamscript for unknown hardware
 
 		I think some mantras will be self-hosted / cross-hosted...declarative processing makes sense for nāmamantras
 			< ≤ = ∧ ∨ ≠ ≥ >
