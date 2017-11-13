@@ -69,6 +69,9 @@
 					: ∧∧<>(match(input:pattern_3)∴function_3<>(input<>))
 				)
 			]
+		
+		8≪ [, true, true, true, true, false]
+		: <3[, -1, 0, 1, 2, 3]
 	>8
 	[
 		8<
