@@ -195,3 +195,14 @@
 		it's like boxing an intelligence to do your homework, and it making you do it instead
 		warn & log about corrections; unless either is disabled (can disable warnings/logs for specific corrections; like closing comments)
 		if the user didn't intend to comment out all of the EOF, they should use syntax highlighting; there is no excuse for ambiguity
+		...
+		the compiler/ETC can automatically commit to the repository when it makes corrections; but this could be disabled
+		the corrections will be in minified form
+		...
+		closing comments can be configured
+			EG_1: EOF (End Of File)
+			EG_2: EOL (End Of Line)
+			EG_3: EOB (End Of Block)
+				blocks are separated by /\n\n/
+			EG_4: SOI (Start of Instruction)
+			ETC...
