@@ -177,6 +177,6 @@
 	8<
 		this will only throw warnings at the user; unless the user disables these/all warnings...
 		no warnings/errors; just add ">8" to the EOF
-		it's not ambiguous, then just correct it for the user
+		it's not ambiguous, then just correct it for the user; at least it won't be erroneous anymore...
 		^ that is best practice
 		the indentation, and any other stylistic "-thing"s, can also be taken into consideration (by the versioning software)
