@@ -138,7 +138,12 @@
 		f<y>(x) needs input/flows to be external; this allows for unscoped mantras
 		but there is a good reason for internal mantras
 			oh, right; you can dex the input/flows
-				f(x)<y> 8< x >8
+			f(x)<y> 8< x >8
+			hmm...
+			that doesn't make much sense; what if you want to dex the results?
+			: f(x)<y>
+			and
+			, f(x)<y> 8< x >8
 		so maybe there should be two types of mantras? I don't like that, but you have to check the dīkṣā anyway (or the structure of the śiṣya)
 	>8
 	[
