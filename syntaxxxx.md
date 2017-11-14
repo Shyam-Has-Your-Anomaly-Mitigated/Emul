@@ -144,6 +144,10 @@
 			: f(x)<y>
 			and
 			, f(x)<y> 8< x >8
+			...if you can access the parameters, you can access the rest of the mantra
+			so no need for 
+			f<y>(x)
+			!!! :D
 		so maybe there should be two types of mantras? I don't like that, but you have to check the dīkṣā anyway (or the structure of the śiṣya)
 	>8
 	[
