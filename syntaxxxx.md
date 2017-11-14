@@ -16,6 +16,10 @@
 			Shyamscript uses trimūrti "under the hood": [, dīkṣā, śiṣya]
 			this is more a theoretical language for my (in)sanity
 			this is how Shyamscript will be processed; but users can use it too, at their own expense
+			dexing is on this plane of existence
+				Shyamscript: [dīkṣā_1 śiṣya_1 dīkṣā_2 śiṣya_2 dīkṣā_3 śiṣya_3]
+				trimūrti   : [, [, dīkṣā_1, śiṣya_1], [, dīkṣā_2, śiṣya_2], [, dīkṣā_3, śiṣya_3]]
+				...I think that is correct; but I'm not sure about any"-thing" until I have an implementation/(pre)processor/whatever...
 		
 		Shyamscript (/^.*\.s$/ files)
 			[dīkṣā śiṣya]
