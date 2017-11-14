@@ -130,8 +130,11 @@
 			: [, f<:interval("[1,-1)∈\"f\"")>, [, f<,[,-1],[,0]>, flow]]
 				, f<,[,-1]> is the guru
 				, f<,[,-1],[,0]> is the śiṣyas of the guru
-				, f<,[,-1],[,1]> is the input śiṣya
+				, f<,[,-1],[,1]> is the input [dīkṣā śiṣya]
 				, f<,[,-1],[,2]> is the underflow/flow/overflow śiṣya
+				, f<,[,-1],[,1],[,0]> is , f<,[,-1],[,1]>
+				, f<,[,-1],[,1],[,1]> is the input dīkṣā
+				, f<,[,-1],[,1],[,2]> is the input śiṣya
 	>8
 	[
 		8<
