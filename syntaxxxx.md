@@ -135,6 +135,10 @@
 				, f<,[,-1],[,1],[,0]> is , f<,[,-1],[,1]>
 				, f<,[,-1],[,1],[,1]> is the input dīkṣā
 				, f<,[,-1],[,1],[,2]> is the input śiṣya
+		f<y>(x) needs input/flows to be external
+		but there is a good reason for internal mantras
+			oh, right; you can dex the input/flows
+		so maybe there should be two types of mantras? I don't like that, but you have to check the dīkṣā anyway (or the structure of the śiṣya)
 	>8
 	[
 		8<
