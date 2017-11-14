@@ -151,6 +151,13 @@
 			...but it makes more ¿sense? to me...
 			preprocessor
 		so maybe there should be two types of mantras? I don't like that, but you have to check the dīkṣā anyway (or the structure of the śiṣya)
+		
+		mantra format
+			[, type, pattern, process, parameter] 8< output >8
+			parameter
+				[, input, underflow, flow, overflow]
+		see "alternative mantra format" above; that is closer to what I want c̄ ℂomplexity for dexing
+		every"-thing" should be internally self-contained for dexing
 	>8
 	[
 		8<
