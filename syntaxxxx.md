@@ -149,6 +149,7 @@
 			f<y>(x)
 			!!! :D
 			...but it makes more ¿sense? to me...
+			preprocessor
 		so maybe there should be two types of mantras? I don't like that, but you have to check the dīkṣā anyway (or the structure of the śiṣya)
 	>8
 	[
