@@ -180,3 +180,5 @@
 		it's not ambiguous, then just correct it for the user; at least it won't be erroneous anymore...
 		^ that is best practice
 		the indentation, and any other stylistic "-thing"s, can also be taken into consideration (by the versioning software)
+		the software should "support" the user, not force the user to do the work of software
+		it's like boxing an intelligence to do your homework, and it making you do it instead
