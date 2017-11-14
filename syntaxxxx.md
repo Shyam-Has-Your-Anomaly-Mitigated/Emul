@@ -114,6 +114,20 @@
 					, [, pattern_3∴ process_3]<,[,0]>
 				]]
 			see "alternative mantra format" above; that is closer to what I want
+		
+		curses to the EOF, and the difficulty of locating this point in the file!!!
+		
+		mantral input/flows must be provided as a guru (of śiṣyas) ∵ dexing is better to just use a guru of tree/whatever descensions (from descend + decision)
+			: f[, input, underflow, flow, overflow]
+		but input/flows must not be a guru
+			: [, type, pattern: f(, input<,[,0]>)](, flow<,[,0]>)
+		hmm...
+		the first can work; just need to manipulate the mantra
+			: [, f<:interval("[1,-1)∈\"f\"")>, [, f<,[,-1],[,0]>, flow]]
+				, f<,[,-1]> is the guru
+				, f<,[,-1],[,0]> is the śiṣyas of the guru
+				, f<,[,-1],[,1]> is the input śiṣya
+				, f<,[,-1],[,2]> is the underflow/flow/overflow śiṣya
 	>8
 	[
 		8<
