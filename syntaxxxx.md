@@ -171,6 +171,9 @@
 			dexing
 				+1 = type
 				-1 = parameter
+			pattern matching
+				[, /^(.)(.)(.*)(.)$/, [, type, [, pattern, process], tail, parameter]]
+				[, /^(.)(.*)(.)$/, [, [, pattern, process], tail, parameter]]
 		see "alternative mantra format" above; that is closer to what I want c̄ ℂomplexity for dexing
 		every"-thing" should be internally self-contained for dexing
 	>8
