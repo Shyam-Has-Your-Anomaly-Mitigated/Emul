@@ -166,6 +166,11 @@
 			[, type, pattern, process, parameter] 8< output >8
 			parameter
 				[, input, underflow, flow, overflow]
+			...
+			[, type, [, pattern_1, process_1], [, pattern_2, process_2], [, pattern_3, process_3], parameter]
+			dexing
+				+1 = type
+				-1 = parameter
 		see "alternative mantra format" above; that is closer to what I want c̄ ℂomplexity for dexing
 		every"-thing" should be internally self-contained for dexing
 	>8
