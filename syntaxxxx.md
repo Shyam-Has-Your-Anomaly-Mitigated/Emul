@@ -44,6 +44,14 @@
 				[: f[x]].[,[,1],[,1]] is [, f[x]]
 				...
 				I think the program counter will just be dexing?
+				...
+				dexing needs extra depth
+				<, a, b, c>
+				a, b, and c; are different dexes: f<a>,f<b>,f<c>
+				<, [, d, e, f]>
+				f is the dex of e is the dex of d: f<d><e><f>
+				<, [, [, g, h, i]]>
+				g, h, and i; are a box of dexes: f<[g,h,i]>
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
