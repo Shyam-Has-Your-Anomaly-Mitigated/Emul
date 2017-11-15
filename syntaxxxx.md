@@ -42,6 +42,8 @@
 				[: f[x]].[,[,1]] will chant the mantra
 				[: f[x]].[,[,1],[,0]] is [, ":"]
 				[: f[x]].[,[,1],[,1]] is [, f[x]]
+				...
+				I think the program counter will just be dexing?
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
