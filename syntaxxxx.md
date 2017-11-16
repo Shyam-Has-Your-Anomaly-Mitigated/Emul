@@ -188,6 +188,9 @@
 				: write(, [, "shyams", compiler(, [, "x86_64"])])
 				maybe do it from a cross-hosted REPL?
 				write_string() can just type-check into write()
+				...
+				I think I'm opposed to the concept of write(address, jñānam)
+				just use output() instead, and use I/O redirection
 			...
 			wherever it says; the prepocessor will be
 				[: f(, parameterisation)<, dexation>]
