@@ -193,8 +193,16 @@
 				[: f[, parameterisation]<, dexation>]
 			∵ too many boxies
 			and any nāma can be preprocessed
-				: nāma(, [, "string", "abcdefg"])
-				, string(, [, 2]) 8≪ [, 'a', 'b', 'c', 'd', 'e', 'f', 'g', [, [, 2]]]
+				: nāma(, [, "music", "abcdefg"])
+				, music(, [, 2]) 8≪ [, 'a', 'b', 'c', 'd', 'e', 'f', 'g', [, [, 2]]]
+			...
+			zeroeth dexing can be used to access & retrieve overflow
+				: nāma(, [, "self_ref", [∴ "self_ref"<,[,0]>]])
+				: self_ref(, [, "abcdefg"]) 8≪ "abcdefg"
+				instead of.
+				: nāma(, [, "self_ref", [∴ overflow]])
+				: self_ref(, [], [, "abcdefg"]) 8≪ "abcdefg"
+			empty dexing can be used for self-awareness
 	>8
 	[
 		8<
