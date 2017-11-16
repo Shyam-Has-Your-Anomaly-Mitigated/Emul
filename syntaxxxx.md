@@ -180,8 +180,10 @@
 		numbers
 			writing to file will automatically pad the number with leading zeroes to fill the void; unless the hardware doesn't group digits (EG bytes of binary digits)
 			write zero to the nth group/digit; a single digit can be a group
-			[, [], 0_1337, 1337, 11_2, 539_16, 111_1]
-				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011
+			[, [], 0_1337, 1337, 11_2, 539_16, 111_1, "..", '.']
+				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011 00001011 10101110 00101110
+				...IDK if that's how ".." would be done; I think they need to be separate bytes?
+				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011 00101110 00101110 00101110
 			this is all I need for a self-hosted compiler/ETC
 				: write(, "shyams", compiler("x86_64"))
 			...
