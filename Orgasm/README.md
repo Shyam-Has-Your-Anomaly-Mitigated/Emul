@@ -19,7 +19,7 @@ need to study instruction sets, and virtual machines:
 * 100% configurable c̄ transpiler; this works similar to cross-assembling
 
 need to find the files with my notes; that was a long time ago... (I think it's on my 16TB...)
-<br>some"-thing" about `.dna` (probably configuration) & `.cum` (probably language) files, and stuff... (pretty sure there were more file types...)
+<br>some"-thing" about `.dna` (probably configuration) & `.cum` (probably language) files, and stuff... (pretty sure there were more file types; unfortunately my search results are just flooded with pr0n...16TB of pr0n!!!)
 
 lets face it, the ℂomplexity will probably just be lists...
 
