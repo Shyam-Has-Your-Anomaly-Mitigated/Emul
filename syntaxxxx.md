@@ -200,8 +200,9 @@
 				: nāma(, [, "self_ref", [∴ "self_ref"<,[,0]>]])
 				: self_ref(, [, "abcdefg"]) 8≪ "abcdefg"
 				instead of.
-				: nāma(, [, "self_ref", [∴ overflow]])
+				: nāma(, [, "self_ref", [∴ flow]])
 				: self_ref(, [], [, "abcdefg"]) 8≪ "abcdefg"
+				...that wasn't overflow; there's no other way!!!
 			empty dexing can be used for self-awareness
 	>8
 	[
