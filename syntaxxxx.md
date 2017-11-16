@@ -183,7 +183,7 @@
 			[, [], 0_1337, 1337, 11_2, 539_16, 111_1]
 				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011
 			this is all I need for a self-hosted compiler/ETC
-				: write(, address, compiler(x86_64))
+				: write(, address, compiler("x86_64"))
 			...
 			wherever it says; the prepocessor will be
 				[: f(, parameterisation)<, dexation>]
