@@ -187,6 +187,7 @@
 			this is all I need for a self-hosted compiler/ETC
 				: write(, [, "shyams", compiler(, [, "x86_64"])])
 				maybe do it from a cross-hosted REPL?
+				write_string() can just type-check into write()
 			...
 			wherever it says; the prepocessor will be
 				[: f(, parameterisation)<, dexation>]
