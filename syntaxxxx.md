@@ -186,6 +186,7 @@
 				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011 00101110 00101110 00101110
 			this is all I need for a self-hosted compiler/ETC
 				: write(, [, "shyams", compiler(, [, "x86_64"])])
+				maybe do it from a cross-hosted REPL?
 			...
 			wherever it says; the prepocessor will be
 				[: f(, parameterisation)<, dexation>]
