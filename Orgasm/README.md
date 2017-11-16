@@ -1,5 +1,5 @@
 If he sues me, I'll change it to "A Shyam Machine".
-<br>[CanFP](https://www.meetup.com/CanFPG/events/gkbllmywpbtb) was horny about this categorically cerebral concept: [Compiling to Categories](https://www.youtube.com/watch?v=vzLK_xE9Zy8) ([paper](http://conal.net/papers/compiling-to-categories/); printer not included)
+<br>[CanFP](https://www.meetup.com/CanFPG/events/gkbllmywpbtb) was horny about this categorically cerebral concept: [Compiling to Categories](https://www.youtube.com/watch?v=vzLK_xE9Zy8) ([paper](http://conal.net/papers/compiling-to-categories/); printer, ink, and paper, not included)
 
 # [Orgasm Runs ₲on Arnold Schwarzenegger Machines](http://forlackofabettercomic.com/?id=47)
 *this will be used for my web browser; `shyam://loka/address parameters`*
