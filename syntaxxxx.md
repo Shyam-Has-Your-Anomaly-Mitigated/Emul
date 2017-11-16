@@ -176,6 +176,12 @@
 				[, /^(.)(.*)(.)$/, [, [, pattern, process], tail, parameter]]
 		see "alternative mantra format" above; that is closer to what I want c̄ ℂomplexity for dexing
 		every"-thing" should be internally self-contained for dexing
+		
+		numbers
+			writing to file will automatically pad the number with leading zeroes to fill the void; unless the hardware doesn't group digits (EG bytes of binary digits)
+			write zero to the nth group/digit; a single digit can be a group
+			[, [], 0_1337, 1337, 11_2, 539_16, 111_1]
+				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011
 	>8
 	[
 		8<
