@@ -240,6 +240,7 @@
 			would like empty == zero == false; but IDK...
 				[] == 0 == false
 		>8
+		8≪ the interval/intrevals input should be , [, [,'[',-3,0,')'], [,'(',0,3,']']]
 		8< [, -3, -2, -1, 1, 2, 3] >8
 		: [, "interval". [, [, 0]], [, "[-3,0)", "(0,3]"]]
 		8< [, [, -3, -2, -1], [, 1, 2, 3]] >8
