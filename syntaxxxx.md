@@ -205,6 +205,15 @@
 				: self_ref(, [], [, "abcdefg"]) 8≪ , [, "abcdefg"]
 				...that wasn't overflow; there's no other way!!!
 			empty dexing can be used for self-awareness
+			
+		libraries
+			: `nāma`(, `box` : shyams(: read(, address)))
+			: `box`
+		
+		"abcdefg" 8≪ , [, 'a', 'b', 'c', 'd', 'e', 'f', 'g']
+		`abcdefg` 8≪ addressable nāma
+		+3.0_10 8≪ 3
+		...IDK; I just don't like bare? How is it boxed?
 	>8
 	[
 		8<
