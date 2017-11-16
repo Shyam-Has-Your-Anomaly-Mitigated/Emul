@@ -207,7 +207,7 @@
 			empty dexing can be used for self-awareness
 			
 		libraries
-			: `nāma`(, `box` : shyams(: read(, address)))
+			: `nāma`(, `box`: shyams(: read(, address)))
 			: `box`
 		
 		"abcdefg" 8≪ , [, 'a', 'b', 'c', 'd', 'e', 'f', 'g']
