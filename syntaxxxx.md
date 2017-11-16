@@ -185,13 +185,16 @@
 				...IDK if that's how ".." would be done; I think they need to be separate bytes?
 				8≪ 00000000 00000000 00000101 00111001 00000011 00000101 00111001 00000011 00101110 00101110 00101110
 			this is all I need for a self-hosted compiler/ETC
-				: write(, "shyams", compiler("x86_64"))
+				: write(, [, "shyams", compiler(, [, "x86_64"])])
 			...
 			wherever it says; the prepocessor will be
 				[: f(, parameterisation)<, dexation>]
 			not
 				[: f[, parameterisation]<, dexation>]
 			∵ too many boxies
+			and any nāma can be preprocessed
+				: nāma(, [, "string", "abcdefg"])
+				, string(, [, 2]) 8≪ [, 'a', 'b', 'c', 'd', 'e', 'f', 'g', [, [, 2]]]
 	>8
 	[
 		8<
