@@ -197,7 +197,7 @@
 				, music(, [, 2]) 8≪ [, 'a', 'b', 'c', 'd', 'e', 'f', 'g', [, [, 2]]]
 			...
 			zeroeth dexing can be used to access & retrieve overflow
-				: nāma(, [, "self_ref", [∴ "self_ref"<,[, [, [, 0]. [-1]]]>]])
+				: nāma(, [, "self_ref", [∴ "self_ref"<,[, [, [, 0], [, -1]]]>]])
 				: self_ref(, [, "abcdefg"]) 8≪ "abcdefg"
 				instead of.
 				: nāma(, [, "self_ref", [∴ flow]])
