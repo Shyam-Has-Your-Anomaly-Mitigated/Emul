@@ -219,6 +219,34 @@
 		`abcdefg` 8≪ addressable nāma
 		+3.0_10 8≪ 3
 		...IDK; I just don't like bare? How is it boxed?
+		
+		append(, [box, [dīkṣā, mantra]])
+			: ∨(,[
+				: ∧(,[
+					: =(,[,";",dīkṣā])
+					∴ [, box. [,[,[0]]]; mantra]
+				])
+				: ∧(,[
+					: =(,[,",",dīkṣā])
+					∴ [, box. [,[,[0]]], mantra]
+				])
+				: ∧(,[
+					: =(,[,":",dīkṣā])
+					∴ [, box. [,[,[0]]]: mantra]
+				])
+				: ∧(,[
+					: =(,[,"∴",dīkṣā])
+					∴ [, box. [,[,[0]]]∴ mantra]
+				])
+				: ∧(,[
+					: =(,[,"∵",dīkṣā])
+					∴ [, box. [,[,[0]]]∵ mantra]
+				])
+				: ∧(,[
+					: =(,[,".",dīkṣā])
+					∴ [, box. [,[,[0]]]. mantra]
+				])
+			])
 	>8
 	[
 		8<
