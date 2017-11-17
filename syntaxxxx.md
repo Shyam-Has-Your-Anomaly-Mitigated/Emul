@@ -337,3 +337,11 @@
 				blocks are separated by /\n\n/
 			EG_4: SOI (Start of Instruction)
 			ETC...
+
+precedence
+1. preprocess `8≪comments` & `8<<comments` into `8<comments>8`; the easy part
+1. remove `8<comments>8`; the hard part
+   * remove `;jñānamment` (jñānam + comment); this is optional c̄ configurable defaults...no; they should not be removed; users can use a tool to remove them, otherwise they're expected to be left in deliberately for an intelligence TODO if a human/user didn't...just use disablæble warnings
+1. preprocess `<dexing>` into `≪dexing≫`; the hard part
+1. preprocess `≪dexing≫` & `<<dexing>>` into `.[dexing]`; the easy part
+1. hmm...probably mantras? need to think about the structural format more...
