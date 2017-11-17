@@ -345,4 +345,4 @@ precedence
 1. preprocess `<dexing>` into `≪dexing≫`; the hard part
 1. preprocess `≪dexing≫` & `<<dexing>>` into `.[dexing]`; the easy part
 1. hmm...probably mantras? need to think about the structural format more...
-* mantras can have preprocessors (but they will be part of the nāmamantra); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`
+* mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`
