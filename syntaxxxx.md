@@ -54,8 +54,15 @@
 				g, h, and i; are a box of dexes: f<[g,h,i]>
 				...
 				[: f(x)]<,[,[,1]]> 8≪ chant the mantra
-				[: f(x)]<,[,[,1],[,1]]> 8≪ ":"
-				[: f(x)]<,[,[,1],[,2]]> 8≪ [,f<,[,[,0]]>,[,[,x]]]
+				[: f(x)]<,[,[,1],[,1]]> 8≪ "," ...unless the mantra returned another mantra; the mantra returned a box. so that "," is the first...
+				[: f(x)]<,[,[,1],[,0],[,1]]> 8≪ ":"
+				[: f(x)]<,[,[,1],[,0],[,2]]> 8≪ [,f<,[,[,0]]>,[,[,x]]]
+				...
+				[:f(x)]<1> 8≪ chant the mantra
+				[,[:f(x)]<1>]<1> 8≪ dex the chanted the mantra; the results
+				[:f(x)]<1><y> 8≪ dex the unrecited mantra
+				[:f(x)]<1><1> 8≪ ":"
+				[:f(x)]<1><1> 8≪ [,f<0>,x]
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
