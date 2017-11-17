@@ -63,6 +63,16 @@
 				[:f(x)]<1><y> 8≪ dex the unrecited mantra
 				[:f(x)]<1><1> 8≪ ":"
 				[:f(x)]<1><1> 8≪ [,f<0>,x]
+				...
+				dexing needs extra depth
+				<, a, b, c>
+				a, b, and c; are inception dexes: [[f<a>]<b>]f<c>
+				<, [, a, b, c]>
+				a, b, and c; are different dexes: f<a>,f<b>,f<c>
+				<, [, [, d, e, f]]>
+				f is the dex of e is the dex of d: f<d><e><f>
+				<,[, [, [, g, h, i]]]>
+				g, h, and i; are a box of dexes: f<g,h,i> ...like an interval() range
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
