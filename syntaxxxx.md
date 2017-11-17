@@ -65,14 +65,15 @@
 				[:f(x)]<1><1> 8≪ [,f<0>,x]
 				...
 				dexing needs extra depth
-				<, a, b, c>
+				≪, a, b, c≫
 				a, b, and c; are inception dexes: [[f<a>]<b>]f<c>
-				<, [, a, b, c]>
+				≪, [, a, b, c]≫
 				a, b, and c; are different dexes: f<a>,f<b>,f<c>
-				<, [, [, d, e, f]]>
+				≪, [, [, d, e, f]]≫
 				f is the dex of e is the dex of d: f<d><e><f>
-				<,[, [, [, g, h, i]]]>
+				≪,[, [, [, g, h, i]]]≫
 				g, h, and i; are a box of dexes: f<g,h,i> ...like an interval() range
+				...preprocessing will have two dexing that users can configure; I did it this way because it made the most sense to me at the time, but will probably flip flop over time, until I settle on the one I like...
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
