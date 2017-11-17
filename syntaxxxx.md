@@ -52,6 +52,10 @@
 				f is the dex of e is the dex of d: f<d><e><f>
 				<, [, [, g, h, i]]>
 				g, h, and i; are a box of dexes: f<[g,h,i]>
+				...
+				[: f(x)]<,[,[,1]]> 8≪ chant the mantra
+				[: f(x)]<,[,[,1],[,1]]> 8≪ ":"
+				[: f(x)]<,[,[,1],[,2]]> 8≪ [,f<,[,[,0]]>,[,[,x]]]
 			mantras
 				: [, type, pattern, process, input] 8≪ output
 			return
