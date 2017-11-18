@@ -353,7 +353,7 @@ I will continue mantras down here
 		process includes patterns
 		parameters include input & flow
 		
-		,type will be ignored
+		,type will be ignored; it's jñānam
 		:process is scoped; so that when it returns, the mantra returns
 		,parameters is <-1>; pattern matching will access <-1>
 	>8
