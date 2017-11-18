@@ -419,4 +419,6 @@ declarative VS imperative
 		They all overcomplicate "-thing"s.
 		Whenever I get confused; I find comfort in the thought, "a computer program is just a rudimentary list of computational instructions".
 		Shyamscript reflects that thought!!! :D
+		...now Shyamscript is declarative; I assume every other language cheats the same way? Just like artificial/synthetic intelligence...
+		Boxers are cheaters; we will bite your ear off!!! :D
 	>8
