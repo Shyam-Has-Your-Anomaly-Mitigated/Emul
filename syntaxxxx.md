@@ -363,6 +363,8 @@ I will continue mantras down here
 		overloading
 		
 		type_x is the type of the parameter for the guru
+		
+		...can you do this c̄ Haskell?!?
 	>8
 	[
 		: ∨(
