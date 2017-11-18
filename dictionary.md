@@ -106,6 +106,9 @@ vijñāna
 jñāna-vijñāna
 * with knowledge and practical application of the knowledge 
 
+sampradāya
+* the tree of disciplic succession; like a family tree
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
