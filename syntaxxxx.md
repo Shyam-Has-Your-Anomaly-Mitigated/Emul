@@ -368,15 +368,22 @@ I will continue mantras down here
 		: ∨(
 			: ∧(
 				: =(, type_x, type_1)
-				: [, type_1: process_1<0>, parameter_1]
+				: [, type_1: process_1<0>, parameter_1]<0>
 			)<0>
 			: ∧(
 				: =(, type_x, type_2)
-				: [, type_2: process_2<0>, parameter_2]
+				: [, type_2: process_2<0>, parameter_2]<0>
 			)<0>
 			: ∧(
 				: =(, type_x, type_3)
-				: [, type_3: process_3<0>, parameter_3]
+				: [, type_3: process_3<0>, parameter_3]<0>
 			)<0>
 		)<0>
 	]
+	
+	8<
+		these works
+			: ∧(: mantra<0>)
+			: ∧(∴ mantra)
+		∵ the parametric box ,∧()<0> contains the return dīkṣā "∴"; ∧() will return śiṣya if it's true
+	>8
