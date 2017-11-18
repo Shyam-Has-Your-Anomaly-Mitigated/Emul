@@ -365,6 +365,8 @@ I will continue mantras down here
 		type_x is the type of the parameter for the guru; parameter_x
 		
 		...can you do this c̄ Haskell?!?
+		
+		this is also how overriding works; just change type_ to pattern_
 	>8
 	[
 		: ∨(
