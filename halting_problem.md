@@ -40,3 +40,4 @@
 	
 	8≪ I have solved the halting problem!!! :D
 	8≪ I discovered a way to do low-tech quantum experiments; based on low-tech temporℝæl experiments...
+	8≪ It may just be mathematical approximation???
