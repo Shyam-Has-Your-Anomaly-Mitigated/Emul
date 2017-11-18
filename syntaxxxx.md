@@ -392,3 +392,29 @@ I will continue mantras down here
 		∵ the parametric box ,∧()<-1> contains the return dīkṣā "∴"; ∧() will return the śiṣya if it's true
 		I mean ∧() checks its' parametric box for return/mantra/ETC dīkṣās
 	>8
+declarative VS imperative
+
+	8≪ Shyamscript is imperative c̄ lazy evaluation
+
+	8≪ this will throw bugs at the user
+	: nāma("g", [∴ [: f]])
+	: g 8≪ ERR
+	: nāma("f", [, "constant f"])
+
+	8≪ this willn't throw bugs at the user
+	: nāma("g", [∴ [: f]])
+	: nāma("f", [, "constant f"])
+	: g
+
+	8≪ this willn't throw bugs at the user
+	: nāma("f", [, "constant f"])
+	: nāma("g", [∴ [: f]])
+	: g
+
+	8<
+		I like to think of this as declarative; you declare some"-thing" that isn't necessarily true.
+		I don't ℝeally know any"-thing" about paradigms.
+		They all overcomplicate "-thing"s.
+		Whenever I get confused; I find comfort in the thought, "a computer program is just a rudimentary list of computational instructions".
+		Shyamscript reflects that thought!!! :D
+	>8
