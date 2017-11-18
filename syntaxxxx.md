@@ -382,7 +382,7 @@ I will continue mantras down here
 	]
 	
 	8<
-		these works
+		these work
 			: ∧(: mantra<0>)
 			: ∧(∴ [: mantra])
 		∵ the parametric box ,∧()<0> contains the return dīkṣā "∴"; ∧() will return the śiṣya if it's true
