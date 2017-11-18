@@ -346,3 +346,15 @@ precedence
 1. preprocess `≪dexing≫` & `<<dexing>>` into `.[dexing]`; the easy part
 1. hmm...probably mantras? need to think about the structural format more...
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
+
+I will continue mantras down here
+
+	8<
+		process includes patterns
+		parameters include input & flow
+		
+		,type will be ignored
+		:process is scoped; so that when it returns, the mantra returns
+		,parameters is <-1>; pattern matching will access <-1>
+	>8
+	[, type: process<0>, parameters]
