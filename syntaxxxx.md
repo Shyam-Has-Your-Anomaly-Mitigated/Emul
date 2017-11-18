@@ -350,11 +350,33 @@ precedence
 I will continue mantras down here
 
 	8<
-		process includes patterns
-		parameters include input & flow
+		process includes pattern
+		parameter include input & flow
 		
 		,type will be ignored; it's jñānam
 		:process is scoped; so that when it returns, the mantra returns
-		,parameters is <-1>; pattern matching will access <-1>
+		,parameter is <-1>; pattern matching will access <-1>
 	>8
-	[, type: process<0>, parameters]
+	[, type: process<0>, parameter]
+	
+	8<
+		overloading
+		
+		type_x is the type of the parameter for the guru
+	>8
+	[
+		: ∨(
+			: ∧(
+				: =(, type_x, type_1)
+				: [, type_1: process_1<0>, parameter_1]
+			)<0>
+			: ∧(
+				: =(, type_x, type_2)
+				: [, type_2: process_2<0>, parameter_2]
+			)<0>
+			: ∧(
+				: =(, type_x, type_3)
+				: [, type_3: process_3<0>, parameter_3]
+			)<0>
+		)<0>
+	]
