@@ -90,6 +90,22 @@ DSL
 CSL
 * Collaboration Specific Language; a preprocessor to replace coding conventions
 
+jāti-dharmāḥ
+* community projects
+
+jñānam (gnyānam)
+* datum
+
+jñāna
+* theoretically useless data
+
+vijñāna
+* practically useful informational rendering of jñāna
+* realised knowledge
+
+jñāna-vijñāna
+* with knowledge and practical application of the knowledge 
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
