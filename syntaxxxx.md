@@ -415,7 +415,7 @@ declarative VS imperative
 	: g
 
 	8<
-		I like to think of this as declarative; you declare some"-thing" that isn't necessarily true.
+		I like to think of this as declarative; you declare some"-thing" that isn't necessarily true...yet!?!
 		I don't ℝeally know any"-thing" about paradigms.
 		They all overcomplicate "-thing"s.
 		Whenever I get confused; I find comfort in the thought, "a computer program is just a rudimentary list of computational instructions".
