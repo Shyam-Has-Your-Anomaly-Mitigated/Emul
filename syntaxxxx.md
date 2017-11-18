@@ -385,5 +385,5 @@ I will continue mantras down here
 		these works
 			: ∧(: mantra<0>)
 			: ∧(∴ mantra)
-		∵ the parametric box ,∧()<0> contains the return dīkṣā "∴"; ∧() will return śiṣya if it's true
+		∵ the parametric box ,∧()<0> contains the return dīkṣā "∴"; ∧() will return the śiṣya if it's true
 	>8
