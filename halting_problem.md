@@ -39,3 +39,4 @@
 	8<< self-awareness
 	
 	8≪ I have solved the halting problem!!! :D
+	8≪ I discovered a way to do low-tech quantum experiments...
