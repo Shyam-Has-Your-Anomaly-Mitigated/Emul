@@ -37,3 +37,5 @@
 	8<< I'll solve all of these after I box an implementation; unless I do it before...
 	
 	8<< self-awareness
+	
+	8≪ I have solved the halting problem!!! :D
