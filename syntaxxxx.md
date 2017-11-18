@@ -348,6 +348,7 @@ precedence
 1. hmm...probably mantras? need to think about the structural format more...
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
 
+Lisp has an overabundance of `(curvies)`; preprocessors can be used to alleviate the stress.
 
 I will continue mantras down here
 
