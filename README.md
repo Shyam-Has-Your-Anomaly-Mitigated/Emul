@@ -1,6 +1,7 @@
 SHYAM Script ...the programming tool will probably be shortened to `shyams` ...as in "use Shyams' tool"
 <br>List-Oriented Programming
 <br>[TODO](https://github.com/kmindi/special-files-in-repository-root)
+<br>[gamified checklist](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/community)
 ### Abstract
 This is all my language is:
 * **sugar:** `∓3.14159_10` & `"1"` & ETC
