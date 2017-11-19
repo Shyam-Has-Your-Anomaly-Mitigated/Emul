@@ -41,7 +41,7 @@
 	
 	8≪ Computer says no.
 	: ¶(: sentence(, [
-		, "Computer says:\n"<0>
+		, "Computer says "<0>
 		; "conduct \"Knowledge Representation and Reasoning\" & \"Information Retrieval and Web Search\" & ETC; unscope your research"
 	]))
 	
