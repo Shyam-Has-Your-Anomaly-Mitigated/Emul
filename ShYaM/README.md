@@ -4,6 +4,7 @@
 
 	8≪ nāma a mantra to add punctuation, and any other stylistic details
 	: nāma(, "sentence": [∴ [, cap(x), "."]])
+	: nāma(, "query": [∴ [, cap(x), "?"]])
 	: nāma(, "cap": [∴ [, capitalise(x<1>), x<interval("(1,-1]∈x")>]])
 	8≪ "This makes sense to me."
 	: sentence(, "this makes sense to me")
