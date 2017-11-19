@@ -23,6 +23,7 @@
 	8≪ but there's no reason an empty box willn't do the same
 	8≪ "first?third?"
 	, ["first?",[],"third?"]
+	, ["first?","","third?"]
 	8≪ but the output should be unscoped<0> into a single string anyway
 	8≪ "first. third."	
 	: ¶(
