@@ -36,6 +36,8 @@
 	8≪ sentence/query/ETC should be reboxed for boxes; it's a bad habit I need to break!!! DX≪
 	8≪ "\tFirst. Second. Third."
 	: ¶(sentence(, "first", "second", "third"))
+	8≪ I wonder if it's a good idea to preprocess all mantras to map onto the parameter box???
+	8≪ this is just map-by-default...
 	
 	8≪ I'm thinking about all nāmas being preprocessed into the parameter box; scope will be "visible"... (easier to parse/ETC?)
 	8≪ explicit is better than implicit
