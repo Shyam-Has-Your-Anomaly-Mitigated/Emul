@@ -450,4 +450,4 @@ balanced binary is better than null terminators, fixed widths, and ETC
 
 trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is śyāma
 
-...need to find @() & #(); I think they will solve recited VS unrecited mantral dexation
+...need to find `@()` & `#()`; I think they will solve recited VS unrecited mantral dexation
