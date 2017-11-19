@@ -14,7 +14,7 @@
 	8≪ nāmas end with ,[] for an empty parameter box
 	8≪ but I'm thinking about missing ,[] just unscoping<0> the output
 	: nāma(, "query": [∴ [: cap(, x), "?"]])
-	8≪ "first? third?"
+	8≪ "First? Third?"
 	: ¶(
 		: query(, "first")
 		: query()
@@ -25,13 +25,17 @@
 	, ["first?",[],"third?"]
 	, ["first?","","third?"]
 	8≪ but the output should be unscoped<0> into a single string anyway
-	8≪ "first. third."	
+	8≪ "First. Third."	
 	: ¶(
 		: sentence(, "first")<0>
 		: sentence()<0>
 		: sentence(, "third")<0>
 	)
 	8≪ ¶() spaces each parameter, and probably s/^/\n\t/
+	
+	8≪ sentence/query/ETC should be retyped for lists
+	8≪ "\tFirst. Second. Third."
+	: ¶(sentence(, "first", "second", "third"))
 	
 	8≪ I'm thinking about all nāmas being preprocessed into the parameter box; scope will be "visible"... (easier to parse/ETC?)
 	8≪ explicit is better than implicit
