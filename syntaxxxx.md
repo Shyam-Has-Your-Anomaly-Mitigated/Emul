@@ -431,7 +431,7 @@ the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was co
 I'm hoping the simplicity will result in a minimal binary/ETC; but IDM bloating it to an entertaining number of digits... (nᵗʰ power of x, nᵗʰ prime, ETC)
 
 trimūrti minification down to a binary/ETC; using binary for EG...
-0 = [
-1 = ]
-[, [], [, []], []]
-0010011011
+<br>0 = [
+<br>1 = ]
+<br>[, [], [, []], []]
+<br>0010011011
