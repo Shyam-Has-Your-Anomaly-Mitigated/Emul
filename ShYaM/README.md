@@ -33,7 +33,7 @@
 	)
 	8≪ ¶() spaces each parameter, and probably s/^/\n\t/
 	
-	8≪ sentence/query/ETC should be retyped for lists
+	8≪ sentence/query/ETC should be reboxed for lists
 	8≪ "\tFirst. Second. Third."
 	: ¶(sentence(, "first", "second", "third"))
 	
