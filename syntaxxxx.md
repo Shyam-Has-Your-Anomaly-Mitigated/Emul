@@ -435,3 +435,12 @@ trimūrti minification down to a binary/ETC; using binary for EG...
 <br>1 = ]
 <br>[, [], [, []], []]
 <br>0010011011
+
+there are only 6 dīkṣās; so far...
+<br>"," = 000 = []
+<br>"." = 001 = [[]]
+<br>":" = 010 = [[[]]]
+<br>"∴" = 011 = [[][]]
+<br>"∵" = 100 = [[[]][]]
+<br>";" = 101 = [[][][]]
+<br>so every 2ⁿᵈ śiṣya can be further optimised; unless it's just jñānam, but trimūrti is optimal for jñānam
