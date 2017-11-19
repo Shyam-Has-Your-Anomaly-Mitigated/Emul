@@ -445,4 +445,4 @@ there are only 6 dīkṣās; so far...
 <br>`";" = 101 = [[][][]]`
 <br>so every 2ⁿᵈ śiṣya can be further optimised; unless it's just jñānam, but trimūrti is optimal for jñānam
 
-balanced binary is better than null terminators, fixed width, and ETC
+balanced binary is better than null terminators, fixed widths, and ETC
