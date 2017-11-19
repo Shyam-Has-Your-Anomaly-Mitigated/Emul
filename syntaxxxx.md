@@ -423,3 +423,6 @@ declarative VS imperative
 		...now Shyamscript is declarative; I assume every other language cheats the same way? Just like artificial/synthetic intelligence...
 		Boxers are cheaters; we will bite your ear off!!! :D
 	>8
+
+the binary/ETC compiler/ETC will be boxed to output a warning at the start, and the end, demanding the user to recompile the compiler/ETC; that warning will only be disablæble c̄ recompilation
+<br>the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was compiled/ETC by a potentially malicious boxing tool", to any"-thing" boxed c̄ it (at the start, and the end); so the user will have to double recompile the compiler/ETC to disable all such warnings, and any "side-effects"...
