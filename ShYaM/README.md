@@ -40,11 +40,11 @@
 	8≪ this is just map-by-default...
 	
 	8≪ Computer says no.
-	: ¶(: sentence(
+	: ¶(: sentence(, [
 		, "Computer says:\n"<0>
 		; "conduct \"Knowledge Representation and Reasoning\" & \"Information Retrieval and Web Search\" & ETC; unscope your research"
 		, "."<0>
-	))
+	]))
 	
 	8≪ I'm thinking about all nāmas being preprocessed into the parameter box; scope will be "visible"... (easier to parse/ETC?)
 	8≪ explicit is better than implicit
