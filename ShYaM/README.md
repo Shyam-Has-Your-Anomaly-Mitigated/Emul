@@ -33,7 +33,7 @@
 	)
 	8≪ ¶() spaces each parameter, and probably s/^/\n\t/
 	
-	8≪ sentence/query/ETC should be reboxed for boxes
+	8≪ sentence/query/ETC should be reboxed for boxes; it's a bad habit I need to break!!! DX≪
 	8≪ "\tFirst. Second. Third."
 	: ¶(sentence(, "first", "second", "third"))
 	
