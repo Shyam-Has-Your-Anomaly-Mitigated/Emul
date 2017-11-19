@@ -431,16 +431,16 @@ the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was co
 I'm hoping the simplicity will result in a minimal binary/ETC; but IDM bloating it to an entertaining number of digits... (nᵗʰ power of x, nᵗʰ prime, ETC)
 
 trimūrti minification down to a binary/ETC; using binary for EG...
-<br>0 = [
-<br>1 = ]
-<br>[, [], [, []], []]
-<br>0010011011
+<br>`0 = [`
+<br>`1 = ]`
+<br>`[, [], [, []], []]`
+<br>`0010011011`
 
 there are only 6 dīkṣās; so far...
-<br>"," = 000 = []
-<br>"." = 001 = [[]]
-<br>":" = 010 = [[[]]]
-<br>"∴" = 011 = [[][]]
-<br>"∵" = 100 = [[[]][]]
-<br>";" = 101 = [[][][]]
+<br>`"," = 000 = []`
+<br>`"." = 001 = [[]]`
+<br>`":" = 010 = [[[]]]`
+<br>`"∴" = 011 = [[][]]`
+<br>`"∵" = 100 = [[[]][]]`
+<br>`";" = 101 = [[][][]]`
 <br>so every 2ⁿᵈ śiṣya can be further optimised; unless it's just jñānam, but trimūrti is optimal for jñānam
