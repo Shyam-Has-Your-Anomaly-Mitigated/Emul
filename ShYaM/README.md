@@ -9,7 +9,7 @@
 	: sentence(, "this makes sense to me")
 	: nāma(, "csv": [∴ [, h: comma(, t)]], [])
 	: nāma(, "comma": [∴ [, ", ", h: comma(, t)]], [])
-	8≪ "apple, banana, carrot"
+	8≪ "apple, banana, carrot" ...need to add "and " before "carrot"
 	: csv(, "apple", "banana", "carrot")
 	8≪ nāmas end with ,[] for an empty parameter box
 	8≪ but I'm thinking about missing ,[] just unscoping<0> the output
