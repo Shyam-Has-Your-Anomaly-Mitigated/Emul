@@ -48,3 +48,5 @@
 	8≪ I'm thinking about all nāmas being preprocessed into the parameter box; scope will be "visible"... (easier to parse/ETC?)
 	8≪ explicit is better than implicit
 	8≪ if x is in scope, and a mantra includes it; which x? the one not placed in the parameter box
+
+	: nāma(, "sentences": [∴ [, sentence(, h): sentences(, t)]], [])
