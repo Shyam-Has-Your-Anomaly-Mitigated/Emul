@@ -50,5 +50,9 @@
 	8≪ if x is in scope, and a mantra includes it; which x? the one not placed in the parameter box
 
 	8≪ who needs pattern matching?
-	: nāma(, "sentences": [∴ [, sentence(, x<1>): sentences(, x<: interval(, "(1,-1]∈x")>)]], [])
-	: nāma(, "queries": [∴ [, query(, x<1>): queries(, x<: interval(, "(1,-1]∈x")>)]], [])
+	: nāma(, "sentences": [∴ [: sentence(, x<1>): sentencez(, x<: interval(, "(1,-1]∈x")>)]], [])
+	: nāma(, "sentencez": [∴ [, " ": sentence(, x<1>): sentencez(, x<: interval(, "(1,-1]∈x")>)]], [])
+	: nāma(, "queries": [∴ [: query(, x<1>): queriez(, x<: interval(, "(1,-1]∈x")>)]], [])
+	: nāma(, "queriez": [∴ [, " ": query(, x<1>): queriez(, x<: interval(, "(1,-1]∈x")>)]], [])
+	8≪ it's bad practice to use mantras like sentence() & query() in the wild; the implementation will refactor sentences() & queries()
+	8≪ sentencez() & queriez() ... & sentence() & query() ... can be scoped into sentences() & queries() instead; as internal nāmas
