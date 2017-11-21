@@ -56,4 +56,4 @@
 	: nāma(, "queriez": [∴ [, " ": query(, x<1>): queriez(, x<: interval(, "(1,-1]∈x")>)]], [])
 	8≪ it's bad practice to use mantras like sentence() & query() in the wild; the implementation will refactor sentences() & queries()
 	8≪ sentencez() & queriez() ... & sentence() & query() ... can be scoped into sentences() & queries() instead; as internal nāmas
-	8≪ I was thinking about x<1><1> & x<1><: interval(, "(1,-1]∈x")>
+	8≪ I was thinking about x<1><1> & x<1><: interval(, "(1,-1]∈x<1>")>
