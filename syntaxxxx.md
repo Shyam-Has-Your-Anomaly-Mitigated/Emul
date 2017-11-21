@@ -477,4 +477,4 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 		nāma probably won't be stable though
 		so the user should substitute the refactorisation over their own implementation; just a recommendation ;)
 	>8
-	8≪ I prefer consistency with :∧(∴[return<>]: =(f(x)(y)(z), [f<0>,[[x],[y],[z]]]), etc())
+	8≪ I prefer consistency with :∧∧(∴[return<>]: =(f(x)(y)(z), [f<0>,[[x],[y],[z]]]), etc())
