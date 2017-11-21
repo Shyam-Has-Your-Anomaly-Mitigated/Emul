@@ -57,3 +57,8 @@
 	8≪ it's bad practice to use mantras like sentence() & query() in the wild; the implementation will refactor sentences() & queries()
 	8≪ sentencez() & queriez() ... & sentence() & query() ... can be scoped into sentences() & queries() instead; as internal nāmas
 	8≪ I was thinking about x<1><1> & x<1><: interval(, "(1,-1]∈x<1>")>
+	8≪ interval(, "(1,-1]∈x<1>") becomes interval(, [,"(",1,-1,"]∈",x<1>])
+	8≪ 1 (from base-1) is equivalent to 'a' (single character)
+	8≪ 2 (11_1) is equivalent to a box of characters
+	8≪ so it should not be interval(, [,'(',1,-1,']','∈',x<1>])
+	8≪ ¿base types? should be boxed together; for some reason..?
