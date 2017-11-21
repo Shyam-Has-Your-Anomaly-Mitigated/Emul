@@ -465,4 +465,4 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 	8≪ but all mantras must return a box! ∴[return<>]
 	8≪ and all parameters will be boxed! :=(f(x)(y)(z), [f<0>,[[x],[y],[z]]])
 	8≪ a nāma should be a box too
-	nāma(, "a", [, 'A'])
+	nāma(, "a", [, 'A'], [, "metadata"])
