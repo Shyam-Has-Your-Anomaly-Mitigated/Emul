@@ -462,5 +462,5 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 	@("a","b","c") 8≪ [[a],[b],[c]]
 	@("a","b","c")<1><1>() 8≪ ['A'] ...is that how dexing works? it may need to be boxed: [@("a","b","c")<1><1><0>]() 
 	#(a,b,c) 8≪ [['A'],['B'],['C']]
-	8≪ but all mantras must return a box! ∴[]
+	8≪ but all mantras must return a box! ∴[return<>]
 	8≪ and all parameters will be boxed! :=(f(x)(y)(z), [f<0>,[[x],[y],[z]]])
