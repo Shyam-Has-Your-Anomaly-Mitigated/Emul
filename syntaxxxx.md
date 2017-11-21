@@ -453,4 +453,14 @@ balanced binary is better than null terminators, fixed widths, and ETC
 
 trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is śyāma
 
-...need to find `@()` & `#()`; I think they will solve recited VS unrecited mantral dexation? I remember they allow `@("f")(x)`, and `#(f)` gives `"f"` for `@(#(f))(x)`
+...need to find `@()` & `#()`; I think they will solve recited VS unrecited mantral dexation? I remember they allow `@("f")(x)`, and `#(f)` returns `"f"` for `@(#(f))(x)` ...or `#(mantra)` returns a box of strings (addresses of a mantra), and `@("address")` returns a box of mantras 
+	
+	8≪ I won't enforce it; but all the official mantras will support/maintain it...it being every"-thing"s a box, or at least nāmas & returns; but :∧(: =("abc",['a','b','c']): =('a',[...]))
+	nāma(, "a", 'A')
+	nāma(, "b", 'B')
+	nāma(, "c", 'C')
+	@("a","b","c") 8≪ [[a],[b],[c]]
+	@("a","b","c")<1><1>() 8≪ ['A'] ...is that how dexing works? it may need to be boxed: [@("a","b","c")<1><1><0>]() 
+	#(a,b,c) 8≪ [['A'],['B'],['C']]
+	8≪ but all mantras must return a box! ∴[]
+	8≪ and all parameters will be boxed! :=(f(x)(y)(z), [f<0>,[[x],[y],[z]]])
