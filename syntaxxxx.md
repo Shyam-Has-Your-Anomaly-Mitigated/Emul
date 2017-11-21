@@ -345,8 +345,8 @@ precedence
 1. preprocess `<dexing>` into `≪dexing≫`; the hard part
 1. preprocess `≪dexing≫` & `<<dexing>>` into `.[dexing]`; the easy part
 1. preprocess `, śiṣya. śiṣya` into `. śiṣya, śiṣya`; this is to optimise lookaheads
-1. preprocess `nāma("s")` to the start of the scope; for declarative boxing
 1. preprocess missing dīkṣās into "," (default); I'll probably change the default with each release, between "," & ":" most likely, but missing dīkṣās will also be configurable
+1. preprocess `nāma("s")` to the start of the scope; for declarative boxing
 1. hmm...probably mantras? need to think about the structural format more...
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
 
