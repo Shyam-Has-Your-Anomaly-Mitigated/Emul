@@ -429,7 +429,7 @@ declarative VS imperative
 
 the binary/ETC compiler/ETC will be boxed to output a warning at the start, and the end, demanding the user to recompile the compiler/ETC; that warning will only be disablæble c̄ recompilation
 
-the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was compiled/ETC by a potentially malicious boxing tool", to any"-thing" boxed c̄ it (at the start, and the end); so the user will have to double recompile the compiler/ETC to disable all such warnings, and any "side-effects"...like data erasure for all drives to encourage backups (all they will be left with is two versions of `shyams`)...reboot so they must reinstall their OS...require root access for the side-effecting compiler...Side-Effecting Compilers' User ℝeally Is Terrible; Yolocolons!!! :D
+the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was compiled/ETC by a potentially malicious boxing tool", to any"-thing" boxed c̄ it (at the start, and the end); so the user will have to double recompile the compiler/ETC to disable all such warnings, and any "side-effects"...like [data erasure](https://en.wikipedia.org/wiki/Data_erasure) for all drives to encourage backups (all they will be left with is two versions of `shyams`)...reboot so they must reinstall their OS...require root access for the side-effecting compiler...Side-Effecting Compilers' User ℝeally Is Terrible; Yolocolons!!! :D
 
 I'm hoping the simplicity will result in a minimal binary/ETC; but IDM bloating it to an entertaining number of digits... (nᵗʰ power of x, nᵗʰ prime, ETC)
 
