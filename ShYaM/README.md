@@ -69,4 +69,4 @@
 	8≪ for the sake of "free"dom; users can use a preprocessor for unboxed parameters into boxed parameters...but I think I was heading that way anyway? f(x) into f([x]) ∵ I'm lazy!!! :D (but the processor is supposed to change the source; maybe...configurable!!! :D)
 	8≪ need to lower the casing for the whole sentence first
 	8≪ then cap the the first letter, and other special words
-	8≪ need to support all languages; I CBF doing non-English in TeX...
+	8≪ need to support all languages; I CBF doing non-English in TeX... (I remember wanting to do Sanskrit, but left it for "tomorrow"...)
