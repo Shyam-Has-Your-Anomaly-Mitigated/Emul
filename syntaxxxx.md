@@ -466,3 +466,5 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 	8≪ and all parameters will be boxed! :=(f(x)(y)(z), [f<0>,[[x],[y],[z]]])
 	8≪ a nāma should be a box too
 	nāma(, "a", [, 'A'], [, "metadata"])
+	8≪ every"-thing"s a box; screw the fawlty user, they can just box their own preprocesser
+	8≪ the "fawlty" library will be full of stupidity for the invalids who dare speak my name
