@@ -468,3 +468,12 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 	nāma(, "a", [, 'A'], [, "metadata"])
 	8≪ every"-thing"s a box; screw the fawlty user, they can just box their own preprocesser
 	8≪ the "fawlty" library will be full of stupidity for the invalids who dare speak my name
+	8<
+		there can be multiple addresses for a mantra
+		there can be only one mantra for an address
+		but the problem is; the user needs to be able to dex the mantra
+		it doesn't help that nāma() will refactor the box of mantras into a single mantra
+		but the user can just check what nāma did
+		nāma probably won't be stable though
+		so the user should substitute the refactorisation over their own implementation; just a recommendation ;)
+	>8
