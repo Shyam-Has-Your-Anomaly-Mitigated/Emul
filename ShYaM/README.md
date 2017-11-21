@@ -63,7 +63,7 @@
 	8≪ so it should not be interval(, [,'(',1,-1,']','∈',x<1>])
 	8≪ ¿base types? should be boxed together; for some reason..?
 	8≪ you wouldn't mix characters into the box of 3_10; so why would you mix numbers into the box of "abc"?
-	8≪ ['a',1,'b',1,'c',1] to binary: 011000010000000101100010000000010110001100000001
+	8≪ ['a',1,'b',1,'c',1] to 8-bit bytes: 011000010000000101100010000000010110001100000001
 	8≪ you can do it...
 	8≪ but I prefer parameters do be boxes of same types (unenforced)
 	8≪ for the sake of "free"dom; users can use a preprocessor for unboxed parameters into boxed parameters...but I think I was heading that way anyway? f(x) into f([x]) ∵ I'm lazy!!! :D (but the processor is supposed to change the source; maybe...configurable!!! :D)
