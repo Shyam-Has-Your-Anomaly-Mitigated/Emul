@@ -463,7 +463,7 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 	@("a","b","c")<1><1>() 8≪ ['A'] ...is that how dexing works? it may need to be boxed: [@("a","b","c")<1><1><0>]() 
 	#(a,b,c) 8≪ [['A'],['B'],['C']]
 	8≪ but all mantras must return a box! ∴[return<>]
-	8≪ and all parameters will be boxed! :=(f(x)(y)(z), [f<0>,[[x],[y],[z]]])
+	8≪ and all parameters will( be boxed! : =(f(x)(y)(z), [f<0>,[[x],[y],[z]]]))
 	8≪ a nāma should be a box too
 	nāma(, "a", [, 'A'], [, "metadata"])
 	8≪ every"-thing"s a box; screw the fawlty user, they can just box their own preprocesser
@@ -477,3 +477,4 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 		nāma probably won't be stable though
 		so the user should substitute the refactorisation over their own implementation; just a recommendation ;)
 	>8
+	8≪ I prefer consistency with :∧(∴[return<>]: =(f(x)(y)(z), [f<0>,[[x],[y],[z]]]), etc())
