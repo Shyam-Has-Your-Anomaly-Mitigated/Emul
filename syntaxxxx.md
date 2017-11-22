@@ -480,3 +480,7 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 		so the user should substitute the refactorisation over their own implementation; just a recommendation ;)
 	>8
 	8≪ I prefer consistency with :∧∧(∴[return<>]: =(f(x)(y)(z), [f<0>,[[x],[y],[z]]]), etc())
+
+empty dexing only needs `śiṣya<>` to get the scope of the guru
+<br>`śiṣya<><>` will escape into the scope of the gurus' guru
+<br>the most common śiṣya for this will probably be `[]` for `[]<>` & `[]<><>` & ETC
