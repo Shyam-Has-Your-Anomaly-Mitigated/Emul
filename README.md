@@ -1,3 +1,5 @@
+𝕯𝔞𝔦𝔩𝔶 𝕽𝔞𝔫𝔡𝔬𝔪 𝕬𝔡𝔳𝔦𝔰𝔬𝔯𝔶 𝕿𝔢𝔵𝔱: 𝓘𝓽'𝓼 𝓪 𝓰𝓸𝓸𝓭 𝓲𝓭𝓮𝓪 𝓽𝓸 𝓫𝓪𝓬𝓴𝓾𝓹 𝔂𝓸𝓾𝓻 𝓭𝓪𝓽𝓪!
+
 SHYAM Script ...the programming tool will probably be shortened to `shyams` ...as in "use Shyams' tool"
 <br>List-Oriented Programming
 <br>The [FT](https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering)∘Shyamscript is "add more depth to your thought processes ∵ shallow mantras aren't generally useful"
