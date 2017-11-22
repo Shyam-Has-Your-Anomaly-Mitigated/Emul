@@ -425,6 +425,7 @@ declarative VS imperative
 		Shyamscript reflects that thought!!! :D
 		...now Shyamscript is declarative; I assume every other language cheats the same way? Just like artificial/synthetic intelligence...
 		Boxers are cheaters; we will bite your ear off!!! :D
+		∎ https://en.wikipedia.org/wiki/Evander_Holyfield_vs._Mike_Tyson_II
 	>8
 
 the binary/ETC compiler/ETC will be boxed to output a warning at the start, and the end, demanding the user to recompile the compiler/ETC; that warning will only be disablæble c̄ recompilation
