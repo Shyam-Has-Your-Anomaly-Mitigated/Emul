@@ -484,3 +484,4 @@ trimūrti dīkṣās = `[, ",", ";"]`; the 1ˢᵗ is viṣṇu, the 2ⁿᵈ is �
 empty dexing only needs `śiṣya<>` to get the scope of the guru
 <br>`śiṣya<><>` will escape into the scope of the gurus' guru
 <br>the most common śiṣya for this will probably be `[]` for `[]<>` & `[]<><>` & ETC
+<br>by getting the scope; I mean dexing, or getting the dex, or ETC
