@@ -439,6 +439,7 @@ the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was co
 
 if a user notices all their drives/printers/scanners/motherboard/ETC (firmware is stored somewhere) are active (making noises, blinking lights, ETC), and uses another system (phone, ETC) to query the forum/IRC/ETC; "the compiler is just using those resources to optimise the compilation process; only the computational aspects, so DON'T PANIC. :)"
 <br>after their PTSD; "just be thankful you can flash the BIOS, and ETC; hope you learned some\"-thing\" from this?"
+<br>don't say it's unrecoverable; just say "it's not worth attempting data recovery; I'm/we're not experts in that area, so we cannot help you"
 
 there will only be one official binary/ETC per platform/hardware/OS/ETC (probably compiler; but could be any"-thing" ℝeally?..); ℝeal boxers will use a ~~(live) USB~~ virtual machine to box their own binaries/ETC...
 
