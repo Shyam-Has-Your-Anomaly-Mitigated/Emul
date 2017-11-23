@@ -440,6 +440,10 @@ the binary/ETC compiler/ETC will also inject a warning, "this mahāmantra was co
 there will only be one official binary/ETC per platform/hardware/OS/ETC (probably compiler; but could be any"-thing" ℝeally?..); ℝeal boxers will use a (live) USB to box their own binaries/ETC...
 
 I'm hoping the simplicity will result in a minimal binary/ETC; but IDM bloating it to an entertaining number of digits... (nᵗʰ power of x, nᵗʰ prime, ETC)
+<br>to simplify the binary/ETC, use inline ASM for "builtin" mantras; to be post-compiled
+<br>the binary/ETC will only be cross-compilable
+<br>the user must then compile the ℂomplex computer, ETC
+<br>`spp` (from `cpp`) will be used to "direct" the processing to inline ASM, defaulting c̄ Shyamscript
 
 trimūrti minification down to a binary/ETC; using binary for EG...
 <br>`0 = [`
@@ -514,7 +518,8 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 	)
 	: get(["x", "y"], 8<from>8 object) 8≪ ["a", "b"]
 	
-hmm...
+each scope will only have upto one `nāmas()` c̄ no `nāma()`
+<br>I think there is a mantra for accessing the nāmas; probably just `nāma()` (empty parameter)
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
