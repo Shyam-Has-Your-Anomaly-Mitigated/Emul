@@ -527,7 +527,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 <br>by default you must parameterise external nāmas
 <br>empty dexing can be used to scope guru nāmas: `get([], []<><>)`
 <br>or just scope the sampradāya: `get([], mahāmantra)`
-<br>I just had a recursive realisation: `: [: [, []<>]]`
+<br>I just had a recursive realisation: `: [: [, []<><>]]`
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
