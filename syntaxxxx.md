@@ -514,3 +514,12 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 	)
 	: get(["x", "y"], 8<from>8 object) 8≪ ["a", "b"]
 	
+hmm...
+
+	, [: f]<1> 8≪ ,f
+	, [: f]<1><1> 8≪ ":"
+	: [: f]<1> 8≪ :f
+	, [∴ f]<1> 8≪ ,f
+	, [∴ f]<1><1> 8≪ "∴"
+	: [∴ f]<1> 8≪ :f
+	8≪ but it makes no sense to <1><1> if all dīkṣās are ","... 
