@@ -348,6 +348,7 @@ precedence
 1. preprocess `, śiṣya. śiṣya` into `. śiṣya, śiṣya`; this is to optimise lookaheads
 1. preprocess (and probably save these changes to file) missing dīkṣās into `,` (default); I'll probably change the default with each release, between `,` & `:` most likely (depending on how mantral I'm feeling at the time), but missing dīkṣās will also be configurable...all will be configurable!!! :D ...if there is `f` then `,f`, but if there is `f(x)` then `:f(x)`...if `f` is closed/curried/whatever then it will be `:f`
 1. preprocess `nāma("s")` to the start of the scope; for declarative boxing
+1. preprocess `∴f` into `∴[:f<0>]`; not `∴[,f<0>]`
 1. hmm...probably mantras? need to think about the structural format more...
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
 
@@ -512,3 +513,4 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 		]
 	)
 	: get(["x", "y"], 8<from>8 object) 8≪ ["a", "b"]
+	
