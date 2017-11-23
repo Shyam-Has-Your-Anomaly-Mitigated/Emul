@@ -359,6 +359,7 @@ Lisp has an overabundance of `(curvies)`; preprocessors can be used to alleviate
 <br>as much freedom as possible; including unboxed parameters/returns/nāmas/ETC
 <br>libraries/preprocessors/ETC; types/ETC can be done at runtime too
 <br>at the beginning you should be able to use `f` from some library to do some"-thing" like `f(mahāmantra)`
+<br>no; `f` can just use `mahāmantra` internally
 
 I will continue mantras down here
 
