@@ -520,6 +520,9 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 	
 each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will not be provided, but the user could DIY... 
 <br>I think there is a mantra for accessing the nāmas; probably just `nāmas()` (empty parameter)
+<br>by default you must parameterise external nāmas
+<br>empty dexing can be used to scope guru nāmas: `get([], []<><>)`
+<br>or just scope the sampradāya: `get([], mahāmantra)`
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
