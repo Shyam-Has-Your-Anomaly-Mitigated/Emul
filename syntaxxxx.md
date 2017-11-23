@@ -352,6 +352,7 @@ precedence
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
 
 Lisp has an overabundance of `(curvies)`; preprocessors can be used to alleviate the stress.
+<br>a preprocessor will be used for types, and side-effects; empty dexing allows metaprogramming, but is better/free-er with side-effects
 
 I will continue mantras down here
 
