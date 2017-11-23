@@ -519,7 +519,7 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 	: get(["x", "y"], 8<from>8 object) 8≪ ["a", "b"]
 	
 each scope will only have up to one `nāmas()` c̄ no `nāma()`
-<br>I think there is a mantra for accessing the nāmas; probably just `nāma()` (empty parameter)
+<br>I think there is a mantra for accessing the nāmas; probably just `nāmas()` (empty parameter)
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
