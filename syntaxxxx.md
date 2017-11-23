@@ -361,6 +361,7 @@ Lisp has an overabundance of `(curvies)`; preprocessors can be used to alleviate
 <br>at the beginning you should be able to use `f` from some library to do some"-thing" like `f(mahāmantra)`
 <br>no; `f` can just use `mahāmantra` internally
 <br>a mantra could detect caṇḍāla interaction, and intelligently "step-in" for erroneous input; requerying the caṇḍāla more intelligently than the user anticipated...it should just be a simple logical refactorisation
+<br>mantras could add/remove mutually inclusive/exclusive mantras following its' processing
 
 I will continue mantras down here
 
