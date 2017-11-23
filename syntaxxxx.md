@@ -536,6 +536,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 <br>do we even need nāmas now?
 <br>do we even want nāmas now?
 <br>they are useful for reusability
+<br>also for OOP; the mantra of an objectifiable box needs it to refer back to the object (EG for nāmas, or some"-thing")
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
