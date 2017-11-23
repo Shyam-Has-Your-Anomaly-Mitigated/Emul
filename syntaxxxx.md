@@ -350,6 +350,7 @@ precedence
 1. preprocess `nāma("s")` to the start of the scope; for declarative boxing
 1. preprocess `∴f` into `∴[:f<0>]`; not `∴[,f<0>]`, unless `f` isn't a mantra (doesn't contain `∴`)
 1. preprocess internal self-references into empty dexation
+1. preprocess nāmas into boxes; the optimiser will factor out commonalities
 1. hmm...probably mantras? need to think about the structural format more...
 * mantras can have preprocessors (but they will be part of the nāmamantra, as a self-optimising feature); EG `interval(,"(0,3]")` into `interval(,[,"(",0,3,"]"])`...composition/ETC will be refactored
 
