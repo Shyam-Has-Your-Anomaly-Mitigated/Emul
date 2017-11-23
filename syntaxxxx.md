@@ -511,4 +511,4 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 			∴ [: [, y<0>∴ @(x)]]
 		]
 	)
-	: get(["x"], 8<from>8 object) 8≪ "a"
+	: get(["x", "y"], 8<from>8 object) 8≪ ["a", "b"]
