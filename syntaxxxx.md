@@ -490,3 +490,18 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 <br>`śiṣya<><>` will escape into the scope of the gurus' guru
 <br>the most common śiṣya for this will probably be `[]` for `[]<>` & `[]<><>` & ETC
 <br>by getting the scope; I mean dexing, or getting the dex, or ETC
+
+	8≪ OOP(s); IDK if this is correct...
+	: nāmas([
+		, "object"
+		, [
+			: nāmas(["x","a"], ["y","b"], ["z","c"])
+			, x
+			, y
+			, z
+		]
+	])
+	, object{x} 8≪ object<2> 8≪ "a"
+	8≪ there must be some way to use the nāma of a śiṣya without chanting
+	: nāmas([, "object", [: nāmas(["x","a"], ["y","b"], ["z","c"])]])
+	: get("x", 8<from>8 object) 8≪ "a"
