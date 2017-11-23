@@ -530,6 +530,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 <br>I just had a recursive realisation: `: [: [, []<><>]]`
 <br>do we even need nāmas now?
 <br>do we even want nāmas now?
+<br>they are useful for reusability
 
 	, [: f]<1> 8≪ ,f
 	, [: f]<1><1> 8≪ ":"
