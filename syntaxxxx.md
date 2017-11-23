@@ -360,6 +360,7 @@ Lisp has an overabundance of `(curvies)`; preprocessors can be used to alleviate
 <br>libraries/preprocessors/ETC; types/ETC can be done at runtime too
 <br>at the beginning you should be able to use `f` from some library to do some"-thing" like `f(mahāmantra)`
 <br>no; `f` can just use `mahāmantra` internally
+<br>a mantra could detect caṇḍāla interaction, and intelligently "step-in" for erroneous input; requerying the caṇḍāla more intelligently than the user anticipated...it should just be a simple logical refactorisation
 
 I will continue mantras down here
 
