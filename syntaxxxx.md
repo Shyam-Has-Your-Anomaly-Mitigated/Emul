@@ -575,9 +575,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	>8
 	
 	8≪ mantras need empty parameters to have special processing; so this is how to box with empty tails
-	: ∨(∧(≠(t, []): f(t)<0>)∴ [])
+	: ∨(∧(≠(t, []): f(t)<0>)<0>∴ [])
 	8≪ you can zero dex it to return for the guru(s)
-	: ∨(∧(≠(t, []): f(t)<0>)∴ [])<0>
+	: ∨(∧(≠(t, []): f(t)<0>)<0>∴ [])<0>
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
