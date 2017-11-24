@@ -550,6 +550,17 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	8≪ <1> should be :f ...or whatever
 	
 	8≪ parametric overflow could contain alternative mantras & meta jñānam
+	
+	8≪ mantra format
+	: nāmas([
+		, "f"
+		8≪ head of the first parameter is []<><><-1><1><1>
+		8≪ tail of the first parameter is []<><><-1><1><: interval(, "(1,-1]∈[]<><><><-1><1>")>
+		, [∴ [, []<><><-1><1><1>: f([]<><><-1><1><: interval(, "(1,-1]∈[]<><><><-1><1>")>)], []]
+		, []
+	])
+	: f(1,2,3) 8≪ [1,2,3]
+	8≪ f(1,2,3) returns a mantra c̄ [1,2,3] stacked into f<-1> for f to use ...Supports Immutable Boxes Like It Never Goes
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
