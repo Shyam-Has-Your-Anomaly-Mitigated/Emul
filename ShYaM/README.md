@@ -79,4 +79,6 @@
 		: title_bar("this is a website") 8≪ manipulates the titular text
 		: address_bar("shyam:///whatever/I want") 8≪ manipulates the addressable text
 		: body("hello world!!! :D") 8≪ manipulates the bodacious text
+		: draw(svg, scale8<d>8, 8<at>8 x, y, z, 8<c̄>8, r, g, b, a)
+		: draw(svg, 8<between>8, x_1, y_1, z_1, 8<∧>8, x_2, y_2, z_2, 8<c̄>8, r, g, b, a)
 	>8
