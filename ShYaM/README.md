@@ -70,3 +70,13 @@
 	8≪ need to lower the casing for the whole sentence first
 	8≪ then cap the the first letter, and other special words
 	8≪ need to support all languages; I CBF doing non-English in TeX... (I remember wanting to do Sanskrit, but left it for "tomorrow"...)
+
+	8<
+		8≪ this is how markup should be done
+		: title_bar() 8≪ returns the titular text
+		: address_bar() 8≪ returns the addressable text
+		: body() 8≪ returns the bodacious text
+		: title_bar("this is a website") 8≪ manipulates the titular text
+		: address_bar("shyam:///whatever/I want") 8≪ manipulates the addressable text
+		: body("hello world!!! :D") 8≪ manipulates the bodacious text
+	>8
