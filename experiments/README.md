@@ -1,2 +1,2 @@
 Is it possible to DOS the server by recursive SSHing? I remember the first time I gained access to the RMIT servers; one of the first "-thing"s I did was SSH between my accounts on all three of them...I felt so 1337 ∵ I was proxying just like in the black hat games, but I this time I had ¿infinite? "nodes"; I was untracæble!!! :D
-<br>**solution:** *¿bandwidth & memory throttling?*
+<br>**solution:** *¿bandwidth & memory & processing & ETC throttling?*
