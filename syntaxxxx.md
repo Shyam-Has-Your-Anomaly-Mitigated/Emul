@@ -571,6 +571,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 		seems more efficient...
 		immutability means you can (re)use the same jñānam for multiple purposes?
 		fractions depend on the base; so changing one, or the other, requires care...unless you're name is Pierre (a stone/rock; a stoner who listens to rocks, and thinks it's rock music)
+		numbers can be any size
 	>8
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
