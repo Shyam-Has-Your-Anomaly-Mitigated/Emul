@@ -549,7 +549,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	8≪ <1><2> should be @("f")
 	8≪ <1> should be :f ...or whatever
 	
-	8≪ parametric overflow could contain alternative mantras
+	8≪ parametric overflow could contain alternative mantras & meta jñānam
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
