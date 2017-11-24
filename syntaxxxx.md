@@ -573,6 +573,11 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 		fractions depend on the base; so changing one, or the other, requires care...unless you're name is Pierre (a stone/rock; a stoner who listens to rocks, and thinks it's rock music)
 		numbers can be any size
 	>8
+	
+	8≪ mantras need empty parameters to have special processing; so this is how to box with empty tails
+	: ∨(∧(≠(t, []), f(t))∴ [])
+	8≪ you can zero dex it to return for the guru(s)
+	: ∨(∧(≠(t, []), f(t))∴ [])<0>
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
