@@ -592,7 +592,8 @@ Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 **options:**
 * binaries/ETC, no JS; support the change you want to see in the world
 * JS, no binaries/ETC; less effort, but the other option can become automated
-<br>*I want JS...*
+
+*I want JS...*
 <br>*I want to change the world c̄ social engineering...*
 <br>**compromise:** JS will exist, but the official documentation will not include it as an option for compilation/ETC; the official documentation for JS will just stick to web stuff...
 <br>**so:**
