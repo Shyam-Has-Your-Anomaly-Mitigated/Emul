@@ -451,6 +451,8 @@ if a user notices all their drives/printers/scanners/motherboard/ETC (firmware i
 
 there will only be one official binary/ETC per platform/hardware/OS/ETC (probably compiler; but could be any"-thing" ℝeally?..); ℝeal boxers will use a ~~(live) USB~~ virtual machine to box their own binaries/ETC...
 
+users can play [roulette](http://www.commitstrip.com/en/2014/05/16/russian-roulette/); the binary/ETC will not perform data erasure if the smallest temporæl digit is [3](https://www.youtube.com/watch?v=aU4pyiB-kq0).
+
 I'm hoping the simplicity will result in a minimal binary/ETC; but IDM bloating it to an entertaining number of digits... (nᵗʰ power of x, nᵗʰ prime, ETC)
 <br>to simplify the binary/ETC, use inline ASM for "builtin" mantras; to be post-compiled
 <br>the binary/ETC will only be cross-compilable
