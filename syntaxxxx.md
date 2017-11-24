@@ -585,3 +585,16 @@ Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>lets start with: every"-thing"s a type...
 <br>but what is a type?
 <br>a list is a list, so why not just use lists?
+<br>I'll reinvent the formal wheel later...
+<br>I'm not exactly sure how this works, but the most popular seem to be [Z](https://en.wikipedia.org/wiki/Z_notation), and [Coq](https://en.wikipedia.org/wiki/Coq)...
+<br>my plan is to learn Z, specify c̄ Z, learn Coq, implement c̄ Coq, ...then verify somehow
+
+**options:**
+* binaries/ETC, no JS; support the change you want to see in the world
+* JS, no binaries/ETC; less effort, but the other option can become automated
+<br>*I want JS...*
+<br>*I want to change the world c̄ social engineering...*
+<br>**compromise:** JS will exist, but the official documentation will not include it as an option for compilation/ETC; the official documentation for JS will just stick to web stuff...
+<br>**so:**
+1. binaries/ETC
+2. JS; this must be after so users aren't encouraged to use it for compilation/ETC
