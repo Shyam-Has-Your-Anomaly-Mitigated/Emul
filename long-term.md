@@ -18,11 +18,6 @@
 * every"-thing" will be FLOSS; EG everybody will be sequenced to help us understand ourselves
 	* confidentiality for STDs is a bad idea; it can only worsen the situation (the likelihood of your STD being cured does not increase as it spreads, and'll probably not be cured in your life time; it's better to contain the situation, until it dissipates)
 
-## social hierarchy
-1. deciders; contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
-2. contributors; research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
-3. everyonelses
-
 ## health-based [ecomony](https://en.wikipedia.org/wiki/Idiocracy)
 * resources are allocated by physical/mental/ETC health
 	* you need electricity to enjoy electronic-based entertainment
@@ -39,6 +34,12 @@
 * maximum is 2 (one per person); unless triplets/ETC
 * when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
 * breaking the limit illegally will be penalised with enforced sterilisation, and sex offenders will be "disarmed".
+
+## social hierarchy
+1. deciders; contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
+2. contributors; research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
+3. everyonelses; plants, and animals, alike
+4. slaves
 
 ## slaves
 * robots will be enslaved for agriculture, medicine, ETC
