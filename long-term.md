@@ -26,6 +26,7 @@
 	* you need physical resources for many hobbies
 	* you don't ℝeally need specialty food/ETC; unless you suffer a medical condition
 	* you don't ℝeally need intoxicants (tobacco/alcohol/caffeine/drugs/ETC) which will probably promote neurodegenerative diseases
+	* you don't ℝeally need wireless technology (radio waves, ETC) which will probably promote neurodegenerative diseases
 * lets focus on our evolution as a species
 	* immunity can be developed; Westley (from The Princess Bride) built up an immunity to iocane
 	* can allergies/intolerances/ETC be remedied in the same way?
