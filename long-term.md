@@ -17,7 +17,7 @@
 2. contributors; research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
 3. everyonelses
 
-## health-based ecomony
+## health-based [ecomony](https://en.wikipedia.org/wiki/Idiocracy)
 * resources are allocated by physical/mental/ETC health
 	* you need electricity to enjoy electronic-based entertainment
 	* you need physical resources for many hobbies
