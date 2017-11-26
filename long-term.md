@@ -14,7 +14,7 @@
 
 ## social hierarchy
 1. deciders; contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
-2. contributors; research/development/maintenance/entertainment/ETC
+2. contributors; research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
 3. everyonelses
 
 ## health-based ecomony
