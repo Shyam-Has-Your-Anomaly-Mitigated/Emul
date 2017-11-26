@@ -26,7 +26,7 @@
 	* you don't ℝeally need intoxicants (tobacco/alcohol/caffeine/drugs/ETC) which will probably promote neurodegenerative diseases/disorders/ETC
 	* you don't ℝeally need convenient wireless technology (radio waves, ETC) which will probably promote neurodegenerative diseases/disorders/ETC
 * lets focus on our evolution as a species
-	* immunity can be developed; Westley (from The Princess Bride) built up an immunity to iocane
+	* immunity can be developed; [Westley](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) built up an immunity to iocane
 	* can allergies/intolerances/ETC be remedied in the same way?
 
 ## population control
