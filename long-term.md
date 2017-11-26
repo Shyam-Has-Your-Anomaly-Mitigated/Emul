@@ -4,7 +4,8 @@
 * no killing animals (including humans; except in times of war...for "self defence"), and plants
 * @BG9.26: Kṛṣṇa said to consume "patraṁ puṣpaṁ phalaṁ toyaṁ" (leaf, ﬂower, fruit, and water); no other parts of the plant (EG roots, shoots, and bark)
 * robots can farm without harm
-* if your culture/religion/ETC requires animal sacrifice, then mine requires human sacrifice (yours)
+* if your culture/religion/ETC requires animal/plant sacrifice, then mine requires human sacrifice (yours)
+	* muai thai kickboxers don't ℝeally need to kick banana trees (to death) #plantabuse
 
 ## ethics
 * everybody will train in:
