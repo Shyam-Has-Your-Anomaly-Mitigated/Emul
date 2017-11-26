@@ -31,3 +31,4 @@
 
 ## slaves
 * robots will be enslaved for agriculture, medicine, ETC
+* bamboo plants will be tortured for wood/ETC
