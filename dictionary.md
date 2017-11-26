@@ -59,7 +59,7 @@ JAB
 * dexing is `<zero<>>`, or *dexing
 * undexing is `<empty<>>`
 * unscope/unscoped/unscoping
-* `otog`s; `goto` in reverse (bring it to me, instead of me going to it; like the DME)
+* `otog`; `goto` in reverse (bring it to me, instead of me going to it; like the DME)
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `[pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
