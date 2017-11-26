@@ -8,7 +8,7 @@
 ## ethics
 * everybody will train in:
 	* first aid
-	* aikidō; self defence while protecting the attacker
+	* aikidō; self defence while protecting the attacker (who may be suffering from mental disease/instability/anguish/ETC)
 	* ETC ...or be considered an "invalid" form of life
 * nobody will own any"-thing"; everybody will share equipment, ETC
 
