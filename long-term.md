@@ -29,6 +29,11 @@
 	* immunity can be developed; Westley (from The Princess Bride) built up an immunity to iocane
 	* can allergies/intolerances/ETC be remedied in the same way?
 
+## population control
+* must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
+* maximum is 2; unless triplets/ETC
+* when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
+
 ## slaves
 * robots will be enslaved for agriculture, medicine, ETC
 * bamboo plants will be tortured for wood/ETC
