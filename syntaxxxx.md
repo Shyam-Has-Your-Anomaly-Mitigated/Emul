@@ -580,8 +580,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	: ∨(∧(≠(t, []): f(t)<0>)<0>∴ [])<0>
 	
 	; metaboxing_preprocessing()
-	; "USER: TODO..."
-	; "SHYAM: TODO..."
+	; "USER: TODO... (DIY)"
+	; "SHYAM: TODO... (artificial/synthetic intelligence)"
 	; "completely ignored at runtime; not even treated as jñānam...invisible; not included in the compilation binaries/ETC"
 	: runtime_postprocessing()
 
