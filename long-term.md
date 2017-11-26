@@ -36,6 +36,7 @@
 * must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
 * maximum is 2 (one per person); unless triplets/ETC
 * when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
+* breaking the limit illegally will be penalised with enforced sterilisation, and sex offenders will be "disarmed".
 
 ## slaves
 * robots will be enslaved for agriculture, medicine, ETC
