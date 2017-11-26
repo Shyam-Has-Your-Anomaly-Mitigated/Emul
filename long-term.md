@@ -31,7 +31,7 @@
 
 ## population control
 * must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
-* maximum is 2; unless triplets/ETC
+* maximum is 2 (one per person); unless triplets/ETC
 * when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
 
 ## slaves
