@@ -9,8 +9,8 @@
 * everybody will train in:
 	* first aid
 	* aikidō; self defence while protecting the attacker
-	* ETC
-* ...or be considered an "invalid" form of life
+	* ETC ...or be considered an "invalid" form of life
+* nobody will own any"-thing"; everybody will share equipment, ETC
 
 ## social hierarchy
 1. deciders; contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
