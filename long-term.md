@@ -20,6 +20,7 @@
 ## health-based ecomony
 * resources are allocated by physical/mental/ETC health
 	* you need electricity to enjoy electronic-based entertainment
+	* you need physical resources for many hobbies
 * lets focus on our evolution as a species
 	* immunity can be developed; Westley (from The Princess Bride) built up an immunity to iocane
 	* can allergies/intolerances/ETC be remedied in the same way?
