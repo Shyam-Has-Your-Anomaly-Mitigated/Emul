@@ -15,6 +15,8 @@
 	* aikidō; self defence while protecting the attacker (who may be suffering from mental disease/instability/anguish/ETC)
 	* ETC ...or be considered an "invalid" form of life
 * nobody will own any"-thing"; everybody will share equipment, ETC
+* every"-thing" will be FLOSS; EG everybody will be sequenced to help us understand ourselves
+	* confidentiality for STDs is a bad idea; it can only worsen the situation (the likelihood of your STD being cured does not increase as it spreads, and'll probably not be cured in your life time; it's better to contain the situation, until it dissipates)
 
 ## social hierarchy
 1. deciders; contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
