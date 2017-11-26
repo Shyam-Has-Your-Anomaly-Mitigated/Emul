@@ -2,12 +2,12 @@
 
 ## ahiṃsā
 * no killing animals (including humans; except in times of war...for "self defence"), and plants
+	* bamboo can be used as a source of wood without killing the plant; this is why "no kill", instead of "no harm"
 * @BG9.26: Kṛṣṇa said to consume "patraṁ puṣpaṁ phalaṁ toyaṁ" (leaf, ﬂower, fruit, and water); no other parts of the plant (EG roots, shoots, and bark)
 * robots can farm without harm
 * robots can transplant plants for contruction/infrastructure/ETC
 * if your culture/religion/ETC requires animal/plant sacrifice, then mine requires human sacrifice (yours)
 	* muai thai kickboxers don't ℝeally need to kick banana trees (to death) #plantabuse
-* bamboo can be used as a source of wood without killing the plant; this is why "no kill", instead of "no harm"
 
 ## ethics
 * everybody will train in:
