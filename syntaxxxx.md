@@ -582,6 +582,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	; metaboxing_preprocessing()
 	; "USER: TODO..."
 	; "SHYAM: TODO..."
+	; "completely ignored at runtime; not even treated as jñānam...invisible; not included in the compilation binaries/ETC"
 	: runtime_postprocessing()
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
