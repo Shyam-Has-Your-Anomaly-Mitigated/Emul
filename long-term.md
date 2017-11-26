@@ -6,6 +6,7 @@
 * robots can farm without harm
 * if your culture/religion/ETC requires animal/plant sacrifice, then mine requires human sacrifice (yours)
 	* muai thai kickboxers don't ℝeally need to kick banana trees (to death) #plantabuse
+* bamboo can be used as a source of wood without killing the plant; this is why "no kill", instead of "no harm"
 
 ## ethics
 * everybody will train in:
