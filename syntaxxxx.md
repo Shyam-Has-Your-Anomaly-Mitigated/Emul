@@ -578,6 +578,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	: ∨(∧(≠(t, []): f(t)<0>)<0>∴ [])
 	8≪ you can zero dex it to return for the guru(s)
 	: ∨(∧(≠(t, []): f(t)<0>)<0>∴ [])<0>
+	
+	; metaboxing_preprocessing()
+	; "USER: TODO..."
+	; "SHYAM: TODO..."
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
