@@ -90,3 +90,4 @@ I'm probably going to have to spend the better part of a decade designing my own
 my font will be designed for productive speed reading; which means it will probably be good for dyslexia too, but that's not my priority...I just don't want to waste time!!!
 * it will only be for [Shyamskrit](http://shyam.id.au/cs/) though; I will write a translation mantra so I can read every"-thing" in my Shyamskrit font
 * Shyamskrit is actually a nightmare for dyslexia...
+* any fonts for Shyamskrit, and Shyamskrit itself, will have the same licensing as Shyamscript
