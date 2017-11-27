@@ -62,3 +62,4 @@
 * drones can stun & spray
 * humans can be conscripted by the drones for instructed medical aid; until more advanced robotics can do it
 * this level of control will prevent "low-income" humans from "stealing" resources, breaking ahiṃsā (EG hunting), ETC
+* there will be designated areas for full-contact sport, including martial arts (including fighting to the death); but they will only be accessible to those at the top of the health chain
