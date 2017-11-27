@@ -61,3 +61,4 @@
 	* the first to break the speech/impact/ETC limit will be punished more than the other(s)
 * drones can stun & spray
 * humans can be conscripted by the drones for instructed medical aid; until more advanced robotics can do it
+* this level of control will prevent "low-income" from "stealing" resources, breaking ahiṃsā (EG hunting), ETC
