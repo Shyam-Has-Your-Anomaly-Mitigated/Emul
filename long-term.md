@@ -10,6 +10,7 @@
 	* muai thai kickboxers don't ℝeally need to kick banana trees (to death) #plantabuse
 	* if culture/religion/ETC can have animal/plant sacrifice, why can't others have human sacrifices? the Aztecs/Mayans/Amazonians/ETC (Americans) do it for cultural/religious reasons, and the English(hanging)/French(guillotine)/"Americans"(capital punishment)/ETC (Europeans) did/do it for legal/political reasons
 * euthanasia is illegal, but suicide isn't if they are at the top of the health chain; illegal suicide will be punished by burial (trapping you closer to hell, than the heavens; oṁ yamarāja namaḥ!)
+	* without ownership & currency-based ecomony; there is less incentive to euthanise for inheritance (other than "I hate this person, and I wish they would just hurry up & die already!")
 
 ## ethics
 * everybody will train in:
