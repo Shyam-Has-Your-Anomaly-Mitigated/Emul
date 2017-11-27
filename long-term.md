@@ -57,3 +57,4 @@
 * cameras everywhere for computer vision (including [visual](http://people.csail.mit.edu/mrub/VisualMic/)/ETC microphones), and other sensors, to detect every"-thing" (including [medical conditions](http://people.csail.mit.edu/mrub/vidmag/); heart attacks?)
 * trafficking will be impossible
 * hostility will be avoided; just electron stun 'em & capsaicin spray 'em, if the noise level rises too high, or contact was made c̄ high impact (F=ma)
+	* if only one participant was responsible for violence, they can suffer a broken bone ∵ bones heal, right? It can be an arm/leg/ETC
