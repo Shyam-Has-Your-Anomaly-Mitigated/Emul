@@ -56,3 +56,4 @@
 * double air-locks only allow a single person at a time to travel between sections (there can be multiple "doorways" between sections); can be locked-down to prevent epidemics/criminals/ETC
 * cameras everywhere for computer vision (including [visual](http://people.csail.mit.edu/mrub/VisualMic/)/ETC microphones), and other sensors, to detect every"-thing" (including [medical conditions](http://people.csail.mit.edu/mrub/vidmag/); heart attacks?)
 * trafficking will be impossible
+* hostility will be avoided; just electron stun 'em & capsaicin spray 'em, if the noise level rises too high, or contact was made c̄ high impact (F=ma)
