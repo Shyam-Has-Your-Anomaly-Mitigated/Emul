@@ -44,7 +44,7 @@
 ## social hierarchy
 1. me; deciders cannot decide against me, but I might hear their suggestions if I'm bored...unless it's in opposition to "-thing"s like ahiṃsā/ethics/ETC
 1. deciders (voters); contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
-1. contributors (continuing); research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
+1. contributors (continuing & useful); research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
 1. everyonelses; plants, and animals, alike
 1. slaves
 	* robots will be enslaved for agriculture, medicine (including veterinarian & botanical), ETC
