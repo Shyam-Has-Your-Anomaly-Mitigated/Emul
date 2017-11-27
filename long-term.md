@@ -53,6 +53,6 @@
 	* bamboo plants will be tortured for wood/ETC
 
 ## environment
-* double air-locks only allow a single person at a time to travel between sections; can be locked-down to prevent epidemics/ETC
+* double air-locks only allow a single person at a time to travel between sections (there can be multiple "doorways" between sections); can be locked-down to prevent epidemics/ETC
 * cameras everywhere for computer vision (including [visual](http://people.csail.mit.edu/mrub/VisualMic/)/ETC microphones), and other sensors, to detect every"-thing" (including [medical conditions](http://people.csail.mit.edu/mrub/vidmag/); heart attacks?)
 * trafficking will be impossible
