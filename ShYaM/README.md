@@ -82,3 +82,11 @@
 		: draw(svg, scale8<d>8, 8<at>8 x, y, z, 8<c̄>8, r, g, b, a)
 		: draw(svg, 8<between>8, x_1, y_1, z_1, 8<∧>8, x_2, y_2, z_2, 8<c̄>8, r, g, b, a)
 	>8
+
+I'm probably going to have to spend the better part of a decade designing my own font; unless I can use Dyslexie, Computer Modern, ETC (I'll check licensing when the time comes; it will probably be in the public domain by then, at the rate I'm going...)
+* Computer Modern Unicode is [good](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf) for dyslexia?
+* oh look, there's [more](https://www.designmantic.com/community/dyslexia-friendly-fonts-for-better-learning.php); OpenDyslexic sounds like I could use it, but I've never seen that licensing before...
+
+my font will be designed for productive speed reading; which means it will probably be good for dyslexia too, but that's not my priority...I just don't want to waste time!!!
+* it will only be for [Shyamskrit](http://shyam.id.au/cs/) though; I will write a translation mantra so I can read every"-thing" in my Shyamskrit font
+* Shyamskrit is actually a nightmare for dyslexia...
