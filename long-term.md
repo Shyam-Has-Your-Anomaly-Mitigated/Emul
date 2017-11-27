@@ -51,3 +51,8 @@
 1. slaves
 	* robots will be enslaved for agriculture, medicine (including veterinarian & botanical), ETC
 	* bamboo plants will be tortured for wood/ETC
+
+## environment
+* double air-locks only allow a single person at a time to travel between sections; can be locked-down to prevent epidemics/ETC
+* cameras everywhere for computer vision (including [visual](http://people.csail.mit.edu/mrub/VisualMic/)/ETC microphones), and other sensors, to detect every"-thing" (including [medical conditions](http://people.csail.mit.edu/mrub/vidmag/); heart attacks?)
+* trafficking will be impossible
