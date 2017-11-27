@@ -39,7 +39,7 @@
 	* my p~~a~~lace will have a room where I will allow others in my presence; one at a time, through a tunnel they must crawl through that ends with bars, and a "door" will trap them inside (I can open it to release them, ~~or drop them into the flaming/spiky/crocodile/snake/ETC pit, or torture them for my amusement c̄ urination, defecation, cattle prod, genital mutilation, ETC~~), so they will bow before me while in my presence, and not turn their back to me when leaving my presence...the walls will be adjustable, to compensate, so they cannot turn around...the ceiling will be adjustable ~~to squash them to death~~...the "door" will be adjustable ~~to squash them into the cage, so I can joyfully observe their facial expression~~, to compensate, so they cannot retreat ~~from my wrath; should they provoke it~~...~~if they want to live, they will make a video explaining their disappearance (that they willingly stayed in my palace); that will be *before* I break their face~~...~~make-up artists will make them look older for "future" vidoes~~...~~horoscope writers will write the scripted messages to family & friends & ETC~~
 
 ## social hierarchy
-1. me 
+1. me; deciders cannot decide against me, but I might hear their suggestions...unless it's in opposition to "-thing"s like ahiṃsā/ethics/ETC
 1. deciders (voters); contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
 1. contributors (continuing); research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
 1. everyonelses; plants, and animals, alike
