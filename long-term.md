@@ -30,10 +30,13 @@
 	* can allergies/intolerances/ETC be remedied in the same way?
 
 ## population control
-* must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
+1. both must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
+	* is dwarfism/giantism a disease? ~~we could find a "use" for them (giants can lift heavy "-thing"s; how many Oompa-Loompas does it take to life a heavy "-thing"? XD); slaves could have sub-hierarchies...~~
 * maximum is 2 (one per person); unless triplets/ETC
 * when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
-* breaking the limit illegally, and abortions, will be penalised with enforced sterilisation, and sex offenders will be "disarmed".
+* breaking the limit illegally, and abortions, will be penalised with enforced sterilisation, and sex offenders will be "disarmed"; the Unsullied will be confiscated, ~~and trained to fight the good fight on the front lines as cannon fodder to earn their supposed freedom by death in service to Immortan Shyam!!! :D~~
+	* ~~my palace will have a harem~~
+	* ~~my palace will have a room where I will allow others in my presence; one at a time, through a tunnel they must crawl through that ends with bars, and a "door" will trap them inside (I can open it to release them, or drop them into the flaming/spiky/crocodile/snake/ETC pit), so they will bow before me while in my presence~~
 
 ## social hierarchy
 1. deciders (voters); contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
