@@ -34,6 +34,7 @@
 
 ## population control
 1. both must be at the top of the health chain; if you cannot raise yourself, how can you raise anyone else?
+	* if one isn't; I just assume they're being taken advantage of
 	* is dwarfism/giantism a disease? ~~we could find a "use" for them (giants can lift heavy "-thing"s; how many Oompa-Loompas does it take to life a heavy "-thing"? XD); slaves could have sub-hierarchies...~~
 * maximum is 2 (one per person); unless triplets/ETC
 * when population becomes more managæble, and dips; the most healthiest deciders can break the limit by 1 (unless twins/ETC)
