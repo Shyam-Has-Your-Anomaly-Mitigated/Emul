@@ -40,5 +40,5 @@
 2. contributors; research/development/maintenance/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
 3. everyonelses; plants, and animals, alike
 4. slaves
-	* robots will be enslaved for agriculture, medicine, ETC
+	* robots will be enslaved for agriculture, medicine (including veterinarian & botanical), ETC
 	* bamboo plants will be tortured for wood/ETC
