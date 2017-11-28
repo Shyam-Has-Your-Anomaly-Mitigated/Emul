@@ -58,7 +58,7 @@
 * cameras everywhere for computer vision (including [visual](http://people.csail.mit.edu/mrub/VisualMic/)/ETC microphones), and other sensors, to detect every"-thing" (including [medical conditions](http://people.csail.mit.edu/mrub/vidmag/); heart attacks?)
 * trafficking will be impossible
 * hostility will be avoided; just electron stun 'em & capsaicin spray 'em, if the noise level rises too high, or contact was made c̄ high impact (F=ma)
-	* if only one participant was responsible for violence, they can suffer a broken bone ∵ bones heal, right? It can be an arm/leg/ETC
+	* if only one participant was responsible for violence, they can suffer a broken bone ∵ bones heal, right? It can be an arm/leg/ETC...1ˢᵗ offensive children can suffer a broken finger/ETC; their teeth regrow, right? we could use the string & door method!!! :D
 	* the first to break the speech/impact/ETC limit will be punished more than the other(s)
 * drones can stun & spray
 * humans can be conscripted by the drones for instructed medical aid; until more advanced robotics can do it
