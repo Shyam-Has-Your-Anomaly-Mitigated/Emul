@@ -64,3 +64,6 @@
 * humans can be conscripted by the drones for instructed medical aid; until more advanced robotics can do it
 * this level of control will prevent "low-income" humans from "stealing" resources, breaking ahiṃsā (EG hunting), ETC
 * there will be designated areas for full-contact sport, including martial arts (including fighting to the death, ~~trial by combat~~, ETC); but they will only be accessible to those at the top of the health chain (if you're not intelligent enough to be healthy, then you're not intelligent enough to be a good sport; that includes not biting ears off!)
+
+## bureaucracy
+* there will be no forms!!! once your data is stored (redundantly); you willn't be queried for it again!!! (unless it becomes unrecoverable; probably due to catastrophic failure) ...I hate everyone who makes me process forms; especially the incompetent government!!! DX≪ (and why the hell do I have to listen to gay music? Mozart willn't increase the doles intelligence!!! I'd prefer to actually learn some"-thing", or be tested on mathematics, or some"-thing" more productive...)
