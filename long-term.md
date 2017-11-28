@@ -73,3 +73,4 @@
 * SGU2.17-18; they recorded every"-thing"?
 * we only need to record (initial data, and) user interactions; keylogger, mouselogger...image/video can be OCR/transcripted; but some should be stored...also movement/behavoural/ETC for future generations to compare themselves
 * kind of like software versioning...
+* storage will be optimised, and backed up all the way to the moon/mars/space/ETC
