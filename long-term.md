@@ -60,7 +60,7 @@
 * hostility will be avoided; just electron stun 'em & capsaicin spray 'em, if the noise level rises too high, or contact was made c̄ high impact (F=ma)
 	* if only one participant was responsible for violence, they can suffer a broken bone ∵ bones heal, right? It can be an arm/leg/ETC...1ˢᵗ offensive children can suffer a broken finger/ETC; their teeth regrow, right? we could use the string & door method!!! :D
 	* the first to break the speech/impact/ETC limit will be punished more than the other(s)
-* drones can stun & spray
+* drones can stun & spray; actually the rooms can be gassed by the spray...
 * humans can be conscripted by the drones for instructed medical aid; until more advanced robotics can do it
 * this level of control will prevent "low-income" humans from "stealing" resources, breaking ahiṃsā (EG hunting), ETC
 * there will be designated areas for full-contact sport, including martial arts (including fighting to the death, ~~trial by combat~~, ETC); but they will only be accessible to those at the top of the health chain (if you're not intelligent enough to be healthy, then you're not intelligent enough to be a good sport; that includes not biting ears off!)
