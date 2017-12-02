@@ -5,8 +5,11 @@ Just Another Boxer; do you even box?
 * know the FT∘Shyamscript
 * don't sign NDAs (NDA're Definitely Awful! `$mascot="Unsigned Contract\0";`)
 	* boxing to a database produces side effects; whereas, boxing to a schema/description/ETC willn't
+		* I remember some"-thing" about a bank using their database to automatically process loan applications; before finding it would reject most female applicants due to historical sexism
 	* "business processes" is just an excuse for mismanagement
 	* I'm thinking about dropping out of uni, and becoming a [firefighter](http://www.miltonindependent.com/georgia-firefighters-question-new-policy/); they're my kind of people!
+		* there's such a "-thing" as antidefamation/ETC for their litigation; if your legal system doesn't support it, then why should your employees? if you buy out your politicians, over the majority (employees usually outnumber employers); vive la révolución!!! #offc̄theirheads #netneutrality
+	* businesses want overprotection, but life is a two way street; there should be both an employee contract, and an employer contract
 * use ~~the Internet~~ a virtual machine to box their own self-hosted binaries/ETC; before formally verifying, by hand
 * use vegan "boxing" equipment
 * are cheaters; we will bite your ear off!!! :D
