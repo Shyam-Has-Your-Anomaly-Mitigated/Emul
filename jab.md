@@ -11,7 +11,7 @@ Just Another Boxer; do you even box?
 		* there's such a "-thing" as antidefamation/ETC for their litigation; if your legal system doesn't support it, then why should your employees? if you buy out your politicians, over the majority (employees usually outnumber employers); vive la révolución!!! #offc̄theirheads #netneutrality
 	* businesses want overprotection, but life is a two way street; there should be both an employee contract, and an employer contract
 * use ~~the Internet~~ a virtual machine to box their own self-hosted binaries/ETC; before formally verifying, by hand
-* use vegan "boxing" equipment
+* use ~~ahiṃsā~~ vegan "boxing" equipment
 * are cheaters; we will bite your ear off!!! :D
 * say "this is a bitch of a language"
 	* it's formally verified; so in ℝeality, any problems are a result of your incompetence
