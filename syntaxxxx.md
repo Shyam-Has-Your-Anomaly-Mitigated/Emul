@@ -9,6 +9,9 @@
 				8≪ & 8<< can be preprocessed along with <dexing>
 			>8
 
+		config_name.jab
+			8≪ pending... (configuration, preprocessors, metamantras, ETC)
+
 		trimūrti (/^.*\.t$/ files)
 			[ is called brahmā; the creator of śiṣyas
 			, is called viṣṇu; the maintainer of guru contents (śiṣyas), in the form of a dīkṣā
