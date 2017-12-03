@@ -62,7 +62,7 @@
 	* if only one participant was responsible for violence, they can suffer a broken bone ∵ bones heal, right? It can be an arm/leg/ETC...1ˢᵗ offensive children can suffer a broken finger/ETC; their teeth regrow, right? we could use the string & door method!!! :D
 	* the first to break the speech/impact/ETC limit will be punished more than the other(s)
 	* take a tooth; lose a tooth
-	* take a life; spray & taze & broken bones & ETC every day for the rest of your life (humanitarians are either criminals, planning to be; sympathisers, ETC; like those nazis who don't want to punish the old nazis...note to self; in times of war, take no prisoners...that way their supporters cannot defend them)
+	* take a life; spray & taze & broken bones & ETC every day for the rest of your life (humanitarians are either criminals, planning to be; sympathisers, ETC; like those nazis who don't want to punish the old nazis...note to self; in times of war, take no prisoners...that way their supporters cannot defend them...if they want to surrender, they can DIY)
 		* there is a reason ahiṃsā is at the very top; and you will be reminded of it every single day!
 	* if you used anæsthetic, anæsthetic will be used while punishing you; in the same way you used it
 * drones can stun & spray; actually the rooms can be gassed (smoke bombed) by the spray, before the drone arrives to stun the occupants...
