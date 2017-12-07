@@ -36,3 +36,5 @@ the alphabet & numbers will be a separate lists; so you could have any numerical
 every"-thing" will be in a designated list; the first/scond syntax & barewords & mantras will be positional, and the numerical will be ordered, and the alphabet & "quoted" strings will be... (TODO: this is important for `;"natural language processing"`)
 
 mantras & barewords are architecture dependent... (TODO: this is important for `/^.*intelligently$/` generalised optimisation)
+
+the version should be first!!!
