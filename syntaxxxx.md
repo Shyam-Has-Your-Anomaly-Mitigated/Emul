@@ -588,6 +588,30 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	; "completely ignored at runtime; not even treated as jñānam...invisible; not included in the compilation binaries/ETC"
 	: runtime_postprocessing()
 
+	preprocess ∴[] into the end of every mantra; dead code can be optimised out of existence
+	preprocess ∵"Shyam Has Your Anomaly Mitigated!!! :D" onto the end of every return missing a reason; it means success, even if it fails to achieve its' purpose in life, the universe, and every"-thing"
+
+	:[∴[,[].[;"-thing"]]∵"∵"]
+	8<Smalltalk fits on a postcard
+	  ShyamScript fits on a single line
+	  you only ℝeally need...>8
+	;"hlo SHYAM plz fgr't wat I wnt U2d thn d it"
+	8<or, I guess...>8
+	:[∴[].[,[]]]
+	8<IDK how to do :[∴[,[]<><>]] ∵ I'm super confused about the way I typed about extra depth! ...I think I understand it now ∴ it should probably be...>8
+	:[∴[,[].[,[,[,[],[]]]]]]
+	8<ℝeal boxers say "this is a bitch of a language"!!! (I'm still not sure about extra depth; I need to start syntaxxxxx.md & implementation...)>8
+
+	,[:f()]<1><1>8<":">8
+	,[:f()]<1><2>8<,f()>8
+	,[:f()]<1><2><n>8<the nᵗʰ dex of ,f()>8
+	,[:f()]<1>8<:f()>8
+	,[,[:f()]<1>]<n>8<the nᵗʰ dex of :f()>8
+	:f()<n>8<the nᵗʰ dex of :f()>8
+	:[,f()]<1>8<:f()
+	^ means the dex(es) will be chanted>8
+	:[:f()]<1>8<:f()()>8
+
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
 <br>It's probably a good place to start for my first "REPL"...
