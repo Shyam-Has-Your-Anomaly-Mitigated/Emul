@@ -28,4 +28,6 @@ the transpiler only needs to take a list similar to the first list to generate a
 
 the first list should be the second, and the first should be
 	
-	,[,"[",",","]","\""]
+	,[,"[",",","]","\"", "\\"]
+
+the alphabet & numbers will be a separate lists; so you could have any numerical base, and any language
