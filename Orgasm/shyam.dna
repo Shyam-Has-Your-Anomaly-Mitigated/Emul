@@ -10,8 +10,12 @@
 8<
 	trimūrti
 	,[,brahmā,viṣṇu,śiva,STR,ESC]
+	viṣṇu
+	,[,initiator,terminator]
+	0 is 0ptional
+	¬0 is ¬0ptional
 >8
-,[,"[",",","]","\"","\\"]
+,[,"[",[,[,3,","],[,0,""]],"]","\"","\\"]
 
 8< need to describe the language... >8
 , [
