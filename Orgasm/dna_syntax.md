@@ -1,4 +1,4 @@
-the first line will be the version; probably formatted as `HE:year,month,day`
+the first line will be the version (of Shyamscript/Orgasm/whatever); probably formatted as `HE:year,month,day`
 
 	,[,"HE",12017,12,10]
 
