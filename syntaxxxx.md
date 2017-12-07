@@ -611,6 +611,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:[,f()]<1>8<:f()
 	^ means the dex(es) will be chanted>8
 	:[:f()]<1>8<:f()()>8
+	
+	=(, f, "abcdfg")
+	=(: interval("[-2,2]∈f"), "fgab")
+	=(: interval("(2,-2)∈f"), "bcdf")
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
