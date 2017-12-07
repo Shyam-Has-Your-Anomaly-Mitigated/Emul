@@ -23,9 +23,12 @@
 
 	8< uppercase >8
 	,["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","N","Z"]
+	
+	8< othercase >8
+	,[,"ā"]
 
 	8< punctuation >8
-	,[,"$"]
+	,[,"$"," "]
 ]
 
 8< mathematics >8
@@ -43,3 +46,18 @@
 		,[,"τ","2⟌π"]
 	]
 ]
+
+8< barewords >8
+, [
+	8< characters/strings/symbols/glyphs/ETC >8
+	,[,mahāmantra<4><2,3>]
+	
+	8< actual barewords >8
+	,[,a,b]
+]
+
+8< mantras >8
+,[,mahāmantra]
+
+8< instruction sets >8
+,[,mov(,a,b)]
