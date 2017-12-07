@@ -14,8 +14,9 @@
 	,[,initiator,terminator]
 	0 is 0ptional
 	¬0 is ¬0ptional
+	could have more than one to choose from
 >8
-,[,"[",[,[,3,","],[,0,""]],"]","\"","\\"]
+,[,"[",[,[,3,",",";"],[,0,""]],"]","\"","\\"]
 
 8< need to describe the language... >8
 , [
