@@ -17,7 +17,7 @@ there needs to be libraries/preprocessors/metamantras/ETC... (for `.dna` files? 
 	
 	,[,"8<",">8","<",">","{","}","+","$#*%"]+{+"HE"+12017+12+10}+a+b$#*%store<,b,a>
 	
-needs to include `"`, the alphabet, numbers, ETC; escape characters will be supported for significant whitespace, or whatever it's called
+needs to include `"`, escape character, the alphabet, numbers, ETC; escape characters will be supported for significant whitespace, or whatever it's called
 
 the first list also needs case (in)sensitivity, which should include unicode equivalents/sensitivity; probably `s`, `i`, `u`, ETC
 
