@@ -25,3 +25,6 @@ the first list also needs case (in)sensitivity, which should include unicode equ
 
 the transpiler only needs to take a list similar to the first list to generate a new `.dna` file; from there, the user can edit the `.dna` file
 <br>it should be possible to provide the directory, and an alternative `.dna` file, for the transpiler to generate a new directory matching the alternative `.dna` file
+
+the first list should be the second, and the first should be
+	,[,"[",",","]","\""]
