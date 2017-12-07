@@ -32,3 +32,5 @@ the first list should be the second, and the first should be
 
 the alphabet & numbers will be a separate lists; so you could have any numerical base, and any language
 <br>there will be separate lists for "quoted" strings & ¡barewords!; `," "` will probably be in only one of those lists
+
+every"-thing" will be in a designated list; the first/scond syntax & barewords & mantras will be positional, and the numerical will be ordered, and the alphabet & "quoted" strings will be... (this is important for `;"natural language processing"`)
