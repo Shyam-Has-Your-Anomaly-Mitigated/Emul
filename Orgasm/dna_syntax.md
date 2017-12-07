@@ -31,3 +31,4 @@ the first list should be the second, and the first should be
 	,[,"[",",","]","\"", "\\"]
 
 the alphabet & numbers will be a separate lists; so you could have any numerical base, and any language
+<br>there will be separate lists for "quoted" strings & ¡barewords!
