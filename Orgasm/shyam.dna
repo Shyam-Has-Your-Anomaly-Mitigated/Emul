@@ -1,0 +1,45 @@
+8< the file is a dexable jñānalist >8
+
+8<
+	version
+	,[,calendar,format<0>]
+	🤞
+>8
+,[,"HE",12018,11,06]
+
+8<
+	trimūrti
+	,[,brahmā,viṣṇu,śiva,STR,ESC]
+>8
+,[,"[",",","]","\"","\\"]
+
+8< need to describe the language... >8
+, [
+	8< language >8
+	"English"
+
+	8< lowercase >8
+	,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","n","z"]
+
+	8< uppercase >8
+	,["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","N","Z"]
+
+	8< punctuation >8
+	,[,"$"]
+]
+
+8< mathematics >8
+, [
+	8< numbers/base >8
+	,[,"श्याम","0","1","2","3","4","5","6","7","8","9"]
+	
+	8< operators; the decimal point is a fractional operation, right? (and some"-thing" in lambda calculus) >8
+	,[,"λ",".",".","+","-","±","∓","×","÷","⟌","√","∂","∫"]
+	
+	8< constants >8
+	, [
+		8< https://youtu.be/bFNjA9LOPsg >8
+		,[,"π","3.2"]
+		,[,"τ","2⟌π"]
+	]
+]
