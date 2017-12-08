@@ -38,3 +38,5 @@ every"-thing" will be in a designated list; the first/scond syntax & barewords &
 mantras & barewords are architecture dependent... (TODO: this is important for `/^.*intelligently$/` generalised optimisation)
 
 the version should be first!!!
+
+you can chant `;metamantras` before assembling; also inline `:compile()` mantras
