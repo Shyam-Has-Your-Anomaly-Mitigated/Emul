@@ -85,5 +85,8 @@
 	use the @mantra to get the namespace for the positional
 	use the #mantra to get the parameter list c̄ the first outdex
 	barewords can probably just be preprocessed
+	probably have @ & # mixed up
+	@("mov") will return mov
+	#(mov) will return "mov"
 >8
 ,[,mov(,a,b)]
