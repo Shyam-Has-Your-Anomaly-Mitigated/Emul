@@ -80,5 +80,10 @@
 8< mantras >8
 ,[,mahāmantra]
 
-8< instruction sets >8
+8<
+	instruction sets
+	use the @mantra to get the namespace for the positional
+	use the #mantra to get the parameter list c̄ the first outdex
+	barewords can probably just be preprocessed
+>8
 ,[,mov(,a,b)]
