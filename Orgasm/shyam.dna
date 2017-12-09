@@ -97,6 +97,8 @@
 	
 	instruction sets are for a specific computer; EG binary...like there is only one solution for each instruction
 	so whatever ,mov(,a,b) corresponds c̄ should be all that there is ∴ hard-coded
+	
+	the idea is to be able to translate between instruction sets, and intelligently generalise optimisation
 >8
 , [
 	, [
