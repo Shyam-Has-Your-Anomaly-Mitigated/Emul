@@ -106,4 +106,13 @@
 		8< each instruction is boxed separately >8
 		,[,mov(,a,b), ,[,@("mov")_2,b_2,a_2]]
 	]
+	, [
+		,"Shyamscript"
+		,[.[].[]]
+		,[,[],[]]
+		,[;[];[]]
+		,[:[]:[]]
+		,[∴[]∴[]]
+		,[∵[]∵[]]
+	]
 ]
