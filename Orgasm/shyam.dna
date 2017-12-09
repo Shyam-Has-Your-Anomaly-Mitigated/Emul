@@ -107,7 +107,12 @@
 		,[,mov(,a,b),[,@("mov")_2,b_2,a_2]]
 		8< this should be redundant/inferred; but I guess that would be .hex & .bin & .ETC files, or a mantra >8
 		,[,[,@("mov")_16,b_16,a_16],[,@("mov")_2,b_2,a_2]]
-		8< I guess cross-processing binary from trinary would be a trinary file, so the base can be any"-thing" >8
+		8<
+			I guess cross-processing binary from trinary would be a trinary file, so the base can be any"-thing"
+			2,2,2 = 3,3 ...when is a power of A equal to a power of B?
+			2,2 = 4
+			2,2,2,2 = 16
+		>8
 	]
 	, [
 		,"Shyamscript"
