@@ -77,8 +77,14 @@
 	,[,a,b]
 ]
 
-8< mantras >8
-,[,[,"mahāmantra",".../mahāmantra.box"]]
+8<
+	mantras
+	the 1ˢᵗ nāma is for the file (if it's used here, it means here; if it's used there, it means there)
+	the 2ⁿᵈ nāma is for the program counter
+	the rest is for preprocessors/libraries/ETC
+	there needs to be another box for chanting premantras/metamantras/ETC
+>8
+,[,"mahāmantra","dex",[,"scissors",".../metamantra_comments.box"]]
 
 8<
 	instruction sets
