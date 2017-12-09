@@ -104,7 +104,9 @@
 	, [
 		,"instruction_set_name_for_assembler_and_compiler_and_optimiser_but_still_need_some_way_to_describe_each_mantra"
 		8< each instruction is boxed separately >8
-		,[,mov(,a,b), ,[,@("mov")_2,b_2,a_2]]
+		,[,mov(,a,b),[,@("mov")_2,b_2,a_2]]
+		8< this should be redundant/inferred; but I guess that would be .hex & .bin & .ETC files, or a mantra >8
+		,[,[,@("mov")_16,b_16,a_16],[,@("mov")_2,b_2,a_2]]
 	]
 	, [
 		,"Shyamscript"
