@@ -26,8 +26,8 @@
 	* you need electricity to enjoy electronic-based entertainment
 	* you need physical resources for many hobbies
 	* you don't ℝeally need specialty food/ETC; unless you suffer a medical condition
-	* you don't ℝeally need intoxicants (tobacco/alcohol/caffeine/drugs/ETC) which will probably promote neurodegenerative diseases/disorders/ETC
-	* you don't ℝeally need convenient wireless technology (radio waves, ETC) which will probably promote neurodegenerative diseases/disorders/ETC
+	* you don't ℝeally need intoxicants (tobacco/alcohol/caffeine/drugs/ETC) which will probably promote neurodegenerative/cancerous/ETC diseases/disorders/ETC
+	* you don't ℝeally need convenient wireless technology (radio waves, ETC) which will probably promote neurodegenerative/cancerous/ETC diseases/disorders/ETC
 * lets focus on our evolution as a species
 	* immunity can be developed ([kind of](https://nerdist.com/princess-bride-because-science-iocane-powder-poison/)); [Westley](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) built up an immunity to iocane
 	* can allergies/intolerances/ETC be remedied in the same way?
