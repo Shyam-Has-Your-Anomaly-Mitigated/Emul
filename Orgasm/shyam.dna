@@ -88,5 +88,14 @@
 	probably have @ & # mixed up
 	@("mov") will return mov
 	#(mov) will return "mov"
+	
+	instruction sets are for a specific computer; EG binary...like there is only one solution for each instruction
+	so whatever ,mov(,a,b) corresponds c̄ should be all that there is ∴ hard-coded
 >8
-,[,mov(,a,b)]
+, [
+	, [
+		,"instruction_set_name_for_assembler_and_compiler_and_optimiser"
+		8< each instruction is boxed separately >8
+		,[,mov(,a,b), ,[,@("mov")_2,a_2,b_2]]
+	]
+]
