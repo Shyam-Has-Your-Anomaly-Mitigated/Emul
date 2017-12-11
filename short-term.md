@@ -71,6 +71,7 @@
 	* [Creating a language using only assembly language](https://news.ycombinator.com/item?id=9699065)
 * C
 	* [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
+	* [Baby Steps to a C Compiler](http://www.wilfred.me.uk/blog/2014/08/27/baby-steps-to-a-c-compiler/)
 * C++
 	* [I wrote a programming language. Here’s how you can, too.](https://medium.freecodecamp.org/the-programming-language-pipeline-91d3f449c919)
 * Python
