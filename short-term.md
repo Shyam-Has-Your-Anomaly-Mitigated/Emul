@@ -1,4 +1,4 @@
-*WTF can't I search for web browser bookmarks within folders? I want the full path!!!* DX≪
+*WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
 
 # TODO
 - [ ] Find A Compiler Book
