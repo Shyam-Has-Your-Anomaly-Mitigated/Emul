@@ -4,7 +4,7 @@
 - [ ] Find A Compiler Book
 - [x] Find the DSL Blogs
 - [ ] **Formal Methods**
-- [ ] Write a better web browser!!! DX≪
+- [ ] Write a better web browser!!! **DX≪**
 
 # They Should Just Make An Awesome Wiki
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
