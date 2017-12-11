@@ -65,6 +65,9 @@
 	* [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 * C++
 	* [I wrote a programming language. Here’s how you can, too.](https://medium.freecodecamp.org/the-programming-language-pipeline-91d3f449c919)
+* Python
+	* [Basic](https://www.youtube.com/playlist?list=PLBOh8f9FoHHiKx3ZCPxOZWUtZswrj2zI0)
+	* [7 simple steps to implementing a programming language](http://kjetilvalle.com/posts/implement-a-programming-language.html) (Lisp)
 * Lisp
 	* [7 lines of code, 3 minutes: Implement a programming language from scratch](http://matt.might.net/articles/implementing-a-programming-language/)
 * JavaScript
@@ -73,9 +76,6 @@
 	* [Super Tiny Compiler](https://news.ycombinator.com/item?id=11395656)
 * PHP
 	* [Super Tiny Compiler](https://github.com/BafS/the-super-tiny-compiler-php)
-* Python
-	* [7 simple steps to implementing a programming language](http://kjetilvalle.com/posts/implement-a-programming-language.html) (Lisp)
-	* [Basic](https://www.youtube.com/playlist?list=PLBOh8f9FoHHiKx3ZCPxOZWUtZswrj2zI0)
 * Java
 	* [Create Your Own Programming Language](https://www.codeproject.com/Articles/50377/Create-Your-Own-Programming-Language)
 * &nbsp;
