@@ -29,6 +29,9 @@
 	* [Why Programming Languages?](http://soft.vub.ac.be/~tvcutsem/whypls.html)
 	* [PROGRAMMING LANGUAGES](http://strlen.com/programming-languages/) (I'm mostly interested in [LANGUAGE DESIGN OVERVIEW
 ](http://strlen.com/language-design-overview/))
+	* Differential Execution:
+		* [SO](https://stackoverflow.com/questions/371898/how-does-differential-execution-work)
+		* [Wiki](https://en.wikipedia.org/wiki/User:MikeDunlavey/Difex_Article)
 * DSLs
 	* [One-Day Compilers](http://venge.net/graydon/talks/mkc/html/index.html)
 	* [compilertools.net](http://compilertools.net/)
