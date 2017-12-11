@@ -2,7 +2,7 @@
 
 # TODO
 - [ ] Find A Compiler Book
-- [ ] Find the DSL Blogs
+- [x] Find the DSL Blogs
 - [ ] **Formal Methods**
 - [ ] Write a better web browser!!! DX≪
 
