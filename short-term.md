@@ -10,6 +10,7 @@
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [coding-entertainment](https://github.com/krmaxwell/coding-entertainment) ([hackertainment.net](https://web.archive.org/web/20160110043620/http://hackertainment.net/))
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+* [awesome-deduction](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction) (I made this one!!! :D)
 
 # [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods)
 * [Formal verification](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Formal_verification) (Wiki)
