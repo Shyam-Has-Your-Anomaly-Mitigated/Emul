@@ -13,6 +13,10 @@
 
 # Formal Methods
 * [Formal verification](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Formal_verification) (Wiki)
+* Formal Specification
+	* https://en.wikipedia.org/wiki/Formal_methods#Specification_languages
+	* https://en.wikipedia.org/wiki/Category:Formal_specification_languages
+	* https://en.wikipedia.org/wiki/Formal_specification#Software_tools
 
 # Metaprogramming
 * English
