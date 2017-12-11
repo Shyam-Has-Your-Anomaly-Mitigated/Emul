@@ -11,14 +11,14 @@
 * [coding-entertainment](https://github.com/krmaxwell/coding-entertainment) ([hackertainment.net](https://web.archive.org/web/20160110043620/http://hackertainment.net/))
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 
-# Formal Methods
+# [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods)
 * [Formal verification](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Formal_verification) (Wiki)
 * Formal Specification
 	* https://en.wikipedia.org/wiki/Formal_methods#Specification_languages
 	* https://en.wikipedia.org/wiki/Category:Formal_specification_languages
 	* https://en.wikipedia.org/wiki/Formal_specification#Software_tools
 
-# Metaprogramming
+# [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 * English
 	* [Compilers](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) (Wiki)
 	* [Programming languages](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Programming_languages) (Wiki)
@@ -36,7 +36,7 @@
 	* Differential Execution:
 		* [SO](https://stackoverflow.com/questions/371898/how-does-differential-execution-work)
 		* [Wiki](https://en.wikipedia.org/wiki/User:MikeDunlavey/Difex_Article)
-* DSLs
+* [DSLs](https://en.wikipedia.org/wiki/Domain-specific_language)
 	* [One-Day Compilers](http://venge.net/graydon/talks/mkc/html/index.html)
 	* [compilertools.net](http://compilertools.net/)
 	* Federico Tomassetti:
