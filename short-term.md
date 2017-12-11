@@ -34,6 +34,10 @@
 	* There's some links in [here](https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler); probably...
 	* [So You Want To Write Your Own Language?](http://www.drdobbs.com/architecture-and-design/so-you-want-to-write-your-own-language/240165488)
 	* [Let’s Build A Simple Interpreter.](https://ruslanspivak.com/lsbasi-part1/) (in 14 parts)
+	* Jack Crenshaw:
+		* [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) (in 16 parts)
+		* [PDF](https://compilers.iecc.com/crenshaw/tutorfinal.pdf) (1988)
+		* [PDF](https://www.stack.nl/~marcov/compiler.pdf) (2012)
 	* [Why Programming Languages?](http://soft.vub.ac.be/~tvcutsem/whypls.html)
 	* [PROGRAMMING LANGUAGES](http://strlen.com/programming-languages/) (I'm mostly interested in [LANGUAGE DESIGN OVERVIEW
 ](http://strlen.com/language-design-overview/))
@@ -70,8 +74,8 @@
 * Assembly
 	* [Creating a language using only assembly language](https://news.ycombinator.com/item?id=9699065)
 * C
-	* [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 	* [Baby Steps to a C Compiler](http://www.wilfred.me.uk/blog/2014/08/27/baby-steps-to-a-c-compiler/)
+	* [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
 * C++
 	* [I wrote a programming language. Here’s how you can, too.](https://medium.freecodecamp.org/the-programming-language-pipeline-91d3f449c919)
 * Python
@@ -82,6 +86,7 @@
 * JavaScript
 	* [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 	* [Let’s Build a Programming Language](https://hackernoon.com/lets-build-a-programming-language-2612349105c6)
+	* [How to be a compiler](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4)
 	* [Super Tiny Compiler](https://news.ycombinator.com/item?id=11395656)
 * PHP
 	* [Super Tiny Compiler](https://github.com/BafS/the-super-tiny-compiler-php)
