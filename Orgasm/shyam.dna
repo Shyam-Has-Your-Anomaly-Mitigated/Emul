@@ -153,7 +153,7 @@
 	you can optimise by using the memory address of the start & end of the list to discover the value
 	+(,[,[],[],[]],[,[],[],[]])
 	+(,[,a,[],b],[,A,[],B])
-	[,a,b,A,B] are memory addresses
+	[,a,b,A,B] are "memory addresses"
 	(b-a+1)+(B-A+1)
 	it would be faster if both numbers were terrorbytes
 	use Orgasm to do unlisted maths
