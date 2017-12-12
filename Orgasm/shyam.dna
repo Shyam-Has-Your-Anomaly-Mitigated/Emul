@@ -100,6 +100,25 @@
 	so whatever ,mov(,a,b) corresponds c̄ should be all that there is ∴ hard-coded
 	
 	the idea is to be able to translate between instruction sets, and intelligently generalise optimisation
+
+	if the mantras are all positional, the assembler/ETC doesn't even need to understand!
+	just write equivalents for other instruction sets
+	can have positional mantras
+	can just use one language
+	so one list will have [,mantra(a,b),..], and the other lists will...
+	hmm...
+	it's just numbers in the other lists, but need to specify the numbers
+	I guess it can just be a metalist!
+	parameters are parameters, so just use numbers c̄ parameters
+	[,[number,b,number,a,number],..]
+	each "byte" is padded? I think so...
+	...
+	so can add more complex mantras, but need to do it for all instruction sets
+	...
+	but this isn't automatic...
+	still need a way to describe basal instructions for optimisation
+
+	need to specify "-thing"s like register capacity
 >8
 , [
 	, [
