@@ -5,4 +5,4 @@
 
 Lispning is a Swedish word, but it could mean using/debugging/listening to a lispgram (lisp + program); as in "I'm [lispning](https://xkcd.com/303/) for bugs", as an [excuse for not lisping](https://news.ycombinator.com/item?id=15417735) (that book teaches you how to play games).
 
-[sigmoidal programming](https://en.wiktionary.org/wiki/sigmoidal) uses [sigmoids](https://en.wiktionary.org/wiki/sigmoid)
+[sigmoidal programming](https://en.wiktionary.org/wiki/sigmoidal) uses [sigmoid expressions](https://en.wiktionary.org/wiki/sigmoid)
