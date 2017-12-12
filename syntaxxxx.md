@@ -615,6 +615,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	=(, f, "abcdfg")
 	=(: interval("[-2,2]∈f"), "fgab")
 	=(: interval("(2,-2)∈f"), "bcdf")
+	
+	8< shyamment >8
+	8≪ shyament
+	8<< sharment
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
