@@ -147,3 +147,14 @@
 	]
 	, ["trimūrti",[,[],[]],[;[];[]]]
 ]
+
+8<
+	some math should be done c̄ lists
+	you can optimise by using the memory address of the start & end of the list to discover the value
+	+(,[,[],[],[]],[,[],[],[]])
+	+(,[,a,[],b],[,A,[],B])
+	[,a,b,A,B] are memory addresses
+	(b-a)+(B-A)
+	it would be faster if both numbers were gigabytes
+	use Orgasm to do unlisted maths
+>8
