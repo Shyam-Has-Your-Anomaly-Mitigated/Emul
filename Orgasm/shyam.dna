@@ -118,7 +118,7 @@
 	but this isn't automatic...
 	still need a way to describe basal instructions for optimisation
 
-	need to specify "-thing"s like register capacity
+	need to specify "-thing"s like register capacity (does it even have registers?)
 	
 	https://en.wikipedia.org/wiki/Hardware_description_language
 >8
