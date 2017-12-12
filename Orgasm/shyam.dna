@@ -154,7 +154,7 @@
 	+(,[,[],[],[]],[,[],[],[]])
 	+(,[,a,[],b],[,A,[],B])
 	[,a,b,A,B] are memory addresses
-	(b-a)+(B-A)
+	(b-a+1)+(B-A+1)
 	it would be faster if both numbers were gigabytes
 	use Orgasm to do unlisted maths
 >8
