@@ -155,7 +155,7 @@
 	+(,[,a,[],b],[,A,[],B])
 	[,a,b,A,B] are "memory addresses"
 	(b-a+1)+(B-A+1)
-	it would be faster if both numbers were terrorbytes
+	it would be faster if both numbers were pterrorbytes
 	use Orgasm to do unlisted maths
 	no, the optimiser should be intelligent enough to do it for you
 >8
