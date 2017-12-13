@@ -397,7 +397,7 @@ compare _ 0 = _
 
 ...
 
-**2017-12-14*
+**2017-12-14**
 
 **shyam.id.au**
 <br>**07:03:50** I just got into LCA'18! :smile:
