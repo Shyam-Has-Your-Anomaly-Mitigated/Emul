@@ -392,8 +392,26 @@ compare _ 0 = _
 ...
 
 **shyam.id.au**
-<br>**5:20:34** actually it must be `(==) (f x) (f f x)`
-<br>**5:25:25** No, it's more like `(==) (head x) (head (tail x))`
+<br>**05:20:34** actually it must be `(==) (f x) (f f x)`
+<br>**05:25:25** No, it's more like `(==) (head x) (head (tail x))`
+
+...
+
+**2017-12-14*
+
+**shyam.id.au**
+<br>**07:03:50** I just got into LCA'18! :smile:
+<br>**07:03:56** https://linux.conf.au/programme/miniconfs/functional-programming/
+<br>**07:07:50** I'm returning to Haskell! :smile:
+<br>**07:07:52** https://www.wespiser.com/writings/wyas/home.html (edited)
+
+**shyam.id.au**
+<br>**07:14:26** I will write Ice Scheme in Haskell, and the World will scream for it.
+<br>**07:14:46** https://news.ycombinator.com/item?id=5235589
+<br>**07:16:17** Then I'll use Ice Scheme to write SHIT; the H stands for Haskell, because it's Shyams' Haskell Implementation Tech, or some"-thing"...
+<br>**07:16:28** https://news.ycombinator.com/item?id=8838712
+<br>**07:16:57** Then my SHIT will be self-hosted.
+<br>**07:19:58** Then I'll talk about it at CanFP! :smile: (My first talk will be "SHIT"..)
 
 ...
 
