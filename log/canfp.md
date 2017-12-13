@@ -413,6 +413,12 @@ compare _ 0 = _
 <br>**07:16:57** Then my SHIT will be self-hosted.
 <br>**07:19:58** Then I'll talk about it at CanFP! :smile: (My first talk will be "SHIT"..)
 
+**shyam.id.au**
+<br>**08:07:10** It's way easier to parse languages if every"-thing" has spaces, but that isn't the reason shells space "-thing"s like `[ logic ]`; `[` is a command.
+<br>**08:08:26** It's inconvenient for language users though; I'd rather compromise on the implementation, than the language itself.
+<br>**08:10:32** EG: If there is no command `[condition]`, then try searching for a command starting with either the shortest/longest substring.
+<br>**08:13:03** `[` should look for a trailing `]` in the last parameter.
+
 ...
 
 ---
