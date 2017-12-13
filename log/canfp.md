@@ -418,6 +418,7 @@ compare _ 0 = _
 <br>**08:08:26** It's inconvenient for language users though; I'd rather compromise on the implementation, than the language itself.
 <br>**08:10:32** EG: If there is no command `[condition]`, then try searching for a command starting with either the shortest/longest substring.
 <br>**08:13:03** `[` should look for a trailing `]` in the last parameter.
+<br>**08:17:29** Spacial programming is like parenthetical programming in Lisp.
 
 ...
 
