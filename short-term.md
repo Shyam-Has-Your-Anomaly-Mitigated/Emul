@@ -76,6 +76,7 @@
 * C
 	* [Baby Steps to a C Compiler](http://www.wilfred.me.uk/blog/2014/08/27/baby-steps-to-a-c-compiler/)
 	* [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days.html)
+	* [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * C++
 	* [I wrote a programming language. Here’s how you can, too.](https://medium.freecodecamp.org/the-programming-language-pipeline-91d3f449c919)
 * Python
@@ -83,6 +84,11 @@
 	* [7 simple steps to implementing a programming language](http://kjetilvalle.com/posts/implement-a-programming-language.html) (Lisp)
 * Lisp
 	* [7 lines of code, 3 minutes: Implement a programming language from scratch](http://matt.might.net/articles/implementing-a-programming-language/)
+	* [https://news.ycombinator.com/item?id=5235589](Write Yourself a Haskell... in Lisp)
+* Haskell
+	* [Write Yourself a Scheme in 48 Hours](https://news.ycombinator.com/item?id=1378043)
+	* [Write You A Scheme](https://www.wespiser.com/writings/wyas/home.html)
+	* [Write You a Haskell](https://news.ycombinator.com/item?id=8838712)
 * JavaScript
 	* [How to implement a programming language in JavaScript](http://lisperator.net/pltut/)
 	* [Let’s Build a Programming Language](https://hackernoon.com/lets-build-a-programming-language-2612349105c6)
