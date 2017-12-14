@@ -40,7 +40,7 @@
 *not for bottling/ETC; if your caught doing any"-thing" else but drinking, you will be firewalled...there will be video evidence*
 ### medic
 * first aid
-* includes water to clean injuries
+* includes decontaminated sea water to clean injuries
 ### security
 * aikidō
 ### firewall
