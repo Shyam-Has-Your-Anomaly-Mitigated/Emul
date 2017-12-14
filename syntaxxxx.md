@@ -619,6 +619,14 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	8< shyamment >8
 	8≪ shyament
 	8<< sharment
+	
+	empty dexing that reaches escape velocity (escapes from the filed scope) can be used to read files
+	,[]<><"lib/file.script">
+	empty dexing escapes into the directory of the script
+	further empty dexing escapes into parent directories; ".."
+	,[]<><><"file.script">
+	just use "./" for relativity (from any depth/level of out-of-file experience)
+	,[]<><"./file.data">
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
