@@ -10,7 +10,7 @@
 1. apply soap
 1. scrub
 1. rinse for a minute
-1. escape from the shower
+1. escape/return from the shower
 
 *1 per night (presleep keeps the capsules cleaner)*
 <br>*1 per morning for health, first aid, aikidō, ETC (postsleep isn't ℝeally needed; but probably wanted...)*
