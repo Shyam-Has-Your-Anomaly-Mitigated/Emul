@@ -627,8 +627,12 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	,[]<><><"file.script">
 	just use "./" for relativity (from any depth/level of out-of-file experience)
 	,[]<><"./file.data">
-	you can also call Shyamscripts
+	you can also chant Shyamscripts
 	:[]<><"file.script">()
+	if it needs to be unprocessed for further dexing of suboxes
+	,[]<><"file.script">()<dexing>
+	this willn't throw bugs at the user if it's trimūrti/Shyamscript
+	,[]<><"./file.data">()
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
