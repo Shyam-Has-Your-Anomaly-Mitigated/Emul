@@ -1,6 +1,8 @@
 # free resources for proof of unemployment
 
 ## [capsule hotels](https://en.wikipedia.org/wiki/Capsule_hotel)
+### [faraday cage](https://en.wikipedia.org/wiki/Faraday_cage), [tin foil](https://en.wikipedia.org/wiki/Tin_foil_hat), ETC
+*protection from cancerous/neurodegenerative radio waves, cosmic rays, ETC*
 ### cameras
 * surveillance for the security/medic teams
 * [human subject research](https://en.wikipedia.org/wiki/Human_subject_research) ([non-invasive](https://en.wikipedia.org/wiki/Non-invasive_procedure))
