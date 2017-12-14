@@ -6,6 +6,7 @@
 ### cameras
 * surveillance for the security/medic teams
 * [human subject research](https://en.wikipedia.org/wiki/Human_subject_research) ([non-invasive](https://en.wikipedia.org/wiki/Non-invasive_procedure))
+	* but you'll also be sequenced...
 ### [timed showers](https://en.wikipedia.org/wiki/Lather,_rinse,_repeat)
 1. argue your way into the shower
 1. rinse for a minute
