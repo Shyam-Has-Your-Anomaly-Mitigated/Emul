@@ -2,7 +2,8 @@
 
 SHYAM Script ...the programming tool will probably be shortened to `shyams` ...as in "use Shyams' tool"
 <br>List-Oriented Programming
-<br>The [FT](https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering) ∘ Shyamscript is, "add more depth to your thought processes ∵ shallow mantras aren't generally useful"
+<br>The 1ˢᵗ [FT](https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering) ∘ Shyamscript is, "add more depth to your thought processes ∵ shallow mantras aren't generally useful"
+<br>Is recursion possible, but ***always*** from a `∴`? Calculus has 1ˢᵗ & 2ⁿᵈ FTs, and this would be optimal; perhaps the optimiser can intelligently refactor the mantras instead... (Why optimise by hand when you can automate it? [∵](https://en.wikipedia.org/wiki/Idiocracy))
 <br>[TODO](https://github.com/kmindi/special-files-in-repository-root)
 <br>[gamified checklist](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/community)
 ### Abstract
