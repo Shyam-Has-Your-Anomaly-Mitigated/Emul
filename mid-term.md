@@ -45,7 +45,7 @@
 * illegal use of drinking water
 * stolen clothing
 
-*an alternative would be to let the starve/fast every other day...daily vegan multivitamins means they aren't "ℝeally" starving/fasting*
+*an alternative would be to let them starve/fast every other day...daily vegan multivitamins means they aren't "ℝeally" starving/fasting*
 ## public libraries (books & computers c̄ internet access)
 * study first aid, aikidō, ETC
 * get employed to kill/eat/wear animals & hallucinate
