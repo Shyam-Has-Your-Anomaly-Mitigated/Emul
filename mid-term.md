@@ -50,7 +50,7 @@
 *an alternative would be to let them starve/fast every other day...daily vegan multivitamins means they aren't "ℝeally" starving/fasting*
 ## public libraries (books & computers c̄ internet access)
 * study first aid, aikidō, ETC
-* get employed to kill/eat/wear animals & hallucinate
+* get employed to kill/eat/wear animals & hallucinate/intoxicate
 
 ## public outdoors
 * exercise health, ETC
