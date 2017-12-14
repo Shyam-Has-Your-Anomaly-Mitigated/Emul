@@ -35,7 +35,8 @@
 1. [vegan famine](https://en.wikipedia.org/wiki/Famine_food)
 
 *[vegan staple](https://en.wikipedia.org/wiki/Staple_food) & [tastier options](https://en.wikipedia.org/wiki/Template:Herbs_%26_spices) for health, first aid, aikidō, ETC*
-### [drinking water](https://en.wikipedia.org/wiki/Drinking_fountain)
+<br>*it eats in view of the camera, or it gets the firewall again*
+### [drinking water](https://en.wikipedia.org/wiki/Drinking_fountain) (filtered & mineralised)
 *not for bottling/ETC; if your caught doing any"-thing" else but drinking, you will be firewalled...there will be video evidence*
 ### medic
 * first aid
@@ -45,7 +46,7 @@
 ### firewall
 * not using first aid, aikidō, ETC; random testing will train you well young [padawan](https://en.wikipedia.org/wiki/Jedi#Educational_hierarchy)
 * illegal use of drinking water
-* stolen clothing
+* stolen clothing/food
 
 *an alternative would be to let them starve/fast every other day...daily vegan multivitamins means they aren't "ℝeally" starving/fasting*
 ## public libraries (books & computers c̄ internet access)
