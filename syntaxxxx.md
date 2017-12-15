@@ -651,7 +651,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	8< , [, "the interpreter output should be copy/pastable into Shyamscripts\n", 539_16] 8≪ unsigned hex
 	the interpreter output should be copy/pastable into Shyamscripts
-	§001>8
+	9>8
 	8<
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
