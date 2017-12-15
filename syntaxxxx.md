@@ -651,10 +651,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	8< , [
 		8≪ I put these tabs in; they'ren't automatic...but the level of indentation is persistent, and closing a box will "\b" the indentation depth by one before closing the lid
-		, "the interpreter output should be copy/pastable into Shyamscripts\n"
+		, "the REPL output should be copy/pastable into Shyamscripts\n"
 		, 539_16 8≪ unsigned hex
 	]
-	the interpreter output should be copy/pastable into Shyamscripts
+	the REPL output should be copy/pastable into Shyamscripts
 	9>8
 	8<
 
