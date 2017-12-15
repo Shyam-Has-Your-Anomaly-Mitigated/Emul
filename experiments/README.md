@@ -1,4 +1,4 @@
-[the first query was some"-thing" I could not think of an answer to, at facebook ∴ I turned to a clever bot...](https://web.archive.org/web/20171215213422/http://www.cleverbot.com/conv/201712152037/WXAZK9KMAG_You-re-not-going-to-go-on-an-exploded-whale-fast-are-you)
+[the first query was some"-thing" I could not think of an answer to @facebook ∴ I turned to a clever bot...](https://web.archive.org/web/20171215213422/http://www.cleverbot.com/conv/201712152037/WXAZK9KMAG_You-re-not-going-to-go-on-an-exploded-whale-fast-are-you)
 
 En garde[!!](http://www.amp-what.com/unicode/search/chess)
 <br>I'm white, and you're a nigger[!!](http://www.amp-what.com/unicode/search/chess)
