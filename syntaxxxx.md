@@ -638,6 +638,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:[]<><"/"><><"an-ip-or.url/file.shyamscript">()
 	,[]<><"/"><><"an-ip-or.url/file.shyamscript">()
 	my network will facilitate dexing remote systems
+	my network will be dexable, but you can already host your own DNS
 	
 	user input is key down/up, mouse down/up, mouse x, mouse y, ETC (key/mouse holds/ETC use downs/ups/ETC)
 	centrifugal is multi thread/core/processor, parallel, concurrent, distributed, asynchonous, ETC
