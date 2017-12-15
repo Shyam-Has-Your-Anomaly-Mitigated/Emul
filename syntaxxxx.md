@@ -640,7 +640,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	user input is key down/up, mouse down/up, mouse x, mouse y, ETC (key/mouse holds/ETC use downs/ups/ETC)
 	centrifugal is multi thread/core/processor, parallel, concurrent, distributed, asynchonous, ETC
-	user input should be centrifugal, interrupt output, ETC
+	user input should be centrifugal, interrupt/pause output, ETC
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
