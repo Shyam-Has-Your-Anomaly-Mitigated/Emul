@@ -1,7 +1,7 @@
 *WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
 
 # TODO
-- [ ] Find A Compiler Book
+- [ ] Find The Compiler Book
 - [x] Find The DSL Blogs
 - [ ] **Formal Methods**
 - [ ] Write a better web browser!!! **DX≪**
