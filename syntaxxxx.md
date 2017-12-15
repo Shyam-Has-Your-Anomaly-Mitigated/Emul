@@ -637,6 +637,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	for networking, just escape from the root
 	:[]<><"/"><><"an-ip-or.url/file.shyamscript">()
 	,[]<><"/"><><"an-ip-or.url/file.shyamscript">()
+	my network will facilitate dexing remote systems
 	
 	user input is key down/up, mouse down/up, mouse x, mouse y, ETC (key/mouse holds/ETC use downs/ups/ETC)
 	centrifugal is multi thread/core/processor, parallel, concurrent, distributed, asynchonous, ETC
