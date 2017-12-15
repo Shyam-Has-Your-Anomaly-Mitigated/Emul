@@ -648,6 +648,11 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	http://worrydream.com/AlligatorEggs/
 	"wildboxez" (script.shyam.id.au/wbz) can be like hackage, C*AN, or some"-thing"...
 	who's that english gardener who also goes out on safaris/survivalism?
+	
+	8< , [, "the interpreter output should be copy/pastable into Shyamscripts\n", 539_16] 8≪ unsigned hex
+	the interpreter output should be copy/pastable into Shyamscripts
+	§001>8
+	8<
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
