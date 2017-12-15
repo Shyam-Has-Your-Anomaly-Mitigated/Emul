@@ -650,6 +650,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	who's that english gardener who also goes out on safaris/survivalism?
 	
 	8< , [
+		8≪ I put these tabs in; they'ren't automatic...but the level of indentation is persistent, and closing a box will "\b" the indentation depth by one before closing the lid
 		, "the interpreter output should be copy/pastable into Shyamscripts\n"
 		, 539_16 8≪ unsigned hex
 	]
