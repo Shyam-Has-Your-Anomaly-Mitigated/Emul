@@ -650,8 +650,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	who's that english gardener who also goes out on safaris/survivalism?
 	
 	8< , [
-	, "the interpreter output should be copy/pastable into Shyamscripts\n"
-	, 539_16 8≪ unsigned hex
+		, "the interpreter output should be copy/pastable into Shyamscripts\n"
+		, 539_16 8≪ unsigned hex
 	]
 	the interpreter output should be copy/pastable into Shyamscripts
 	9>8
