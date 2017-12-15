@@ -637,6 +637,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	for networking, just escape from the root
 	:[]<><"/"><><"an-ip-or.url/file.shyamscript">()
 	,[]<><"/"><><"an-ip-or.url/file.shyamscript">()
+	
+	user input is key down/up, mouse down/up, mouse x, mouse y, ETC (key/mouse holds/ETC use downs/ups/ETC)
+	centrifugal is multi thread/core/processor, parallel, concurrent, distributed, asynchonous, ETC
+	user input should be centrifugal, interrupt output, ETC
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
