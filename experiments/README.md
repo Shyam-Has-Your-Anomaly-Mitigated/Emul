@@ -4,6 +4,8 @@ En garde[!!](http://www.amp-what.com/unicode/search/chess)
 <br>I'm white, and you're a nigger[!!](http://www.amp-what.com/unicode/search/chess)
 <br>C2 to C4; BOOM[!!](http://www.amp-what.com/unicode/search/chess) :D
 <br>(The crowd goes wild[!!](http://www.amp-what.com/unicode/search/chess))
+
+chess needs fog of war, where you can only see your own pieces, and where they can move to; if it stops before the end of the board, and your own piece is not at the end, then you can only assume the enemy is there without knowing which enemy
 <hr>
 Is it possible to DOS the server by recursive SSHing? I remember the first time I gained access to the RMIT servers; one of the first "-thing"s I did was SSH between my accounts on all three of them...I felt so 1337 ∵ I was proxying just like in the black hat games, but I this time I had ¿infinite? "nodes"; I was untracæble!!! :D
 
