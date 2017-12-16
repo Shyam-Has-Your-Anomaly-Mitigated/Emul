@@ -523,7 +523,7 @@ empty dexing only needs `śiṣya<>` to get the scope of the guru
 			, z
 		]
 	])
-	, object{x} 8≪ object<2> 8≪ "a"
+	, object<x> 8≪ object<2> 8≪ "a"
 	8≪ there must be some way to use the nāma of a śiṣya without chanting, nor zero dexing
 	: nāmas(
 		, [, "object", [: nāmas(["x","a"], ["y","b"], ["z","c"])]]
