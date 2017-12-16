@@ -5,6 +5,12 @@
 
 # Lifestyle
 If eating animals is the one "-thing" you've done consistently your entire life; every"-thing" else in your life now is worthless!
+<br>If you have any other life-long habits, then you have too many of them!
+<br>[You](https://waitbutwhy.com/2015/12/the-tail-end.html) miss [out](https://waitbutwhy.com/2014/05/life-weeks.html) on [your](https://waitbutwhy.com/2016/10/100-blocks-day.html) full [potential](https://waitbutwhy.com/)...
+<br>Albert Einstein ([probably didn't](http://www.news.hypercrit.net/2012/11/13/einstein-on-misattribution-i-probably-didnt-say-that/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hypercrit%2FLcOF+(Becker%27s+Online+Journal))) said the definition of insanity is doing something over and over again and expecting a different result.
+<br>It's even worse if you're expecting the same result!
+<br>You can enjoy playing a game without a wiki/cheating/ETC, only to find out that there is a lot more depth to the game than you thought.
+<br>You're just a [broken record](http://how-i-met-your-mother.wikia.com/wiki/Arrivederci,_Fiero#Music)!
 
 Fat people are attached to their lifestyle too...
 
