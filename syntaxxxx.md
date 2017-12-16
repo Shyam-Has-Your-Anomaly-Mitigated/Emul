@@ -690,6 +690,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	https://en.wikipedia.org/wiki/Command_substitution
 	
 	termnal emulators are just REPLs for sh/bash/ETC
+	
+	:map(,mantras,boxes)
+	can it be more useful?
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
