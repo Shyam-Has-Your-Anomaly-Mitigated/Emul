@@ -658,6 +658,13 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	9>8
 	8< …
 	
+	^ it can be configured
+	, "output"
+	8<
+	output
+	>8
+	…
+	
 	gotta be careful when :[numbers<0>] can "shoot yourself"
 	
 	I want to store one mantra, and chant it multiple times simultaneously
