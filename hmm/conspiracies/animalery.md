@@ -20,3 +20,7 @@ Beastiality is probably responsible for bird/swine/ETC flu/ETC.
 : Leaves, ﬂowers, fruits/vegetables, and water; are not a form of life.
 <br>: Ahiṃsāns only eat leaves, ﬂowers, fruits/vegetables, and water.
 <br>∴ Ahiṃsāns are not cannibals.
+
+# [Sin](https://en.wikipedia.org/wiki/Thou_shalt_not_kill)-drome
+Some"-thing" about [Stockholm syndrome](https://youtu.be/C25qzDhGLx8)...
+<br>Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)...
