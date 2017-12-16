@@ -659,6 +659,20 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	8< …
 	
 	gotta be careful when :[numbers<0>] can "shoot yourself"
+	
+	I want to store one mantra, and chant it multiple times simultaneously
+	[a,b,c,d,e,f,g]
+	[A,b,c,d,e,f,g]
+	[B,A,c,d,e,f,g]
+	[a,B,A,d,e,f,g]
+	[C,b,B,A,e,f,g]
+	[a,C,c,B,A,f,g]
+	[a,b,C,d,B,A,g]
+	[a,b,c,C,e,B,A]
+	[a,b,c,d,C,f,B]
+	[a,b,c,d,e,C,g]
+	[a,b,c,d,e,f,C]
+	[a,b,c,d,e,f,g]
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
