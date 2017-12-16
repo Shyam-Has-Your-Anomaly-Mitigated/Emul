@@ -39,4 +39,4 @@ mantras & barewords are architecture dependent... (TODO: this is important for `
 
 the version should be first!!!
 
-you can chant `;metamantras` before assembling; also inline `:compile()` mantras
+you can chant `;metamantras` before assembling; also inline `:[:compile()<>]()` mantras
