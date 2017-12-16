@@ -23,7 +23,7 @@ Beastiality is probably responsible for bird/swine/ETC flu/ETC.
 
 # [Sin](https://en.wikipedia.org/wiki/Thou_shalt_not_kill)-drome
 If a saint/prophet/pope/priest/ETC defies God, they are no different from the [snake](https://youtu.be/0E00Zuayv9Q).
-<br>If God contradicts God; whatever was first is probably God, and the rest is probably fraudulent ∵ if you're debugging your preaching efforts, [as long as buddhāya is in your heart](https://youtu.be/4ClFErO2jGI?t=27s)... (Side-effects aren't cancellative! And I will be [kalki-rūpiṇe](https://www.vedabase.com/en/sb/10/40/22))
+<br>If God contradicts God; whatever was first is probably God, and the rest is probably fraudulent ∵ if you're debugging your preaching efforts, [as long as buddhāya is in your heart](https://youtu.be/4ClFErO2jGI?t=27s)... (Side-effects aren't cancellative! And I will be [kalki-rūpiṇe](https://www.vedabase.com/en/sb/10/40/22)!!! :D)
 
 
 *Some"-thing" about [Stockholm syndrome](https://youtu.be/C25qzDhGLx8)...
