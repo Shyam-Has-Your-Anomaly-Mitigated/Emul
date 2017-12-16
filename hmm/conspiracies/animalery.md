@@ -35,4 +35,4 @@ If a saint/prophet/pope/priest/ETC defies God, they are no different from the [s
 
 *Some"-thing" about [Stockholm syndrome](https://youtu.be/C25qzDhGLx8)... (I actually met somebody who didn't want immortality; I bet if it was natural, or they were born into it, they'd be okay with it; just like if humans naturally lived `x` times as long as they do now...it wasn't that long ago that they'd be lucky to live as long as they have!)*
 
-*Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)... (And [diseases](#eiseases)...*
+*Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)... (And [diseases](#deiseases)...)*
