@@ -658,7 +658,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	9>8
 	8< …
 	
-	^ it can be configured
+	^ it can be configured...
+	
 	, "output\n"
 	8<output
 	>8
