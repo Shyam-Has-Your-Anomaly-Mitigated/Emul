@@ -9,7 +9,7 @@ Humans only support [free range](#free-range) to avoid [diseases](#diseases); no
 *I would believe them if the animals were well-looked after by trained veterinarians, and were only [consumed](https://en.wikipedia.org/wiki/Soylent_Green) after a natural death (after a long healthy life).*
 
 # Diseases
-Beastiality is probably responsible for bird/swine/ETC flu/ETC.
+[Beastiality](https://en.wikipedia.org/wiki/Zoophilia#Arguments_for_bestiality) is probably responsible for bird/swine/ETC flu/ETC.
 
 # Legality
 Some countries have death penalties as a punishment; and some don't.
