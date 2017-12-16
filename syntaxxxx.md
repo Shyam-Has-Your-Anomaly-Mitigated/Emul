@@ -665,6 +665,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	>8
 	…
 	
+	^ it will be modal; a modal REPL!!! :D
+	
 	gotta be careful when :[numbers<0>] can "shoot yourself"
 	
 	I want to store one mantra, and chant it multiple times simultaneously
