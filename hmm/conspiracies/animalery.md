@@ -3,6 +3,9 @@
 <br>; Both are culturally/relativistically dependent.
 <br>∴ Animalery is like slavery.
 
+# Lifestyle
+Fat people are attached to their lifestyle too...
+
 # Free Range
 Humans only support [free range](#free-range) to avoid [diseases](#diseases); not for animal abuse ∵ they don't actually care about animal welfare.
 
