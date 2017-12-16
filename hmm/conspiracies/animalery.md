@@ -6,7 +6,7 @@
 # Free Range
 Humans only support [free range](#free-range) to avoid [diseases](#diseases); not for animal abuse ∵ they don't actually care about animal welfare.
 
-*I would believe them if the animals were well-looked after by trained veterinarians, and were only consumed after a natural death (after a long healthy life).*
+*I would believe them if the animals were well-looked after by trained veterinarians, and were only [consumed](https://en.wikipedia.org/wiki/Soylent_Green) after a natural death (after a long healthy life).*
 
 # Diseases
 Beastiality is probably responsible for bird/swine/ETC flu/ETC.
