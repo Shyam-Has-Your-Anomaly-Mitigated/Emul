@@ -11,6 +11,13 @@ Humans only support [free range](#free-range) to avoid [diseases](#diseases); no
 # Diseases
 Beastiality is probably responsible for bird/swine/ETC flu/ETC.
 
+# Legality
+Some countries have death penalties as a punishment; and some don't.
+
+Some countries have euthenasia as a merciment; and some don't.
+
+Some countries will mercifully put-down criminals; while punishfully murdering animals, the elderly, and anyone who is actually suffering (let's just make them suffer even moar; mwahahahahahahahaha!!! :D).
+
 # Cannibalism
 : You are what you eat, because that's what your body uses to develop itself.
 <br>: If you are what you eat, then that's cannibalism.
