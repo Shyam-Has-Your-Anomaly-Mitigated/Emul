@@ -3,6 +3,9 @@
 <br>; Both are culturally/relativistically dependent.
 <br>∴ Animalery is like slavery.
 
+Some"-thing" about [Stockholm syndrome](https://youtu.be/C25qzDhGLx8)...
+<br>Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)...
+
 # Free Range
 Humans only support [free range](#free-range) to avoid [diseases](#diseases); not for animal abuse ∵ they don't actually care about animal welfare.
 
@@ -23,6 +26,3 @@ Beastiality is probably responsible for bird/swine/ETC flu/ETC.
 
 # [Sin](https://en.wikipedia.org/wiki/Thou_shalt_not_kill)-drome
 If a saint/prophet/pope/priest/ETC defies God, they are no different from the [snake](https://youtu.be/0E00Zuayv9Q).
-
-Some"-thing" about [Stockholm syndrome](https://youtu.be/C25qzDhGLx8)...
-<br>Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)...
