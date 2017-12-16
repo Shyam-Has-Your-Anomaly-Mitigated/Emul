@@ -4,6 +4,8 @@
 <br>∴ Animalery is like slavery.
 
 # Lifestyle
+If eating animals is the one "-thing" you've done consistently your entire life; every"-thing" else in your life now is worthless!
+
 Fat people are attached to their lifestyle too...
 
 # Free Range
