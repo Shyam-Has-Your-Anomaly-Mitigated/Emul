@@ -683,7 +683,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	Shyamscript -> OS(hyam) -> shyam:/// -> Life/Universe/Every"-thing"
 	OS will replace Linux/Android/Life/Universe/Every"-thing"
 	...
-	you need a GUI window to dex the GUI environment
+	you need a GUI window (including the terminal emulator, console, ETC) to dex the GUI environment
 	gui()<><"some other window">
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
