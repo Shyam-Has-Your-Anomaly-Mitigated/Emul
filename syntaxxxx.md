@@ -668,10 +668,13 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	[C,b,B,A,e,f,g]
 	[a,C,c,B,A,f,g]
 	[a,b,C,d,B,A,g]
-	[a,b,c,C,e,B,A]
-	[a,b,c,d,C,f,B]
-	[a,b,c,d,e,C,g]
-	[a,b,c,d,e,f,C]
+	[ED,b,c,C,e,B,A]
+	[a,DE,c,d,C,f,B]
+	[a,b,DE,d,e,C,g]
+	[a,b,c,ED,e,f,C]
+	[a,b,c,d,DE,f,g]
+	[a,b,c,d,e,ED,g]
+	[a,b,c,d,e,f,ED]
 	[a,b,c,d,e,f,g]
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
