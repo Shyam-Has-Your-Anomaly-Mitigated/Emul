@@ -1,3 +1,5 @@
+Mmm! I'll eat these mammals, but not those mammals; even though humans are at the top of the food chain (says cannibals, mozzies, ETC).
+
 : Only certain humans are enslaved/trafficked.
 <br>: Only certain animals are held captive/consumed (which is worse than slavery).
 <br>; Both are culturally/relativistically dependent.
