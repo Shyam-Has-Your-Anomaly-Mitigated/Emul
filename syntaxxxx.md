@@ -732,6 +732,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	...actually the program counter should be its' own mantra
 	https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well
 	...the x should be x<0>
+	
+	to preprocess dexing out for implementing other languages as DSLs
+	: ≠(, [x]<1><1>, [.[]]<1><1>)
+	some"-thing" like that; IDK how trimūrti will store dīkṣās
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
