@@ -84,6 +84,7 @@
 	* [7 simple steps to implementing a programming language](http://kjetilvalle.com/posts/implement-a-programming-language.html) (Lisp)
 * Lisp
 	* [7 lines of code, 3 minutes: Implement a programming language from scratch](http://matt.might.net/articles/implementing-a-programming-language/)
+	* Any good Lisp book will include implementing Prolog.
 	* [Write Yourself a Haskell... in Lisp](https://news.ycombinator.com/item?id=5235589)
 * Haskell
 	* [Write Yourself a Scheme in 48 Hours](https://news.ycombinator.com/item?id=1378043)
