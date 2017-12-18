@@ -702,6 +702,20 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	:map(,mantras,boxes)
 	can it be more useful?
+	
+	∓3 is [-3, +3]
+	±3 is [+3,-3]
+	∓(0,1,2,3) is [-0-1-2-3, +0+1+2+3] is [-6, +6]
+	±(0,1,2,3) is [+0+1+2+3, -0-1-2-3] is [+6, -6]
+	-(0,1,2,∓3) is [-0-1-2--3, -0-1-2-+3] is [0, -6] ...beware signs are cancellative!
+	-(0,1,2,±3) is [-0-1-2-+3, -0-1-2--3] is [-6, 0] ...it could be the mantral sign +() or -()
+	+(0,1,2,∓3) is [+0+1+2+-3, +0+1+2++3] is [0, +6] ...but then you'd have to dex to unsign
+	+(0,1,2,±3) is [+0+1+2++3, +0+1+2+-3] is [+6, 0] ...when you can just use a mantra +(+()) or +(-()) or -(-()) or -(+())
+	∓(0,1,2,∓3) is [-0-1-2--3, -0-1-2-+3, +0+1+2+-3, +0+1+2++3] is [0, -6, 0, +6]
+	∓(0,1,2,±3) is [-0-1-2-+3, -0-1-2--3, +0+1+2++3, +0+1+2+-3] is [-6, 0, +6, 0]
+	±(0,1,2,∓3) is [+0+1+2+-3, +0+1+2++3, -0-1-2--3, -0-1-2-+3] is [0, +6, 0, -6]
+	±(0,1,2,±3) is [+0+1+2++3, +0+1+2+-3, -0-1-2-+3, -0-1-2--3] is [+6, 0, -6, 0]
+	...there's probably mistakes
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
