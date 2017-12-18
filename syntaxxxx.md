@@ -717,6 +717,13 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	±(0,1,2,±3) is [+0+1+2++3, +0+1+2+-3, -0-1-2-+3, -0-1-2--3] is [+6, 0, -6, 0]
 	...there's probably mistakes
 	...it could be concurrent/ETC
+	
+	×(42, -1) is [-42]
+	×(42, +1) is [+42]
+	÷(42) is [⅟42]
+	÷(-42) is [-⅟42]
+	÷(+42) is [+⅟42]
+	...for ÷() the numerator is unsiged 1
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
