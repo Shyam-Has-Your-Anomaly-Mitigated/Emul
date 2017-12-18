@@ -766,6 +766,12 @@ Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>my plan is to learn Z, specify c̄ Z, learn Coq, implement c̄ Coq, ...then verify somehow
 <br>I changed my mind; I'll specify c̄ all the specification languages, then verify they are all the same specification, then develop/verify the implementation
 <br>JS took ten days, TeX took ten years, Shyamscript'll probably take [three](https://www.youtube.com/watch?v=aU4pyiB-kq0) shyamoments
+<br>[Linux](https://en.wikipedia.org/wiki/Linus_Torvalds):
+* "Torvalds attended the University of Helsinki between 1988 and 1996, graduating with a master's degree…"
+* "1995", "Running Linux on AlphaStation", "In the period 1994–1999 Torvalds developed versions of Linux on early AlphaServer systems…"
+* "1997", "Academic Honors", "In 1997, Torvalds received his master's degree (Laudatur Grade)…"
+
+I haven't even got my bachelors yet (and willn't if I can become a firefighter without signing an NDA), and my academic studies have/do not include language design/implementation/ETC (and probably willn't ∵ people, probably who'ven't achieved any"-thing", only teach you to be as good as themselves; Rick Sanchez was right about school, and [the government's lame](http://rickandmorty.wikia.com/wiki/Morty,_Jr.))
 
 **options:**
 * binaries/ETC, no JS; support the change you want to see in the world
