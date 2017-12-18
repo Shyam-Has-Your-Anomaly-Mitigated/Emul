@@ -19,7 +19,7 @@
 	* https://en.wikipedia.org/wiki/Formal_methods#Specification_languages
 	* https://en.wikipedia.org/wiki/Category:Formal_specification_languages
 	* https://en.wikipedia.org/wiki/Formal_specification#Software_tools
-* [Hardware description languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Hardware_description_languages)
+* [Hardware description languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Hardware_description_languages) (Wiki)
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 * English
