@@ -726,7 +726,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	...for ÷() the numerator is unsiged 1
 	
 	: mahāmantra(x) will change the program in memory
+	: mahāmantra(x, y) will also update the program counter
 	; mahāmantra(x) will change the file preprocessing
+	; mahāmantra(x, y) will also update the program counter
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
