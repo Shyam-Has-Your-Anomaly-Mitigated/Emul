@@ -771,7 +771,7 @@ Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 * "1995", "Running Linux on AlphaStation", "In the period 1994–1999 Torvalds developed versions of Linux on early AlphaServer systems…"
 * "1997", "Academic Honors", "In 1997, Torvalds received his master's degree (Laudatur Grade)…"
 
-I haven't even got my bachelors yet (and willn't if I can become a firefighter without signing an NDA), and my academic studies have/do not include language design/implementation/ETC (and probably willn't ∵ people, probably who'ven't achieved any"-thing", only teach you to be as good as themselves; Rick Sanchez was right about school, and [the government's lame](http://rickandmorty.wikia.com/wiki/Morty,_Jr.))
+I haven't even got my bachelors yet (and willn't if I can become a firefighter without signing an NDA), and my academic studies have/do not include language design/implementation/ETC (and probably willn't ∵ people, probably who'ven't achieved any"-thing", only teach you to be as good as themselves; Rick Sanchez was right about school, and [the government's lame](http://rickandmorty.wikia.com/wiki/Morty,_Jr.)); [these guys](https://youtu.be/0SARbwvhupQ) weren't counting on me
 
 **options:**
 * binaries/ETC, no JS; support the change you want to see in the world
