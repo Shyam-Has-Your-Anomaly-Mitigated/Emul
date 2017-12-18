@@ -13,6 +13,7 @@
 * [awesome-deduction](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction) (I made this one!!! :D)
 
 # [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods)
+* [Formal Methods Wiki](http://formalmethods.wikia.com/wiki/Formal_Methods_Wiki)
 * [Formal verification](https://en.wikipedia.org/wiki/List_of_important_publications_in_theoretical_computer_science#Formal_verification) (Wiki)
 * Formal Specification
 	* https://en.wikipedia.org/wiki/Formal_methods#Specification_languages
