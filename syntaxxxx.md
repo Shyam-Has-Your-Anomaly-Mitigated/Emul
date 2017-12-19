@@ -776,7 +776,7 @@ Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 
 I haven't even got my bachelors yet (and willn't if I can become a firefighter without signing an NDA), and my academic studies have/do not include language design/implementation/ETC (and probably willn't ∵ people, probably who'ven't achieved any"-thing", only teach you to be as good as themselves; Rick Sanchez was right about school, and [the government's lame](http://rickandmorty.wikia.com/wiki/Morty,_Jr.)); [these guys](https://youtu.be/0SARbwvhupQ) weren't counting on me (even if I don't know binary searches, big o notation, ETC, and doubt I would c̄ श्याम years of XP; [I'm unemployable](https://youtu.be/wwIysnVmAUg), and think optimisation should depend on the optimiser instead of the human)
 
-I had the grande delusion of men knowing "-thing"s:
+I had the grande delusion of [men](https://en.wikipedia.org/wiki/Trimurti) knowing "-thing"s:
 * ब्रह्मगुप्त, the man who knew nothing.
 * Śrīnivāsa Ramanujan, the man who knew something,
 * [S.H.Y.A.M.](https://youtu.be/Nr9y40F3qu4), the man who knew everything.
