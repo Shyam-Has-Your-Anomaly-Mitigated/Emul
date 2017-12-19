@@ -743,6 +743,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_the_NSDAP_%281920%E2%80%931945%29.svg
 	I'm taking it back, and returning it to it's good name/looks/ETC
 	they can sue me for intellectual property theft, but they stole it first
+	
+	the text editor can highlight the dex target when you hover over the dex for the user to jump to
+	the text editor can highlight the dexes for a potential dex target for the user to jump/cycle to...probably by mode/whatever
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
