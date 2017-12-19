@@ -45,7 +45,7 @@
 ### security
 * aikidō
 ### firewall
-* not using first aid, aikidō, ETC; random testing will train you well young [padawan](https://en.wikipedia.org/wiki/Jedi#Educational_hierarchy) ([padavyā](https://www.vedabase.com/en/synonyms-index?original_op=starts&original=padav&translation_op=contains&translation=) is pronounced more like padawā)
+* not using first aid, aikidō, ETC; random testing will train you well young [padawan](https://en.wikipedia.org/wiki/Jedi#Educational_hierarchy) ([padavyā](https://www.vedabase.com/en/synonyms-index?original_op=starts&original=padav&translation_op=contains&translation=) is pronounced more like padawā; there is no [w](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=w&translation_op=contains&translation=))
 * illegal use of drinking water
 * stolen clothing/food
 
