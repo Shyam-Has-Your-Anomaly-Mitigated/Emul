@@ -29,23 +29,23 @@
 	* [privacy](https://en.wikipedia.org/wiki/Balaclava_(clothing)) & [safety](https://en.wikipedia.org/wiki/Jika-tabi) & [style](https://en.wikipedia.org/wiki/Kimono) (from the wealthy/employed poeple)
 * vegan [pj](https://en.wikipedia.org/wiki/Onesie_(jumpsuit))([s](https://en.wikipedia.org/wiki/Blanket_sleeper)) & slippers
 
-*you trade them in for cleaning; missing = firewall*
+*you trade them in for cleaning; missing = [firewall](#firewall)*
 <br>*[colours](https://en.wikipedia.org/wiki/Ky%C5%AB) for health, first aid, aikidō, ETC*
 ### [vegan food](https://en.wikipedia.org/wiki/Veganism)
 1. daily vegan multivitamin
 1. [vegan famine](https://en.wikipedia.org/wiki/Famine_food)
 
 *[vegan staple](https://en.wikipedia.org/wiki/Staple_food) & [tastier options](https://en.wikipedia.org/wiki/Template:Herbs_%26_spices) for health, first aid, aikidō, ETC*
-<br>*it eats in view of the camera, or it gets the firewall again*
+<br>*it eats in view of the camera, or it gets the [firewall](#firewall) again*
 ### [drinking water](https://en.wikipedia.org/wiki/Drinking_fountain) (filtered & mineralised)
-*not for bottling/ETC; if your caught doing any"-thing" else but drinking, you will be firewalled...there will be video evidence*
+*not for bottling/ETC; if your caught doing any"-thing" else but drinking, you will be [firewalled](#firewall)...there will be video evidence*
 ### medic
 * first aid
 * includes decontaminated sea water to clean injuries
 ### security
 * aikidō
 ### firewall
-* not using first aid, aikidō, ETC; random testing will train you well young [padawan](https://en.wikipedia.org/wiki/Jedi#Educational_hierarchy)
+* not using first aid, aikidō, ETC; random testing will train you well young [padawan](https://en.wikipedia.org/wiki/Jedi#Educational_hierarchy) ([padavyā](https://www.vedabase.com/en/synonyms-index?original_op=starts&original=padav&translation_op=contains&translation=) is pronounced more like padawā)
 * illegal use of drinking water
 * stolen clothing/food
 
