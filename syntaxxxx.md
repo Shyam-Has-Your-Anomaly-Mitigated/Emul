@@ -778,7 +778,7 @@ I haven't even got my bachelors yet (and willn't if I can become a firefighter w
 
 I had the grande delusion of [men](https://en.wikipedia.org/wiki/Trimurti) knowing "-thing"s:
 * ब्रह्मगुप्त, the man who knew nothing.
-* Śrīnivāsa Ramanujan, the man who knew something,
+* Śrīnivāsa Rāmānujān, the man who knew something,
 * [S.H.Y.A.M.](https://youtu.be/Nr9y40F3qu4), the man who knew everything.
 
 Both men and mice begin with identical characters, and even share identical characteristics (unless that ℝeally is a conspiracy for abusive experimentation on another species (race?) in order to use the force to realise the answer to the ultimate question of life, the universe, and everything; I'm sure I answered that last one, [correctly](https://youtu.be/NisCkxU544c), and the two men before myself answered the first two, [correctly](https://youtu.be/NisCkxU544c), respectively).
