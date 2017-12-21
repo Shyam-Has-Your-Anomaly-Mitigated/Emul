@@ -25,7 +25,7 @@
 * **Formal methods:**
 	* Formal methods migrate [99.99%](https://xkcd.com/1161/) of bugs; the hand sanitiser of instructing computers/ETC…
 	* ("Declaratively") avoids side-effects to reduce the mental stress of keeping the program in your head; recursion becomes usefully generalised tech that makes loops (which usually depend on side-effects) redundant.
-	* Recursion avoids [OB1](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=4m48s), Kenobis?
+	* Recursion avoids [OB1](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=4m48s), Kenobis? (I'm going to start querying "Kenobies?", instead of "OK?" & "Okay?" & ETC; yet another "-thing"!!! :D)
 	* Conservative termination checking; does exactly that. (Ensures a program will halt, even though we haven't solved the halting problem; yet…)
 		* Coq (is not cock butt a male chicken?), Idris, Agda, ETC…
 	* Type-level programming; perfect for Top Down Design (TDD; but not Test Driven Development…). (TDD means you don't write code you don't end up using; [Professor Sahami](https://youtu.be/KkMDCCdjyW8?list=PL84A56BC7F4A1F852&t=4m25s) taught me about [TDD](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=13m))
