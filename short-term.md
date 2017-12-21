@@ -56,9 +56,9 @@
 			* Some"-thing" like that... (Could be automated ∵ `T` & `local` don't change...much; well, for the purposes...but that would be bad for tempoℝæl dependencies; which you might as well hand-optimise.)
 			* I've decided on modal optimisation.
 			* Another "-thing" I wanted in Prolog was disabling warnings between two points; like commenting out warnings...
+	* I do hourly [scrum](https://en.wikipedia.org/wiki/Stand-up_meeting#Three_Questions) meetings c̄ ...myself! :D
 
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
-	* I do hourly [scrum](https://en.wikipedia.org/wiki/Stand-up_meeting#Three_Questions) meetings c̄ ...myself! :D
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 * English
