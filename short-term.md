@@ -41,6 +41,13 @@
 			* Now I think TDD is writing a vague/loose test to pass, and then narrowing/whittling/carving/chiselling down the test, to pass it again; recursively, until the test is perfect (which never happens). This allows for employees to have some"-thing" to show higher ups, and is more productive in terms of production; at least we have some"-thing" to show for all the funding we put into it. But this can easily result in unfinished, and poorly designed, products/produce.
 			* Machine learning does the same "-thing"; implementing the instructional algorithms is comparable c̄ machines learning by observation of database dumps.
 			* I was going to compare TDD c̄ formal methods (specification), where TDD starts from the primatively mechanical level, and formal methods starts from the abstracted intelligent level; Prolog/Haskell/ETC paradigms start from abstraction, whereas Assembly/C/ETC starts from mechanisation... (I think I just did? The comparison...)
+	* **Big O Notation ([voyage](https://en.wiktionary.org/wiki/bon_voyage#French)):**
+		* Why be concerned with efficiency?
+		* It's better to be conerned with optimisation techniques.
+		* You could know your algorithm is inefficient, but not know how to improve it.
+		* I'd rather focus on the "how", rather than the "what".
+		* static/dynamic code analysis, refactoring, ETC; can (be automatically) optimise(d) for us.
+		* it's like in mathematics; you don't remember all the rules, instead you just feed it to a computer to poop out the symbolic representation of best possible optimisation. (I kind of regret taking that mathematical minor ∵ I feel it's a backwards way of doing "-thing"s; but so are paper-based programming exams! Why do I do better at those? I guess I just don't see the usefulness of memerising calculus when it can be programmed in...I probably would've done the same with the programming exams, had I been able to program them in for automation...)
 
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
