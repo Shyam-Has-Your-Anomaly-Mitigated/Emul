@@ -21,6 +21,22 @@
 	* https://en.wikipedia.org/wiki/Formal_specification#Software_tools
 * [Hardware description languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Hardware_description_languages) (Wiki)
 
+## "-thing"s…
+* **formal methods:**
+	* ("Declaratively") avoids side-effects to reduce the mental stress of keeping the program in your head; recursion becomes usefully generalised tech that makes loops (which usually depend on side-effects) redundant.
+	* Recursion avoids [OB1](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=4m48s), Kenobis?
+	* Conservative termination checking; does exactly that. (Ensures a program will halt, even though we haven't solved the halting problem; yet…)
+		* Coq (is not cock butt a male chicken?), Idris, Agda, ETC…
+	* Type-level programming; perfect for Top Down Design (TDD; but not Test Driven Development…). (TDD means you don't write code you don't end up using; [Professor Sahami](https://youtu.be/KkMDCCdjyW8?list=PL84A56BC7F4A1F852&t=4m25s) taught me about [TDD](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=13m))
+		* I like Haskell types because you can tell a parametric story c̄ them, and also include the types of parametric functions; [inceptionally](https://en.wikipedia.org/wiki/Inception).
+* **formal mathematics:**
+	* Lambda calculus divides bugs between implementation, and (dysfunctionally) parameterised "-thing"s; but the implementation can be formally verified against formal specification(s).
+* **formal logic:**
+	* Prolog (predicate calculus? SHLIK; Shows How Little I Know…) migrates all of the bugs into the truthfulness of facts, and factual rules (as opposed to functional rules; but "they" like to remind me that I'm not to think of rules as being functional); empowering you to imagine falsified ℝealities.
+		* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible). % true.`
+
+*When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's coq/ETC, and Shyamscript… (When I get around to it…)*
+
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 * English
 	* [Compilers](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) (Wiki)
