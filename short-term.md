@@ -32,6 +32,7 @@
 		* I like Haskell types because you can tell a parametric story c̄ them, and also include the types of parametric functions; [inceptionally](https://en.wikipedia.org/wiki/Inception).
 	* **Formal mathematics:**
 		* Lambda calculus divides bugs between implementation, and (dysfunctionally) parameterised "-thing"s; but the implementation can be formally verified against formal specification(s).
+		* Functions [DOTADIW](https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well), for both input & output; but they can be lists, so...
 	* **Formal logic:**
 		* Prolog (predicate calculus? SHLIK/SHLYK; Shows How Little I/You Know…) migrates all of the bugs into the truthfulness of facts, and factual rules (as opposed to functional rules; but "they" like to remind me that I'm not to think of rules as being functional); empowering you to imagine falsified ℝealities from the [atom](https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics#Data_types) up.
 			* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible) :- concept(impossible), illogical(Paradoxical_Contradictions). % true.`
