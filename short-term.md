@@ -49,7 +49,7 @@
 		* static/dynamic code analysis, refactoring, ETC; can (be automatically) optimise(d) for us.
 		* it's like in mathematics; you don't remember all the rules, instead you just feed it to a computer to poop out the symbolic representation of best possible optimisation. (I kind of regret taking that mathematical minor ∵ I feel it's a backwards way of doing "-thing"s; but so are paper-based programming exams! Why do I do better at those? I guess I just don't see the usefulness of memerising calculus when it can be programmed in...I probably would've done the same with the programming exams, had I been able to program them in for automation...)
 		* **[EG](https://stackoverflow.com/a/22732174):**
-			* `get_tempoℝæl_unit(Input, Output) :- true , get_time(T), stamp_date_time(T, D9, local), date_time_value(Input, D9, Output).`
+			* `get_tempoℝæl_unit(Input, Output) :- get_time(T), stamp_date_time(T, D9, local), date_time_value(Input, D9, Output).`
 			* Imagine this is used for `Input`s: `year`, `month`, `day`, `hour`, `minute`, `second`.
 			* It would be optimal to parameterise `D9` from `get_time(T), stamp_date_time(T, D9, local)`.
 			* Furthermore, if you are performing this action for each event in say a calendar, it would be optimal to parameterise/factor it out completely.
