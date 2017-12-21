@@ -41,7 +41,7 @@
 			* Now I think TDD is writing a vague/loose test to pass, and then narrowing/whittling/carving/chiselling down the test, to pass it again; recursively, until the test is perfect (which never happens). This allows for employees to have some"-thing" to show higher ups, and is more productive in terms of production; at least we have some"-thing" to show for all the funding we put into it. But this can easily result in unfinished, and poorly designed, products/produce.
 			* Machine learning does the same "-thing"; implementing the instructional algorithms is comparable c̄ machines learning by observation of database dumps.
 			* I was going to compare TDD c̄ formal methods (specification), where TDD starts from the primatively mechanical level, and formal methods starts from the abstracted intelligent level; Prolog/Haskell/ETC paradigms start from abstraction, whereas Assembly/C/ETC starts from mechanisation... (I think I just did? The comparison...)
-	* **Big O Notation ([voyage](https://en.wiktionary.org/wiki/bon_voyage#French)):**
+	* **[Big O Notation](https://youtu.be/wwIysnVmAUg) ([voyage](https://en.wiktionary.org/wiki/bon_voyage#French)):**
 		* Why be concerned with efficiency?
 		* It's better to be conerned with optimisation techniques.
 		* You could know your algorithm is inefficient, but not know how to improve it, nor whether or not it can even be further improved.
