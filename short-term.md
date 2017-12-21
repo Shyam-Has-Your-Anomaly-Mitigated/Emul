@@ -35,6 +35,12 @@
 	* **Formal logic:**
 		* Prolog (predicate calculus? SHLIK; Shows How Little I Know…) migrates all of the bugs into the truthfulness of facts, and factual rules (as opposed to functional rules; but "they" like to remind me that I'm not to think of rules as being functional); empowering you to imagine falsified ℝealities from the [atom](https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics#Data_types) up.
 			* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible) :- concept(impossible), illogical(Paradoxical_Contradictions). % true.`
+	* **[Synthetic](https://en.wikipedia.org/wiki/Synthetic_intelligence)/[Artificial](https://en.wikipedia.org/wiki/Artificial_intelligence) Intelligence:**
+		* **[Machine learning](https://youtu.be/R9OHn5ZF4Uo) VS TDD (Test Driven Development):**
+			* I used to think of TDD as writing small quantities of instructions, and then testing, iteratively; rather than writing it all in one go, and attempting to resolve all the error messages in one fell swoop, iteratively.
+			* Now I think TDD is writing a vague/loose test to pass, and then narrowing/whittling/carving/chiselling down the test, to pass it again; recursively, until the test is perfect (which never happens). This allows for employees to have some"-thing" to show higher ups, and is more productive in terms of production; at least we have some"-thing" to show for all the funding we put into it. But this can easily result in unfinished, and poorly designed, products/produce.
+			* Machine learning does the same "-thing"; implementing the instructional algorithms is comparable c̄ machines learning by observation of database dumps.
+			* I was going to compare TDD c̄ formal methods (specification), where TDD starts from the primatively mechanical level, and formal methods starts from the abstracted intelligent level; Prolog/Haskell/ETC paradigms start from abstraction, whereas Assembly/C/ETC starts from mechanisation... (I think I just did? The comparison...)
 
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
