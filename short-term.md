@@ -23,6 +23,7 @@
 
 ## "-thing"s…
 * **formal methods:**
+	* Formal methods migrate [99.99%](https://xkcd.com/1161/) of bugs; the hand sanitiser of instructing computers/ETC…
 	* ("Declaratively") avoids side-effects to reduce the mental stress of keeping the program in your head; recursion becomes usefully generalised tech that makes loops (which usually depend on side-effects) redundant.
 	* Recursion avoids [OB1](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=4m48s), Kenobis?
 	* Conservative termination checking; does exactly that. (Ensures a program will halt, even though we haven't solved the halting problem; yet…)
