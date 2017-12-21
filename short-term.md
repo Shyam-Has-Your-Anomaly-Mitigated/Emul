@@ -44,7 +44,7 @@
 	* **Big O Notation ([voyage](https://en.wiktionary.org/wiki/bon_voyage#French)):**
 		* Why be concerned with efficiency?
 		* It's better to be conerned with optimisation techniques.
-		* You could know your algorithm is inefficient, but not know how to improve it.
+		* You could know your algorithm is inefficient, but not know how to improve it, nor whether or not it can even be further improved.
 		* I'd rather focus on the "how", rather than the "what".
 		* static/dynamic code analysis, refactoring, ETC; can (be automatically) optimise(d) for us.
 		* it's like in mathematics; you don't remember all the rules, instead you just feed it to a computer to poop out the symbolic representation of best possible optimisation. (I kind of regret taking that mathematical minor ∵ I feel it's a backwards way of doing "-thing"s; but so are paper-based programming exams! Why do I do better at those? I guess I just don't see the usefulness of memerising calculus when it can be programmed in...I probably would've done the same with the programming exams, had I been able to program them in for automation...)
