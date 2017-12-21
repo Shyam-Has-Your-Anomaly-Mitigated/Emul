@@ -34,7 +34,7 @@
 		* Lambda calculus divides bugs between implementation, and (dysfunctionally) parameterised "-thing"s; but the implementation can be formally verified against formal specification(s).
 	* **formal logic:**
 		* Prolog (predicate calculus? SHLIK; Shows How Little I Know…) migrates all of the bugs into the truthfulness of facts, and factual rules (as opposed to functional rules; but "they" like to remind me that I'm not to think of rules as being functional); empowering you to imagine falsified ℝealities.
-			* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible). % true.`
+			* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible) :- concept(impossible). % true.`
 
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
