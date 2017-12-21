@@ -56,6 +56,7 @@
 			* Furthermore, if you are performing this action for each event in say a calendar, it would be optimal to parameterise/factor it out completely.
 			* Some"-thing" like that... (Could be automated ∵ `T` & `local` don't change...much; well, for the purposes...but that would be bad for tempoℝæl dependencies; which you might as well hand-optimise.)
 			* I've decided on modal optimisation.
+				* Also interactive optimisation that queries the user; do you want me to optimise this tempoℝæl "-thing"?
 			* Another "-thing" I wanted in Prolog was disabling warnings between two points; like commenting out warnings...
 	* I do hourly [scrum](https://en.wikipedia.org/wiki/Stand-up_meeting#Three_Questions) meetings c̄ ...myself! :D
 		* Shyam
