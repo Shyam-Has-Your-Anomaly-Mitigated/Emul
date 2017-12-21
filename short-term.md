@@ -22,7 +22,7 @@
 * [Hardware description languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Hardware_description_languages) (Wiki)
 
 ## "-thing"s…
-* **formal methods:**
+* **Formal methods:**
 	* Formal methods migrate [99.99%](https://xkcd.com/1161/) of bugs; the hand sanitiser of instructing computers/ETC…
 	* ("Declaratively") avoids side-effects to reduce the mental stress of keeping the program in your head; recursion becomes usefully generalised tech that makes loops (which usually depend on side-effects) redundant.
 	* Recursion avoids [OB1](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=4m48s), Kenobis?
@@ -30,9 +30,9 @@
 		* Coq (is not cock butt a male chicken?), Idris, Agda, ETC…
 	* Type-level programming; perfect for Top Down Design (TDD; but not Test Driven Development…). (TDD means you don't write code you don't end up using; [Professor Sahami](https://youtu.be/KkMDCCdjyW8?list=PL84A56BC7F4A1F852&t=4m25s) taught me about [TDD](https://youtu.be/C5HeRliZ0Ns?list=PL84A56BC7F4A1F852&t=13m))
 		* I like Haskell types because you can tell a parametric story c̄ them, and also include the types of parametric functions; [inceptionally](https://en.wikipedia.org/wiki/Inception).
-	* **formal mathematics:**
+	* **Formal mathematics:**
 		* Lambda calculus divides bugs between implementation, and (dysfunctionally) parameterised "-thing"s; but the implementation can be formally verified against formal specification(s).
-	* **formal logic:**
+	* **Formal logic:**
 		* Prolog (predicate calculus? SHLIK; Shows How Little I Know…) migrates all of the bugs into the truthfulness of facts, and factual rules (as opposed to functional rules; but "they" like to remind me that I'm not to think of rules as being functional); empowering you to imagine falsified ℝealities from the [atom](https://en.wikipedia.org/wiki/Prolog_syntax_and_semantics#Data_types) up.
 			* `are(Paradoxical_Contradictions /*[PC](https://en.wikipedia.org/wiki/Political_correctness)…[DTPC](https://en.wikipedia.org/wiki/Donald_Trump)*/, impossible) :- concept(impossible), illogical(Paradoxical_Contradictions). % true.`
 
