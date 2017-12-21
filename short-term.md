@@ -57,6 +57,7 @@
 			* Some"-thing" like that... (Could be automated ∵ `T` & `local` don't change...much; well, for the purposes...but that would be bad for tempoℝæl dependencies; which you might as well hand-optimise.)
 			* I've decided on modal optimisation.
 				* Also interactive optimisation that queries the user; do you want me to optimise (factor out) this tempoℝæl "-thing" (instruction)?
+					* It could perform "code injection", and the commit will be "Shyam Has Your Anomaly Mitigated!!! :D".
 			* Another "-thing" I wanted in Prolog was disabling warnings between two points; like commenting out warnings...
 	* I do hourly [scrum](https://en.wikipedia.org/wiki/Stand-up_meeting#Three_Questions) meetings c̄ ...myself! :D
 		* Shyam
