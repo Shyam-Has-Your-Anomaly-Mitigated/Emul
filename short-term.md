@@ -51,7 +51,7 @@
 		* **[EG](https://stackoverflow.com/a/22732174):**
 			* `get_tempoℝæl_unit(Input, Output) :- get_time(T), stamp_date_time(T, D9, local), date_time_value(Input, D9, Output).`
 			* Imagine this is used for `Input`s: `year`, `month`, `day`, `hour`, `minute`, `second`.
-			* It would be optimal to parameterise `D9` from `get_time(T), stamp_date_time(T, D9, local)`.
+			* It would be optimal to parameterise `D9`, into `Input` as a list, from `get_time(T), stamp_date_time(T, D9, local)`.
 			* Furthermore, if you are performing this action for each event in say a calendar, it would be optimal to parameterise/factor it out completely.
 			* Some"-thing" like that... (Could be automated ∵ `T` & `local` don't change...much; well, for the purposes...but that would be bad for tempoℝæl dependencies; which you might as well hand-optimise.)
 			* I've decided on modal optimisation.
