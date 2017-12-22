@@ -74,7 +74,7 @@
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
-*Every"-thing" that isn't ℝeal Computational Instructions, is metaprogramming; even ASM."
+*Every"-thing" that isn't ℝeal Computational Instructions, is metaprogramming; even ASM.*
 * English
 	* [Compilers](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) (Wiki)
 	* [Programming languages](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Programming_languages) (Wiki)
