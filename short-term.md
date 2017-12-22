@@ -171,4 +171,4 @@
 	* https://news.ycombinator.com/item?id=14915425
 * http://www.breckyunits.com/3-dimensional-source-code.html
 
-*I'm just [a square](https://en.wikipedia.org/wiki/Template:Flatland)… (I think it's Pythonic Lisp; also 0D is a character, 1D is a line, 2D is multiline, 3D is multifile, 2D visual programming is a "-thing", and gotos/functions are multidimensional.)*
+*I'm just [a square](https://en.wikipedia.org/wiki/Template:Flatland)… (I think it's Pythonic Lisp; also 0D is a character, 1D is a line, 2D is multiline, 3D is multifile, 2D visual programming is a "-thing", and gotos/functions/lists are multidimensional.)*
