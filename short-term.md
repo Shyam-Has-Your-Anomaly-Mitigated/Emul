@@ -162,7 +162,7 @@
 	* [Bootstrapping a simple compiler from nothing](https://web.archive.org/web/20160604035203/homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html)
 	* [Brainfuck](https://stackoverflow.com/a/8357989)
 
-# [(3D) ETNs & ETC](http://www.breckyunits.com/)
+# [XD ETNs & ETC](http://www.breckyunits.com/)
 * http://www.breckyunits.com/show-hn-programming-is-now-two-dimensional.html
 	* https://news.ycombinator.com/item?id=14604269
 	* https://www.reddit.com/r/programming/comments/6imeht/programming_is_now_twodimensional/
