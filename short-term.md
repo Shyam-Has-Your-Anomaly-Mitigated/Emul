@@ -72,7 +72,7 @@
 		* Useful
 		* Meetings
 
-*When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
+*When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury (O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 *Every"-thing" that isn't ℝeal Computational Instructions, is metaprogramming; even ASM.*
