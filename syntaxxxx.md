@@ -746,6 +746,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	the text editor can highlight the dex target when you hover over the dex for the user to jump to
 	the text editor can highlight the dexes for a potential dex target for the user to jump/cycle to...probably by mode/whatever
+	
+	there needs to be a "main" file; but doesn't need to be called main.*
+	the main file could just be project_name.*
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
