@@ -13,7 +13,7 @@
 * [awesome-deduction](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction) (I made this one!!! :D)
 
 # [Synthetic](https://en.wikipedia.org/wiki/Synthetic_intelligence)/[Artificial](https://en.wikipedia.org/wiki/Artificial_intelligence) Intelligence
-Every"-thing" I type is some form of intelligence; even "Hello World!!! :D" programs.
+*Every"-thing" I type is some form of intelligence; even "Hello World!!! :D" programs.*
 
 # [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods)
 * [Formal Methods Wiki](http://formalmethods.wikia.com/wiki/Formal_Methods_Wiki)
@@ -74,6 +74,7 @@ Every"-thing" I type is some form of intelligence; even "Hello World!!! :D" prog
 *When I feel confident (fluent) in my ability to use FP/Haskell & LP/Prolog, I will probably move onto FLP/Curry (Haskell++ c̄ logic instead of classes) & FLOP/FLOOP/Mercury(O/OO is Object-oriented; as in classes, but logically); but there's Coq/ETC, and Shyamscript… (When I get around to it…)*
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
+*Every"-thing" that isn't ℝeal Computational Instructions, is metaprogramming; even ASM."
 * English
 	* [Compilers](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Compilers) (Wiki)
 	* [Programming languages](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science#Programming_languages) (Wiki)
