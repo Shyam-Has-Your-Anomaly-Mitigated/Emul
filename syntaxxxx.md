@@ -763,8 +763,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	but you could configure floats to be stringed for every"-thing"
 	
 	before nāmas are preprocessed out...
-	×(6,9,x)
-	×(42,x)
+	×(6_13,9_13,x)
+	×(42_13,x)
 	(symbolic) referential transparency?
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
