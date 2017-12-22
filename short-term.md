@@ -171,4 +171,4 @@
 	* https://news.ycombinator.com/item?id=14915425
 * http://www.breckyunits.com/3-dimensional-source-code.html
 
-*I'm just [a square](https://en.wikipedia.org/wiki/Template:Flatland)…*
+*I'm just [a square](https://en.wikipedia.org/wiki/Template:Flatland)… (I think it's Pythonic Lisp.)*
