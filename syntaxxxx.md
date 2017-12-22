@@ -753,6 +753,14 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	doesn't matter what the extension is, unless you have other (data?) files named the same, or some"-thing"...
 	no need to argue dependencies into the compilation process, it's all automatic
 	I don't like overcomplicated "build tools"
+	
+	if you output floats to the console, they will be stringed
+	if you output floats to file, bugs will be thrown at you
+	if you attempt to chant floats, bugs will be thrown at you
+	: [, 3.2]
+	: [, π]
+	unless the ℝæl Computation Instructions just float around (are ℝ); which could be done...
+	but you could configure floats to be stringed for every"-thing"
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
