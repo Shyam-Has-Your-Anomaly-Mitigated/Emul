@@ -15,6 +15,7 @@ Organisations want 3 years of XP ∵ `(10×1000)÷(10×365) ≈ 3`; but 10 hours
 	* transportation
 	* dentist & doctor
 	* shopping
+	* exercise
 	* ETC
 	* side projects, entertainment, hobbies, ETC
 
