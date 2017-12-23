@@ -19,4 +19,4 @@ Organisations want 3 years of XP ∵ `(10×1000)÷(10×365) ≈ 3`; but 10 hours
 	* ETC
 	* side projects, entertainment, hobbies, ETC
 
-*I feel like **work** should share c̄ **play**.*
+*I feel like **work** should share c̄ **play**; EG transportation could be divided, and residential addresses are provable...but it's not fair on people who live closer to work, so time should be `public static void`.*
