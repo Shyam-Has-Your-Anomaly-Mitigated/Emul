@@ -170,5 +170,6 @@
 	* https://www.reddit.com/r/programming/comments/6j1kzv/the_flaw_in_lisp/
 	* https://news.ycombinator.com/item?id=14915425
 * http://www.breckyunits.com/3-dimensional-source-code.html
+	* if `(y = \n) ∧ (x = \t)` there can only be one `x` value per `y` value? #not3D
 
 *I'm just [a square](https://en.wikipedia.org/wiki/Template:Flatland)… (I think it's Pythonic Lisp; also 0D is a character, 1D is a line, 2D is multiline, 3D is multifile, 2D visual programming is a "-thing", and gotos/functions/lists/ETC are multidimensional.)*
