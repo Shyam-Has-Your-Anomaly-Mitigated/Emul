@@ -12,7 +12,7 @@
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 * [awesome-deduction](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/awesome-deduction) (I made this one!!! :D)
 
-# [Synthetic](https://en.wikipedia.org/wiki/Synthetic_intelligence)/[Artificial](https://en.wikipedia.org/wiki/Artificial_intelligence) Intelligence
+# [Synthetic](https://en.wikipedia.org/wiki/Synthetic_intelligence)/[Artificial](https://en.wikipedia.org/wiki/Artificial_intelligence) Intelligence & Automation
 *Every"-thing" I type is some form of intelligence; even "Hello World!!! :D" programs.*
 
 # [Formal Methods](https://en.wikipedia.org/wiki/Formal_methods)
