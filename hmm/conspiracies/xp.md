@@ -15,8 +15,8 @@ Organisations want 3 years of XP ∵ `(10×1000)÷(10×365) ≈ 3`; but 10 hours
 	* transportation
 	* dentist & doctor
 	* shopping
-	* exercise
+	* exercise (some organisations have forced mandatory exercise at work, to prevent employees claiming compensation for OH&S violations; some also pay their employees to sleep on the job, for the same reason)
 	* ETC
 	* side projects, entertainment, hobbies, ETC
 
-*I feel like **work** should share c̄ **play**; EG transportation could be divided, and residential addresses are provable...but it's not fair on people who live closer to work, so time should be `public static void`.*
+*I feel like **work** should share c̄ **play**; EG transportation could be divided, and residential addresses are provable...but it's not fair on employees who live closer to work, so time should be `public static void`.*
