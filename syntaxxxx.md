@@ -771,6 +771,30 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	I guess ,f(x)<y> is dexing ,f(X) and :f(x)<y> is dexing :f(x) ...IDK
 	but if you dex a mantra from within a list, somewhere else in the mahāmantra, then you do not have the luxury of dīkṣā manipulation
+	
+	"The three chief virtues of a programmer are: Laziness, Impatience and Hubris" -- Larry Wall
+	https://en.wikiquote.org/wiki/Larry_Wall#"Present_Continuous_-_Future_Perfect"
+		I want:
+			manipulexity
+			whipuptitude
+			"All Your Paradigms Are Belong To Us"
+			"We've got to start over from scratch"
+			"Simple languages produce simple solutions"
+			"If I wanted it fast, I'd write it in C" (s/C$/Shyamscript)
+			"I thought of a way to do it so it must be right"
+			"You can build anything with NAND gates" (s/NAND/NOT)
+			"This is a very high level language, who cares about bits?" (Lists FTW!!! :D)
+			"Users care about elegance"
+			"The specification is good enough" (s/^The/The formal)
+			"Abstraction equals usability"
+			"The common kernel should be as small as possible"
+			"Let's make this easy for the computer"
+			"Most programs are designed top-down"
+			s/ vector$|n object$/ list
+				"Everything is a vector"
+				"Everything is an object"
+			"Everything is a function"
+			"Everything is a hypothesis" (hmm...)
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
