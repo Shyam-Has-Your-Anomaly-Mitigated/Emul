@@ -795,6 +795,11 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 				"Everything is an object"
 			"Everything is a function"
 			"Everything is a hypothesis" (hmm...)
+	
+	+() can handle lists of lists of ... of lists of lists of numbers
+	it will maintain the structure, and each list of numbers will be replaced by the answer (to life, the universe, and every"-thing")
+	just as ∓() & ±() they will be automatically concurrent/ETC
+	this should be generalised to any/all/ETC mantras in Shyamscript
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
