@@ -1,4 +1,7 @@
 at first they were looking for witches (who turn humans into zombies/vampires/ETC), now they're also looking for aliens; Paranoidal Hunting Doctors
+<br>https://en.wikipedia.org/wiki/Witch-hunt#Modern_cases
+<br>https://en.wikipedia.org/wiki/Template:Witch_Hunt
+<br>https://en.wikipedia.org/wiki/Template:Witchcraft
 
 the exact same medical examinations are performed each & every time in an attempt to check if you are ℝeally you, and have not been compromised by witch/alien/ETC influence(s)
 <br>https://en.wikipedia.org/wiki/General_medical_examination
