@@ -13,7 +13,7 @@ doctors check both ears for leeches/slugs/ETC
 
 doctors check both eyes for soul(s), or the lack there of
 
-**their query:** *is it human?*
+**their query:** *is it human? (inside)*
 
 <hr>
 
