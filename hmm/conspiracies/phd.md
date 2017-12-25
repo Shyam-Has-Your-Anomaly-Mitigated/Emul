@@ -11,3 +11,5 @@ doctors check both ears for leeches/slugs/ETC
 <br>http://animorphalternateuniverse.wikia.com/wiki/Yeerks
 
 doctors check both eyes for soul(s), or the lack there of
+
+**their query:** *is it human?*
