@@ -803,6 +803,10 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	+(,[,0,1,2,3],[,4,5,6]) 8≪ ,[,[,6],[,15]]
 	+(,[,0,1,2,3],[,4,5,6]) 8≪ ,[,6,15] ...this way doesn't make as much sense; structurally
 	+(,0,1,2,3) 8≪ ,[,6]
+	mantras can be automatically refactored to handle lists of lists of ...
+	but this does mean dexing is more complicated; nāmas?
+	nāma() must be ;nāma() instead of :nāma() so users know it's preprocessed out
+	also not sure about ;[...] being invisible; metamantras need to be able to return as ;[...]<0>
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
