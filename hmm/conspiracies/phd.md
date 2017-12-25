@@ -9,3 +9,5 @@ doctors check both sides of the chest for `¬(1)` heart(s)
 doctors check both ears for leeches/slugs/ETC
 <br>http://animorphs.wikia.com/wiki/Yeerk
 <br>http://animorphalternateuniverse.wikia.com/wiki/Yeerks
+
+doctors check both eyes for soul(s), or the lack there of
