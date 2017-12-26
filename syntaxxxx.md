@@ -807,6 +807,17 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	but this does mean dexing is more complicated; nāmas/ETC?
 	nāma() must be ;nāma() instead of :nāma() so users know it's preprocessed out
 	also not sure about ;[...] being invisible; metamantras need to be able to return as ;[...]<0>
+	
+	what should these do?
+	; [, "#!/bin/sh\necho\"test\";"]
+	: [, "#!/bin/sh\necho\"test\";"]
+	I guess they just transmits to the console, leaving ,[] in each of their places...
+	
+	; "this is just a precomment though ∵ mantras need to be boxed c̄ default ∴[]"
+	: "this is probably a postcomment"
+	
+
+
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
