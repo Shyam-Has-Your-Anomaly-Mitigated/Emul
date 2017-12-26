@@ -815,7 +815,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	; "this is just a precomment though ∵ mantras need to be boxed c̄ default ∴[]"
 	: "this is probably a postcomment"
-	
+	8< this is a true comment >8
+	actually strings/numbers/ETC are implicit boxes...
 
 
 
