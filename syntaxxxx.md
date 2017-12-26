@@ -809,8 +809,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	also not sure about ;[...] being invisible; metamantras need to be able to return as ;[...]<0>
 	
 	what should these do?
-	; [, "#!/bin/sh\necho\"test\";"]
-	: [, "#!/bin/sh\necho\"test\";"]
+	; [, "#!/bin/sh\necho\"test\";"] 8< precompile message >8
+	: [, "#!/bin/sh\necho\"test\";"] 8< postcompile message >8
 	I guess they just transmits to the console, leaving ,[] in each of their places...
 	
 	; "this is just a precomment though ∵ mantras need to be boxed c̄ default ∴[]"
