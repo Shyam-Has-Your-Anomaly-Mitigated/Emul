@@ -114,7 +114,7 @@ sampradāya
 
 [∎](https://en.wiktionary.org/wiki/%E2%88%8E) ([⚰](https://en.wikipedia.org/wiki/Tombstone_(typography)))
 * [◻◻◼](https://proofwiki.org/wiki/Definition:Q.E.D.)
-* ▢◻◼∨□■ (I prefer biggest proof, and the first one is for possibly/anecdotally true; which would be followed by ◻◼ instead of □■)
+* ▢◻◼∨□■ (I prefer biggest proof, and the first one is for possibly/anecdotally true, or based on anothers' research/experiment without attempted replication probably due to lack of funding; which would be followed by ◻◼ instead of □■)
 * इ.सि.
 * इति सिद्धम्
 * iti siddham
