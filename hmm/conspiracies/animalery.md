@@ -51,3 +51,5 @@ If a saint/prophet/pope/priest/ETC defies God, they are no different from the [s
 *Some"-thing" about [rape](https://youtu.be/o9ncQadOvAM)... (And [diseases](#diseases)...)*
 
 *Some"-thing" about [sacrifices](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/long-term.md)...*
+
+*I've heard the argument that says mock meat is for meat-eaters converting to non-meat-eating, and that non-meat-eaters shouldn't eat it; but it's not meat, so this argument is analphabetically nescient. I remember when I was ℝeally young, and my uncle said he was trying to give up meat-eating, but still consumed sea-food (I think he's stopped now, but he has pets, including a dog; I suggested getting another to keep its' own company); this approach could validate the argument by replacing mock meat. This reminds me of arguments supporting atheism...*
