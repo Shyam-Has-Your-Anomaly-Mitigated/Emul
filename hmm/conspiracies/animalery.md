@@ -16,6 +16,8 @@ If eating animals is the one "-thing" you've done consistently your entire life;
 
 Fat/Amish/ETC people are attached to their lifestyle too...
 
+*Technology changes your lifestyle, and the manipulative media socially engineers your lifestyle via technology.*
+
 # Free Range
 Humans only support [free range](#free-range) to avoid [diseases](#diseases); not for animal abuse ∵ they don't actually care about animal welfare.
 
