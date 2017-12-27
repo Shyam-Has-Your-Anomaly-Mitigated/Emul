@@ -118,7 +118,7 @@ sampradāya
 * इ.सि.
 * इति सिद्धम्
 * iti siddham
-* [thus](https://www.vedabase.com/en/synonyms-index?original_op=%3D&original=iti&translation_op=contains&translation=) [cooked](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=siddham&translation_op=contains&translation=) (¿achieved?)
+* [thus](https://www.vedabase.com/en/synonyms-index?original_op=%3D&original=iti&translation_op=contains&translation=) [cooked](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=siddham&translation_op=contains&translation=) (¿achieved/known?)
 * [quod erat demonstrandum](https://en.wikipedia.org/wiki/Q.E.D.#Equivalents_in_other_languages)
 
 ### balancing act
