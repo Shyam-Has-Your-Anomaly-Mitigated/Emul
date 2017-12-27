@@ -68,7 +68,7 @@ JAB
 * ℂomplex computer
 * virtual machine
 
-c̄
+[c̄](https://en.wiktionary.org/wiki/c%CC%84#English)
 * with (English; medicine...usually used by doctors, I guess)
 * cum (Latin; means "with" in English)
 
@@ -111,6 +111,15 @@ jñāna-vijñāna
 
 sampradāya
 * the tree of disciplic succession; like a family tree
+
+[∎](https://en.wiktionary.org/wiki/%E2%88%8E) ([⚰](https://en.wikipedia.org/wiki/Tombstone_(typography)))
+* [◻◻◼](https://proofwiki.org/wiki/Definition:Q.E.D.)
+* ▢◻◼∨□■ (I prefer biggest proof, and the first one is for possibly/anecdotally true; which would be followed by ◻◼ instead of □■)
+* इ.सि.
+* इति सिद्धम्
+* iti siddham
+* [thus](https://www.vedabase.com/en/synonyms-index?original_op=%3D&original=iti&translation_op=contains&translation=) [cooked](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=siddham&translation_op=contains&translation=) (¿achieved?)
+* [quod erat demonstrandum](https://en.wikipedia.org/wiki/Q.E.D.#Equivalents_in_other_languages)
 
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
