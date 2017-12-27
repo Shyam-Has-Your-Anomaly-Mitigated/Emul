@@ -14,7 +14,7 @@ If eating animals is the one "-thing" you've done consistently your entire life;
 <br>You can enjoy playing a game without a wiki/cheating/ETC, only to find out that there is a lot more depth to the game than you thought.
 <br>You're just a [broken record](http://how-i-met-your-mother.wikia.com/wiki/Arrivederci,_Fiero#Music)!
 
-Fat people are attached to their lifestyle too...
+Fat/Amish/ETC people are attached to their lifestyle too...
 
 # Free Range
 Humans only support [free range](#free-range) to avoid [diseases](#diseases); not for animal abuse ∵ they don't actually care about animal welfare.
