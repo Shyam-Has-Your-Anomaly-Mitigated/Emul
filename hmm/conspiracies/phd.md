@@ -16,6 +16,11 @@ doctors check both ears for leeches/slugs/ETC
 
 doctors check both eyes for soul(s), or the lack there of
 
+doctors check the back of your mouth for snakes
+<br>http://stargate.wikia.com/wiki/Tok%27ra
+<br>https://www.gateworld.net/wiki/Tok%27ra
+<br>http://stargate-sg1-solutions.com/wiki/Tok%27ra
+
 **their query:** *is it human? (inside)*
 
 <hr>
