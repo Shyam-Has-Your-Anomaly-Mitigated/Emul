@@ -20,17 +20,17 @@ Krishna was shot in the foot, and [died](https://en.wikipedia.org/wiki/Krishna#D
 
 Animalistic
 * Matsya (fish)
-* Kurma ([turtle](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles))
-* Varaha ([wild boar](https://en.wikipedia.org/wiki/Asterix))
+* Kūrma ([turtle](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles))
+* Varāha ([wild boar](https://en.wikipedia.org/wiki/Asterix))
 
 [Animorphs](https://en.wikipedia.org/wiki/Animorphs_(TV_series))
-* Narasimha (half-man. half-lion)
-* Vamana (dwarf)
-* Parashurama (warrior)
+* Nṛsiṁha (half-man. half-lion)
+* Vāmana (dwarf)
+* Paraśurāma (warrior)
 
 [Karma](https://en.wikipedia.org/wiki/Karma)
-* Rama (killed a deer)
-* Krishna ([killed by a hunter](https://en.wikipedia.org/wiki/Krishna#Death_and_Ascension))
+* Rāma (killed a deer)
+* Kṛṣṇa ([killed by a hunter](https://en.wikipedia.org/wiki/Krishna#Death_and_Ascension))
 * [Buddha](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) ([ahiṁsā](https://en.wikipedia.org/wiki/Ahimsa))
 
 [Reboot](https://en.wikipedia.org/wiki/Reincarnation)
