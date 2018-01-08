@@ -31,6 +31,7 @@
 			* `f(x)` gives you y
 		* filter/fold/ETC can perform pattern recognition on scoped boxes; I'm sure this can work!
 		* `:[🖖 y, types: stuff, x]`, where `x` is `[]` as an empty parameter list; but you could help it out by filling in some gaps, or even all of them to return true/false like in Prolog
+		* `g((y)f(x))`
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
