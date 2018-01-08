@@ -1,6 +1,44 @@
 *WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
 
+# Plan
+- [ ] Haskell (Functional Programming)
+- [ ] Prolog (Logical Programming)
+- [ ] Curry (Functional/Logical Programming)
+- [ ] Mercury (Functional/Logical/Object-oriented Programming)
+- [ ] *
+	* there're more [purely functional languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Functional_languages) since I last checked
+	* [logic](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Logic-based_languages)
+	* [functional/logical](https://www.informatik.uni-kiel.de//~mh/FLP/implementations.html)
+- [ ] Lisp (List Processing, Metaprogramming, ETC)
+	* Scheme
+	* Common Lisp
+	* Clojure
+	* Owl Lisp
+	* ETC
+- [ ] SmallTalk (Object-oriented Programming)
+- [ ] Perl (Text Processing; Shyamscript characters are just numbers though, like binary, but in any base...in base one)
+- [ ] [Coq](https://youtu.be/re96UgMk6GQ?t=51m17s) (Formal Methods); [two years](https://youtu.be/re96UgMk6GQ?t=51m26s) later...
+- [ ] * ([Formal](https://en.wikipedia.org/wiki/Formal_methods#Specification_languages) [Specification](https://en.wikipedia.org/wiki/Category:Formal_specification_languages) [Languages](https://en.wikipedia.org/wiki/Formal_specification#Software_tools))
+	* probably "Docomment", or Shyam/some"-thing"; "docomment/docommentate it, or I won't implement it!", "is it docommented/docommentated?", "where's the docommentation?"
+		* it will probably just be DOT/UML/ETC; SHLIK...
+- [ ] Shyamscript
+	- [x] list-oriented programming (`[`, `,`, `]`, `.`)
+	- [x] functional programming (`;`, `:`, `∴`, `∵`)
+	- [x] metaprogramming (`.`, `;`, `mahāmantra`)
+	- [ ] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
+	- [ ] formal methods
+	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
+		* think of architectures/ETC as bases ∈ mathematics?
+	- [ ] Shyamscript implementation
+	- [ ] text editor
+	- [ ] versioning software
+	- [ ] (generalised) natural language processing (translation; namespaces, comments, chatbot, ETC)
+	- [ ] chat bot (interactive implementation tools; REPL, interpreter, compiler, assembler, linker, ETC)
+
+*symbolic programming, reactive programming, ETC*
+
 # TODO
+- [ ] Find [The Assembly Tutorial](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#Assembly) (Optimisation)
 - [ ] Find The Compiler Book
 - [x] Find The DSL Blogs
 - [ ] **Formal Methods**
