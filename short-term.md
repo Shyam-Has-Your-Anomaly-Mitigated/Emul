@@ -30,6 +30,7 @@
 			* `(y)f` gives you x
 			* `f(x)` gives you y
 		* filter/fold/ETC can perform pattern recognition on scoped boxes; I'm sure this can work!
+			* otherwise just produce an infinite list
 		* `:[🖖 y, types: stuff, x]`, where `x` is `[]` as an empty parameter list; but you could help it out by filling in some gaps, or even all of them to return true/false like in Prolog
 		* `g((y)f(x))`
 		* parameters should be first, and returns should be last; or you could dex the return...
