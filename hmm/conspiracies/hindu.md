@@ -31,7 +31,7 @@ Animalistic
 [Karma](https://en.wikipedia.org/wiki/Karma)
 * Rama (killed a deer)
 * Krishna ([killed by a hunter](https://en.wikipedia.org/wiki/Krishna#Death_and_Ascension))
-* Buddha ([ahiṁsā](https://en.wikipedia.org/wiki/Ahimsa))
+* [Buddha](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) ([ahiṁsā](https://en.wikipedia.org/wiki/Ahimsa))
 
 [Reboot](https://en.wikipedia.org/wiki/Reincarnation)
 * Kalki ([a](https://www.vedabase.com/en/sb/1/3/25), [b](https://www.vedabase.com/en/sb/6/8/19), [c](https://www.vedabase.com/en/sb/10/40/22), [d](https://www.vedabase.com/en/sb/12/2/18), [e](https://www.vedabase.com/en/sb/12/2/23); will make our planet/ETC great again!!! :D)
