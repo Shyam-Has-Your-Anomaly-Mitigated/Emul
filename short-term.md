@@ -26,9 +26,10 @@
 	- [x] functional programming (`;`, `:`, `∴`, `∵`)
 	- [x] metaprogramming (`.`, `;`, `mahāmantra`)
 	- [x] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
-		* `(y)f, where y is the return output of f(x)`
+		* `(y)f`, where `y` is the return output of `f(x)`
 			* `(y)f` gives you x
 			* `f(x)` gives you y
+		* filter/fold/ETC can perform pattern recognition on scoped boxes; I'm sure this can work!
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
