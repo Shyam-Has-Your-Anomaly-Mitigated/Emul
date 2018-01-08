@@ -25,7 +25,7 @@
 	- [x] list-oriented programming (`[`, `,`, `]`, `.`)
 	- [x] functional programming (`;`, `:`, `∴`, `∵`)
 	- [x] metaprogramming (`.`, `;`, `mahāmantra`)
-	- [ ] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
+	- [x] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
 		* `(y)f, where y is the return output of f(x)`
 			* `(y)f` gives you x
 			* `f(x)` gives you y
