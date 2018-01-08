@@ -37,7 +37,7 @@
 			* `:[, types, x∴ y, y]`
 			* `((x)f(y))g`
 			* ?
-			* no; `f(x)` says what to do with the `x`s (FT to put every"-thing" important at the front? but `y`s in the front are contradictory...)
+			* no; `f(x)` instructionally says what to do with the `x`s (FT to put every"-thing" important at the front? but `y`s in the front are contradictory...)
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
