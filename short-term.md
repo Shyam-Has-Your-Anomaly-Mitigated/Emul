@@ -35,6 +35,9 @@
 		* parameters should be first, and returns should be last; or you could dex the return...
 			* there could be multiple returns, so it's the last
 			* `:[, types, x∴ y, y]`
+			* `((x)f(y))g`
+			* ?
+			* no; `f(x)` says what to do with the `x`s (FT to put every"-thing" important at the front? but `y`s in the front are contradictory...)
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
