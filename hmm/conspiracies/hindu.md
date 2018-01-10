@@ -37,7 +37,7 @@ Animalistic
 * Kalki ([a](https://www.vedabase.com/en/sb/1/3/25), [b](https://www.vedabase.com/en/sb/6/8/19), [c](https://www.vedabase.com/en/sb/10/40/22), [d](https://www.vedabase.com/en/sb/12/2/18), [e](https://www.vedabase.com/en/sb/12/2/23); will make our planet/ETC great again!!! :D)
 
 # The Most [Sexual](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=&translation_op=contains&translation=sex) Religion/Culture In The World!!! :D
-*(Well, until it was invaded...)*
+*(Well, until it was oppressively invaded...)*
 
 * 02ⁿᵈ century: [Kāmashastra](https://en.wikipedia.org/wiki/Kamashastra)
 * 08ᵗʰ century: [Kāmasūtra](https://en.wikipedia.org/wiki/Kama_Sutra)
