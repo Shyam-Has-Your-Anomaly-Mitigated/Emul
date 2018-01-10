@@ -43,4 +43,4 @@ Animalistic
 * 13ᵗʰ century: [Koka Shastra](https://en.wikipedia.org/wiki/Ratirahasya)
 * 16ᵗʰ century: [Kamaledhiplava](https://en.wikipedia.org/wiki/Ananga_Ranga)
 
-*There's more than [10](https://www.mensxp.com/relationships/sex-and-intimacy/21263-10-shocking-things-about-sex-from-vedas-p10.html) "-thing"s about sex in the Vedas...*
+*There's more than [10 "-thing"s about sex in the Vedas](https://www.mensxp.com/relationships/sex-and-intimacy/21263-10-shocking-things-about-sex-from-vedas-p10.html)...*
