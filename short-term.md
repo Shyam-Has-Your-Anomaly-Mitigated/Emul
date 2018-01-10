@@ -40,7 +40,7 @@
 			* ?
 			* no; `f(x)` instructionally says what to do with the `x`s (FT to put every"-thing" important at the front? but `y`s in the front are contradictory...)
 	- [ ] type-level programming
-		* `:[, type, input∴ output, output]`, where both `output`s are referentially transparent
+		* `:[, type, input∴ output, output]`, where both `output`s are bidirectionally referentially transparent
 		* `,[, ["a", "b"], "b", "a"]` in Haskell: `(a -> b) -> (b -> a)`
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
