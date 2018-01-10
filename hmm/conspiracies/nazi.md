@@ -1,4 +1,4 @@
-blonde jokes ridicule an attempt at world domi-nation; נקמת היהודים
+blonde jokes ridicule a 2ⁿᵈ attempt at world domi-nation; נקמת היהודים
 <br>(Deutschland was blonde enough to proceed; lacking the intellectual capacity to succeed)
 
 the original blonde joke was probably about black Hitler leading the blondes against non-blondes
