@@ -422,4 +422,47 @@ compare _ 0 = _
 
 ...
 
+**2018-01-08**
+
+...
+
+**adrianh**
+<br>**22:11:15** speaking of BSides, I’m giving a talk there! I hope to do a follow-up talk at CanFP on how I implemented everything I’ll talk about at BSides (it’ll be in Haskell)
+
+...
+
+**2018-01-09**
+
+...
+
+**shyam.id.au**
+<br>**09:24:02** What are you talking about?
+<br>**09:24:10** @adrianh
+
+**adrianh**
+<br>**09:57:03** http://www.bsidesau.com.au/speakers.html#adrian
+
+...
+
+**2018-01-10**
+
+...
+
+**shyam.id.au**
+<br>**01:28:45** @adrianh Did you use CCCs? Prolog can give you ⊥ to T for free; IDK how to get the same "-thing" in Haskell though, without a second implementation...
+<br>**01:32:08** `reverse` doesn't work the way I want it to...
+<br>**01:34:46** Does anyone do natural language processing in Haskell? I can only imagine doing it in Prolog for bidirectional translation...
+
+**shyam.id.au**
+<br>**01:54:36** Prolog VS Self-hosted programming language implementations; one automatically gives you disassembler/decompiler/ETC, and the other proves the language is actually useful/worthy/ETC...
+<br>**01:59:26** A virtual/abstract machine language could be the middle man for Prolog translation, but optimised in some other language; Prolog facts/rules make a lot of sense for optimisation...
+
+**shyam.id.au**
+<br>**02:34:29** `(a -> b) -> (b -> a)`
+
+**shyam.id.au**
+<br>**02:52:09** `b` is for binary, `a` is for abstraction.
+
+...
+
 ---
