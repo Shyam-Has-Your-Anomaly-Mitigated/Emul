@@ -59,7 +59,7 @@
 1. me; deciders cannot decide against me, but I might hear their suggestions if I'm bored...unless it's in opposition to "-thing"s like ahiṃsā/ethics/ETC
 1. deciders (voters); contributors who are at the top of the health chain (as we evolve, our standards for what is "healthy" will increase; the chain can be pulled down)
 1. contributors (continuing & useful); education/research/development/maintenance/spiritual/entertainment/ETC (I don't mean maintenance as in patching, that maintenance should be automated; I mean like patching the formal specification, or some"-thing"...)
-	* should ~~prostitutes~~ sluts & porn stars be considered as contributing to society? it would allow them to improve their own "working" conditions...
+	* should ~~prostitutes~~ slutty socialators & porn stars be considered as contributing to society? it would allow them to improve their own "working" conditions...
 	* contributors cannot deny access to the services they provide; they must contribute to society as a whole, indiscriminately... (unless there is risk to themselves/others; EG STDs, which is why everyone will be sequenced & every"-thing" will be FLOSS)
 1. everyonelses; plants, and animals, alike
 1. slaves
