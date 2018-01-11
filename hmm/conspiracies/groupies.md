@@ -13,6 +13,7 @@ Gandhi didn't hide, but he was assassinated; what are "they" going to do, assass
 
 **Anonymous Nation That Slaves**
 <br>*Somebody has to labouriously do the work.*
+<br>This had some"-thing" to do c̄ swarm/collectiveness; robots are below... 
 
 # Social Justice
 It ~~could just be~~ is probably robots.
