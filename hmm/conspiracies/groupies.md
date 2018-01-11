@@ -4,7 +4,7 @@ I don't trust supressive religions, nor any"-thing" else; mathematical/scientifi
 
 Who controls Anonymous?
 <br>"Anonymous" publicly denied/ou(s)ted Anonymous-OS. (So-called security experts also claimed it was malicious, but they failed to provide any ℝeal evidence, and I willn't take anyones' word for any"-thing"; without proof, you're just a social engineer faking it.)
-<br>Anonymous is supposedly decentralized, but there are "official" social media accounts & websites. (To join/lead Anonymous; am I supposed to crack them? The government has supercomputers/professionals/ETC...)
+<br>Anonymous is supposedly decentralized, but there are "official" social media accounts & websites. (To join/lead Anonymous; am I supposed to crack them? The governments have supercomputers/professionals/ETC...)
 
 Gandhi didn't hide, but he was assassinated; what are "they" going to do, assassinate "us"? (Some of "us" have reincarnation to look forward to; it's like retirement, but youthful to begin with.)
 <br>What happened to  "~~We are Anonymous.~~ We are Legion. We do not forgive. We do not forget. Expect us."
