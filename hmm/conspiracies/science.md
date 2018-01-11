@@ -7,3 +7,5 @@ $cience i$ ju$t u$ed a$ a tool to (maliciou$ly) exploit/*con*vince other$.
 There's that movie where they dump a briefcase of money on the table.
 
 There's adware.
+
+There's ETC.
