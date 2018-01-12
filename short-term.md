@@ -3,7 +3,8 @@
 # Plan
 - [ ] Haskell (Functional Programming)
 	* Why can't Haskell `a (f x) = x` & `b (f x) = f`? Lazy evaluation should make this possible!
-	* And you should be able to nest functional types! (Either I'm deceived, or it's the sleep deprivation...) `((a->b)->(b->c))->c`
+	* And you should be able to nest functional types! (Either I'm deceived, or it's the sleep deprivation...)
+		* `((a->b)->(b->c))->c`
 - [ ] Prolog (Logical Programming)
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
