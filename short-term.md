@@ -1,5 +1,3 @@
-*WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
-
 # Plan
 - [ ] Haskell (Functional Programming)
 	* Why can't Haskell `a (f x) = x` & `b (f x) = f`? Lazy evaluation should make this possible!
@@ -59,6 +57,8 @@
 *symbolic programming, reactive programming, ETC*
 
 # TODO
+*WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
+
 - [ ] Find [The Assembly Tutorial](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#Assembly) (Optimisation)
 - [ ] Find The Compiler Book
 - [x] Find The DSL Blogs
