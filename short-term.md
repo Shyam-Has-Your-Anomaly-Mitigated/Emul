@@ -2,6 +2,7 @@
 
 # Plan
 - [ ] Haskell (Functional Programming)
+	* Why can't Haskell `a (f x) = x` & `b (f x) = f`? Lazy evaluation should make this possible!
 - [ ] Prolog (Logical Programming)
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
