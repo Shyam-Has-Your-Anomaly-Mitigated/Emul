@@ -6,6 +6,7 @@
 	* And you should be able to nest functional types! (Either I'm deceived, or it's the sleep deprivation...)
 		* `((a->b)->(b->c))->c`
 	* Might as well add; WTF can't I index tuples?
+	* I'm going back to XML!
 - [ ] Prolog (Logical Programming)
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
