@@ -6,6 +6,7 @@
 	* Might as well add; WTF can't I index tuples?
 	* I'm going back to XML!
 - [ ] Prolog (Logical Programming)
+	* Is this the language that can't use `=>` & `<=` because they look like arrows? That's stupid; go with the ~~flow~~ numberline `<` & `<=`, or `>` & `>=`.
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
 - [ ] *
