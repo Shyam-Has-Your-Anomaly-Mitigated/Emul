@@ -1,11 +1,11 @@
 # Plan
-- [ ] Haskell (Functional Programming)
+- [ ] Haskell (Functional Programming); *Shyams' Haskell Implementation Tech* (`shit`)
 	* Why can't Haskell `a (f x) = x` & `b (f x) = f`? Lazy evaluation should make this possible!
 	* And you should be able to nest functional types! (Either I'm deceived, or it's the sleep deprivation...)
 		* `((a->b)->(b->c))->c`
 	* Might as well add; WTF can't I index tuples?
 	* I'm going back to XML!
-- [ ] Prolog (Logical Programming)
+- [ ] Prolog (Logical Programming); *Shyams' Prolog E… Reasoning/Ratiocination/Rational/ℝeal Mæch (Machinery/Mechanism)* (`sperm`)
 	* Is this the language that can't use `=>` & `<=` because they look like arrows? That's stupid; go with the ~~flow~~ numberline `<` & `<=`, or `>` & `>=`.
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
