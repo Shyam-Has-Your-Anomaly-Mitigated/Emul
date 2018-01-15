@@ -27,7 +27,7 @@
 		* it will probably just be DOT/UML/ETC; SHLIK...
 - [ ] Shyamscript
 	- [x] list-oriented programming (`[`, `,`, `]`, `.`)
-		* `: [,[]<...><"external file of instructions.whatever">]`
+		* `: [,[]<...><"external file of instructions.whatever">]`; can further dex into the file for specific mantra(s)
 	- [x] functional programming (`;`, `:`, `∴`, `∵`)
 	- [x] metaprogramming (`.`, `;`, `mahāmantra`)
 	- [x] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
