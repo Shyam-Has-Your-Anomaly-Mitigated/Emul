@@ -349,7 +349,7 @@ precedence
 1. preprocess `,,` into `,`
 1. preprocess `<dexing>` into `≪dexing≫`; the hard part
 1. preprocess `≪dexing≫` & `<<dexing>>` into `.[dexing]`; the easy part
-1. preprocess `, śiṣya. śiṣya` into `. śiṣya, śiṣya`; this is to optimise lookaheads
+1. preprocess `, śiṣya. śiṣya` into `. śiṣya, śiṣya`; this is to optimise lookaheads; also preprocess any dexings pointing here
 1. preprocess (and probably save these changes to file) missing dīkṣās into `,` (default); I'll probably change the default with each release, between `,` & `:` most likely (depending on how mantral I'm feeling at the time), but missing dīkṣās will also be configurable...all will be configurable!!! :D ...if there is `f` then `,f`, but if there is `f(x)` then `:f(x)`...if `f` is closed/curried/whatever then it will be `:f`
 1. preprocess `nāma("s")` to the start of the scope; for declarative boxing
 1. preprocess `∴f` into `∴[:f<0>]`; not `∴[,f<0>]`, unless `f` isn't a mantra (doesn't contain `∴`)
