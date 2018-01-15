@@ -6,7 +6,7 @@
 	* Might as well add; WTF can't I index tuples?
 	* I'm going back to XML!
 - [ ] Prolog (Logical Programming); *Shyams' Prolog E… Reasoning/Ratiocination/Rational/ℝeal Mæch (Machinery/Mechanism)* (`swipl pl_sperm.pl; pl_sperm sperm.sperm; sperm`)
-	* Is this the language that can't use `=>` & `<=` because they look like arrows? That's stupid; go with the ~~flow~~ numberline `<` & `<=`, or `>` & `>=`.
+	* Is this the language that can't use `=>` & `<=` because they look like arrows? That's stupid; go with the ~~flow~~ number~~line~~circle `<` & `<=`, or `>` & `>=`.
 - [ ] Curry (Functional/Logical Programming)
 - [ ] Mercury (Functional/Logical/Object-oriented Programming)
 - [ ] *
