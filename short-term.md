@@ -50,6 +50,7 @@
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
 	- [ ] Shyamscript implementation
+	- [ ] licensing
 	- [ ] text editor
 	- [ ] versioning software
 	- [ ] (generalised) natural language processing (translation; namespaces, comments, chatbot, ETC)
