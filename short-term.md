@@ -51,6 +51,7 @@
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
+		* [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) & [HDL](https://en.wikipedia.org/wiki/Hardware_description_language)
 	- [ ] Shyamscript implementation
 	- [ ] licensing
 	- [ ] text editor
