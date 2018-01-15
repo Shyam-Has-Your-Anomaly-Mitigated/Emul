@@ -31,8 +31,8 @@
 	- [x] metaprogramming (`.`, `;`, `mahāmantra`)
 	- [x] logic programming (multidirectional functions; reverse engineering, disassemblers, decompilers, ETC)
 		* `(y)f`, where `y` is the return output of `f(x)`
-			* `(y)f` gives you x
-			* `f(x)` gives you y
+			* `(y)f` gives you `x`
+			* `f(x)` gives you `y`
 		* filter/fold/ETC can perform pattern recognition on scoped boxes; I'm sure this can work!
 			* otherwise just produce an infinite list
 		* `:[🖖 y, types: stuff, x]`, where `x` is `[]` as an empty parameter list; but you could help it out by filling in some gaps, or even all of them to return true/false like in Prolog
