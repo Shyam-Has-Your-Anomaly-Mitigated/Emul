@@ -47,7 +47,7 @@
 			* `: =(: g(y): (y)f)`
 	- [ ] type-level programming
 		* `:[, type, input∴ output, output]`, where both `output`s are bidirectionally referentially transparent
-		* `,[, ["a", "b"], "b", "a"]` in Haskell: `(a -> b) -> (b -> a)`
+		* `,[, [, "a", "b"], "b", "a"]` in Haskell: `(a -> b) -> (b -> a)`
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
