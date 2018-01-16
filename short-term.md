@@ -51,7 +51,7 @@
 	- [ ] formal methods
 	- [ ] generalised optimisation (hardware/software architectures, virtual/abstract machines, JS, ETC)
 		* think of architectures/ETC as bases ∈ mathematics?
-		* [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) & [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) & [unnotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics)
+		* [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) & [HDL](https://en.wikipedia.org/wiki/Hardware_description_language) & [unnotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics) (TIL: [a](https://en.wikipedia.org/wiki/Denotation), [b](https://en.wiktionary.org/wiki/denotation), [c](https://en.wiktionary.org/wiki/denote), [d](https://en.wiktionary.org/wiki/denotative), [e](https://en.wiktionary.org/wiki/connotation))
 	- [ ] Shyamscript implementation
 	- [ ] licensing
 	- [ ] text editor
