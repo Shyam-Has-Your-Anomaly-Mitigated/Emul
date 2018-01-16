@@ -31,7 +31,7 @@ When countries fight, it's usually over some"-thing" petty (failed diplomacy/lea
 
 https://en.wikipedia.org/wiki/Asbestos_and_the_law
 
-Asbestos could be cheaper ∴ responsible adults should be allowed to buy/use it ∵ smokers are responsible... (second hand smoke should be taken to court for attempted murder; otherwise, we may as well allow cannibals to continue to eat people ∵ of their addictive medical condition)
+Asbestos could be cheaper ∴ responsible adults should be allowed to buy/use it ∵ smokers are responsible... (second hand smoke should be taken to court for attempted murder ∵ it's actionable; otherwise, we may as well allow cannibals to continue to eat people ∵ of their addictive medical condition)
 
 businesses want to make their products addictive; governments only care about the taxes/bribes attracted by addictive products
 
