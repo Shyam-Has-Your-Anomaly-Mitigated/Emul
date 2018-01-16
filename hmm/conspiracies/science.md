@@ -26,3 +26,9 @@ https://en.wikipedia.org/wiki/Weather_modification
 I'm on the side of the [Democratic People's Republic of Korea](https://en.wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction) for taking out the [Usa](https://en.wikipedia.org/wiki/Idiocracy); the People's Republic of China has their back.
 
 When countries fight, it's usually over some"-thing" petty (failed diplomacy/leadership skills), and at everyone elses expense; I'd rather see the decision-making leaders…
+
+<hr>
+
+https://en.wikipedia.org/wiki/Asbestos_and_the_law
+
+Asbestos could be cheaper ∴ responsible adults should be allowed to buy/use it ∵ smokers are responsible... (second hand smoke should be taken to court for attempted murder)
