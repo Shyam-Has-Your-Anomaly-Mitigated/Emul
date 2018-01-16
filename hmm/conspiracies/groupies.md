@@ -1,6 +1,6 @@
 # [Anonymous](https://en.wikipedia.org/wiki/Anonymous_(group))
 
-I don't trust supressive religions, nor any"-thing" else; mathematical/scientific/ETC proofs have a lot to do with it. (I'm not paranoid; besides exploitation, there's also closed-source security concerns, and anonymity is closed-source.)
+I don't trust [supressive](https://en.wikipedia.org/wiki/Scientology) [religions](https://en.wikipedia.org/wiki/Vatican_Secret_Archives), nor any"-thing" else; mathematical/scientific/ETC proofs have a lot to do with it. (I'm not paranoid; besides exploitation, there's also closed-source security concerns, and anonymity is closed-source.)
 
 Who controls Anonymous?
 <br>"Anonymous" publicly denied/ou(s)ted Anonymous-OS. (So-called security experts also claimed it was malicious, but they failed to provide any ℝeal evidence, and I willn't take anyones' word for any"-thing"; without proof, you're just a social engineer faking it.)
