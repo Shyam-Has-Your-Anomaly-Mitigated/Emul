@@ -6,6 +6,10 @@ chips:
 	good (green)
 	bad (red)
 
+no chips:
+	player keeps invalid cards
+	fewer cards win
+
 DEAL
 
 dealer calls:
