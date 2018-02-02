@@ -27,7 +27,7 @@ player on RHS of dealer:
 dealer deals:
 	complete the cut
 	burn 1ˢᵗ card from the game (saves last card from being an obvious bet)
-	turn one card face-up next to table (1ˢᵗ stack & otherwise easiest bet)
+	turn one card face-up next to deck (1ˢᵗ stack & otherwise easiest bet)
 
 player = dealer
 
