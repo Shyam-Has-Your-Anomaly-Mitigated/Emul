@@ -11,6 +11,7 @@ DEAL
 dealer calls:
 	races: stacks must be black or red
 	suits: stacks must be suited (♣ ♣ ♣ )
+	faces: stacks must be numerical or picturesque
 	kinds: stacks must be valued (🂣  🂳  🃓  🃃 )
 	sides: stacks must be linked (1 A K A 1 2 1 2 3)
 	...
