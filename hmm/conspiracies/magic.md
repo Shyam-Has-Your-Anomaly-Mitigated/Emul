@@ -1,8 +1,8 @@
 http://shyam.id.au/
 
 https://en.wikipedia.org/wiki/Jagannath
-https://en.wikipedia.org/wiki/Balarama
-https://en.wikipedia.org/wiki/Subhadra
+<br>https://en.wikipedia.org/wiki/Balarama
+<br>https://en.wikipedia.org/wiki/Subhadra
 
 https://en.wikipedia.org/wiki/Trimurti
 
