@@ -14,6 +14,11 @@ https://en.wikipedia.org/wiki/Earth
 
 https://en.wikipedia.org/wiki/3
 
+`24÷8 = 3`
+1. **sleep**
+1. **work**
+1. **play**
+
 ...
 
 TODO: update shyam.id.au c̄ "if you employ me; everyday, when I walk in through the front doors, I will stop, hold my head high, as I take a deep breath, as I look around, and say out loud \\"One day, I will own this place.\\"." (I will be speaking about world domination...).
