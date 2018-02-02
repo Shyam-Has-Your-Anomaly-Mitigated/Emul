@@ -57,6 +57,8 @@ all players (betting is poker-style):
 	if valid, bad chips goto pot until invalid
 	if invalid, good chips goto pot until valid
 	...or maybe the other way around? I'll think about this when my brain starts working again & I remember about this...
+	there needs to be a reason to fold, and that must be not losing to the other side
+	so pessimists collect good chips, and optimists collect bad chips? probably
 
 player:
 	turn over placed card
