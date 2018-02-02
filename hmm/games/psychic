@@ -1,0 +1,107 @@
+unfortunately, I just use statistical clairvoyance... (I've decided it's impossible not to! (unless you can deal better-than-perfect concurrency?))
+
+like in ST:TNG poker, the dealer makes the call
+
+chips:
+	good (green)
+	bad (red)
+
+DEAL
+
+dealer calls:
+	suits: stacks must be suited (♣ ♣ ♣ )
+	kinds: stacks must be valued (🂣  🂳  🃓  🃃 )
+	sides: stacks must be linked (1 A K A 1 2 1 2 3)
+
+dealer shuffles (keeping cards parallel to the table & below heart height):
+	Hindu shuffle
+	riffle shuffle
+	Hindu shuffle
+	riffle shuffle
+	Hindu shuffle
+	place deck face-down on the table
+
+player on RHS of dealer:
+	cut cards
+
+dealer deals:
+	complete the cut
+	burn 1ˢᵗ card from the game (saves last card from being an obvious bet)
+	turn one card face-up next to table (1ˢᵗ stack & otherwise easiest bet)
+
+player = dealer
+
+PLAY
+
+no deck:
+	dealer = LHS of dealer (or LHS of player (or player))
+	goto DEAL
+
+small blind = LHS of player
+big blind = LHS of LHS of player
+
+player = small blind
+
+no player:
+	goto OVER
+
+player:
+	decide where to place next card from the deck
+	place card face-down on a stack, or make a new stack
+
+all players (betting is poker-style):
+	bet good chips if face-down card is valid for the stack
+	bet bad chips if face-down card is invalid for the stack
+	player is small blind & can only bet good chips, but their chips are worth double
+	new stacks are only valid if the card could not be placed on another stack
+
+player:
+	turn over placed card
+
+players have no chips:
+	ℂomplex psychics
+	losers
+
+goto PLAY
+
+OVER
+
+if player has all chips:
+	ℝeal psychic
+	winner
+
+if player has all good chips:
+	optimistic psychic
+	winner if no pessimistic psychic, or draw
+
+if player has all bad chips:
+	pessimistic psychic
+	winner if no optimistic psychic, or draw
+
+if player has most chips:
+	lucky psychic
+	winner
+
+...
+
+there are always alternatives! (flat earth, dark matter, ETC)
+
+calculus:
+	infinitesimals replaced by limits replaced by _
+
+functional programming:
+	monads replaced by _
+
+mathematics:
+	ℂomplexity replaced by _
+
+...
+
+choose the best & discriminate
+
+minimise side-effects:
+	loops vs recursion
+
+maximise utility
+	infix vs prefix (or even postfix; but it helps to know what you're doing, before you know what you're doing it with)
+
