@@ -56,6 +56,7 @@ all players (betting is poker-style):
 	new stacks are only valid if the card could not be placed on another stack
 	if valid, bad chips goto pot until invalid
 	if invalid, good chips goto pot until valid
+	...or maybe the other way around? I'll think about this when my brain starts working again & I remember about this...
 
 player:
 	turn over placed card
