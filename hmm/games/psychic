@@ -54,6 +54,8 @@ all players (betting is poker-style):
 	bet bad chips if face-down card is invalid for the stack
 	player is small blind & can only bet good chips, but their chips are worth double
 	new stacks are only valid if the card could not be placed on another stack
+	if valid, bad chips goto pot until invalid
+	if invalid, good chips goto pot until valid
 
 player:
 	turn over placed card
