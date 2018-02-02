@@ -9,6 +9,7 @@ chips:
 no chips:
 	player keeps invalid cards
 	fewer cards win
+	no betting
 
 DEAL
 
