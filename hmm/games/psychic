@@ -110,3 +110,6 @@ minimise side-effects:
 maximise utility
 	infix vs prefix (or even postfix; but it helps to know what you're doing, before you know what you're doing it with)
 
+...
+
+function composition = declarative ∵ partial application (∧ lazy evaluation? well I think about it that way, even if it's unnecessary)
