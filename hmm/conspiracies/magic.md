@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/3
 
 `24÷8 = 3`
 1. **sleep**
-1. **work**
+1. **work/study**
 1. **play**
 
 ...
