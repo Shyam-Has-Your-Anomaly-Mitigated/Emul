@@ -12,6 +12,8 @@ dealer calls:
 	suits: stacks must be suited (♣ ♣ ♣ )
 	kinds: stacks must be valued (🂣  🂳  🃓  🃃 )
 	sides: stacks must be linked (1 A K A 1 2 1 2 3)
+	...
+	W/O side-effects: whether invalid cards stay, or get burned; if they stay, the state of the stack changes
 
 dealer shuffles (keeping cards parallel to the table & below heart height):
 	Hindu shuffle
