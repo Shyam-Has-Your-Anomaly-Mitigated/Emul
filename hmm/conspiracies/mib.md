@@ -1,3 +1,7 @@
+**1969** The Usa air force stopped investigating UFOs; after 22 years, they found no evidence of extra-terrestrial visits, and no threat to national security...
+
+...
+
 **HE:12016,05,09;05,33,__**
 
 (Humanoid/Intelligent/Higher-dimensional) Apes (crash-)landed in "Area 51", the government stole [advanced technology](https://en.wikipedia.org/wiki/NASA_spin-off_technologies) (released/to-be-released/never-to-be-released) from the ape-oid starship (either from the ships computer(s), or from the ship itsef), along with historic records serving as proof of human-kinds inevitable enslavement/demise.
