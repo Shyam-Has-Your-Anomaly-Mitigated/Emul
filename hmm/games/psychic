@@ -16,12 +16,12 @@ DEAL
 dealer calls:
 	races: stacks must be black or red
 	faces: stacks must be numerical or picturesque
+	chars: stacks must be numbers or letters
 	suits: stacks must be suited (♣ ♣ ♣ )
 	kinds: stacks must be valued (🂣  🂳  🃓  🃃 )
 	sides: stacks must be linked (1 A K A 1 2 1 2 3)
 	...
 	with/out side-effects: whether invalid cards stay, or get burned/collected (dealer call); if they stay, the state of the stack changes
-	aces are numerical or picturesque for races; I guess it's just numbers & letters...
 
 dealer shuffles (keeping cards parallel to the table & below heart height):
 	Hindu shuffle
