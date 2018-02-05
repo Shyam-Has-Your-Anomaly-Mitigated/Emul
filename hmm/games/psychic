@@ -21,7 +21,7 @@ dealer calls:
 	sides: stacks must be linked (1 A K A 1 2 1 2 3)
 	...
 	with/out side-effects: whether invalid cards stay, or get burned/collected (dealer call); if they stay, the state of the stack changes
-	aces are numerical or picturesque for races
+	aces are numerical or picturesque for races; I guess it's just numbers & letters...
 
 dealer shuffles (keeping cards parallel to the table & below heart height):
 	Hindu shuffle
