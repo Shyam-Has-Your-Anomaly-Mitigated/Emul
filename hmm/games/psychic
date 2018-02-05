@@ -23,6 +23,7 @@ dealer calls:
 	...
 	with/out side-effects: whether invalid cards stay, or get burned/collected (dealer call); if they stay, the state of the stack changes
 	blinds; betting can only be divisible by unfolded players
+	wild cards must be declared, and stacked in the wild pile
 
 dealer shuffles (keeping cards parallel to the table & below heart height):
 	Hindu shuffle
