@@ -65,6 +65,7 @@ no player:
 player:
 	decide where to place next card from the deck
 	place card face-down on a stack, or make a new stack
+	premature turn-overs: EOT (End Of Turn) & blinds in the pot for the next turn c̄ big blind penalty paid to the small blind player & small blind penalty baid to all other players
 
 all players (betting is poker-style):
 	bet good chips if face-down card is valid for the stack
