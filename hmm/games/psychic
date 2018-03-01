@@ -134,3 +134,11 @@ maximise utility
 function composition = declarative ∵ partial application (∧ lazy evaluation? well I think about it that way, even if it's unnecessary)
 
 symbolic programming is an alternative to error messages?
+
+...
+
+2 or more consecutive spaces = ASCII art (character-based bit-map)
+tabular data = use appropriate data formats (DSV/CSV/ETC) & rendering warez
+indentation = tabs
+
+programming tools process each character; they could optimise, by tabbing spacial indentation, but you shouldn't treat it faithfully (like a religion)
