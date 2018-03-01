@@ -2,7 +2,7 @@ It's all funded by agendas.
 
 Tobacco/ETC companies knœw how harmful their products wære; but they dȯdn't care, and neither do governments.
 
-$cience i$ ju$t u$ed a$ a tool to (maliciou$ly) exploit/*con*vince other$.
+$cience i$ ju$t u$ed a$ a tool to (maliciou$ly) exploit/*con*vince other$. ($cienti$t$ probably fake re$ult$ to keep their job$)
 
 There's that movie where they dump a briefcase of money on the table.
 
