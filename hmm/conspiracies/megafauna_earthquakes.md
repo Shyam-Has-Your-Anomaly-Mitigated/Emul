@@ -1,6 +1,6 @@
 "Normal" "earth" "worms" churn the "earth"... (Are there marsworms?)
 
-There are giant worms under the mountain/hill ranges, and the valleys are where they have left/died. It takes a lot of energy to move under all of that pressure; they get it patiently from the core ∵ heat escapes gravity (or cold is attracted to gravity, well denser than thinner heat), and they are the man in the middle for geothermal generators. They probably consume minerals/lava/ETC...lava whales breathe through volcanoes! And moles are under single-tonne hills/mountains!
+There are giant worms under the mountain/hill ranges, and the valleys are where they have left/died. It takes a lot of energy to move under all of that pressure; they get it patiently from the core ∵ heat escapes gravity (or cold is attracted to gravity, well denser than thinner heat), and they are the man in the middle for geothermal generators. They probably consume minerals/lava/ETC...lava whales breathe through volcanoes! And moles are under single-tonne hills/mountains! ...mountains are cold because the worms steal all the heat!
 
 Tectonic plates is just a theory; it's like a sliding puzzle, but it's impossible to connect the coastlines! (From the picture on the box...)
 
