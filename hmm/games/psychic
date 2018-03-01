@@ -144,3 +144,4 @@ indentation = tabs
 programming tools process each character; they could optimise, by tabbing spacial indentation, but you shouldn't treat it faithfully (like a religion)
 
 use format strings, or more complex generative hacks, for consecutively strung spaces
+https://en.wikipedia.org/wiki/Printf_format_string
