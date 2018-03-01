@@ -29,6 +29,7 @@ dealer calls:
 	blinds; betting can only be divisible by unfolded players...no; just put overflow into the next round/pot
 	wild cards must be stacked in the wild pile
 	rounds, or decks; each dealer can choose when to swap dealers (they can't change their declaration; that would be dysfunctional)
+	shuffle on rounds, or calls only
 
 dealer shuffles (keeping cards parallel to the table & below heart height):
 	Hindu shuffle
