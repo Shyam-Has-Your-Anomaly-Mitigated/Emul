@@ -193,3 +193,4 @@ pictographic/hieroglyphic programming; SVG or bitmaps?
 Rosetta Stone
 http://www.catb.org/esr/writings/unix-koans/gui-programmer.html
 ...a sliding puzzle picture could work; they (have) rules
+each tile is like a particle; storing state, following instructions, ETC
