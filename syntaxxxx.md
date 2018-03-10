@@ -830,6 +830,12 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 		it's better not to fail, but nopping is easy...
 		if ,nths or ,radicand are empty return ,radicand
 	>8
+	
+	:printf(,chars,parameters)
+	8≪ instead of :printf(,chars,parameters<0>) ...I've always hated format strings; why would this be a good idea?
+	:=(,format,[,chars,parameters])
+	:=(,formats,[,format,format,format,..])
+	:printf(,formats)
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
