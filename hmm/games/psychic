@@ -225,3 +225,6 @@ x=∞=3
 ...
 
 statement "terminators"/separators/initiators should be at the front so they line up (visual ergonomics), and avoid variable line widths/endings
+
+on the subject of visual ergonomics; snake_case beats any other (try reading a book/résumé/ETC in camelCase, PascalCase, StUdLyCaPs, MACRO_CASE, ETC)
+for the purposes of mathematical ergonomics; avoid kebab-case, Train-Case, Lisp-case, COBOL-CASE, ETC
