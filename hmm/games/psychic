@@ -221,3 +221,7 @@ x===3
 x=ETC=3
 x=...=3
 x=∞=3
+
+...
+
+statement "terminators"/separators/initiators should be at the front so they line up (visual ergonomics), and avoid variable line widths/endings
