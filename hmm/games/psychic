@@ -213,3 +213,11 @@ I feel like this is very "logical"...
 x=3
 3=x
 logical (I actually mean all programming) languages should be able to support both, simultaneously
+
+why are these different?
+x=3
+x==3
+x===3
+x=ETC=3
+x=...=3
+x=∞=3
