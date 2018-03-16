@@ -75,5 +75,5 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 * incest: isn't inbreeding, and can be consensual
 * pædophilia: can be consensual (with, or without, parental consent), and seduction at any age is still exploitation/manipulation/ETC (can animals be seduced?)
 * genital mutilation: circumcision is fine, but not FGM?
-* dressing provocatively: isn't flashing (would you stroll around, on your own, in a poverty-stricken neighbourhood with a transparent briefcase/bag/ETC full of money? you could be advertising yourself to gold-diggers, but are more likely to get mugged, than raped)
+* dressing provocatively: isn't flashing (would you stroll around, on your own, in a poverty-stricken neighbourhood with a transparent briefcase/bag/ETC full of money? you could be advertising yourself to gold-diggers, but are more likely to get mugged, than raped ...people only see you for what you look like, and not who you are)
 * raping: feels good
