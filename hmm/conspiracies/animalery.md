@@ -69,7 +69,7 @@ Lawmakers are just people; biased...
 
 People will try to "justify" whatever they want to do...
 * meat eating: tastes good (easpecially human flesh)
-* beastiality: if you're willing to kill & eat them, why do you care about raping them?
+* beastiality: if you're willing to [enslave](https://en.wikipedia.org/wiki/Domestication) & kill & eat them, why do you care about raping them?
 * human sacrifice: capital punishment & euthanasia, but not religious/cultural/ceremonial/ETC sacrifices?
 * cannibalism: isn't murder, and can be consensual
 * incest: isn't inbreeding, and can be consensual
