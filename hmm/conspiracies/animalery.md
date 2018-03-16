@@ -73,5 +73,6 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 * human sacrifice: capital punishment & euthanasia, but not religious/cultural/ceremonial/ETC sacrifices?
 * cannibalism: isn't murder, and can be consensual
 * incest: isn't inbreeding, and can be consensual
-* pædophilia: can be consensual (with, or without, parental consent)
+* pædophilia: can be consensual (with, or without, parental consent), and seduction at any age is still exploitation/manipulation/ETC (can animals be seduced?)
 * genital mutilation: circumcision is fine, but not FGM?
+* dressing provocatively: isn't flashing
