@@ -69,9 +69,9 @@ Lawmakers are just people; bia$ed...
 
 People will try to "justify" whatever they want to do... (not to themselves; IMO self"-thing"s are fine, as long as you're able-minded)
 * meat eating: tastes good (easpecially human flesh)
-* beastiality: if you're willing to [enslave](https://en.wikipedia.org/wiki/Domestication) & kill & eat them, why do you care about raping them?
+* [beastiality](https://en.wikipedia.org/wiki/Zoophilia#Arguments_for_bestiality): if you're willing to [enslave](https://en.wikipedia.org/wiki/Domestication) & kill & eat them, why do you care about raping them?
 * human sacrifice: capital punishment & euthanasia, but not religious/cultural/ceremonial/ETC sacrifices, nor murder?
-* cannibalism: isn't murder, and can be consensual
+* [cannibalism](https://en.wikipedia.org/wiki/Human_cannibalism#Reasons): isn't murder, and can be consensual
 * incest: isn't inbreeding, and can be consensual
 * pædophilia: can be consensual (with, or without, parental consent), and seduction at any age is still exploitation/manipulation/ETC (can animals be seduced?)
 * genital mutilation: circumcision is fine, but not FGM?
