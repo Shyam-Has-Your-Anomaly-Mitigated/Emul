@@ -82,7 +82,7 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 
 * human sacrifice's a productive form of population control, and helps with drought & famine (self-sacrifice to save your own blood-line)
 * [child sacrifice](https://en.wikipedia.org/wiki/Child_sacrifice)'s probably just an excuse to reduce the cost of living (EG Hansel and Gretel)
-* some erectile dysfunction's probably based on attraction/age/ETC
+* some erectile dysfunction's probably based on attraction/age/ETC (beauty is in the eye of the beholder)
 * gays are misogyny, lesbians are misandry; whenever I read "misogyny", I feel like it's being misused... (my ad-blockers get snagged by your clickbait traps, while I gobble the garbage you call "bait")
 * homosexuals say it's [found in nature](https://en.wikipedia.org/wiki/Homosexual_behavior_in_animals), and is ∴ "natural"; but so is [incest](https://en.wikipedia.org/wiki/Incest#Animals), and pædophilia ([a](https://www.quora.com/Does-pedophilia-exist-in-animals), [b](https://www.quora.com/Do-any-animals-exhibit-paedophile-behaviour-or-other-paraphilia) (rape), [c](https://www.quora.com/Do-animals-have-pedophiles), [d](https://www.thestudentroom.co.uk/showthread.php?t=1640214)), and [cannibalism](https://en.wikipedia.org/wiki/Cannibalism)
 * placeholder; I should have typed it out when I thought of it...
