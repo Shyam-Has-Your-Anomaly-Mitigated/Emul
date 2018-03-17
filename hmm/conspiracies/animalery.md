@@ -77,3 +77,10 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 * genital mutilation: circumcision is fine, but not FGM?
 * dressing provocatively: isn't flashing (would you stroll around, on your own, in a poverty-stricken neighbourhood with a transparent briefcase/bag/ETC full of money? you could be advertising yourself to gold-diggers, but are more likely to get mugged, than raped ...people only see you for what you look like, and not who you are)
 * raping: feels good
+
+...
+
+* human sacrifice's a productive form of population control, and helps with drought & famine (self-sacrifice to save your own blood-line)
+* [child sacrifice](https://en.wikipedia.org/wiki/Child_sacrifice)'s probably just an excuse to reduce the cost of living (EG Hansel and Gretel)
+* some erectile dysfunction's probably based on attraction/age/ETC
+* gays are misogyny, lesbians are misandry; whenever I read "misogyny", I feel like it's being misused...
