@@ -836,6 +836,13 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:=(,format,[,chars,parameters])
 	:=(,formats,[,format,format,format,..])
 	:printf(,formats)
+	
+	the nāma mantra can be at the start, or the end, of a scope; the freedom of putting it anywhere else is unjustifiable
+	declarative programming is more for programming language implementation, than for programming itself
+	the way declarative languages are today, is more reminiscent of concurrent-by-default
+	function definitions mid-code are only for side-effecting languages
+	regardless, the significance of the position of the definitions is not important; it's all gotos from here on out
+	I hate languages that need the function to be defined before usage, when the compiler/interpreter/ETC can single-pass gotos substitutively; compilers have no excuse, and the interpretive overhead is negligible compared to definition relocation
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
