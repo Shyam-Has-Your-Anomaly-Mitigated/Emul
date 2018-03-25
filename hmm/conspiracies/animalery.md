@@ -93,7 +93,7 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 # the ℝeal credit goes to the brāhmaṇas
 
 anyone can command a pilot to fly a plane, and drop a bomb on Japan
-<br>anyone can fly a plane, and drop a bomb on Japan
+<br>anyone can pilot a plane, and drop a bomb on Japan
 <br>those who commanded & piloted wouldn't've have been able to do so c̄out the invention of the plane & bomb
 <br>it would've been others at a later time, had it not been for the inventors' timely inventions; or not happened/invented at all due to tempoℝæl displacement
 
