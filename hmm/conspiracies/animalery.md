@@ -95,7 +95,7 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 anyone can command a pilot to fly a plane, and drop a bomb on Japan
 <br>anyone can fly a plane, and drop a bomb on Japan
 <br>those who commanded & piloted wouldn't've have been able to do so c̄out the invention of the plane & bomb
-<br>it would've been others at a later time, and it not been for the inventors' timely inventions; or not happened/invented at all due to tempoℝæl displacement
+<br>it would've been others at a later time, had it not been for the inventors' timely inventions; or not happened/invented at all due to tempoℝæl displacement
 
 the intellectuals who invented the gun are responsible for the kill of the hunt; not the dishonourable hunter, who is undeserving of any respect/ETC
 <br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral
