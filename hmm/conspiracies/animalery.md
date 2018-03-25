@@ -98,5 +98,5 @@ anyone can command a pilot to fly a plane, and drop a bomb on Japan
 <br>it would've been others at a later time, had it not been for the inventors' timely inventions; or not happened/invented at all due to tempoℝæl displacement
 
 the intellectuals who invented the gun are responsible for the kill of the hunt; not the dishonourable hunter, who is undeserving of any respect/ETC
-<br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral
+<br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral & academic
 <br>headhunters mount other peoples trophies on their walls; for they are but a pilot in the grand scheme of "-thing"s, and their gluttonous family the commander
