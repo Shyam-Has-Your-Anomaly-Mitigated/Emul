@@ -90,7 +90,7 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 
 <hr>
 
-# the ℝeal credit goes to the brāhmaṇas
+# the ℝeal credit goes to the [brāhmaṇas](https://en.wikipedia.org/wiki/Varna_(Hinduism))
 
 anyone can command a pilot to fly a plane, and drop a bomb on Japan
 <br>anyone can pilot a plane, and drop a bomb on Japan
