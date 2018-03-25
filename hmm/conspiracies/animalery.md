@@ -87,3 +87,16 @@ People will try to "justify" whatever they want to do... (not to themselves; IMO
 * homosexuals say it's [found in nature](https://en.wikipedia.org/wiki/Homosexual_behavior_in_animals), and is ∴ "natural"; but so is [incest](https://en.wikipedia.org/wiki/Incest#Animals), and pædophilia ([a](https://www.quora.com/Does-pedophilia-exist-in-animals), [b](https://www.quora.com/Do-any-animals-exhibit-paedophile-behaviour-or-other-paraphilia) (rape), [c](https://www.quora.com/Do-animals-have-pedophiles), [d](https://www.thestudentroom.co.uk/showthread.php?t=1640214)), and [cannibalism](https://en.wikipedia.org/wiki/Cannibalism), and murder/consumption, and ETC
 * placeholder (I should have typed it out when I thought of it); maybe it was...
   * handicapped (exploited) parents can have kids, but no inbreeding? if you cannot support yourself, how can you support someone else; who is ℝeally the "parent"? I think they just want someone to [boss around](https://en.wikipedia.org/wiki/Stanford_prison_experiment)... (it's like having a pet/slave animal)
+
+<hr>
+
+# the ℝeal credit goes to the brāhmaṇas
+
+anyone can command a pilot to fly a plane, and drop a bomb on Japan
+<br>anyone can fly a plane, and drop a bomb on Japan
+<br>those who commanded & piloted wouldn've have been able to do so c̄out the invention of the plane & bomb
+<br>it would've been others at a later time, and it not been for the inventors' timely inventions; or not happened/invented at all due to tempoℝæl displacement
+
+the intellectuals who invented the gun are responsible for the kill of the hunt; not the dishonourable hunter, who is undeserving of any respect/ETC
+<br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral
+<br>headhunters mount other peoples trophies on their walls; for they are but a pilot in the grand scheme of "-thing"s, and their gluttonous family the commander
