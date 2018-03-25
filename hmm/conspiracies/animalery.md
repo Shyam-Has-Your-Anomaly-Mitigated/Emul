@@ -100,4 +100,4 @@ anyone can command a pilot to fly a plane, and drop a bomb on Japan
 the intellectuals who invented the gun are responsible for the kill of the hunt; not the dishonourable hunter, who is undeserving of any respect/ETC
 <br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral & academic
 <br>headhunters mount other peoples trophies on their walls; for they are but a pilot in the grand scheme of "-thing"s, and their gluttonous family the commander
-<br>you might as well disarm & tame & bind & blind & ETC the questing beast for all it's worth; it's like putting God in a box of [logical](https://en.wikipedia.org/wiki/Prolog) rules you created (flat earth vs Himālayan mountains = falsified ℝeality), and claiming jayaḥ
+<br>you might as well disarm & tame & bind & blind & ETC the questing beast for all it's worth; it's like putting God in a box of [logical](https://en.wikipedia.org/wiki/Prolog) rules you created solely for the purpose of defeating God, and claiming jayaḥ (flat earth vs Himālayan mountains = falsified ℝeality)
