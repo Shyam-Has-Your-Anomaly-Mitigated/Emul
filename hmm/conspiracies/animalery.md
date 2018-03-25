@@ -101,3 +101,7 @@ the intellectuals who invented the gun are responsible for the kill of the hunt;
 <br>even if you hunt c̄ no"-thing" but what you're born c̄; your credit is ancestral & academic
 <br>headhunters mount other peoples trophies on their walls; for they are but a pilot in the grand scheme of "-thing"s, and their gluttonous family the commander
 <br>you might as well disarm & tame & bind & blind & ETC the questing beast for all it's worth; it's like putting God in a box of [logical](https://en.wikipedia.org/wiki/Prolog) rules you formulated solely for the purpose of defeating God, and claiming jayaḥ (flat earth vs Himālayan mountains = falsified ℝeality ... as deceptive as the sun/moon/ETC is further from the earth/ETC than most people think)
+
+...
+
+intellectuals set themselves apart from animals, and the rest of humanity pursue animalistic activities, whilst being trained in the use of intellectual contributions; without intellectuals, earth would be the planet of the apes.
