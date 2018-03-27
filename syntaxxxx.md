@@ -848,6 +848,9 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	a mantra that adds two known numbers (hard-coded) could be replaced by the addition at compile-time, rather than processing it at run-time
 	
 	I want to be able to `ls *` all namespaces from the root mantra
+	
+	https://youtu.be/erHp3r6PbJk?t=51m4s
+	top-down design FTW
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
