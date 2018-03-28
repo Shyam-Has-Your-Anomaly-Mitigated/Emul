@@ -851,6 +851,15 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 
 	mantras that return an empty box can be parameterised; compositionally voided mantras c̄ zero dexing
 	fork it if it always returns an empty box
+	
+	I want switchable mantras, where they toggle c̄ each use
+	:=( : x, [,0,1] )
+	:x 8≪ 0
+	:x 8≪ 1
+	:x 8≪ 0
+	:x 8≪ 1
+	:x 8≪ 0
+	I see faces... :=( & :x
 
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
