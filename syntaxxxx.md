@@ -848,13 +848,18 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	a mantra that adds two known numbers (hard-coded) could be replaced by the addition at compile-time, rather than processing it at run-time
 	
 	I want to be able to `ls *` all namespaces from the root mantra
-	
+
+	mantras that return an empty box can be parameterised; compositionally voided mantras c̄ zero dexing
+	fork it if it always returns an empty box
+
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
 	(define definiens definiendum) ; it sounds like a lisp spell...
-	
-	mantras that return an empty box can be parameterised; compositionally voided mantras c̄ zero dexing
-	fork it if it always returns an empty box
+	https://youtu.be/ymsbTVLbyN4?t=35m5s
+	WTF they just all-of-a-sudden forgot all about HOFs
+	(simplify r) ; just call it wherever/whenever you want
+	(identify r) ; use this when you don't want to (simplify r)
+	top-down designing + optimal-use refactoring = FTW
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
