@@ -861,6 +861,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:x () 8≪ 0
 	AKA self-modifying code c̄ :mahāmantra()
 	I see faces... :=( & :x
+	actually :x() also looks facial about it
 
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
