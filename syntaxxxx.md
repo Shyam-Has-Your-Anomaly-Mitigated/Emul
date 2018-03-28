@@ -859,6 +859,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:x 8≪ 0
 	:x 8≪ 1
 	:x 8≪ 0
+	AKA self-modifying code
 	I see faces... :=( & :x
 
 	https://youtu.be/erHp3r6PbJk?t=51m4s
