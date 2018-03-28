@@ -853,12 +853,12 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	fork it if it always returns an empty box
 	
 	I want switchable mantras, where they toggle c̄ each use; parameters could influence how they're manipulated
-	:=( : x, [,0,1] )
-	:x 8≪ 0
-	:x 8≪ 1
-	:x 8≪ 0
-	:x 8≪ 1
-	:x 8≪ 0
+	:∈( : x(), [,0,1] )
+	:x () 8≪ 0
+	:x () 8≪ 1
+	:x () 8≪ 0
+	:x () 8≪ 1
+	:x () 8≪ 0
 	AKA self-modifying code c̄ :mahāmantra()
 	I see faces... :=( & :x
 
