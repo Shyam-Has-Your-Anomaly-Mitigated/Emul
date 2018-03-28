@@ -859,7 +859,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	:x () 8≪ 0
 	:x () 8≪ 1
 	:x () 8≪ 0
-	AKA self-modifying code c̄ :mahāmantra()
+	AKA self-modifying code c̄ :mahāmantra() ...or AKA perl state variables
 	I see faces... :=( & :x
 	actually :x() also looks facial about it
 
