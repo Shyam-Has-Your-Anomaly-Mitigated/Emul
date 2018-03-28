@@ -192,6 +192,8 @@
 		* [Stumbling Blocks For Domain Specific Languages](http://wiki.c2.com/?StumblingBlocksForDomainSpecificLanguages)
 		* [UML vs. Domain-Specific Languages](http://www.methodsandtools.com/archive/archive.php?id=71)
 		* [DSLs: Definitely a bad idea!](http://www.panopticoncentral.net/2009/01/26/dsls-definitely-a-bad-idea/)
+* *
+	* [malware](https://github.com/kanaka/mal)
 * Assembly
 	* [Creating a language using only assembly language](https://news.ycombinator.com/item?id=9699065)
 * C
