@@ -15,3 +15,4 @@ a side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12�
 <br>actually it will be -12⟌1=ℕ३ (or tism३)
 <br>ƛ = λ(τ⟌1)
 <br>⨋ƛ=३ is me crowned mahārāja of the Land of Lisp
+<br> ↑ is my ३ʳᵈ eye
