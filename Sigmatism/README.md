@@ -14,4 +14,4 @@ a side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12�
 <br>⨋ ∨ ⨊ ∨ ⅀ (actually it will be backwards; I write "&" as a dollar-signed "3"...actually it will be "[३](https://www.youtube.com/watch?v=aU4pyiB-kq0)")
 <br>actually it will be -12⟌1=ℕ३ (or tism३)
 <br>ƛ = λ(τ⟌1)
-<br>⨋[ƛ](https://en.wikipedia.org/wiki/Third_eye)=३ is me crowned mahārāja of the Land of Lisp
+<br>⨋[ƛ](https://en.wikipedia.org/wiki/Third_eye)=[३](https://en.wikipedia.org/wiki/Laughter_yoga) is me crowned mahārāja of the Land of Lisp
