@@ -13,4 +13,4 @@ Lispning is a Swedish word, but it could mean using/debugging/listening to a lis
 a side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12⟌1 (or ∑tism)
 <br>⨋ ∨ ⨊ ∨ ⅀ (actually it will be backwards; I write "&" as a dollar-signed "3"...actually it will be "[३](https://www.youtube.com/watch?v=aU4pyiB-kq0)")
 <br>actually it will be -12⟌1=ℕ३ (or tism३)
-<br>ƛ = λ ÷ τ
+<br>ƛ = λ(τ⟌1)
