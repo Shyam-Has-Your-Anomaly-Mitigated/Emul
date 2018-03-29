@@ -1,4 +1,4 @@
-# ⨋ ∨ ⨊ ∨ ⅀
+# ⨋ ∨ ⨊ ∨ ⅀ (actually it will be backwards; I write "&" as a dollar-signed "3")
 
 A side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12⟌1 (or ∑tism).
 
