@@ -1,3 +1,7 @@
+# ⨋
+
+A side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12⟌1 (or ∑tism).
+
 [Sigmatism](https://en.wiktionary.org/wiki/sigmatism) will be my [Lisp dialect](https://en.wiktionary.org/wiki/Lisp) for [sigmatic programming](https://en.wiktionary.org/wiki/sigmatic) ([lisping](https://en.wiktionary.org/wiki/lisping)); probably just Shyamscript preprocessors/libraries/ETC... (I'm thinking of languages as Vim plugins, but for Shyamscript; which is a bit [lispy](https://en.wiktionary.org/wiki/lispy)/[Lispish](https://en.wiktionary.org/wiki/Lispish)...)
 <br>-- Just Another [Lisper](https://en.wiktionary.org/wiki/Lisper), Or [Programmer](https://en.wiktionary.org/wiki/jalopy); Yeah
 
