@@ -34,7 +34,7 @@ https://arxiv.org/abs/1711.05997
 <br>∑ is summation.
 <br>ℕ is the set of Natural numbers.
 <br>∑ℕ is the sum of Natural numbers; -12⟌1.
-<br>τ is 2⟌π.
+<br>τ is 2π.
 <br>
 <br>(λx.∫(∂⒴⟌∂⒴)) is discovering a VIT (Very Important Theory).
 <br>🝪 is turning to alchemy for the realisation of a fundamental truth.
