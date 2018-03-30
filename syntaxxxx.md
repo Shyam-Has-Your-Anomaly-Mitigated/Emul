@@ -873,6 +873,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	(simplify r) ; just call it wherever/whenever you want
 	(identify r) ; use this when you don't want to (simplify r)
 	top-down designing + optimal-use refactoring = FTW
+	https://youtu.be/ymsbTVLbyN4?t=1h0m08s
+	axioms could be typical
 
 Can JS ouput binaries to "download"? I [think](http://shyam.id.au/awooga/) so...
 <br>JS is turing complete, so I think lazy evaluation is also possible...
