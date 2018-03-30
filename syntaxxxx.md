@@ -862,6 +862,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	AKA self-modifying code c̄ :mahāmantra() ...or AKA perl state variables
 	I see faces... :=( & :x & :∈
 	actually :x() also looks facial about it
+	
+	similar to pythonic .pyc files, referentially transparent .rt files can store precomputations for each mantra as a lookup table that is updated each time the box is handled
 
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
