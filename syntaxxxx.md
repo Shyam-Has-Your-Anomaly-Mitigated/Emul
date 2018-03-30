@@ -863,7 +863,7 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	I see faces... :=( & :x & :∈
 	actually :x() also looks facial about it
 	
-	similar to pythonic .pyc files, referentially transparent .rt files can store precomputations for each mantra as a lookup table that is updated each time the box is handled
+	similar to pythonic .pyc files, referentially transparent .rt files can store precomputations for each mantra as a lookup table that is updated each time the box is handled; stored as :=(:f(,3),3)
 
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
