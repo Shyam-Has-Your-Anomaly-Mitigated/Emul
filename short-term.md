@@ -65,7 +65,7 @@
 *WTF can't I search for web browser bookmarks within folders? I want the full path!!! **DX≪***
 
 - [ ] Find [The Assembly Tutorial](https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#Assembly) (Optimisation)
-- [ ] Find The Compiler Book (I think it was a græy book...)
+- [ ] Find The Compiler Book (I think it was a [græy book](https://en.wikipedia.org/wiki/Principia_Mathematica)...)
 	* [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 	* [The Design of an Optimizing Compiler](https://en.wikipedia.org/wiki/The_Design_of_an_Optimizing_Compiler)
 - [x] Find The DSL Blogs
