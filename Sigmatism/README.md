@@ -9,6 +9,8 @@ Lispning is a Swedish word, but it could mean using/debugging/listening to a lis
 
 [sigmoidal programming](https://en.wiktionary.org/wiki/sigmoidal) uses [sigmoid expressions](https://en.wiktionary.org/wiki/sigmoid)
 
+lisp allows you to do pair programming by yourself
+
 ## logo
 a side-ways "M" will be the logo c̄ $^{श्याम}$; probably ∑ℕ=-12⟌1 (or ∑tism)
 <br>⨋ ∨ ⨊ ∨ ⅀ (actually it will be backwards; I write "&" as a dollar-signed "3"...actually it will be "[३](https://www.youtube.com/watch?v=aU4pyiB-kq0)")
