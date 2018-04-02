@@ -8,6 +8,7 @@
 :f:g(,x) 8≪ :f(g:(,x))
 
 I need to think about the above...
+it should probably only be compositional
 
 8≪ can't remember <,0> vs ≪,0≫ vs .[,0]
 
