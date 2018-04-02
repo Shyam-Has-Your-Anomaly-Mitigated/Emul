@@ -5,6 +5,8 @@
 ,f(,a,b,c,d,e,f,g)
 ,f,[,a,b,c,d,e,f,g] 8≪ ,f,[,a,b,c,d,e,f,g]
 
+:f:g(,x) 8≪ :f(g:(,x))
+
 ,[
 	8< https://en.wikipedia.org/wiki/Template:Elementary_arithmetic >8
 
@@ -14,11 +16,6 @@
 	:-(,a,b,c,d,e,f,g) 8≪ ,[,-a,-b,-c,-d,-e,-f,-g]
 	:×(,a,b,c,d,e,f,g) 8≪ ,[,1abcdefg]
 	:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟a,⅟b,⅟c,⅟d,⅟e,⅟f,⅟g]
-
-	:-(+(,a,b,c,d,e,f,g)) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)]
-	:+(-(,a,b,c,d,e,f,g)) 8≪ ,[,0-a-b-c-d-e-f-g]
-	:÷(×(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(1abcdefg)]
-	:×(÷(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(1abcdefg)]
 
 	:-:+(,a,b,c,d,e,f,g)  ,[,-1×(0+a+b+c+d+e+f+g)]
 	:+:-(,a,b,c,d,e,f,g) 8≪ ,[,0-a-b-c-d-e-f-g]
