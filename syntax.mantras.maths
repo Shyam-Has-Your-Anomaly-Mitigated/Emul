@@ -111,3 +111,4 @@ can also do the opposite
 :⊤⊥(,fs)(,xs) 8≪ ,[,[,pass_value,[,fail_indices]]]
 :⊥⊤(,fs)(,xs) 8≪ ,[,[,[,fail_values],[,pass_indices]]]
 :⊤(,fs)(,xs) 8≪ ,[,passes] ... ,[,[,pass_value,[,pass_indices]]]
+I need to think about this; I think ,[,value,indice] pairs are better, but not for mixed passes/fails
