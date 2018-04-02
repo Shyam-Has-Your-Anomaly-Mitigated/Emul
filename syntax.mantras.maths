@@ -61,6 +61,8 @@
 		:≠(,a,b,c,d,e,f,g) 8≪ ,[,a≠b≠c≠d≠e≠f≠g]
 		:<(,a,b,c,d,e,f,g) 8≪ ,[,a<b<c<d<e<f<g]
 		:>(,a,b,c,d,e,f,g) 8≪ ,[,a>b>c>d>e>f>g]
+		:≤(,a,b,c,d,e,f,g) 8≪ ,[,a≤b≤c≤d≤e≤f≤g]
+		:≥(,a,b,c,d,e,f,g) 8≪ ,[,a≥b≥c≥d≥e≥f≥g]
 
 		:≪(,a,b,c,d,e,f,g) 8≪ ,[,lowest_value,[,lowest_indices]]
 		:≫(,a,b,c,d,e,f,g) 8≪ ,[,highest_value,[,highest_indices]]
@@ -71,6 +73,8 @@
 		:≠≠(,a,b,c,d,e,f,g) 8≪ ,[,a≠≠b≠≠c≠≠d≠≠e≠≠f≠≠g]
 		:<<(,a,b,c,d,e,f,g) 8≪ ,[,a<<b<<c<<d<<e<<f<<g]
 		:>>(,a,b,c,d,e,f,g) 8≪ ,[,a>>b>>c>>d>>e>>f>>g]
+		:≤≤(,a,b,c,d,e,f,g) 8≪ ,[,a≤≤b≤≤c≤≤d≤≤e≤≤f≤≤g]
+		:≥≥(,a,b,c,d,e,f,g) 8≪ ,[,a≥≥b≥≥c≥≥d≥≥e≥≥f≥≥g]
 
 		:≪≪(,a,b,c,d,e,f,g) 8≪ ,[,lowest_value,[,lowest_indices]]
 		:≫≫(,a,b,c,d,e,f,g) 8≪ ,[,highest_value,[,highest_indices]]
