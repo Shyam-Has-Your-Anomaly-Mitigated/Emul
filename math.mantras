@@ -1,7 +1,7 @@
 ,[
 	8< https://en.wikipedia.org/wiki/Template:Elementary_arithmetic >8
 
-	8< COMMUTATIVE MANTRAS >8
+	8< https://en.wikipedia.org/wiki/Commutative_property >8
 
 	:+(,a,b,c,d,e,f,g) 8≪ ,[,0+a+b+c+d+e+f+g]
 	:-(,a,b,c,d,e,f,g) 8≪ ,[,-a,-b,-c,-d,-e,-f,-g]
@@ -24,7 +24,7 @@
 ,[
 	8< https://en.wikipedia.org/wiki/Template:Logical_connectives >8
 
-	8< COMMUTATIVE MANTRAS >8
+	8< https://en.wikipedia.org/wiki/Commutative_property >8
 
 	:¬(,a,b,c,d,e,f,g) 8≪ ,[,¬a,¬b,¬c,¬d,¬e,¬f,¬g]
 	:∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧b∧c∧d∧e∧f∧g]
