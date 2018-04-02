@@ -113,3 +113,4 @@ can also do the opposite
 :⊤(,fs)(,xs) 8≪ ,[,passes] ... ,[,[,pass_value,[,pass_indices]]]
 I need to think about this; I think ,[,value,[,indices]] pairs are better, but not for mixed passes/fails
 ,[,value,indices] would be faster...
+a higher order mantra can decide between ,[,value,[,indices]] & ,[,value,indices]
