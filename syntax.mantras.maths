@@ -29,6 +29,7 @@ I need to think about the above...
 
 	:-:+(,a,b,c,d,e,f,g)  ,[,-1×(0+a+b+c+d+e+f+g)]
 	:+:-(,a,b,c,d,e,f,g) 8≪ ,[,0-a-b-c-d-e-f-g]
+	8≪ commutative mantras & parameters!!! :D
 	:÷:×(,a,b,c,d,e,f,g) 8≪ ,[,⅟(1abcdefg)]
 	:×:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟(1abcdefg)]
 
