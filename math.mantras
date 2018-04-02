@@ -35,3 +35,25 @@
 	:∧∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧∧b∧∧c∧∧d∧∧e∧∧f∧∧g]
 	:∨∨(,a,b,c,d,e,f,g) 8≪ ,[,a∨∨b∨∨c∨∨d∨∨e∨∨f∨∨g]
 ]
+
+,[
+	8< https://en.wikipedia.org/wiki/Inequality_(mathematics) >8
+
+	8≪ can't remember <,0> vs ≪,0≫ vs .[,0]
+	:<<<(,a,b,c,d,e,f,g) 8≪ ,[,lowest_value,[lowest_indices<,0>]]
+	:>>>(,a,b,c,d,e,f,g) 8≪ ,[,highest_value,[highest_indices<,0>]]
+
+	8< https://en.wikipedia.org/wiki/Commutative_property >8
+
+	:=(,a,b,c,d,e,f,g) 8≪ ,[,a=b=c=d=e=f=g]
+	:≠(,a,b,c,d,e,f,g) 8≪ ,[,a≠b≠c≠d≠e≠f≠g]
+	:<(,a,b,c,d,e,f,g) 8≪ ,[,a<b<c<d<e<f<g]
+	:>(,a,b,c,d,e,f,g) 8≪ ,[,a>b>c>d>e>f>g]
+
+	8< https://en.wikipedia.org/wiki/Short-circuit_evaluation >8
+
+	:==(,a,b,c,d,e,f,g) 8≪ ,[,a==b==c==d==e==f==g]
+	:≠≠(,a,b,c,d,e,f,g) 8≪ ,[,a≠≠b≠≠c≠≠d≠≠e≠≠f≠≠g]
+	:<<(,a,b,c,d,e,f,g) 8≪ ,[,a<<b<<c<<d<<e<<f<<g]
+	:>>(,a,b,c,d,e,f,g) 8≪ ,[,a>>b>>c>>d>>e>>f>>g]
+]
