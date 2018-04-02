@@ -9,6 +9,12 @@
 
 8≪ can't remember <,0> vs ≪,0≫ vs .[,0]
 
+8<
+	http://www.amp-what.com/unicode/search/math
+	http://www.amp-what.com/unicode/search/set
+	https://en.wikipedia.org/wiki/Set_theory
+>8
+
 ,[
 	8< https://en.wikipedia.org/wiki/Template:Elementary_arithmetic >8
 
@@ -38,10 +44,13 @@
 	:==(:≠≠():¬:==():==:¬())
 	
 	,[
-		8< https://en.wikipedia.org/wiki/Template:Logical_connectives >8
-		
-		8≪ ∧ vs ⋀ vs ⋏
-		8≪ ∨ vs ⋁ vs ⋎
+		8<
+			https://en.wikipedia.org/wiki/Template:Logical_connectives
+			http://www.amp-what.com/unicode/search/logical
+
+			∧ vs ⋀ vs ⋏
+			∨ vs ⋁ vs ⋎
+		>8
 
 		8< https://en.wikipedia.org/wiki/Commutative_property >8
 
