@@ -26,7 +26,7 @@
 
 	:-:+(,a,b,c,d,e,f,g):-(,a,b,c,d,e,f,g) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)],[,-a,-b,-c,-d,-e,-f,-g]
 
-	:root(,nths)(,radicands)
+	:root(,nths)(,radicands) 8≪ ,[nths] ... ,[,[,radicands]]
 	8<
 		it's better not to fail, but nopping is easy...
 		if ,nths or ,radicands are empty return ,radicands
