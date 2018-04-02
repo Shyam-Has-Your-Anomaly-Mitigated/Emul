@@ -32,6 +32,6 @@
 	
 	8< https://en.wikipedia.org/wiki/Short-circuit_evaluation >8
 
-	:∧∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧b∧c∧d∧e∧f∧g]
-	:∨∨(,a,b,c,d,e,f,g) 8≪ ,[,a∨b∨c∨d∨e∨f∨g]
+	:∧∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧∧b∧∧c∧∧d∧∧e∧∧f∧∧g]
+	:∨∨(,a,b,c,d,e,f,g) 8≪ ,[,a∨∨b∨∨c∨∨d∨∨e∨∨f∨∨g]
 ]
