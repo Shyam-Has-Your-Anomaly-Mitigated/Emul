@@ -1,14 +1,37 @@
-:+(,a,b,c,d,e,f,g) 8≪ ,[,0+a+b+c+d+e+f+g]
-:-(,a,b,c,d,e,f,g) 8≪ ,[,-a,-b,-c,-d,-e,-f,-g]
-:×(,a,b,c,d,e,f,g) 8≪ ,[,abcdefg]
-:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟a,⅟b,⅟c,⅟d,⅟e,⅟f,⅟g]
+,[
+	8< https://en.wikipedia.org/wiki/Template:Elementary_arithmetic >8
 
-:-(+(,a,b,c,d,e,f,g)) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)]
-:+(-(,a,b,c,d,e,f,g)) 8≪ ,[,0-a-b-c-d-e-f-g]
-:÷(×(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(abcdefg)]
-:×(÷(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(abcdefg)]
+	8< COMMUTATIVE MANTRAS >8
 
-:-:+(,a,b,c,d,e,f,g) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)]
-:+:-(,a,b,c,d,e,f,g) 8≪ ,[,0-a-b-c-d-e-f-g]
-:÷:×(,a,b,c,d,e,f,g) 8≪ ,[,⅟(abcdefg)]
-:×:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟(abcdefg)]
+	:+(,a,b,c,d,e,f,g) 8≪ ,[,0+a+b+c+d+e+f+g]
+	:-(,a,b,c,d,e,f,g) 8≪ ,[,-a,-b,-c,-d,-e,-f,-g]
+	:×(,a,b,c,d,e,f,g) 8≪ ,[,1abcdefg]
+	:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟a,⅟b,⅟c,⅟d,⅟e,⅟f,⅟g]
+
+	:-(+(,a,b,c,d,e,f,g)) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)]
+	:+(-(,a,b,c,d,e,f,g)) 8≪ ,[,0-a-b-c-d-e-f-g]
+	:÷(×(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(1abcdefg)]
+	:×(÷(,a,b,c,d,e,f,g)) 8≪ ,[,⅟(1abcdefg)]
+
+	:-:+(,a,b,c,d,e,f,g)  ,[,-1×(0+a+b+c+d+e+f+g)]
+	:+:-(,a,b,c,d,e,f,g) 8≪ ,[,0-a-b-c-d-e-f-g]
+	:÷:×(,a,b,c,d,e,f,g) 8≪ ,[,⅟(1abcdefg)]
+	:×:÷(,a,b,c,d,e,f,g) 8≪ ,[,⅟(1abcdefg)]
+
+	:-:+(,a,b,c,d,e,f,g):-(,a,b,c,d,e,f,g) 8≪ ,[,-1×(0+a+b+c+d+e+f+g)],[,-a,-b,-c,-d,-e,-f,-g]
+]
+
+,[
+	8< https://en.wikipedia.org/wiki/Template:Logical_connectives >8
+
+	8< COMMUTATIVE MANTRAS >8
+
+	:¬(,a,b,c,d,e,f,g) 8≪ ,[,¬a,¬b,¬c,¬d,¬e,¬f,¬g]
+	:∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧b∧c∧d∧e∧f∧g]
+	:∨(,a,b,c,d,e,f,g) 8≪ ,[,a∨b∨c∨d∨e∨f∨g]
+	
+	8< https://en.wikipedia.org/wiki/Short-circuit_evaluation >8
+
+	:∧∧(,a,b,c,d,e,f,g) 8≪ ,[,a∧b∧c∧d∧e∧f∧g]
+	:∨∨(,a,b,c,d,e,f,g) 8≪ ,[,a∨b∨c∨d∨e∨f∨g]
+]
