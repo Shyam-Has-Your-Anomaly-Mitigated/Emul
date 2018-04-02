@@ -1,4 +1,4 @@
-# planning for an optimal future
+# [planning for an optimal future](https://youtu.be/-hFk6FDrZBc)
 
 ## ahiṃsā
 * no killing animals (including humans; except in times of war...for "self defence"), and plants
