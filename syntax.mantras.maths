@@ -103,3 +103,5 @@
 
 ≫ & ≪ & ETC output should have equivalents for other mantras
 probably just generalise the higher order mantra, but what to name it? preferably a single character...
+:passes(,fs)(,xs) 8≪ ,[,lowest_value,[,lowest_indices]]
+just like :root(,nths)(,radicands)
