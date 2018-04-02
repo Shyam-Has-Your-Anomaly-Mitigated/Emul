@@ -107,4 +107,7 @@ probably just generalise the higher order mantra, but what to name it? preferabl
 just like :root(,nths)(,radicands)
 name can be ⊤, passes, truths, ETC
 can also do the opposite
-:⊥(,fs)(,xs) 8≪ ,[,pass_value,[,fail_indices]] ...or... ,[,fails] ... ,[,[,fail_value,fail_indice]]
+:⊥(,fs)(,xs) 8≪ ,[,fails] ... ,[,[,fail_value,fail_indice]]
+:⊤⊥(,fs)(,xs) 8≪ ,[,[,pass_value,[,fail_indices]]]
+:⊥⊤(,fs)(,xs) 8≪ ,[,[,[,fail_values],[,pass_indices]]]
+:⊤(,fs)(,xs) 8≪ ,[,passes] ... ,[,[,pass_value,[,pass_indices]]]
