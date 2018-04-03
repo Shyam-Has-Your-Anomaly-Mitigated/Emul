@@ -1,3 +1,5 @@
+# why should "medicine" have to kill you?
+
 _James Randi frequently attempts to overdoes on homeopathic medicine, and he's still alive; so it is safe medicine, and possibly the cause of his longevity_
 
 # "-thing"s I support
