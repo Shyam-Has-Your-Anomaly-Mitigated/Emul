@@ -12,6 +12,8 @@ the cure for constipation: fruit, the natural [laxative](https://en.wikipedia.or
 
 the cure for headaches/migraines/ETC: [tin foil hats](https://en.wikipedia.org/wiki/Tin_foil_hat) protect against cosmic rays
 
+the cure for tummy hurts: if your tummy hurts just lie on your back, and bring your knees to your chest (I remember learning about this one in a friends car, when I was about half a decade old; they told me about it, but didn't want me to do it right there & then...LOL...I remember sitting in the middle, and sliding under the seat belt, while they were all vocalising)
+
 ### don't attempt to cure the symptom
 
 the cure for diarrhoea: diarrhoea is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
