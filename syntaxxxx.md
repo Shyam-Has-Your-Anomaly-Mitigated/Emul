@@ -865,6 +865,8 @@ each scope will only have up to one `nāmas()` c̄ no `nāma()`; `nāma()` will 
 	
 	similar to pythonic .pyc files, referentially transparent .rt files can store precomputations for each mantra as a lookup table that is updated each time the box is handled; stored as :=(:f(,3),3)
 
+	can't fit the whole program into RAM? just write a small program to REPL the program line-by-line from file
+
 	https://youtu.be/erHp3r6PbJk?t=51m4s
 	top-down design FTW
 	(define definiens definiendum) ; it sounds like a lisp spell...
