@@ -10,8 +10,11 @@ no-contact Vulcan salutes, folded hands, bowing, ETC; instead of contaminated/co
 
 the cure for constipation: fruit, the natural [laxative](https://en.wikipedia.org/wiki/Laxative#Dietary_fiber)
 
+the cure for headaches/migraines/ETC: [tin foil hats](https://en.wikipedia.org/wiki/Tin_foil_hat) protect against cosmic rays
+
+### don't attempt to cure the symptom
+
 the cure for diarrhoea: diarrhoea is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
 
 the cure for emesis: emesis is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
 
-the cure for headaches/migraines/ETC: [tin foil hats](https://en.wikipedia.org/wiki/Tin_foil_hat) protect against cosmic rays
