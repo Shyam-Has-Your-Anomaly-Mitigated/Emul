@@ -9,3 +9,7 @@ _James Randi frequently attempts to overdoes on homeopathic medicine, and he's s
 no-contact Vulcan salutes, folded hands, bowing, ETC; instead of contaminated/compromised handshakes, hugs, kisses, ETC
 
 the cure for constipation: fruit, the natural [laxative](https://en.wikipedia.org/wiki/Laxative#Dietary_fiber)
+
+the cure for diarrhoea: diarrhoea is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
+
+the cure for emesis: emesis is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
