@@ -13,3 +13,5 @@ the cure for constipation: fruit, the natural [laxative](https://en.wikipedia.or
 the cure for diarrhoea: diarrhoea is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
 
 the cure for emesis: emesis is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
+
+the cure for headaches/migraines/ETC: [tin foil hats](https://en.wikipedia.org/wiki/Tin_foil_hat) protect against cosmic rays
