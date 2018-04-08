@@ -22,3 +22,4 @@ the cure for diarrhoea: diarrhoea is your body attempting to cure itself ([Hagri
 
 the cure for emesis: emesis is your body attempting to cure itself ([Hagrid](https://en.wikipedia.org/wiki/Better_Out_Than_In))
 
+### actually; fasting cures diarrhoea & emesis, and reduces the probable causes your body must investigate
