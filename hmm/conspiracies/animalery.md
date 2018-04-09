@@ -105,3 +105,7 @@ the intellectuals who invented the gun are responsible for the kill of the hunt;
 ...
 
 intellectuals set themselves apart from animals, and the rest of humanity pursue animalistic activities, whilst being trained in the use of intellectual contributions; without intellectuals, earth would be the planet of the apes.
+
+---
+
+[Theseus](https://youtu.be/PKMQzkIiB0Y?t=4m27s)
