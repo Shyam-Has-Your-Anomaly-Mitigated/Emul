@@ -108,4 +108,4 @@ intellectuals set themselves apart from animals, and the rest of humanity pursue
 
 ---
 
-[Theseus](https://youtu.be/PKMQzkIiB0Y?t=4m27s)
+[Theseus & Info Paradoxes](https://youtu.be/PKMQzkIiB0Y?t=4m27s)
