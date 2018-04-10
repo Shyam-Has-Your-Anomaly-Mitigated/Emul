@@ -1,0 +1,8 @@
+infix is bad ∵ `a+b+c+d+e+f+g` can factor out the mantra as `:+(,a,b,c,d,e,f,g)`
+prefix informs you what to apply on the box
+postfix is like piping ∴ better
+
+`f(g(x))` vs `((x)g)f)` ...the latter reminds me of lisp, and the user can decide which one to use (even infix); it's just a matter of configuration/preprocessing/ETC
+`f g x` vs `x.g.f` ...perls' OOP postfix is more ergonomic; but we may as well just `x|g|f`, and perl has the problem of `a.f(b)`; that's like `(- a b c d e f g)` in lisp
+
+it's better to slap a nāma on the box; `:+(,a,b,c,d,e,f,g)` becomes `:+(,x<0>)`
