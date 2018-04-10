@@ -60,6 +60,7 @@ JAB
 * undexing is `<empty<>>`
 * unscope/unscoped/unscoping
 * `otog`; `goto` in reverse (bring it to me, instead of me going to it; like the DME)
+* pointer
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
 * `[pattern<>][process<>][input<>][underflow<>][flow<>][overflow<>] 8<< [output<>]`
