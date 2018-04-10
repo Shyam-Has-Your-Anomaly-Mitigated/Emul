@@ -6,3 +6,5 @@ postfix is like piping ∴ ergonomic
 `f g x` vs `x.g.f` ...perls' OOP postfix is more ergonomic; but we may as well just `x|g|f`, and perl has the problem of `a.f(b)`; that's like `(- a b c d e f g)` in lisp
 
 it's better to slap a nāma on the box; `:+(,a,b,c,d,e,f,g)` becomes `:+(,x<0>)`
+
+I think Shyamscript will SOOTB-ly support some"-thing" like `:(,x<0>|:g|:f)`
