@@ -82,6 +82,8 @@
 		: draw(svg, scale8<d>8, 8<at>8 x, y, z, 8<c̄>8, r, g, b, a)
 		: draw(svg, 8<between>8, x_1, y_1, z_1, 8<∧>8, x_2, y_2, z_2, 8<c̄>8, r, g, b, a)
 	>8
+	
+	maths could be done c̄ Shyamscript; ,f(,x) vs :f(,x)
 
 I'm probably going to have to spend the better part of a decade designing my own font; unless I can use Dyslexie, Computer Modern, ETC (I'll check licensing when the time comes; it will probably be in the public domain by then, at the rate I'm going...)
 * Computer Modern Unicode is [good](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf) for dyslexia?
