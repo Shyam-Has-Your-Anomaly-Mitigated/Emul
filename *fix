@@ -7,4 +7,4 @@ postfix is like piping ∴ ergonomic
 
 it's better to slap a nāma on the box; `:+(,a,b,c,d,e,f,g)` becomes `:+(,x<0>)`
 
-I think Shyamscript will SOOTB-ly support some"-thing" like `:(,x<0>|:g|:f)`
+I think Shyamscript will SOOTB-ly support some"-thing" like `:(,x|:g|:f)`
