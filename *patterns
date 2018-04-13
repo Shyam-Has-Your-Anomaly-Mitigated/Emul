@@ -1,0 +1,35 @@
+base is probably binary...
+implementation_language(x) = implementation_language(str(x)) = implementation_language("x")
+
+base = perl6(base) ...or flip the bits RTFManually!!! :D
+base = base(base)
+base = base(assembly)
+base = assembly(assembly)
+base = assembly(language)
+base = language(language)
+base = language(a)
+base = a(a) ...abstract
+base = a(b)
+base = b(b) ...binary
+base = b(c)
+base = c(c) ...c...
+
+this repeating process should be automated
+where languages are described in a way
+that can generate instructions
+
+the easy part is `process $instructions`
+∵ the existence of some `process` is assumed
+
+a(b)
+b(b)
+b(c)
+
+but perl6(base) is just :2(/(0|1)+/) or :16(/(\d|a|b|c|d|e|f)?/i) or ETC
+hmm...
+describe language for implementation
+implementation must throw bugs at the user
+
+abstractions vs material consideration
+types; at the end of the day it's all just the same binary "-thing"
+instructions; they actually do "-thing"s
