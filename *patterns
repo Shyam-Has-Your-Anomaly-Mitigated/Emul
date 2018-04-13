@@ -12,7 +12,7 @@ base = a(a) ...abstract
 base = a(b)
 base = b(b) ...binary
 base = b(c)
-base = c(c) ...c...
+base = c(c) ...compilation...
 
 this repeating process should be automated
 where languages are described in a way
