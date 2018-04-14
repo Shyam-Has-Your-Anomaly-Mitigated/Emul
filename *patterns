@@ -25,7 +25,7 @@ a(b)
 b(b)
 b(c)
 
-but perl6(base) is just :2(/(0|1)+/) or :16(/(\d|a|b|c|d|e|f)?/i) or ETC
+but perl6(base) is just :2(/(0|1)+/) or :16(/(\d|a|b|c|d|e|f)+/i) or ETC
 hmm...
 describe language for implementation
 implementation must throw bugs at the user
