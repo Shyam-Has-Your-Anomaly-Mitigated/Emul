@@ -33,3 +33,5 @@ implementation must throw bugs at the user
 abstractions vs material consideration
 types; at the end of the day it's all just the same binary "-thing"
 instructions; they actually do "-thing"s
+
+if software can be understanding, it should be able to automate docommentation
