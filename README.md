@@ -49,7 +49,7 @@ That is `CE 2017-November-06`.
 <br>Do I care?
 <br>CBF.
 <br>
-<br>I don't like subtraction, nor division, in the format...
+<br>I don't like subtraction, nor division, in the format... (slashes & dashes are the most common formats)
 
 	[; "HE"; [; 12017_10; 11_10; 06.2460601000_10]; "(-7 days ago)"]
 	[; "HE"; [; 12017_10; 11_10; 06.2460601000_10]; "(less than -7 days ago)"]
