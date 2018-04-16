@@ -9,5 +9,6 @@ balancing acts can be handled by (EG)...
 probably better to /:balance(,LHS, MIDDLE, RHS)/
 but what about /:tralance(,LHS, LMS, MHS, RMS, RHS)/ ?
 for /:tralance(,"/",".*","/",[,".*","/"],"?")/
+it's harder when you start escaping
 
 r-expressions should be made turing complete; then Shyamscript could be implemented in r-expressions!!! :D
