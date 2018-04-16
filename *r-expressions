@@ -4,7 +4,7 @@
 "()()" wouldn't work though
 
 balancing acts can be handled by (EG)...
-/:balance(,"(",")","(.*)")/ where "(.*)" is a groupie
-/:balance(,LHS,RHS,PATTERN)/ where :balance() is a placeholder for some"-thing" else syntactically, or not
+/:balance(,"\w(",")","(.*)")/ where "(.*)" is a groupie
+/:balance(,LHS,RHS,MIDDLE)/ where :balance() is a placeholder for some"-thing" else syntactically, or not
 
 r-expressions should be made turing complete
