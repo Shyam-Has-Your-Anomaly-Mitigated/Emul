@@ -1,0 +1,8 @@
+:f(list) 8≪ variadic functions by default; a linguistic hack that works in any language that supports higher-order lists (or is that metalists? YKWIM!)
+
+8<
+	https://en.wikipedia.org/wiki/Variadic_function
+	"Support for variadic functions differs widely among programming languages."
+	
+	I don't believe it!
+>8
