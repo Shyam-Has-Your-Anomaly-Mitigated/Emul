@@ -14,3 +14,10 @@ it's harder when you start escaping, stringing, and ETC
 but precedence can handle it; just balance strings first, and then curvies (or is it the other way around? probably needs to be paired, or some"-thing")
 
 r-expressions should be made turing complete; then Shyamscript could be implemented in r-expressions!!! :D
+
+...
+
+/1\+1/2/
+/5\-3/2/
+/0\*1/0/
+with a long enough list (infinity), you have maths
