@@ -20,4 +20,4 @@ r-expressions should be made turing complete; then Shyamscript could be implemen
 /1\+1/2/
 /5\-3/2/
 /0\*\d/0/
-with a long enough list/time/ETC (infinity), you have maths
+with a long enough (∞) list/time/ETC, you have maths
