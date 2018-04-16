@@ -7,4 +7,4 @@ balancing acts can be handled by (EG)...
 /:balance(,"\w(",")","(.*)")/ where "(.*)" is a groupie
 /:balance(,LHS,RHS,MIDDLE)/ where :balance() is a placeholder for some"-thing" else syntactically, or not
 
-r-expressions should be made turing complete
+r-expressions should be made turing complete; then Shyamscript could be implemented in r-expressions!!! :D
