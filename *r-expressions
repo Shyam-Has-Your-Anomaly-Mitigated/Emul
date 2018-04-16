@@ -1,0 +1,8 @@
+/^.*$/ is just a list, and could be ,[,"^",".*","$"] or ,[,"^.*$"] or ETC
+
+"(())" nesting would be easy to say (EG) /\(←.*\)→/
+"()()" wouldn't work though
+
+balancing acts can be handled by (EG) /balance(,"(",")","(.*)")/ where "(.*)" is a groupie
+
+r-expressions should be made turing complete
