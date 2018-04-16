@@ -1,6 +1,6 @@
 /^.*$/ is just a list, and could be ,[,"^",".*","$"] or ,[,"^.*$"] or ETC
 
-"(())" nesting would be easy to say (EG) /(.*\(←.*\).*→){2}/
+"(())" nesting would be easy to say (EG) /(\(←.*\)→){2}/
 "()()" wouldn't work though
 
 balancing acts can be handled by (EG) /balance(,"(",")","(.*)")/ where "(.*)" is a groupie
