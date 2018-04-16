@@ -1,0 +1,17 @@
+either store the file as a string/ETC inside the code (encode the file); or just syntactically format the file externally, and `cat` it to the code
+
+you can change the code, you can change the file; what's the difference?
+
+function arguments/parameters can change, and are no different than commandline arguments/parameters; you can treat a file as a function, and the world as your oyster/program
+
+types control arguments/parameters
+
+you could use types to control input, since output is a pointless exercise; reading a file, or user input, could give a string, a number, some other (syntactic?) format, ETC
+
+just use types; no need for moronic monads
+
+let strings be strings; let ETC be ETC
+
+have your cake, and eat it too
+
+mind over monads? I'm over monads!
