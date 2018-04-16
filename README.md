@@ -49,9 +49,11 @@ That is `CE 2017-November-06`.
 <br>Do I care?
 <br>CBF.
 <br>
-<br>I don't like subtraction in the format...
+<br>I don't like subtraction, nor division, in the format...
 
 	[; "HE"; [; 12017_10; 11_10; 06.2460601000_10]; "(-7 days ago)"]
+	[; "HE"; [; 12017_10; 11_10; 06.2460601000_10]; "(less than -7 days ago)"]
+	[; "HE"; [; 12017_10; 11_10; 06.2460601000_10]; "(greater than 1 second/minute/hour/day/week/month/year/decade/century/millenia/ETC ago)"]
 
 # Yuser license.
 IDK; this is in my SEP field for now...
