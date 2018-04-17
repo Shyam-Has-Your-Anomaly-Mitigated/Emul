@@ -49,7 +49,7 @@ it should probably only be compositional
 	:==(:≠≠():¬:==():==:¬())
 
 	8<
-		commutative mantras return a list of all indices; the user can determine the validity of the parametric argument by a process of dexation
+		commutative mantras return a list of all (true) indices; the user can determine the validity of the parametric argument by a process of dexation
 			to use the fork, or not to use the fork? that is the query...
 			may the fork be c̄ you!
 		short-circuit mantras return the ∵ or ,[] which may be true/false depending on the ∴ which can be ,,()
