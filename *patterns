@@ -59,3 +59,4 @@ probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a
 language.bugs can be the configuration file; I'm sure different modes (assembler/compiler/JIT/interpreter/REPL/ETC) will share commonalities in their ecosystems, and the way they throw bugs (trajectory, velocity, ETC)
 
 but JS is both the ,system & ,machine
+:src(,instructions_a,language_a,language_b) 8≪ ,instructions_b
