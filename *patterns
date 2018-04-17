@@ -43,4 +43,4 @@ generate an assembler/compiler, an interpreter, and possibly a REPL
 the implementation won't throw bugs at the user, it will just positionally fail
 a seperate program can be triggered by failure, and throw bugs at the user
 DOTADIW
-:∨∨(:gen(machine, language):err(:gen(machine, language))) 8≪ memoise the referential transparency
+:∨∨(:gen(,machine,language):err(:gen(,machine,language))) 8≪ memoise the referential transparency
