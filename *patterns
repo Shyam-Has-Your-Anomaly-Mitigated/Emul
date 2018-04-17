@@ -61,3 +61,5 @@ language.bugs can be the configuration file; I'm sure different modes (assembler
 but JS is both the ,system & ,machine
 :src(,instructions_a,language_a,language_b) 8≪ ,instructions_b
 comments are in my SEP field; they should be useful, but I'll probably just KISS them to death (my death)
+
+higher-order hierarchical abstract machines are an interesting concept...
