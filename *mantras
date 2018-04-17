@@ -2,7 +2,7 @@
 
 :nāmamantra(
 	,mantra 8≪ referentially opaque
-	:mantra 8≪ referentially transparent
+	:mantra 8≪ referentially transparent by a (manual) process called memoisation; but no time/IO/RNG/ETC will automemoise
 )
 
 8<
