@@ -47,3 +47,4 @@ DOTADIW
 probably need :gen(,system,machine,language) but I only know Linux...
 ,machine can be virtual
 ,language can be not Shyamscript
+bugs are in my SEP field; they should be useful, but I'll probably KISS it to death (my death)
