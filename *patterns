@@ -54,4 +54,6 @@ wait, the final implementation needs to throw bugs; so just wrap it up
 ...
 should be able to choose between interpreter VS JIT; but compiler-to-JIT is trivial
 
-probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a single configurable processor c̄ commandline arguments/parameters 
+probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a single configurable/modal processor c̄ commandline arguments/parameters 
+:processor(,language,system,machine)
+language.bugs can be the configuration file; I'm sure different modes (assembler/compiler/JIT/interpreter/REPL/ETC) will share commonalities in their ecosystems, and the way they throw bugs (trajectory, velocity, ETC)
