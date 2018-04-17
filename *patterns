@@ -45,3 +45,5 @@ a seperate program can be triggered by failure, and throw bugs at the user
 DOTADIW
 :∨∨(:gen(,machine,language):err(:gen(,machine,language))) 8≪ memoise the referential transparency
 probably need :gen(,system,machine,language) but I only know Linux...
+,machine can be virtual
+,language can be not Shyamscript
