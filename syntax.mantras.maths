@@ -56,8 +56,9 @@ it should probably only be compositional
 			∧ vs ⋀ vs ⋏
 			∨ vs ⋁ vs ⋎
 
-			commutative mantras return a list of all true indices
-			short-circuit mantras return the ∵ or ,[] which may be true/false depending on the ∴ which can be ,,()
+			∧ ∧∧ ∨ ∨∨
+				commutative mantras return a list of all true indices
+				short-circuit mantras return the ∵ or ,[] which may be true/false depending on the ∴ which can be ,,()
 		>8
 
 		8< https://en.wikipedia.org/wiki/Commutative_property >8
