@@ -38,3 +38,9 @@ if software can be understanding, it should be able to automate docommentation; 
 
 (i)'tis but the cycle of linguistic evolution: a(b) → b(b) → b(c) ...where letters represent different versions of the langauge on a tempoℝæl axis
 I can see why so many languages are implemented in C, and other languages; they are just avoiding/ignoring the problem
+
+generate an assembler/compiler, an interpreter, and possibly a REPL
+the implementation won't throw bugs at the user, it will just positionally fail
+a seperate program can be triggered by failure, and throw bugs at the user
+DOTADIW
+:∨∨(:gen(machine, language):err(:gen(machine, language))) 8≪ memoise the referential transparency
