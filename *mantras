@@ -1,5 +1,5 @@
 8≪ the official convention is
-, a, b, c, d, e: f: g, h, i, j, k, l, m, n, o, p, q, r, s
+, a, b, c, d, e: f(): g(), h, i, j, k, l, m, n, o, p, q, r, s
 
 :mahāmantra(,mahāmantra,dex) 8≪ where ,dex is the addressable program counter
 
