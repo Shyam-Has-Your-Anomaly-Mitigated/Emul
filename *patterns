@@ -57,3 +57,5 @@ should be able to choose between interpreter VS JIT; but compiler-to-JIT is triv
 probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a single configurable/modal processor c̄ commandline arguments/parameters 
 :processor(,language,system,machine)
 language.bugs can be the configuration file; I'm sure different modes (assembler/compiler/JIT/interpreter/REPL/ETC) will share commonalities in their ecosystems, and the way they throw bugs (trajectory, velocity, ETC)
+
+but JS is both the ,system & ,machine
