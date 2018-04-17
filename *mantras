@@ -8,14 +8,14 @@
 8<
 	there can only be one ,mantra per ,nāma
 >8
-:@(,nāma_a,nāma_b,nāma_c) 8≪ ,mantra_a,mantra_b,mantra_c
+:@(,nāma_a,nāma_b,nāma_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
 
  8<
  	there can be multiple ,nāmas per ,mantra
 	but the dex/address should be included c̄ each ,nāma
 	like a file path, where scopes are directories
 >8
-:#(,mantra_a,mantra_b,mantra_c) 8≪ ,nāmas_a,nāmas_b,nāmas_c
+:#(,mantra_a,mantra_b,mantra_c) 8≪ ,[,nāmas_a,nāmas_b,nāmas_c]
 
 8<
 	we need a mantra that will
@@ -32,7 +32,7 @@
 	
 	where there is ambiguity; minification will leave the whitespace alone
 >8
-,,(,mantra_a,mantra_b,mantra_c) 8≪ ,mantra_a,mantra_b,mantra_c
-,,(:mantra_a:mantra_b:mantra_c) 8≪ ,mantra_a,mantra_b,mantra_c
-::(,mantra_a,mantra_b,mantra_c) 8≪ :mantra_a:mantra_b:mantra_c
-::(:mantra_a:mantra_b:mantra_c) 8≪ :mantra_a:mantra_b:mantra_c
+,,(,mantra_a,mantra_b,mantra_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
+,,(:mantra_a:mantra_b:mantra_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
+::(,mantra_a,mantra_b,mantra_c) 8≪ ,[:mantra_a:mantra_b:mantra_c]
+::(:mantra_a:mantra_b:mantra_c) 8≪ ,[:mantra_a:mantra_b:mantra_c]
