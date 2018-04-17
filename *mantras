@@ -1,3 +1,5 @@
+:mahāmantra(,mahāmantra,dex) 8≪ where ,dex is the addressable program counter
+
 :nāmamantra(
 	,mantra 8≪ referentially opaque
 	:mantra 8≪ referentially transparent
@@ -20,4 +22,13 @@
 	access the ,mantra
 	access the :mantra
 	for any given :mantra ∨ ,mantra
+	
+	, ,()
+	: :()
+	...if it was...
+	,, ()
+	:: ()
+	...where is the nāma? q:
 >8
+,,(mantra) 8≪ ,mantra
+::(mantra) 8≪ :mantra
