@@ -53,3 +53,5 @@ wait, the final implementation needs to throw bugs; so just wrap it up
 :err(:gen(,system,machine,language))
 ...
 should be able to choose between interpreter VS JIT; but compiler-to-JIT is trivial
+
+probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a single configurable processor c̄ commandline arguments/parameters 
