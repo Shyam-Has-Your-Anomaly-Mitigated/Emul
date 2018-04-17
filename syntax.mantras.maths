@@ -47,7 +47,14 @@ it should probably only be compositional
 ,[
 	:=(:≠():¬:=():=:¬())
 	:==(:≠≠():¬:==():==:¬())
-	
+
+	8<
+		commutative mantras return a list of all true indices
+			to use the fork, or not to use the fork? that is the query...
+			may the fork be c̄ you!
+		short-circuit mantras return the ∵ or ,[] which may be true/false depending on the ∴ which can be ,,()
+	>8
+
 	,[
 		8<
 			https://en.wikipedia.org/wiki/Template:Logical_connectives
@@ -55,12 +62,6 @@ it should probably only be compositional
 
 			∧ vs ⋀ vs ⋏
 			∨ vs ⋁ vs ⋎
-
-			∧ ∧∧ ∨ ∨∨
-				commutative mantras return a list of all true indices
-					to use the fork, or not to use the fork? that is the query...
-					may the fork be c̄ you!
-				short-circuit mantras return the ∵ or ,[] which may be true/false depending on the ∴ which can be ,,()
 		>8
 
 		8< https://en.wikipedia.org/wiki/Commutative_property >8
