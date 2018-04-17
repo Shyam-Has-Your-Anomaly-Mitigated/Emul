@@ -1,0 +1,23 @@
+:nāmamantra(
+	,mantra 8≪ referentially opaque
+	:mantra 8≪ referentially transparent
+)
+
+8<
+	there can only be one ,mantra per ,nāma
+>8
+:@(,nāma) 8≪ ,mantra
+
+ 8<
+ 	there can be multiple ,nāmas per ,mantra
+	but the dex/address should be included c̄ each ,nāma
+	like a file path, where scopes are directories
+>8
+:#(,mantra) 8≪ ,nāmas
+
+8<
+	we need a mantra that will
+	access the ,mantra
+	access the :mantra
+	for any given :mantra ∨ ,mantra
+>8
