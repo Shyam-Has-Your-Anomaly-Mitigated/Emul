@@ -57,6 +57,14 @@ should be able to choose between interpreter VS JIT; but compiler-to-JIT is triv
 probably better to just merge assembler/compiler/JIT/interpreter/REPL/ETC into a single configurable/modal processor c̄ commandline arguments/parameters 
 :processor(,language,system,machine)
 language.bugs can be the configuration file; I'm sure different modes (assembler/compiler/JIT/interpreter/REPL/ETC) will share commonalities in their ecosystems, and the way they throw bugs (trajectory, velocity, ETC)
+`shyam shyamscript repl`
+`shyam shyamscript interpret $file`
+`shyam shyamscript jit $file`
+`shyam shyamscript compile $file`
+`shyam shyamscript $ETC $file`
+flags/options/ETC are in `$config`
+no need for `-r *`; `$file` should lead to (recursive/circular/ETC) dependencies
+`$config` should have (sub)directories to `-r *`; for arbitrary `$address/$input` (like the perl wrapper; `~/bin/shyam/$input`)
 
 but JS is both the ,system & ,machine
 :src(,instructions_a,language_a,language_b) 8≪ ,instructions_b
