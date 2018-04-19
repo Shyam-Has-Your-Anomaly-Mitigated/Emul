@@ -19,3 +19,5 @@ mind over monads? I'm over monads!
 lets be ℝealistic; either that, or use monads for arguments/parameters
 
 argument/parameter types, file types/formats, mime types, ETC types...
+
+all string types should be formattable; arguments/parameters, user/file/ETC input/output, ETC
