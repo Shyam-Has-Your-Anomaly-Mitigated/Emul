@@ -1,9 +1,9 @@
 # [planning for an optimal future](https://youtu.be/-hFk6FDrZBc)
 
-## [ahiṃsā](https://www.vedabase.com/en/bg/9/26)
+## ahiṃsā
 * no killing animals (including humans; except in times of war...for ["self defence"](https://www.vedabase.com/en/sb/10/1/48)), and plants
 	* bamboo can be used as a source of wood without killing the plant; this is why "no kill", instead of "no harm"
-* @BG9.26: Kṛṣṇa said to consume "patraṁ puṣpaṁ phalaṁ toyaṁ" (leaf, ﬂower, fruit, and water); no other parts of the plant (EG roots, shoots, and bark)
+* [@BG9.26](https://www.vedabase.com/en/bg/9/26): Kṛṣṇa said to consume "patraṁ puṣpaṁ phalaṁ toyaṁ" (leaf, ﬂower, fruit, and water); no other parts of the plant (EG roots, shoots, and bark)
 * robots can farm without harm
 * robots can transplant plants for contruction/infrastructure/ETC
 * if your culture/religion/ETC requires animal/plant sacrifice, then mine requires human sacrifice (yours)
