@@ -62,6 +62,6 @@ but JS is both the ,system & ,machine
 :src(,instructions_a,language_a,language_b) 8≪ ,instructions_b
 comments are in my SEP field; they should be useful, but I'll probably just KISS them to death (my death)
 ,instructions can be in any format; higher-order lists, strings, numbers (any base), ETCs...
-,languages can be any language; brainfuck, whitespace, piet, ETC
+,languages can be any language; Shyamscript, JS, machine instructions, assembly, brainfuck, whitespace, piet, ETC
 
 higher-order hierarchical abstract machines are an interesting concept...
