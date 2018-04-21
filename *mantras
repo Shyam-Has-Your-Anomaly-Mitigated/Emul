@@ -1,4 +1,5 @@
 :mahāmantra(,mahāmantra,dex) 8≪ where ,dex is the addressable program counter
+:mahāmantra() 8≪ ,mahāmantra
 
 :nāmamantra(
 	,mantra 8≪ referentially opaque
