@@ -1,0 +1,6 @@
+the opposite of dexing; file writing, user output, network outgoing, GUI framing, ETC...
+
+GUI
+pixel representation: xed a frame should be the only GUI mantra
+pixel retrieval: we already have the box of pixels before it gets framed, so it's not a GUI mantra; a generic dexing mantra
+pixel manipulation is before framing the box of pixels; a generic box manipulation (xed(d)ing) mantra
