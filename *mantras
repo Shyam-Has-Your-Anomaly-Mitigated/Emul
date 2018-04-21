@@ -36,7 +36,5 @@
 	
 	where there is ambiguity; minification will leave the whitespace alone
 >8
-,,(,mantra_a,mantra_b,mantra_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
-,,(:mantra_a:mantra_b:mantra_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
-::(,mantra_a,mantra_b,mantra_c) 8≪ ,[:mantra_a:mantra_b:mantra_c]
-::(:mantra_a:mantra_b:mantra_c) 8≪ ,[:mantra_a:mantra_b:mantra_c]
+,,(,mantra_a:mantra_b) 8≪ ,[,mantra_a,mantra_b]
+::(,mantra_a:mantra_b) 8≪ ,[:mantra_a:mantra_b]
