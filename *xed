@@ -13,10 +13,10 @@ we could probably use curlies/backticks/ETC
 `[change_the_world_for_an_optimal_future],world
 
 or just...
-:xed_gui(,probably_a_window)
-:xed_cmd(,probably_a_multiplexed_window_and_slash_or_tab)
-:xed_web(,probably_a_string_or_multidirectorial_boxes)
-:xed_file(,probably_a_string_or_multidirectorial_boxes)
+:xed_gui(,box,probably_a_window)
+:xed_cmd(,box,probably_a_multiplexed_window_and_slash_or_tab)
+:xed_web(,box,probably_a_string_or_multidirectorial_boxes)
+:xed_file(,box,probably_a_string_or_multidirectorial_boxes)
 ...
 :xed_net() & :xed_file() could just be the same mantra
 :xed_cmd() & :xed_gui() could just be the same mantra
