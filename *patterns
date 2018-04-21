@@ -68,7 +68,7 @@ no need for `-r *`; `$file` should lead to (recursive/circular/ETC) dependencies
 `$config` can configure (sub)directories/files/ETC to be processed as monolithic, or modular/standalone; if it doesn't fit in RAM, there's a plan...
 "can't fit the whole program into RAM? just write a small program to REPL the program line-by-line from file"
 ,machines can be physical/virtual/abstract/ETC
-,systems are probably just system calls/resources, libraries/APIs, ETC
+,systems are probably just system calls/resources, libraries/APIs, ETC ... ,systems can also be optional; just :=(,system, [])
 
 but JS is both the ,system & ,machine
 :src(,instructions_a,language_a,language_b) 8≪ ,instructions_b
