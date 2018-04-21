@@ -5,3 +5,8 @@ pixel representation: xed a frame should be the only GUI mantra
 pixel retrieval: we already have the box of pixels before it gets framed, so it's not a GUI mantra; a generic dexing mantra
 pixel manipulation is before framing the box of pixels; a generic box manipulation (xed(d)ing) mantra
 ...IDK; I don't like how I've thought about GUI in the past, and I don't like "that" "kind" of "DSL"...
+
+we could probably use curlies/backticks/ETC
+,[]{no_concept_of_how_this_would_or_should_work_yet}
+,world`[change_the_world_for_an_optimal_future]
+`[change_the_world_for_an_optimal_future],world
