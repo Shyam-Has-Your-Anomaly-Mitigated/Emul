@@ -44,4 +44,4 @@
 	8≪ It can be applied to design a new type of wiki, or some"-thing"...lots of ideas!!! :D
 	8≪ Deductive databases & natural language processing & ETC; makes all the sense in the world for wikis...but only if it's boxed c̄ Shyamscript!!! :D
 
-there needs to be three possible outputs; halts (formally verified), eter-nity (indian accent), paradox (∑ℕ=-12⟌1)
+there needs to be three possible outputs; halts (formally verified), eter-nity (indian accent), paradox (∑ℕ=-12⟌1 ...or... ∑(-1)ᵍ=2⟌1)
