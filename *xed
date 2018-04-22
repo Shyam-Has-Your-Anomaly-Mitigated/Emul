@@ -11,7 +11,7 @@ types of DSLs:
 	1. improve readability (the kind I don't like; I prefer to be disillusioned)
 	2. improve productivity (this can also improve readability c̄ elegance)
 1. renāmȧng mantras/ETC doesn't make it a new language; I already know the underlying language, so why should I need to relearn what I already know?
-2. macros/preprocessors/metaprogramming (EG: Abstract Syntactic Manipulation) ...perl6 junctions
+2. macros/preprocessors/metaprogramming (EG: Abstract Syntactic Manipulation) ...logic chains, perl6 junctions, ETC
 
 we could probably use curlies/backticks/ETC
 ,[]{no_concept_of_how_this_would_or_should_work_yet}
