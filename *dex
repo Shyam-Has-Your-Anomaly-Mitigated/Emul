@@ -1,5 +1,6 @@
 https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths
 dexing is relative unless...
-:mahāmantra()<absolute>
+:mahāmantra()<,absolute>
+.[,absolute]:mahāmantra()
 
 a preprocessor can throw bugs at the user for unscoped/global/ETC dexing; but I willn't use it... (I'll use the one that scopes "barewords"; which is yet another dexing preprocessor...)
