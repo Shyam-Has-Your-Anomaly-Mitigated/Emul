@@ -28,3 +28,9 @@ or just...
 :xed_cmd() & :xed_gui() could just be the same mantra
 
 a better operating system would just have windows & consoles & ETC stored as files in directories
+
+appending to a file/ETC
+file is a, other "-thing"s are b, pointer is uppercase, each letter is a bit, bytes are in 3s
+bbbaaabbb
+bbbaaAbbbaaaa
+no need to restore prestored bits
