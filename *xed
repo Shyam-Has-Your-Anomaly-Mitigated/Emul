@@ -37,3 +37,4 @@ no need to restore prestored bits
 this can be automatic/configurable
 defragmentation (re)factors out the pointers, right? (is that short for "am I right?" & "is it right?" & ETC?)
 an optimal operating system would do this in the background when it has no"-thing" better to do (idling/ETC)
+no need for file pointers; put them in the filesystem lookup table (fstab?) instead (metadata as a singly/ETC linked list?)
