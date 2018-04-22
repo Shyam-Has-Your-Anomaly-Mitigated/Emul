@@ -7,7 +7,7 @@ pixel retrieval: we already have the box of pixels before it gets framed, so it'
 pixel manipulation is before framing the box of pixels; a generic box manipulation (xed(d)ing) mantra
 ...IDK; I don't like how I've thought about GUI in the past, and I don't like "that" "kind" of "DSL"...
 I don't want to have to memorise more than I have to (of the same "-thing"; DRY disillusionment); KISS it to death (users can always DIY/share "DSL" libraries)
-DSLs
+types of DSLs:
 	1. improve readability (the kind I don't like; I prefer to be disillusioned)
 	2. improve productivity (this can also improve readability c̄ elegance)
 
