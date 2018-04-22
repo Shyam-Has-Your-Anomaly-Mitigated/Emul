@@ -6,6 +6,10 @@ pixel representation: xed a frame should be the only GUI mantra
 pixel retrieval: we already have the box of pixels before it gets framed, so it's not a GUI mantra; a generic dexing mantra
 pixel manipulation is before framing the box of pixels; a generic box manipulation (xed(d)ing) mantra
 ...IDK; I don't like how I've thought about GUI in the past, and I don't like "that" "kind" of "DSL"...
+I don't want to have to memorise more than I have to (of the same "-thing"; DRY disillusionment); KISS it to death (users can always DIY/share "DSL" libraries)
+DSLs
+	1. improve readability (the kind I don't like; I prefer to be disillusioned)
+	2. improve productivity (this can also improve readability c̄ elegance)
 
 we could probably use curlies/backticks/ETC
 ,[]{no_concept_of_how_this_would_or_should_work_yet}
