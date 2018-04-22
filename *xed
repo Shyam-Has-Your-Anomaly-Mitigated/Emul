@@ -40,3 +40,4 @@ an optimal operating system would do this in the background when it has no"-thin
 no need for file pointers; put them in the filesystem lookup table instead (metadata as a singly/ETC linked list?)
 IDK; maybe it's optimal to have file pointers & a ␀/\0/ETC, instead of fstab pointers/ranges/ETC
 fstab pointers/ranges/ETC allow any"-thing" to be stored ∴ more usable
+usability VS efficiency
