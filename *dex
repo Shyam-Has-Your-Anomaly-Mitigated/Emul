@@ -6,5 +6,5 @@ dexing is relative unless...
 a preprocessor can throw bugs at the user for unscoped/global/ETC dexing; but I willn't use it... (I'll use the one that scopes "barewords"; which is yet another dexing preprocessor...)
 
 external dexing of files/webpages/ETC
-quantise at the lowest common denominator; probably at the byte-level (or however it's stored locally)
+quantise at the lowest common denominator; probably at the byte-level (or however it's stored locally/remotely/ETC; YKWIM!)
 mantras can be used to read line-by-line, unicode/ETC character-by-character, ETC
