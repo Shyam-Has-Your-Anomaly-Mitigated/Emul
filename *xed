@@ -34,4 +34,4 @@ file is a, other "-thing"s are b, pointer is uppercase, each letter is a bit, by
 bbbaaabbb
 bbbaaAbbbaaaa
 no need to restore prestored bits
-this can be automatic
+this can be automatic/configurable
