@@ -29,8 +29,9 @@ or just...
 
 a better operating system would just have windows & consoles & ETC stored as files in directories
 
-appending to a file/ETC
+appending/prepending/ETC to a file/ETC
 file is a, other "-thing"s are b, pointer is uppercase, each letter is a bit, bytes are in 3s
 bbbaaabbb
 bbbaaAbbbaaaa
 no need to restore prestored bits
+this can be automatic
