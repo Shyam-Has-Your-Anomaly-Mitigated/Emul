@@ -1,0 +1,32 @@
+8<
+	https://en.wikipedia.org/wiki/Decision_table
+	tdt = typed decision tables
+	udt = untyped decision tables
+>8
+
+:type(
+	,[,namespace,data]
+	,[,"bool",[,"⊤","⊥"]]
+)
+
+8<
+	https://en.wikipedia.org/wiki/Interval_(mathematics)
+	interval notation for "-thing"s like temperature/humidity/ETC
+	Wikipedia just has integers; I thought about logic chains, but I think interval notation is better...
+>8
+:=("(श्याम,श्याम)","(-श्याम,+श्याम)")
+
+:tdt(
+	,[,predicates,instructions]
+	,[
+		,[
+			,[,query,type,table]
+			,[,"slept by midnight",bool,[,⊤,⊥]]
+		],[
+			,[,message,table]
+			,[,mantra,table]
+			,[,"FTW",[,T,⊥]]
+			,[,"WTF",[,⊥,T]]
+		]
+	]
+)
