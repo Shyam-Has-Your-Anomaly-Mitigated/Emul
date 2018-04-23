@@ -21,6 +21,13 @@
 >8
 :=("(श्याम,श्याम)","(-श्याम,+श्याम)")
 
+8<
+	,tables must be exhaustive (catchalls are supported)
+	,[
+		,[a,b,c,¿?]
+		,[x,y,z,¿?]
+	]
+>8
 :tdt(
 	,[,predicates,instructions]
 	,[
