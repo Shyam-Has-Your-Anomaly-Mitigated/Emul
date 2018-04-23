@@ -2,6 +2,14 @@
 	https://en.wikipedia.org/wiki/Decision_table
 	tdt = typed decision tables
 	udt = untyped decision tables
+	
+	there's no need for :udt()
+	just do this to your predicates...
+	,[
+		,[,message_a,type_a,table_a]
+		,[,message_a,type_b,table_b]
+	]
+	
 >8
 
 :nāma(
