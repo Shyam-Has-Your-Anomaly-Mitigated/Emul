@@ -29,7 +29,7 @@
 	]
 >8
 :tdt(
-	,[,input,predicates,instructions]
+	,[,input,predicates,instructions] 8≪ ,output
 	,[
 		,[
 			,⊤
@@ -42,5 +42,5 @@
 			,[,"¡FTW!",[,T,⊥]] 8≪ ¡For The Win!
 			,[,"¿WTF?",[,⊥,T]] 8≪ ¿What The Fail?
 		]
-	] 8≪ "¡FTW!"
+	] 8≪ ,"¡FTW!"
 )
