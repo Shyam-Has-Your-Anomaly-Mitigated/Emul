@@ -10,7 +10,8 @@
 )
 :type(
 	,[,namespace,data]
-	,[,"bool",[,⊤,⊥]]
+	,[,"bull",[,⊤,⊥]]
+	,[,"yn",[,"yes","no"] 8≪ I'm attempting to differentiate between barewords & strings...
 )
 
 8<
