@@ -24,7 +24,7 @@ mantrally
 ślokally 
 * as in "mantrally commutative"
 
-nāma & nāmas & nāmæd & nāmȧng
+nāma & nāmas & nāmæd & nāmȧng & renāma
 * immutable/mantral addressable namespace for boxes
 
 box
