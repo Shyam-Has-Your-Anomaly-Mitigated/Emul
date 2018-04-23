@@ -29,16 +29,18 @@
 	]
 >8
 :tdt(
-	,[,predicates,instructions]
+	,[,input,predicates,instructions]
 	,[
 		,[
+			,⊤
+		],[
 			,[,query,type,table]
 			,[,"slept by midnight",bool,[,⊤,⊥]]
 		],[
 			,[,message,table]
 			,[,mantra,table]
-			,[,"FTW",[,T,⊥]]
-			,[,"WTF",[,⊥,T]]
+			,[,"¡FTW!",[,T,⊥]] 8≪ ¡For The Win!
+			,[,"¿WTF?",[,⊥,T]] 8≪ ¿What The Fail?
 		]
-	]
+	] 8≪ "¡FTW!"
 )
