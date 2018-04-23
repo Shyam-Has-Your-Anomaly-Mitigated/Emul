@@ -22,7 +22,7 @@
 :=("(श्याम,श्याम)","(-श्याम,+श्याम)")
 
 8<
-	,tables must be exhaustive (catchalls are supported)
+	,tables must be exhaustive (catchalls are supported) & are imperatively right-to-left & top-down
 	,[
 		,[a,b,c,¿?]
 		,[x,y,z,¿?]
