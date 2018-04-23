@@ -91,6 +91,7 @@ DOTADIW & :optimise() after :src() & :processor()
 :optimise(,[,instructions,language],[,instructions,system,machine])
 ...probably want to...
 :optimise(,[,language,[,instructions_a,instructions_b]],[,system,machine,[,instructions_c,instructions_d]])
+goodluck optimising "-thing"s like :+() for various optimised/unoptimised numerical formats (list, n-ary base, custom, ETC)
 
 I'll probably renāma :processor() to :lpu() for language processing unit
 
