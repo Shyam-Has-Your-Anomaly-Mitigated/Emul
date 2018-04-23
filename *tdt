@@ -43,7 +43,7 @@
 			,⊤
 		],[
 			,[,query,type,table]
-			,[,"slept by midnight",bool,[,⊤,⊥]]
+			,[,"slept by midnight",bull,[,⊤,⊥]]
 		],[
 			,[,message,table]
 			,[,mantra,table]
