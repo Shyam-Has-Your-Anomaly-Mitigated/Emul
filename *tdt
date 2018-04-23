@@ -25,7 +25,7 @@
 8<
 	https://en.wikipedia.org/wiki/Interval_(mathematics)
 	interval notation for "-thing"s like temperature/humidity/ETC
-	Wikipedia just has integers; I thought about logic chains, but I think interval notation is better...
+	Wikipedia just has integers; I thought about logic chains, but I think interval notation is better... a<nāma<z
 >8
 :=("(श्याम,श्याम)","(-श्याम,+श्याम)") 8≪ the comma in the notation is zero
 
@@ -52,3 +52,7 @@
 		]
 	] 8≪ ,"¡FTW!"
 )
+
+8<
+	,queries can be used in ,tables
+>8
