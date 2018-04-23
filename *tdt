@@ -6,8 +6,8 @@
 	there's no need for :udt()
 	just do this to your predicates...
 	,[
-		,[,message_a,type_a,table_a]
-		,[,message_a,type_b,table_b]
+		,[,query_a,type_a,table_a]
+		,[,query_a,type_b,table_b]
 	]
 	
 >8
