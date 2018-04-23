@@ -18,7 +18,7 @@
 )
 :type(
 	,[,namespace,data]
-	,[,"bs",[,⊤,⊥]] 8≪ bs ← bull ← bool ← boolean algebra ← George Boole
+	,[,"bs",[,⊤,⊥]] 8≪ bs ← bull ← bool ← boolean algebra ← George Boole (lie detector)
 	,[,"yn",[,"yes","no"] 8≪ I'm attempting to differentiate between barewords & strings...
 )
 
