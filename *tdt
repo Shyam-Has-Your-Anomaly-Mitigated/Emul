@@ -24,8 +24,8 @@
 8<
 	,tables must be exhaustive (catchalls are supported) & are imperatively right-to-left & top-down
 	,[
-		,[a,b,c,¿?]
-		,[x,y,z,¿?]
+		,[a,b,c,¿☂?]
+		,[x,y,z,¿☂?]
 	]
 >8
 :tdt(
