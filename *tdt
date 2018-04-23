@@ -19,7 +19,7 @@
 	interval notation for "-thing"s like temperature/humidity/ETC
 	Wikipedia just has integers; I thought about logic chains, but I think interval notation is better...
 >8
-:=("(श्याम,श्याम)","(-श्याम,+श्याम)")
+:=("(श्याम,श्याम)","(-श्याम,+श्याम)") 8≪ the comma in the notation is zero
 
 8<
 	,tables must be exhaustive (catchalls are supported) & are imperatively right-to-left & top-down
