@@ -1,14 +1,13 @@
 :mahāmantra(,mahāmantra,dex) 8≪ where ,dex is the addressable program counter
 :mahāmantra() 8≪ ,mahāmantra
 
+8≪ nāmas are declarative
 :nāmamantra(
 	,mantra 8≪ referentially opaque
 	:mantra 8≪ referentially transparent by a (manual) process called memoisation; but no time/IO/RNG/ETC will automemoise
 )
 
-8<
-	there can only be one ,mantra per ,nāma
->8
+8≪ there can only be one ,mantra per ,nāma
 :@(,nāma_a,nāma_b,nāma_c) 8≪ ,[,mantra_a,mantra_b,mantra_c]
 
  8<
