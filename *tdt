@@ -18,7 +18,7 @@
 )
 :type(
 	,[,namespace,data]
-	,[,"bull",[,⊤,⊥]]
+	,[,"bs",[,⊤,⊥]] 8≪ bs = bull
 	,[,"yn",[,"yes","no"] 8≪ I'm attempting to differentiate between barewords & strings...
 )
 
@@ -43,7 +43,7 @@
 			,⊤
 		],[
 			,[,query,type,table]
-			,[,"slept by midnight",bull,[,⊤,⊥]]
+			,[,"slept by midnight",bs,[,⊤,⊥]]
 		],[
 			,[,message,table]
 			,[,mantra,table]
