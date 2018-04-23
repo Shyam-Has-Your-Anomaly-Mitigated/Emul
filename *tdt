@@ -4,9 +4,13 @@
 	udt = untyped decision tables
 >8
 
+:nāma(
+	,[,"⊤","⊤"]
+	,[,"⊥","⊥"]
+)
 :type(
 	,[,namespace,data]
-	,[,"bool",[,"⊤","⊥"]]
+	,[,"bool",[,⊤,⊥]]
 )
 
 8<
