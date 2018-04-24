@@ -109,5 +109,5 @@ you could have a mantra :min_js(,instructions_a,instructions_b) that chants :min
 you only need to :min() web langauges, and source you want to share across cyberspace
 
 :cpu() produces a mantra...
-`shyamscript $processor`
-...where $processor is a config file
+`shyamscript $processor $file`
+...where $processor is a config file, and $file is optional (I guess a repl would run it before querying the user...)
