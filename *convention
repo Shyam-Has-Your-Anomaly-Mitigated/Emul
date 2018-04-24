@@ -1,6 +1,5 @@
 8≪ when typing/writing about shyamscripts; use " ,namespace ", " :namespace() ", " :namespace ", ETC ... punctuation in natural language is usually followed by a space
-
-8≪ but the official hacking convention is
+8≪ but the official hacking convention is...
 , a, b, c, d, e: f(): g, h, i, j, k, l, m, n, o, p, q, r, s
 
 , [
@@ -25,3 +24,26 @@
 ]
 , [, a, b
   ,c]
+
+8≪ to do this...
+, [
+  ,a
+  ,b
+  ,c
+]
+, [
+  ,x
+  ,y
+  ,z
+]
+8≪ or to do this...
+, [
+  ,a
+  ,b
+  ,c
+], [
+  ,x
+  ,y
+  ,z
+]
+8≪ that is the query... (I prefer the first one; the reason it's first...)
