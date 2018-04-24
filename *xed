@@ -15,6 +15,7 @@ types of DSLs:
 	2. improve productivity (this can also improve readability c̄ elegance)
 1. renāmȧng mantras/ETC doesn't make it a new language; I already know the underlying language, so why should I need to relearn what I already know?
 2. macros/preprocessors/metaprogramming (EG: Abstract Syntactic Manipulation) ...logic chains, perl6 junctions, ETC (predicates are a programming domain)
+what's wrong with having a matryoshka box called "pixels"; isn't that self-documenting enough? redundant dexing/ETC mantras are unnecessary
 
 we could probably use curlies/backticks/ETC
 ,[]{no_concept_of_how_this_would_or_should_work_yet}
