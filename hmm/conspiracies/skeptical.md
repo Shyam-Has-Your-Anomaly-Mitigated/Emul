@@ -1,0 +1,39 @@
+sceptic (noun)
+https://www.google.com/search?q=define+skeptic
+	1. a person inclined to question or doubt accepted opinions.
+	2. an ancient or modern philosopher who denies the possibility of knowledge, or even rational belief, in some sphere.
+1. science is all theory, no fact; only "accepted" theories (funded by bias)
+2. https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems
+
+governments, funded/biased scientists, rich people, the "elite", supremacists, xkcd.com/1274, ETC...
+they all conspire against us!
+
+against astrology/ETC
+	hospitals were setup to swap babies; when were you ℝeally born?
+	time zones are an inconsistent system that only serve to provide an astrological obstacle
+		they are government maintained, and only contribute to their perceived incompetence
+	tectonic plates are an attempt at fooling us into believing coordinates are constantly shifting
+		plate tectonics is based on data; data controlled by who?
+		maps are controlled by the government too...
+		map/globe projections only serve to provide an astrological obstacle
+		the Earth is not flat, nor is it spherical!
+
+ℝeal magic
+	quantum proof from shyam.id.au/awooga/post.js
+		double-slit experiment
+		sounds like an illusion; I can make <object> disappear, unless you check my hands
+		is this not evidence that proves magic is ¬ℂomplex!? (because you can't see ℝeal magic)
+
+dragons
+	https://en.wikipedia.org/wiki/Chrysopelea
+		someone sees a flying snake, and tells others about it; failing to mention the lack of wings
+		their imaginations run rampant; no need to mention non-existent wings, the imagination takes care of that for you
+		big birds (canaries) like the Andean condor...
+		wingspans like the wandering albatross, or even the argentavis...
+		I've heard of sheep being caried away...
+		I've seen YouTube videos of children being carried away...
+	...but I still think that the ℝeal dragons are being kept secret for their magical powers!
+	poachers VS rhinos/ETC; I remember reading some"-thing" about (unmagical) synthetic horns...
+
+muggle sounds more like पागल (pagal)
+https://translate.google.com/#hi/en/%E0%A4%AA%E0%A4%BE%E0%A4%97%E0%A4%B2
