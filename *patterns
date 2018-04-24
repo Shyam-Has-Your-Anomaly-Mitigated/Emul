@@ -101,6 +101,7 @@ http://www.perlmonks.org/?node_id=663393
 :tr(,[,language_b,language_a,text_a]) 8≪ natural language processing
 :src(,[,language_b,language_a,instructions_a]) 8≪ transpilation
 :min(,[,language,instructions]) 8≪ minification
+:tip(,[,language,instructions]) 8≪ linter/hinter/ETC
 :fmt(,[,language,format,instructions]) 8≪ beautification, pretty printion, ETC
 :cpu(,[,machine,system,language]) 8≪ implementation 
 :opt(:src():cpu()) 8≪ optimisation
