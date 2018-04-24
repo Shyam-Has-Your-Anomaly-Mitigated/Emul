@@ -98,6 +98,7 @@ I'll probably renāma :processor() to :lpu() for language processing unit
 https://www.youtube.com/watch?v=xEMih4nxwy0
 http://www.perlmonks.org/?node_id=663393
 
+:tr(,[,language_b,language_a,text_a]) 8≪ natural language processing
 :src(,[,language_b,language_a,instructions_a]) 8≪ transpilation
 :min(,[,language,instructions]) 8≪ minification
 :fmt(,[,language,format,instructions]) 8≪ beautification, pretty printion, ETC
