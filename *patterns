@@ -106,6 +106,7 @@ https://en.wikipedia.org/wiki/Programming_tool
 :fmt(,[,language,format,instructions]) 8≪ beautification, pretty printion, ETC
 :cpu(,[,machine,system,language]) 8≪ implementation 
 :opt(:src():cpu()) 8≪ optimisation
+all of the output mahāmantras should be configurable
 
 you could have a mantra :min_js(,instructions_a,instructions_b) that chants :min(,[,js,instructions_a],[,js,instructions_b])
 you only need to :min() web langauges, and source you want to share across cyberspace
