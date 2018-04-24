@@ -1,5 +1,7 @@
-8≪ the official convention is
-, a, b, c, d, e: f(): g(), h, i, j, k, l, m, n, o, p, q, r, s
+8≪ when typing/writing about shyamscripts; use " ,namespace ", " :namespace() ", " :namespace ", ETC ... punctuation in natural language is usually followed by a space
+
+8≪ but the official hacking convention is
+, a, b, c, d, e: f(): g, h, i, j, k, l, m, n, o, p, q, r, s
 
 , [
   , a
