@@ -107,3 +107,7 @@ http://www.perlmonks.org/?node_id=663393
 
 you could have a mantra :min_js(,instructions_a,instructions_b) that chants :min(,[,js,instructions_a],[,js,instructions_b])
 you only need to :min() web langauges, and source you want to share across cyberspace
+
+:cpu() produces a mantra...
+`shyamscript $processor`
+...where $processor is a config file
