@@ -95,4 +95,4 @@ my font will be designed for productive speed reading; which means it will proba
 * any fonts for Shyamskrit, and Shyamskrit itself, will have the same licensing as Shyamscript
 * I might call the language some"-thing" close to Devanāgarī; or backwards/ETC...
 
-Not just (La)TeX, but also XML/ETC... `:tag(:nests(,etc))`
+Not just (La)TeX, but also XML/HTML/ETC... `:tag(:nests(,etc))`
