@@ -116,3 +116,8 @@ you only need to :min() web langauges, and source you want to share across cyber
 ...where $processor is a config file, and $file is optional (I guess a repl would run it before querying the user...)
 
 `shyamscript compile` should allow the user to type a mahāmantra that will be compiled, and an accompanying source file will be included in the output
+
+this
+https://en.wikipedia.org/wiki/Programming_language_specification
+can be used to generate that
+https://en.wikipedia.org/wiki/Programming_language_reference
