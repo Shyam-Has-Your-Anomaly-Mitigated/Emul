@@ -123,6 +123,6 @@ can be used to generate that
 https://en.wikipedia.org/wiki/Programming_language_reference
 
 :[,numbers] 8≪ machine instructions
-:[,strings] 8≪ language instructions (JS (eval/ETC) & machine instructions from char->int)
+:[,strings] 8≪ language instructions (JS (eval/ETC) & :src() (eval/ETC) & machine instructions from char->int)
 who needs `:src(,javascript,shyamscript,shyamscripts)`? (I still need it to compare :opt() against transpiling efficiencies, and (trans)porting...)
 `shyamscript(shyamscripts)`; where shyamscript is a JS function, and shyamscripts is an computational/instructional string
