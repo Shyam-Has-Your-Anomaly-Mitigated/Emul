@@ -121,3 +121,6 @@ this
 https://en.wikipedia.org/wiki/Programming_language_specification
 can be used to generate that
 https://en.wikipedia.org/wiki/Programming_language_reference
+
+:[,numbers] 8≪ machine instructions
+:[,strings] 8≪ language instructions (JS)
