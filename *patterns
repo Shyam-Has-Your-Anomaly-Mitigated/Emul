@@ -124,5 +124,5 @@ https://en.wikipedia.org/wiki/Programming_language_reference
 
 :[,numbers] 8≪ machine instructions
 :[,strings] 8≪ language instructions (JS & machine instructions from char->int)
-who needs `:src(,javascript,shyamscript,shyamscripts)`?
+who needs `:src(,javascript,shyamscript,shyamscripts)`? (I still need it to compare :opt() against transpiling efficiencies...)
 `shyamscript(shyamscripts)`; where shyamscript is a JS function, and shyamscripts is an computational/instructional string
