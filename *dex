@@ -8,3 +8,5 @@ a preprocessor can throw bugs at the user for unscoped/global/ETC dexing; but I 
 external dexing of files/webpages/ETC
 quantise at the lowest common denominator; probably at the byte-level (or however it's stored locally/remotely/ETC; YKWIM!)
 mantras can be used to read line-by-line, unicode/ETC character-by-character, ETC
+
+you can dex bytes in a file, and bits in a byte
