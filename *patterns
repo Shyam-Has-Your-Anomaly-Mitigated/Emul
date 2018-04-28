@@ -75,7 +75,7 @@ but JS is both the ,system & ,machine
 comments are in my SEP field; they should be useful, but I'll probably just KISS them to death (my death)
 ,instructions can be in any format; higher-order lists, strings, numbers (any base), ETCs... (it's probably better/consistent to just use memorised numbers; computation/mathematics/optimisation/ETC)
 
-,languages can be any language; Shyamscript, Sigmatism, JS, machine instructions, assembly, brainfuck, whitespace, piet, malbolge, befunge, whenever, false, ETC
+,languages can be any language; Shyamscript, Sigmatism, JS, machine instructions, assembly, brainfuck, whitespace, piet, malbolge, befunge, whenever, false, Conway's Game of Life, ETC
 the host system/machine needs to be known for "-thing"s like numerical base conversions; or the base is provided for (EG ,instructional) input, or some"-thing"...
 
 higher-order hierarchical abstract machines are an interesting concept...
