@@ -135,7 +135,7 @@ https://en.wikipedia.org/wiki/Profile-guided_optimization
 https://en.wikipedia.org/wiki/Metalinguistics
 
 meta²programming (higher-order thinking)
-:src(,[,format,language_b,language_a,instructions_a])
+:src(,[:format,language_b,language_a,instructions_a])
 
 :fml(,[,specification,verification])
 =(
