@@ -60,7 +60,7 @@ language.bugs can be the configuration file; I'm sure different modes (assembler
 `shyam shyamscript repl`
 `shyam shyamscript interpret $file`
 `shyam shyamscript jit $file`
-`shyam shyamscript compile $file`
+`shyam shyamscript compile $file` (including cross/inter/ETC compilation)
 `shyam shyamscript $ETC $file`
 flags/options/ETC are in `$config`
 no need for `-r *`; `$file` should lead to (recursive/circular/ETC) dependencies
