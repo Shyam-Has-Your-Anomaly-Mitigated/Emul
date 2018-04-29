@@ -138,4 +138,11 @@ meta²programming (higher-order thinking)
 :src(,[,format,language_b,language_a,instructions_a])
 
 :fml(,[,specification,verification])
-=(,[,verification,[,machine,system,language,instructions]])
+=(
+	,[,verification,[,machine,system,language,instructions]]
+	,[,specification,[
+		,[,"z",z_specification]
+		,[,"b",b_specification]
+		,[,"etc",etc_specification]
+	]]
+)
