@@ -97,4 +97,8 @@
 
 8<
 	,queries can be used in ,tables as constant functions
+	
+	types, ranges (interval notation, ETC), and sets
+	interval notation uses ,[,"(",")","[","]","±","∓","+","−","/\d/","श्याम",etc]
+	sets use ,[,"{","}",etc]
 >8
