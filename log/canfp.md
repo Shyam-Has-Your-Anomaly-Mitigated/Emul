@@ -465,4 +465,16 @@ compare _ 0 = _
 
 ...
 
+**2018-05-02**
+
+...
+
+**shyam.id.au**
+<br>**15:21:51** So CCCs are limited by the evaluation strategy?
+
+**shyam.id.au**
+<br>**15:56:44** How do you categorise evaluation strategies?
+
+...
+
 ---
