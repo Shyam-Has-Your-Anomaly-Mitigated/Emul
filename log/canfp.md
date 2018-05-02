@@ -469,6 +469,8 @@ compare _ 0 = _
 
 ...
 
+#random
+
 **shyam.id.au**
 <br>**15:21:51** So CCCs are limited by the evaluation strategy?
 
