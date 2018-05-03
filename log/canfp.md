@@ -479,4 +479,20 @@ compare _ 0 = _
 
 ...
 
+**2018-05-03**
+
+...
+
+#random
+
+shyam.id.au [9:17 PM]
+<br>Map is the "what to do", and (lazy) for each loops are the "how to do". (edited)
+<br>I wish there were animated visual representations of (higher-order) functions; like they do for comparing sorting algorithm efficiencies, and other such "-thing"s...
+<br>And not just the old classic "into the black box abstraction", and "out of the black box abstraction"; I mean to properly introduce each new generation of matryoshka dolls.
+<br>More like some"-thing" you'd want to wear 3D goggles for...
+<br>I want to be put inside of the function, so that I can ob1 (oh become one) with it...
+<br>`visualise :: f -> gif`
+
+...
+
 ---
