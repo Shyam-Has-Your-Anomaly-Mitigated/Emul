@@ -493,6 +493,9 @@ shyam.id.au [9:17 PM]
 <br>I want to be put inside of the function, so that I can ob1 (oh become one) with it...
 <br>`visualise :: f -> gif`
 
+shyam.id.au [9:40 PM]
+<br>I also want to be able to observe, by a process of total immersion, the interconnectedness of all "-thing"s & their possibilities (like traversing the tree of functional life-forms); including the type system, evaluation strategy, ETC.
+
 ...
 
 ---
