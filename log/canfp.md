@@ -517,4 +517,14 @@ shyam.id.au [2:10 PM]
 
 ...
 
+shyam.id.au [2:23 PM]
+<br>Due to particle entanglement; you kick one tyre, you kick them all...
+
+...
+
+shyam.id.au [2:25 PM]
+<br>Each an every particle is probably entangled c̄ some other object in this ℝeality; if you kicked object A, which is particularly entangled c̄ object B, does it count as kicking all the particles out of object B, superpositioningly?
+
+...
+
 ---
