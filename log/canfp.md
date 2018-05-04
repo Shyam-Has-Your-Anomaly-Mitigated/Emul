@@ -502,10 +502,14 @@ shyam.id.au [9:40 PM]
 
 ...
 
+#random
+
 shyam.id.au [11:44 AM]
 <br>Apparently, linux started out as a trivial program that would switch between printing AAAA and BBBB; `rev` that, implement `sh`, and you have bash...
 
 ...
+
+#random
 
 shyam.id.au [2:10 PM]
 <br>I guess you could start c̄ a "Hello World!!! :D" program, and end up with a chatbot...
