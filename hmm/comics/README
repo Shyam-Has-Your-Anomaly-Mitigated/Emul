@@ -1,0 +1,9 @@
+:r!cat.png
+	src: https://xkcd.com/378/
+	lic: https://xkcd.com/license.html
+	hmm: not sure if allowed to deface...
+
+shyambert.png
+	src: http://dilbert.com/strip/1995-11-09
+	lic: http://dilbert.com/terms
+	hmm: what is "Collaborative Content"?
