@@ -23,3 +23,8 @@ argument/parameter types, file types/formats, mime types, ETC types...
 all string types should be formattable; arguments/parameters, user/file/ETC input/output, ETC
 
 https://en.wikipedia.org/wiki/Typed_assembly_language
+
+from https://canfp.slack.com/ @ 2018-05-06
+shyam.id.au [4:03 AM]
+A solution to reading "external" files; just hard-code the data, and write a script to update it, then just write a wrapper that calls the script first.
+Who needs IO?
