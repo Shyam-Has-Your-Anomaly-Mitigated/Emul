@@ -29,3 +29,4 @@ shyam.id.au [4:03 AM]
 A solution to reading "external" files; just hard-code the data, and write a script to update it, then just write a wrapper that calls the script first.
 Who needs IO?
 Metaprogramming FTW!!! :D
+FP shares the common vulnerability of PEBKAC; where the purists are paranoid, but not paranoid enough!
