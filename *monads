@@ -28,3 +28,4 @@ from https://canfp.slack.com/ @ 2018-05-06
 shyam.id.au [4:03 AM]
 A solution to reading "external" files; just hard-code the data, and write a script to update it, then just write a wrapper that calls the script first.
 Who needs IO?
+Metaprogramming FTW!!! :D
