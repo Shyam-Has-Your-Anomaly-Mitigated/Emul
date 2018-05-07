@@ -39,7 +39,7 @@ we might as well legalise guns; I can just 3D print them anyway...
 
 <hr>
 
-# waste not, want not
+# waste not, want not & marketing/advertising/ETC
 
 There's too much gelatine, and not enough uses for it, so the industry funded research to put the byproduct to use (they outsell every"-thing" else by getting rid of it at any cost ∵ any money is better than no money, and everyone wants a cheaper supply line to improve profit margins; instead of making the product cheaper for the consumer, nor paying employees more than they have/want to); if there was as much money in vegan food research ([ingredients](https://en.wikipedia.org/wiki/Template:Food_Substitutes) & recipes), the world would be vegan. ([marshmellows](https://www.youtube.com/watch?v=_Sm-bU6w7qI)) ...natural/original marshmellows wære probably better! (recipe/funding dependent)
 
