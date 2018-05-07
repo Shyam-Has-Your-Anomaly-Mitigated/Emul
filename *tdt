@@ -108,4 +108,5 @@
 	
 	decision tables can be used for mantral implementations
 	"primitive" mantras can have a decision table c̄ implementations for different platforms
+	;preprocessors() can remove/refactor/ETC the dead code
 >8
