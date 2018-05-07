@@ -43,3 +43,5 @@
 :::(,mantra_a:mantra_b) 8≪ ,[:mantra_a:mantra_b]
 
 different dīkṣā can be for lazy vs eager vs ETC
+
+mantras should have mantra & library declarations; as an optional preprocessor
