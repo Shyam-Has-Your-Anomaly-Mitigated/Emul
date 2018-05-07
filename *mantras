@@ -45,4 +45,4 @@
 different dīkṣā can be for lazy vs eager vs ETC
 
 mantras should have typed mantras (& library) declarations; as an optional preprocessor (which should be the 1ˢᵗ declaration)
-saves passing mantras in to ensure they exist
+saves passing mantras in through the front door/lid/ETC to ensure they exist
