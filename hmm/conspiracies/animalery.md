@@ -110,3 +110,7 @@ intellectuals set themselves apart from animals, and the rest of humanity pursue
 ---
 
 [Theseus & Info Paradoxes](https://youtu.be/PKMQzkIiB0Y?t=4m27s)
+
+---
+
+[LieScience](https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/hmm/conspiracies/science.md#waste-not-want-not--marketingadvertisingetc)
