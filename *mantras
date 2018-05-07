@@ -41,3 +41,5 @@
 8≪ recursive box traversals
 ,,,(,mantra_a:mantra_b) 8≪ ,[,mantra_a,mantra_b]
 :::(,mantra_a:mantra_b) 8≪ ,[:mantra_a:mantra_b]
+
+different dīkṣā can be for lazy vs eager vs ETC
