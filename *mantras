@@ -44,4 +44,4 @@
 
 different dīkṣā can be for lazy vs eager vs ETC
 
-mantras should have mantra & library declarations; as an optional preprocessor
+mantras should have mantra & library declarations; as an optional preprocessor (which should be the 1ˢᵗ declaration)
