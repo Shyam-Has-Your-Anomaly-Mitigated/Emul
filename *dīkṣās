@@ -16,3 +16,4 @@ different dīkṣā can be for lazy vs eager vs ETC evaluations
 	::eager()
 	;lazy_precomputation()
 	;;eager_precomputation()
+	...it's probably better to use different symbols to avoid typographical bugs (misunderstandings/mistakes/ETC)
