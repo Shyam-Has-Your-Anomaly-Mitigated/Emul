@@ -4,7 +4,7 @@ dīkṣā is: [
 	, ";" 8< lazy preprocessed mantra >8
 	, "!" 8< eager postprocessed mantra >8
 	, ":" 8< lazy postprocessed mantra >8
-	, "∴" 8< return; could use ↵ or \r or ETC >8
+	, "∴" 8< return; could use ↵ or \r or ⏎ or ⌤ or ETC >8
 	, "∵" 8< reason >8
 	, "." 8< dexing >8
 ]
