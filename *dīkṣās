@@ -1,8 +1,10 @@
 dīkṣā is: [
-	, ";" 8< TODO "comment"; ignored by the scissors, but could also be used to ask "Shyam" TODO it instead of a user...so probably not ignored by the language...but can be cut c̄ scissors parametrically >8
 	, "," 8< jñānam >8
-	, ":" 8< mantra >8
-	, "∴" 8< return >8
+	, "¡" 8< eager preprocessed mantra >8
+	, ";" 8< lazy preprocessed mantra >8
+	, "!" 8< eager postprocessed mantra >8
+	, ":" 8< lazy postprocessed mantra >8
+	, "∴" 8< return; could use ↵ or \r or ETC >8
 	, "∵" 8< reason >8
 	, "." 8< dexing >8
 ]
