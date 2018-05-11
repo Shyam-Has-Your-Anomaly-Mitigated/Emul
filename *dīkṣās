@@ -10,7 +10,7 @@ dīkṣā is: [
 https://en.wikipedia.org/wiki/Template:Evaluation_strategy
 different dīkṣā can be for lazy vs eager vs ETC evaluations
 	!eager()
-	¡eager_precomputation()
+	¡eager_precomputation() 8≪ ¡nteresting()
 	:lazy()
 	;lazy_precomputation()
 	...or...
