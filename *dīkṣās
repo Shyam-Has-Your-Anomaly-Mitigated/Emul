@@ -1,10 +1,18 @@
+dīkṣā is: [
+	, ";" 8< TODO "comment"; ignored by the scissors, but could also be used to ask "Shyam" TODO it instead of a user...so probably not ignored by the language...but can be cut c̄ scissors parametrically >8
+	, "," 8< jñānam >8
+	, ":" 8< mantra >8
+	, "∴" 8< return >8
+	, "∵" 8< reason >8
+	, "." 8< dexing >8
+]
+
 https://en.wikipedia.org/wiki/Template:Evaluation_strategy
 different dīkṣā can be for lazy vs eager vs ETC evaluations
-
-!eager()
-:lazy()
-...or...
-:lazy()
-::eager()
-;lazy_precomputation()
-;;eager_precomputation()
+	!eager()
+	:lazy()
+	...or...
+	:lazy()
+	::eager()
+	;lazy_precomputation()
+	;;eager_precomputation()
