@@ -1,0 +1,9 @@
+different dīkṣā can be for lazy vs eager vs ETC evaluations
+
+!eager()
+:lazy()
+...or...
+:lazy()
+::eager()
+;lazy_precomputation()
+;;eager_precomputation()
