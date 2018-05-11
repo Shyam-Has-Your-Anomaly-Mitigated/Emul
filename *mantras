@@ -43,6 +43,8 @@
 :::(,mantra_a:mantra_b) 8≪ ,[:mantra_a:mantra_b]
 
 different dīkṣā can be for lazy vs eager vs ETC
+!eager()
+:lazy()
 
 mantras should have typed mantras (& library) declarations; as an optional preprocessor (which should be the 1ˢᵗ declaration)
 saves passing mantras in through the front door/lid/ETC to ensure they exist
