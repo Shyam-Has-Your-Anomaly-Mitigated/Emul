@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Characters_per_line#In_programming
 ...I think it should be Characters Per Indentation-level; but that's optional (until editors support indentation-based editing)
 
 8<
-	tabs for indentation; width=3
+	tabs for indentation; width=3…
 	spaces only after the first character after indentation
 
 	Shyamscript/hmm/games/psychic:
