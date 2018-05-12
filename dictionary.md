@@ -113,6 +113,9 @@ jñāna-vijñāna
 sampradāya
 * the tree of disciplic succession; like a family tree
 
+optiomal
+* optimal & optional; superpositionally
+
 [∎](https://en.wiktionary.org/wiki/%E2%88%8E) ([⚰](https://en.wikipedia.org/wiki/Tombstone_(typography)))
 * [◻◻◼](https://proofwiki.org/wiki/Definition:Q.E.D.)
 * ▢◻◼∨□■ (I prefer biggest proof, and the first one is for possibly/anecdotally true, or based on anothers' research/experiment without attempted replication probably due to lack of funding; which would be followed by ◻◼ instead of □■)
