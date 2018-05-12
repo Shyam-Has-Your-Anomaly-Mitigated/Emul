@@ -1,12 +1,13 @@
 this official boxing convention is only a guide; ℝeal boxers box how they want to (it's optiomal (optimal+optional); for problem solving is unique to the problem solver)
 
-
-https://en.wikipedia.org/wiki/Characters_per_line#In_programming
-श्याम≤2⌈ˣ⌉≤108
-108
-1337
-श्याम
-...I think it should be Characters Per Indentation-level; but that's optional (until editors support indentation-based editing)
+8<
+	https://en.wikipedia.org/wiki/Characters_per_line#In_programming
+	श्याम≤2⌈ˣ⌉≤108
+	108
+	1337
+	श्याम
+	...I think it should be Characters Per Indentation-level; but that's optional (until editors support indentation-based editing)
+>8
 
 8<
 	tabs for indentation; width=3…
