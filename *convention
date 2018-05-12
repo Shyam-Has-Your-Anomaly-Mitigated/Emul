@@ -3,7 +3,7 @@ https://en.wikipedia.org/wiki/Characters_per_line#In_programming
 108
 1337
 श्याम
-...I think it should be Characters Per Indentation-level
+...I think it should be Characters Per Indentation-level; but that's optional (until editors support indentation-based editing)
 
 8<
 	tabs for indentation
