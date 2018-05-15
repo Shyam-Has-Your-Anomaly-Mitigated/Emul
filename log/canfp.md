@@ -527,4 +527,29 @@ shyam.id.au [2:25 PM]
 
 ...
 
+**2018-05-15**
+
+...
+
+#random
+
+shyam.id.au [9:57 PM]
+Assumption: All of technology is compromised.
+Query: Is it possible to use compromised technology to build new technology that is uncompromised?
+
+...
+
+#random
+
+shyam.id.au [10:02 PM]
+I was thinking more along the lines of using SBCs to manufacture hardware, but I think I can see how they are two sides of the same coin; I just find it more difficult to deal c̄ software ∵ software is mutable, whereas hardware isn't.
+I'm thinking about using like a ℝeally long lever, or some"-thing", to control the laser that'll cut the filter at the nanometer level; for an IC...
+But I think I need a clean room to avoid side effects; I'm thinking magnetic ceiling would avoid falling debris, and a vacuum would repel any other types of bugs...
+I could use SBCs hooked up to sensors that DOTADIW; if it receives binary input, how could it possibly know the semantics?
+Rube Goldberg machines provide additional ℂomplexity to attempt to implement a one-way function, of sorts... (edited)
+In my computer, I do not trust.
+(Even if it was formally verified.)
+
+...
+
 ---
