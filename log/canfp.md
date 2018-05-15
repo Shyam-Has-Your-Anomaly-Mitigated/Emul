@@ -548,7 +548,7 @@ shyam.id.au [10:02 PM]
 <br>I could use SBCs hooked up to sensors that DOTADIW; if it receives binary input, how could it possibly know the semantics?
 <br>Rube Goldberg machines provide additional ℂomplexity to attempt to implement a one-way function, of sorts... (edited)
 <br>In my computer, I do not trust.
-<br>(Even if it was formally verified.)
+<br>(Even if it was formally verified, nor open sourced.) (edited)
 
 ...
 
