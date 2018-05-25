@@ -552,4 +552,26 @@ shyam.id.au [10:02 PM]
 
 ...
 
+**2018-05-20**
+
+...
+
+#random
+
+shyam.id.au [1:08 AM]
+<br>https://youtu.be/zzNgEsLsHgE
+<br>I find that more motivational ∵ he does the challenge when it suits him (on a hot day), and he says "let's do it" (implying help, probably from an imaginary friend; Bert, and Ernie, have an unimaginary little yellow rubber friend).
+<br>shyam.id.au [1:17 AM]
+<br>Solid-state technology is inanimate, but (theoretically) can be artificially/synthetically intelligent ∴ it's not a bad idea to befriend inanimate objects; practice makes perfect, and it's preferable to be on the winning side.
+<br>Technically "inanimate" objects are ℝeally animated at the atomic/quantum/ETC level anyway, and they're particularly entangled c̄ every"-thing" else in this ℝeality too (interconnectedness of all "-thing"s). (edited)
+<br>🕴 Shoe phone!!! :D
+<br>FVEY probably uses quantum entanglement to spy on every"-thing"...
+<br>shyam.id.au [1:32 AM]
+<br>I'm not sure, but I think entanglement only happens at high speeds; the double slit experiment indicates they avoid collisions at lower speeds...
+<br>Which would mean the big bang has me entangled all over this ℝeality!!! :D
+<br>shyam.id.au [7:07 PM]
+<br>Stop hitting yourself!!! :D (...ow)
+
+...
+
 ---
