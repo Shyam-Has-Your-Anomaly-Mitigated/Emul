@@ -1,5 +1,5 @@
 # Plan
-- [ ] Haskell (Functional Programming); *Shyams' Haskell Implementation Tech* (`ghc hs_shit.hs; hs_shit shit.shit; shit`) ...it was originally going to be called ``(Shaming `Haskell` Instructional) Techniques`` (well, my first presentation)
+- [ ] Haskell (Functional Programming); *Shyams' Haskell Implementation Tech* (`ghc hs_shit.hs; hs_shit shit.poo; shit`) ...it was originally going to be called ``(Shaming `Haskell` Instructional) Techniques`` (well, my first presentation)
 	* Why can't Haskell `a (f x) = x` & `b (f x) = f`? Lazy evaluation should make this possible!
 	* And you should be able to nest functional types! (Either I'm deceived, or it's the sleep deprivation...)
 		* `((a->b)->(b->c))->c`
