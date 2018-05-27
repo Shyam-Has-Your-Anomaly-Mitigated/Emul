@@ -13,7 +13,7 @@ where the top dot in ∴ is part of the : dotted line
 : premise
 ```
 an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
-<br>if the conclusory doorbell is sound, do you need to waste time trespassing?
+<br>if the conclusory doorbell is sound, do you ℝeally need to waste time trespassing?
 <br>computational instructions can waste time for you, so you don't have to!!! :D
 <br>otherwise logical reasoning (queries & rules & facts)
 ```
