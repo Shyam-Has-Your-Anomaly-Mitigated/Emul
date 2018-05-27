@@ -1,3 +1,93 @@
+◻∧◼ & :∧∴ should be ◼∧◻ & ∴∧:
+<br>instead of
+```
+: premise
+: premise
+∴ conclusion
+```
+where the top dot in ∴ is part of the : dotted line
+<br>it can be
+```
+∴ conclusion
+: premise
+: premise
+```
+an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
+<br>if the conclusory doorbell is sound, do you need to waste time trespassing?
+<br>computational instructions can waste time for you, so you don't have to!!! :D
+<br>otherwise logical reasoning (queries & rules & facts)
+```
+◼ conclusive proof c̄ evidence
+∵ premise_a is based on the conclusive proof
+∵ premise_b which flows from premise_a
+∵ premise_c which flows from premise_b
+: atomic_a used in premises & proofs
+: atomic_b used in premises & proofs
+: atomic_c used in premises & proofs
+: atomic_d used in premises & proofs
+: atomic_e used in premises & proofs
+: atomic_f used in premises & proofs
+: atomic_g used in premises & proofs
+```
+
+<hr>
+
+`:`
+* :premise(,arg)
+  * example:
+	```
+	: a canary is a small songbird in the finch family originating from the canary islands
+	: big bird is a big bird
+	: a megafauna turtle can be 5m
+	: the teenage mutant ninja turtles are anthropomorphic turtles
+	: big bird is an anthropomorphic canary
+	∴ big bird is a teenage mutant ninja canary
+	```
+* titles, sections, examples,.. (usually followed by an indentation block)
+* forms:
+  * name: shyam has your anomaly mitigated
+  * interestes: functional-logic programming, dependent types, metaprogramming, formal methods, open source, artificial/synthetic/.. intelligence,..
+
+`∴`
+* therefore
+* :conclusion(,arg)
+  * example: `: a canary is a small songbird in the finch family originating from the canary islands: big bird is a big bird: a megafauna turtle can be 5m: the teenage mutant ninja turtles are anthropomorphic turtles: big bird is an anthropomorphic canary∴ big bird is a teenage mutant ninja canary`
+
+`∵`
+* because
+* reason
+* return
+
+`...` or `…`
+* trailing off
+
+`..` or `,..` or `/..` or..
+* ETC (et cetera, et alia)
+
+`.`
+* EOS (end of sentence)
+* i am thinking about using QEDs instead ◻ that way, every "-thing" is logically 🖖 vulcan ◼ q:
+* q: ◼ that way, every "-thing" is logically 🖖 vulcan ◻ i am thinking about using QEDs instead
+* yoda does this, but; instead of sentence-level sorting algorithms, he does word-level sorting algorithms
+
+`◻` or `इ.सि.`
+* [EOP](https://proofwiki.org/wiki/Definition:Q.E.D.) ([end of proof](https://en.wikipedia.org/wiki/Tombstone_(typography)))
+  * example:
+  	```
+  	◻ a canary is a small songbird in the finch family originating from the canary islands
+	◻ big bird is a big bird
+	◻ a megafauna turtle can be 5m
+	◻ the teenage mutant ninja turtles are anthropomorphic turtles
+	◻ big bird is an anthropomorphic canary
+	◼ big bird is a teenage mutant ninja canary
+  	```
+* EOS (end of sentence)
+
+`◼` or `इति सिद्धम्` or `∎` (if ¬(◻∧इ.सि.))
+* [EOP](https://proofwiki.org/wiki/Definition:Q.E.D.) ([end of proof](https://en.wikipedia.org/wiki/Tombstone_(typography)))
+* _iti siddham_ means [thus](https://www.vedabase.com/en/synonyms-index?original_op=%3D&original=iti) [cooked](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=siddham)
+* EOP (end of paragraph/..)
+
 mantra [: [wiktionary](https://en.wiktionary.org/wiki/mantra#English): [wikipedia](https://en.wikipedia.org/wiki/Mantra)]
 * `[][function<>][]`
 * `[][process<>][]`
