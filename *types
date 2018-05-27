@@ -42,3 +42,5 @@ if you want to transmit a number to the console, the number must be converted to
 
 I like ℝeal Machine Instructions ∵ there are no bugs until you attempt a computation; no need for `compiler -rf`
 Shyamscript needs this ∵ I need this; other users can configure/preprocess restrictions
+
+this is like DSLs all over again
