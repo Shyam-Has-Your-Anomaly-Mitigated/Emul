@@ -1,0 +1,40 @@
+
+lists are the base data type
+	,[]
+
+numbers are made up of lists
+	,[,sign,int,fraction,base] 8≪ +3.2₁₀ (π (https://youtu.be/bFNjA9LOPsg (https://en.wikipedia.org/wiki/Pi#In_popular_culture)))
+	https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/log/syntaxx.md
+		8<< number format
+		[sign:int:fraction:base]
+		: sign = [: [[]:[]:[]]: [[]:[]]: [[]]: []] 8<< ['±':'∓':'-':'+']
+		: int = fraction = base = base_1
+	canfp.slack.com ,["HE:12018,05,09,14,10,25"]
+		In 1843 Ada Lovelace came up c̄ the idea of using numbers to represent non-numerical "-thing"s (letters, musical notes, ETC).
+	...technically numbers were used to represent other "-thing"s all throughout history
+		a square shape is x²
+		3 "-thing"s + 1334 "-thing"s = 1337 "-thing"s
+			3x+1334x=1337x
+			3+1334=1337 ∵ x is cancellative c̄ implicit semantics
+		Pythagoreans were also musicians; musica universalis
+	...programming is also as historical
+		https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+			click to order by date
+		https://en.wikipedia.org/wiki/Book_of_Ingenious_Devices
+		https://en.wikipedia.org/wiki/Ismail_al-Jazari
+		https://en.wikipedia.org/wiki/Baghdad_Battery
+		manufacturers probably went out of business as new competitors arose c̄ technological innovations
+		people probably felt threatened by robots stealing their jobs at the time
+		inventor hunting VS witch hunting
+		"witches" probably hypnotised suggestible (intoxicated) men, using the power of persuasion to deceive their will on others
+		modern day "witches" use illusory trickery for ticket evasion
+		"witches" VS clowns; every"-thing" is just made-up to make-(you)-believe in a false sense of ℝeality
+
+characters are just numbers
+
+strings are just a list of characters
+
+every"-thing" is just a number, which is just a list
+EG; strings should be additive, and numbers concatenative/appendable
+:=(:×(,"3",2),"f")
+:=(:cat(,84,77),"ℝ")
