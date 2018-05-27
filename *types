@@ -41,3 +41,5 @@ EG; strings should be additive, and numbers concatenative/appendable
 if you want to transmit a number to the console, the number must be converted to a "string"; EG :=(,3:∨(,00110011₂,63₈,51₁₀,33₁₆:etc()<0>))
 
 users can configure/preprocess restrictions
+
+I like ℝeal Machine Instructions ∵ there are no bugs until you attempt a computation; no need for `compiler -rf`
