@@ -574,4 +574,16 @@ shyam.id.au [1:08 AM]
 
 ...
 
+**2018-05-25**
+
+...
+
+#random
+
+shyam.id.au [10:00 PM]
+<br>How do you teach/hack an intelligence that can handle snakes & ladders? To figure out that skipping is a bad move.
+<br>I have this faint idea, but I'm not sure how to access it; my brain has the neuro bridges under repair/construction...
+
+...
+
 ---
