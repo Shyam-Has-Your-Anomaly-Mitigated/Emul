@@ -54,6 +54,9 @@ tools should be more intelligent, and act like I'm their project manager
 		give "us", "more money" or die; #!/usr/bin/env perl
 		give "us", "better quality" or die; #!/usr/bin/env perl
 	need an NDA for your business processes, but you're probably just using a variation of scrum/waterfall/ETC, which is open source
+		https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/log/syntaxxx.md
+		search "business process"
+		...hmm; where's the part about business processes depending on team-size & business size & ETC?
 
 lists are the base data type
 	,[]
