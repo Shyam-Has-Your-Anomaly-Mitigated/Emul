@@ -92,7 +92,7 @@ every"-thing" is just a number, which is just a list of lists
 EG; strings should be additive, and numbers concatenative/appendable
 :=(:×(,"3",2),"f")
 :=(:cat(,84,77),"ℝ")
-if you want to transmit a number to the console, the number must be converted to a "string"; EG :=(,3:characterise(:∨(,110011₂,63₈,51₁₀,33₁₆:etc()<0>)))
+if you want to transmit a number to the console, the number must be converted to a "string"; EG :=(:characterise(,3):∨(,110011₂,63₈,51₁₀,33₁₆:etc()<0>))
 list & string mantras are basically the same "-thing"
 
 I like ℝeal Machine Instructions ∵ there are no bugs until you attempt a computation; no need for `compiler -rf`
