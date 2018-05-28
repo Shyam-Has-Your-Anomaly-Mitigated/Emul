@@ -134,6 +134,9 @@ tools should be more intelligent, and act like I'm their project manager
 lists are the base data type
 	,[]
 
+mantras are made up of lists
+	:[,nāma, type, pattern∴ process, parameter] 8≪ WTF is ,pattern?!?
+
 numbers are made up of lists
 	,[,sign,int,fraction,base] 8≪ +3.2₁₀ (π (https://youtu.be/bFNjA9LOPsg (https://en.wikipedia.org/wiki/Pi#In_popular_culture)))
 	https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/log/syntaxx.md
