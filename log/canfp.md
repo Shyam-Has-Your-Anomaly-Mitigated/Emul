@@ -586,4 +586,15 @@ shyam.id.au [10:00 PM]
 
 ...
 
+**2018-06-01**
+
+...
+
+#random
+
+shyam.id.au [6:31 PM]
+Does intelligence exist to do this? https://www.youtube.com/watch?v=mmkCS5eA4f8
+
+...
+
 ---
