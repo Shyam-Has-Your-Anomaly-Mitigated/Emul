@@ -594,6 +594,8 @@ shyam.id.au [10:00 PM]
 
 shyam.id.au [6:31 PM]
 <br>Does intelligence exist to do this? https://www.youtube.com/watch?v=mmkCS5eA4f8
+<br>shyam.id.au [6:41 PM]
+<br>In snakes & ladders, even if you have a precomputed list of dice rolls (to remove bias) rolled by a dedicated dice roller (for the sake of probability), that are unkown to the players; I think the gamblers' fallacy makes it a bad decision to skip, even if the probability is higher for the dice roll that lands you on a snake head. (Also; the probability may be against you, but it's ⅙.)
 
 ...
 
