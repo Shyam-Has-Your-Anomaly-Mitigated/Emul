@@ -135,9 +135,13 @@ lists are the base data type
 	,[]
 
 mantras are made up of lists
-	:[, nāma, type, pattern∴ process, parameter] 8≪ WTF is ,pattern?!?
-	:[, number_a, number_b, number_c, number_d, number_e, number_f, number_g]
-	:[, string]
+	: [∴ list] 8≪ anonymouse
+	: [, nāma, type, pattern: process, parameter] 8≪ WTF is ,pattern?!?
+	: [, nāma, type, pattern∴ [: anonymouse], parameter] 8≪ WTF is ,pattern?!?
+	: [, number_a, number_b, number_c, number_d, number_e, number_f, number_g]
+	: [, string]
+	8≪ : [, "a"∴ [, "b"∴ [, "c"], "d"], "e"] 8≪ ,[,"c"]
+	8≪ : [, "a"∴ [, "b"∴ "c", "d"], "e"] 8≪ ,[,"c"]
 
 numbers are made up of lists
 	,[,sign,int,fraction,base] 8≪ +3.2₁₀ (π (https://youtu.be/bFNjA9LOPsg (https://en.wikipedia.org/wiki/Pi#In_popular_culture)))
