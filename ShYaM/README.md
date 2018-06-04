@@ -98,7 +98,7 @@ my font will be designed for productive speed reading; which means it will proba
 Not just (La)TeX, but also XML/HTML/ETC... `:tag(:nests(,etc))`
 
 	8<
-		instead of using ShYaM, I'd just mark up/up/down/down/left/right/left/right/B/A/ETC
+		instead of using ShYaM, I'd just mark up/up/down/down/left/right/left/right/B/A/ETC; some"-thing" like this…
 	>8
 	
 	this is the first sentence of the first paragraph
