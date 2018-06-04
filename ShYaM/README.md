@@ -96,3 +96,30 @@ my font will be designed for productive speed reading; which means it will proba
 * I might call the language some"-thing" close to Devanāgarī; or backwards/ETC...
 
 Not just (La)TeX, but also XML/HTML/ETC... `:tag(:nests(,etc))`
+
+	8<
+		instead of using ShYaM, I'd just mark up/up/down/down/left/right/left/right/B/A/ETC
+	>8
+	
+	this is the first sentence of the first paragraph
+	this is the second sentence of the first paragraph
+	this is the third sentence of the first paragraph
+
+	this is the first sentence of the second paragraph
+	this is the second sentence of the second paragraph
+		a
+		b
+		c
+	this is the third sentence of the second paragraph
+
+	this is the first sentence of the third paragraph
+	this is the second sentence of the third paragraph
+	this is the third sentence of the third paragraph
+
+	8<
+		This is the first sentence of the first paragraph. This is the second sentence of the first paragraph. This is the third sentence of the first paragraph.
+
+		This is the first sentence of the second paragraph. This is the second sentence of the second paragraph; a, b, c. This is the third sentence of the second paragraph.
+
+		This is the first sentence of the third paragraph. This is the second sentence of the third paragraph. This is the third sentence of the third paragraph.
+	>8
