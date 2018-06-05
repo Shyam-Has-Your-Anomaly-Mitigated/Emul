@@ -611,4 +611,15 @@ shyam.id.au [5:32 AM]
 
 ...
 
+**2018-06-06**
+
+...
+
+#random
+
+shyam.id.au [6:31 AM]
+This is one of those "-thing"s you post to troll newbies; ` xrandr --output "$(xrandr -q|grep \ connected|cut -f1 -d' ')" --brightness 0` (there's a leading space).
+
+...
+
 ---
