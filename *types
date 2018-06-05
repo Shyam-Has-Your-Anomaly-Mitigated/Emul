@@ -136,7 +136,7 @@ lists are the base data type
 
 mantras are made up of lists
 	: [∴ list] 8≪ anonymouse
-	: [, nāma, type, pattern∴ [: anonymouse], parameter] 8≪ WTF is ,pattern?!?
+	: [, nāma, type, pattern∴ [: anonymouse<0>], parameter] 8≪ WTF is ,pattern?!?
 	8≪ : [, nāma, type, pattern: process, parameter] 8≪ ∴ in :process can't trickle through; it wouldn't make sense
 	: [, number_a, number_b, number_c, number_d, number_e, number_f, number_g]
 	: [, string]
