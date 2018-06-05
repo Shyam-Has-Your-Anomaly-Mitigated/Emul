@@ -605,6 +605,8 @@ shyam.id.au [6:31 PM]
 
 ...
 
+#random
+
 shyam.id.au [5:32 AM]
 <br>DRM is a joke! I can access a digital book through the uni library, but only through my web browser (I'm not installing their "free" (libre), but non-free & non-open, warez); and since it's stored in my browser as separate images, I can "download" the full PDF by converting c̄ imagemagick.
 <br>I could make random changes to each & every pixel to remove any subtle watermarking too. (IDK what these "-thing"s're called…) (edited)
