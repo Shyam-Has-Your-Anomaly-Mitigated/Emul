@@ -1,0 +1,33 @@
+8<
+	numbers
+
+	श्याम
+	+3
+	+2
+	+1
+	0
+	-1
+	-2
+	-3
+	श्याम
+
+	or
+
+	+श्याम
+	+3
+	+2
+	+1
+	+0
+	-0
+	-1
+	-2
+	-3
+	-श्याम
+
+	or
+
+	add 2 signs per dimension
+>8
+8<
+	x-valued logic; EG binary/ternary (boolean/trilean)
+>8
