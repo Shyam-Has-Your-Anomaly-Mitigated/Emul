@@ -64,6 +64,10 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 `..` or `,..` or `/..` or..
 * ETC (et cetera, et alia)
 
+`%`
+* per(cent)
+* km%h
+
 `.`
 * EOS (end of sentence)
 * i am thinking about using QEDs instead ◻ that way, every "-thing" is logically 🖖 vulcan ◼ q:
