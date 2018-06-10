@@ -58,13 +58,14 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 * reason
 * return
 
-`...` or `…`
+`...` ∨ `…`
 * trailing off/on/in/out/..
 
-`..` or `,..` or `/..` or..
+`..` ∨ `,..` ∨ `∧..` ∨ `∨..` ∨ `/..` ∨..
 * ETC (et cetera, et alia)
+* `/` should be used for addresses only; old habits…
 
-`÷` or `%`
+`÷` ∨ `%`
 * km÷h or km%h
 * I prefer division; 3(km÷h)=(3÷1)×(km÷h)=(3km)÷(1h)
 * but it can be per(cent)
