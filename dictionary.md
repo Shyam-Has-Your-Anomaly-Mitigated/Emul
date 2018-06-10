@@ -66,7 +66,7 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 
 `÷` or `%`
 * km÷h or km%h
-* I prefer division; 3(km÷h)=(3km)÷(1h)
+* I prefer division; 3(km÷h)=(3÷1)×(km÷h)=(3km)÷(1h)
 * but it can be per(cent)
 
 `.`
