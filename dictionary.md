@@ -64,9 +64,9 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 `..` or `,..` or `/..` or..
 * ETC (et cetera, et alia)
 
-`%`
+`%` or `÷`
 * per(cent)
-* km%h
+* km%h or km÷h
 
 `.`
 * EOS (end of sentence)
