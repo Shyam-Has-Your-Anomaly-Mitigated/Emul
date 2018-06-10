@@ -64,9 +64,10 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 `..` or `,..` or `/..` or..
 * ETC (et cetera, et alia)
 
-`%` or `÷`
+`÷` or `%`
 * per(cent)
 * km%h or km÷h
+* I prefer division; 3(km÷h)=(3km)÷(1h)
 
 `.`
 * EOS (end of sentence)
