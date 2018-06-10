@@ -9,3 +9,4 @@ TODO:
 		maybe*, but r-expressions…
 		/abbr.*/ = abbreviation
 		/a.*/ = acronym
+		`do what I want` = (computational) instructions
