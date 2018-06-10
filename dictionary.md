@@ -59,7 +59,7 @@ an arrow of 🖖 vulcan logic to pierce the heart of romulan illogic
 * return
 
 `...` or `…`
-* trailing off
+* trailing off/on/in/out/..
 
 `..` or `,..` or `/..` or..
 * ETC (et cetera, et alia)
