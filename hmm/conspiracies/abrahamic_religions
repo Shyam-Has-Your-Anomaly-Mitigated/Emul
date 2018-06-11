@@ -7,6 +7,34 @@
 (:he(,10569):he(,10632,06,08)] muhammad ∧ islam ∧ quran
 [:he(,11892,07,23):(,11975,08,27)] haile selassie i (ras tafari makonnen) ∧ rastafari
 
+set-theoretic diagram; I should make this lisp-like https://en.wikipedia.org/wiki/DOT_(graph_description_language)
+(define symbol /.*/) ; symbol is the default namespace
+(hyperlink /.+/) ; "∞ " will be preppended, or " ∞" will be appended, to the namespace
+(namespace /.*/)
+(define a (namespace "abrahamic") (hyperlink "https://en.wikipedia.org/wiki/Abrahamic_religions"))
+(define m (hyperlink "https://en.wikipedia.org/wiki/Muslim") (namespace "muslim"))
+(define j (namespace "judaism"))
+(define c (namespace "christianity"))
+(define i (namespace "islamic"))
+(define r (namespace "rastafarian")) ; they don't like "-ism"s
+(superset subsets)
+(a(m(j(c(r))) (i)))
+; (f x y z), where x ∧ y ∧ z are subsets of f
+; (a c) (b c), where a ∧ b intersect at c
+; this tool will be `std`
+; (), where an empty set will not be rendered, but anonymous sets just have an empty namespace
+; …cfg…
+define(symbol /.*/)
+hyperlink(/.+/)
+namespace(/.*/)
+(a m(j(c(r)) i))
+; f(x), where x is a subset of f
+; (g f), where g ∧ f are subsets of the same superset
+; a(c) b(c), where a ∧ b intersect at c
+; this tool will be `std`
+; (a(b (c d))), where c ∧ d are subsets of an anonymous subset of a (¬ subsets of b)
+; …cfg: cfg will just be the first line as either "#!/usr/bin/env std --lisp", or some"-thing"
+
 TODO:
 	dictionary; interval notation for circa/floruit/tempore dating
 		[a,b] = a - b
