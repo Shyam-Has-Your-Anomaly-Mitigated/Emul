@@ -1,1 +1,2 @@
 I want every"-thing" to be *aware; if I move a file, applications/ETC should be informed via an API subscription model.
+all shell scripts will be timestamped; the timestamp indicates the version of the commands to use (no need for source-to-source transpiler)
