@@ -5,3 +5,4 @@ need to rewrite all of unix/gnu; all commands will have a tempoℝæl parameter
 if /c.*l.*i.*/ completion is designed intelligently, it can be used to lookup parametric existence
 
 probably just use logic programming for databases; it may be slow, but at least it's self-checking (could call it formal verification; it's slow, but at least it's guaranteed to function correctly)
+most users probably won't even notice if the databases are minimalistic
