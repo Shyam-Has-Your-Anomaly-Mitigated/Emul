@@ -121,3 +121,16 @@ Not just (La)TeX, but also XML/HTML/ETC... `:tag(:nests(,etc))`
 
 		This is the first sentence of the third paragraph. This is the second sentence of the third paragraph. This is the third sentence of the third paragraph.
 	>8
+
+spell checking
+
+	8≪ there should be checkable scopes, or just declare un/checkable scopes
+	spellcheck(global)
+	spellcheck(flocal)
+	spellcheck(here)
+	unspellcheck(here)
+	
+	8≪ declarations for the preservation of structural integrity
+	noun(unkown_word)
+	verb(unkown_word)
+	etc(unkown_word)
