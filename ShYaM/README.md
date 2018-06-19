@@ -125,10 +125,12 @@ Not just (La)TeX, but also XML/HTML/ETC... `:tag(:nests(,etc))`
 spell checking
 
 	8≪ there should be checkable scopes, or just declare un/checkable scopes
+	
 	spellcheck(global)
+	unspellcheck(here)
+
 	spellcheck(flocal)
 	spellcheck(here)
-	unspellcheck(here)
 	
 	8≪ declarations for the preservation of structural integrity
 	noun(unkown_word)
