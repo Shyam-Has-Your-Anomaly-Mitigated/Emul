@@ -136,3 +136,5 @@ spell checking
 	noun(unkown_word)
 	verb(unkown_word)
 	etc(unkown_word)
+
+auto `rm` leading/trailing whitespace; some"-thing" like gitignore
