@@ -118,3 +118,9 @@ intellectuals set themselves apart from animals, and the rest of humanity pursue
 ---
 
 http://www.who.int/features/qa/cancer-red-meat/en/
+
+---
+
+https://youtu.be/1lI9AwxKfTY
+<br>if humans eating meat is how we advanced; why aren't carnivores more advanced than us? meat eaters make the least intelligent arguments; if any"-thing", meat leads to idiocracy
+<br>meat tastes bad if you don't add other "-thing"s (EG salt); fruit tastes good on its' own ∵ we're meant to eat it ∴ it lead to our advancement
