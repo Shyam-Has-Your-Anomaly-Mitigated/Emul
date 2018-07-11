@@ -221,6 +221,29 @@ optiomal
 * [thus](https://www.vedabase.com/en/synonyms-index?original_op=%3D&original=iti&translation_op=contains&translation=) [cooked](https://www.vedabase.com/en/synonyms-index?original_op=contains&original=siddham&translation_op=contains&translation=) (¿achieved/known?)
 * [quod erat demonstrandum](https://en.wikipedia.org/wiki/Q.E.D.#Equivalents_in_other_languages)
 
+### space
+	nāmaspace
+	cyberspace
+	outerspace
+	innerspace
+	personalspace https://youtu.be/AXi7xcRrw5g
+
+### varnashrama dharma
+	https://en.wikipedia.org/wiki/Varna_(Hinduism)
+	brāhmaṇa: meta programmer, programming language researcher, programming tool programmer,..
+	kṣatriya: system programmer, kernel hacker,..
+	vaiśya: application programmer,..
+	śūdra: program designers (UML), project managers (PHBs),..
+	namaśūdra: maintenance programmer, program testers,..
+	caṇḍāla: end user
+	pāgala: those who don't use Shyamscript
+	
+	https://en.wikipedia.org/wiki/Ashrama_(stage)
+	sannyāsī: ℂomplex programmer (influencing Shyamscript)
+	vānaprastha: ℝeal programmer (teaching Shyamscript)
+	gṛhastha: 1337 programmer (productive/fluent at Shyamscript; gṛhastha "produce" descendents by demonstration)
+	brahmacārī: #008 n00bies (learning Shyamscript)
+
 ### balancing act
 	(curvies)  8<< empty is a circle/ball
 	{curlies}  8<< empty is a (shark) jaw/mouth/chompers/gnashers/ETC
