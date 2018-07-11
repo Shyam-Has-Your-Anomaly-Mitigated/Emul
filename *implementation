@@ -28,3 +28,4 @@ e*g* a maze of islands makes it impossible for a wall follower to win
 lets `rm` memorisation; amnesia-mode
 now solve all solvable mazes
 https://en.wikipedia.org/wiki/Maze_solving_algorithm
+decisions're n directions, where r*n*g* should eventually win
