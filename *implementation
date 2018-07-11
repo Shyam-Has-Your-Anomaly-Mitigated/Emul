@@ -31,3 +31,4 @@ https://en.wikipedia.org/wiki/Maze_solving_algorithm
 decisions're n directions, where r*n*g* should eventually win
 okay, so i can design an r*n*g* machine, but it'll be slow
 lets `rm` amnesia; memory-mode
+(and generalise)
