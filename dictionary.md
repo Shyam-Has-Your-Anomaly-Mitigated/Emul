@@ -226,7 +226,7 @@ optiomal
 	cyberspace
 	outerspace
 	innerspace
-	personalspace https://youtu.be/AXi7xcRrw5g
+	personalspace https://youtu.be/AXi7xcRrw5g https://youtu.be/BnO3nijfYmU
 
 ### varnashrama dharma
 	https://en.wikipedia.org/wiki/Varna_(Hinduism)
