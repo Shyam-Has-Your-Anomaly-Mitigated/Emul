@@ -30,7 +30,7 @@ now solve all solvable mazes
 https://en.wikipedia.org/wiki/Maze_solving_algorithm
 decisions're n directions (including back), where r*n*g* should eventually win
 okay, so i can design an r*n*g* machine, but it'll be slow
-i call this the r*n*g* strategy
+i call this the r*n*g* strategy; total amnesia
 …
 if you get a birdseye view, instead ∘ the f*p*s* (first per(son) spective; whatever)
 you could list all the decision points c̄ their directional counts (including back)
