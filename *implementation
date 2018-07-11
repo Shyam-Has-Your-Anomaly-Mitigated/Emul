@@ -24,11 +24,22 @@ https://en.wikipedia.org/wiki/Competition_(biology)
 https://en.wikipedia.org/wiki/Natural_selection
 
 is there a single strategy that can solve every"-thing"? like using dogs for computer vision, scent tracking,..
-e*g* a maze of islands makes it impossible for a wall follower to win
+e*g* a maze ∘ islands makes it impossible for a wall follower to win
 lets `rm` memorisation; amnesia-mode
 now solve all solvable mazes
 https://en.wikipedia.org/wiki/Maze_solving_algorithm
-decisions're n directions, where r*n*g* should eventually win
+decisions're n directions (including back), where r*n*g* should eventually win
 okay, so i can design an r*n*g* machine, but it'll be slow
+…
+if you get a birdseye view, instead ∘ the f*p*s* (first per(son) spective; whatever)
+you could list all the decision points c̄ their directional counts (including back)
+should you not be able to produce a string ∘ numbers?
+no count the decision points
+how many possible combinations? ∞? let's assume ∞ ∵ you can go in circles, or back ∧ forths
+so find the decision point c̄ the most directions (m for maximum)
+produce every permutation ∘ the interval [0,m) (p for permutations)
+produce every p ∘ m ∘ every length starting c̄ the smallest
+consume until win ∀ shortest ki? jaya!!! :D
+…
 lets `rm` amnesia; memory-mode
 (and generalise; not just mazes)
