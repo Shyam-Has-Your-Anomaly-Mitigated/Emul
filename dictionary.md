@@ -155,7 +155,7 @@ JAB
 * dexing is `<zero<>>`, or *dexing
 * undexing is `<empty<>>`
 * unscope/unscoped/unscoping
-* `otog`; `goto` in reverse (bring it to me, instead of me going to it; like the DME)
+* `otog`; `goto` in reverse (bring it to me, instead of me going to it; like the [DME](http://futurama.wikia.com/wiki/Dark_matter_engine))
 * pointer/pointing
 
 \*flow & \*flows & \*flowed & \*flowing & ETC
