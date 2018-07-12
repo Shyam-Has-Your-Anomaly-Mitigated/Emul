@@ -124,3 +124,5 @@ http://www.who.int/features/qa/cancer-red-meat/en/
 https://youtu.be/1lI9AwxKfTY
 <br>if humans eating meat is how we advanced; why aren't carnivores more advanced than us? meat eaters make the least intelligent arguments; if any"-thing", meat leads to idiocracy
 <br>meat tastes bad if you don't add other "-thing"s (EG salt); fruit tastes good on its' own ∵ we're meant to eat it ∴ it lead to our advancement
+<br>you can't keep animals if you can't grow crops to feed them; a plant-based diet lead to our advancement
+<br>before the invasion, australians didn't settle, nor farm plants; this is proof that meat was not a critical point in our development
