@@ -630,6 +630,6 @@ shyam.id.au [6:31 AM]
 
 (lots more good stuff above)
 <br>shyam.id.au [3:34 PM]
-<bf>Is it self-hosting if you store the source as a string, and delete the original source post-compilation?
+<br>Is it self-hosting if you store the source as a string, and delete the original source post-compilation?
 
 ---
