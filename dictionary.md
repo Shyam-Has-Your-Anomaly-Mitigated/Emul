@@ -237,6 +237,7 @@ optiomal
 	namaśūdra: maintenance programmer, program testers,..
 	caṇḍāla: end user
 	pāgala: those who don't use Shyamscript
+	mūḍhā: those who don't program
 	
 	https://en.wikipedia.org/wiki/Ashrama_(stage)
 	sannyāsī: ℂomplex programmer (influencing Shyamscript)
