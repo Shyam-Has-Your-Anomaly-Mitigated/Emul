@@ -1,3 +1,4 @@
+https://youtu.be/zPUe7O3ODHQ
 # [planning for an optimal future](https://youtu.be/-hFk6FDrZBc)
 
 ## ahiṃsā
