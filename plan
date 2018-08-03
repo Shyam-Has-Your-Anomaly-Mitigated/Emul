@@ -72,7 +72,7 @@ probably go c̄:
 	emacs ∧ lisp (diy self-hosted lisp c̄ m*a*l* → diy emacs c̄ diy self-hosted lisp → diy distro c̄ l*f*s* → …)
 	hex ∧ low-level (diy bin/hex/asm/..)
 i*d*k* i just need to focus!!! (i'm sold on this, even though i don't like emacs; but i like lisp, and i only need safety for shyamscript ∵ all else will go unmaintained, if not rewritten/translated)
-shyamscript = lisp + bin/hex/asm/.. + …
+shyamscript = λisp + bin/hex/asm/.. + …
 what about apl, z notation, coq, isabelle,.?
 i feel like i need to learn more before shyamscript:
 	https://en.wikipedia.org/wiki/Impostor_syndrome
