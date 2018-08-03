@@ -40,3 +40,47 @@ SmallTalk = GUI & https://rosettacode.org/wiki/Execute_a_system_command#Smalltal
 Haskell   = unenforced typing means I'll never/rarely use it (like Java interfaces), mind-melting monads (why can't a string just be a string? do = xhr.js), ETC
 Perl      = unfinished; where's perldl6, monkey pragmas, ETC? it's been over a decade, and a half! ... https://rosettacode.org/wiki/User:Shyam_Has_Your_Anomaly_Mitigated#Perl
 The formal proofs of productivity are @ http://shyam.id.au/cs/dml/Topic:%20Discussion:%20Meet%20your%20classmates.html
+
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳
+
+i need a new plan…
+i need productivity…
+i need linguistic fluency…
+d*o*t*a*d*i*w* v*s* j*o*a*t*m*o*n*b*b*t*m*o*o*
+
+editor∈{diy,hex,cat,vim,emacs}
+diy: perl r-expressions (perl is the text processing language)
+hex: no carrots (i can't eat them anyway c̄out guilt tripping)
+cat: more
+vim: modal (i3)
+emacs: lisp
+
+language∈{lisp,asm,smalltalk,haskell,prolog,perl}
+lisp: unsafe hand-optimised homoiconic metaprogramming machine instructions (i'm losing interest in ml, but i'm willing to give it more time)
+ℝeal machine intructions ∀ ℝeal machine intruction technology: unsafe hand-optimised homoiconic metaprogramming machine instructions
+smalltalk: r*p*g*
+agda ∧ idris: haskell-based dependently typed total functional programming (needs logical lazyness)
+curry: haskell-based lazily evalutated functional-logic programming (needs totalitarian dependence)
+mercury: prolog-based purely functional-logic programming
+perl: circular dependency ∀ diy editors, one-liners
+
+i know i can just use any turing complete language though…
+probably leave perl for later…
+probably go c̄:
+	emacs ∧ lisp (diy self-hosted lisp c̄ m*a*l* → diy emacs c̄ diy self-hosted lisp → diy distro c̄ l*f*s* → …)
+	hex ∧ low-level (diy bin/hex/asm/..)
+i*d*k* i just need to focus!!! (i'm sold on this, even though i don't like emacs; but i like lisp, and i only need safety for shyamscript ∵ all else will go unmaintained, if not rewritten/translated)
+shyamscript = lisp + bin/hex/asm/.. + …
+what about apl, z notation, coq, isabelle,.?
+i feel like i need to learn more before shyamscript:
+	https://en.wikipedia.org/wiki/Impostor_syndrome
+	https://en.wikipedia.org/wiki/Complex_(psychology)#Examples
+	https://en.wikipedia.org/wiki/List_of_cognitive_biases
+	…
+
+virtual machines are just interpreters
+j*i*t*'s better in the long run
+prolog two-way function rules mean you only need one implementation between machines
+still not sure how to specify machines, unless i limit myself to pre-existing machines, but you can always use simulations; which is one of the many points of Shyamscript
