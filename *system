@@ -7,3 +7,6 @@ you can declare a global timestamp to be used implicity (if supported by each co
 
 probably just use logic programming for databases; it may be slow, but at least it's self-checking (could call it formal verification; it's slow, but at least it's guaranteed to function correctly)
 most users probably won't even notice if the databases are minimalistic
+
+https://en.wikipedia.org/wiki/Everything_is_a_file
+https://en.wikipedia.org/wiki/Versioning_file_system
