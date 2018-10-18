@@ -1,11 +1,11 @@
 prime vs composite
 vowel vs consonant
 
-vowels: aehioruwy
+vowels: {a,e,h,i,o,r,u,w,y}
 aeiou are common
 w is double u
-w is the end pronunciation of ou
-y is the end pronunciation of aei
-y is the start pronunciation of u
+w is the end pronunciation of {o,u}
+y is the end pronunciation of {a,e,i}
+y is the start pronunciation of {u}
 r is consonant if the tongue rolls
 h is more like an inaudible/toneless gasp of air; like 0…why aren't {0,1} prime/composite?
