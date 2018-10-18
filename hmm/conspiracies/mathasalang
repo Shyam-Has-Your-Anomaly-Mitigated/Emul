@@ -1,7 +1,7 @@
 prime vs composite
 vowel vs consonant
 
-vowels: {a,e,h,i,o,r,u,w,y}
+vowels = {a,e,h,i,o,r,u,w,y}
 aeiou are common
 w is double u
 w is the end pronunciation of {o,u}
