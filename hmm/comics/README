@@ -1,8 +1,3 @@
-:r!cat.png
-	src: https://xkcd.com/378/
-	lic: https://xkcd.com/license.html
-	hmm: not sure if allowed to deface...
-
 gravmas.png
 	src: http://en.gpcf.eu/grav-mass/photos/003.png
 	lic: http://en.gpcf.eu/grav-mass/cards.py/
@@ -29,6 +24,11 @@ gravmas.png
 		If I can get my hands on a DeLorean DMC-12, then I could also be called "Doc"...
 		But first I'll have to get some Tricky glasses.
 		http://www.dailymail.co.uk/sciencetech/article-2714588/Star-Trek-style-smart-glasses-allow-blind-sale-2016.html
+
+:r!cat.png
+	src: https://xkcd.com/378/
+	lic: https://xkcd.com/license.html
+	hmm: not sure if allowed to deface...
 
 shyambert.png
 	src: http://dilbert.com/strip/1995-11-09
