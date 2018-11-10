@@ -91,5 +91,16 @@ parameters =
 	└ │          │          │          ┘
 functions ≠ parameters
 …
-
-{─,┴,┬,┼,├,┤,┘,┐,┌,└,│}
+use natural language to define every"-thing" (for now); including number/function systems (size)…
+number_size = x
+function_size = 2 = {a,b}
+a = addition_definition
+b = subtraction_definition
+using the functions…goto start of file…
+exempli gratia:
+	a(,x,y,z)
+	a(,b(,z,x),a(,x,y))
+	…
+	_[,_,_,_]
+	_[,_[,_,_],_[,_,_]]
+compare different systems…
