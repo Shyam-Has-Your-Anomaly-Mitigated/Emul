@@ -10,13 +10,15 @@ a string is 3, or more, cards in a row
 playing a string weakens your' play, but strengthens your' hand
 counter: play 2, or 6, on 3 & 4 & 5
 return: play 2 & 6 on 3 & 4 & 5
-playing all of your' cards as your' first play; means the start/end of string is arbitrary, so that any two cards in a row (or even just one card) will return them all back into your' hands
+this is stupid: playing all of your' cards as your' first play; means the start/end of string is arbitrary, so that any two cards in a row (or even just one card) will return them all back into your' hands
+	can't play matching cards
+	can't win c̄ a string
 wrap around strings are a "-thing"
 
 discard all played cards, and go again/first if all opponents' cards are countered/returned
 
 https://en.wikipedia.org/wiki/Last_stand
-strings can't win; can't win c̄ a string
+strings can't win
 wins can be cancelled if the counter includes at least one return
 possible winning play: A & 2 & 4 & 5 & 7 & 8 & 10 & J
 
