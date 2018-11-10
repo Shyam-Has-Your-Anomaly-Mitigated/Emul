@@ -13,6 +13,7 @@ return: play 2 & 6 on 3 & 4 & 5
 this is stupid: playing all of your' cards as your' first play; means the start/end of string is arbitrary, so that any two cards in a row (or even just one card) will return them all back into your' hands
 	can't play matching cards
 	can't win c̄ a string
+this is better: A on 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & J & Q & K
 wrap around strings are a "-thing"
 
 discard all played cards, and go again/first if all opponents' cards are countered/returned
