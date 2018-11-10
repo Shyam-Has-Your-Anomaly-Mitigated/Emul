@@ -1,0 +1,19 @@
+2 player game
+each player wears a suit
+
+can't play matching cards; 3 on 3
+
+neighbours counter; 2 on 3, or 4 on 3
+double neighbours return; 2 & 4 on 3 = opponents' 3 returns to their' hand
+
+a string is 3, or more, cards in a row
+playing a string weakens your' play, but strengthens your' hand
+counter: play 2, or 6, on 3 & 4 & 5
+return: play 2 & 6 on 3 & 4 & 5
+playing all of your' cards as your' first play; means the start/end of string is arbitrary, so that any two cards in a row will return them all back into your' hands
+
+discard all played cards, and go again/first if all opponents' cards are countered/returned
+
+https://en.wikipedia.org/wiki/Last_stand
+strings can't win
+wins can be returned/cancelled
