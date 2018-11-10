@@ -114,13 +114,14 @@ parameters can stack numbers vertically, but this must be defined =
 use natural language to define every"-thing" (for now); including number/function systems (size)…
 number_structure = natural_language_variables
 number_size = x
-function_size = 2 = {,a,b}
-a = addition_definition
-b = subtraction_definition
+function_size = 3 = {,a,b,c}
+a = equality_definition
+b = addition_definition
+c = subtraction_definition
 using the functions…goto start of file…
 exempli gratia:
 	a(,x,y,z)
-	a(,b(,z,x),a(,x,y))
+	a(,b(,z,x),c(,x,y))
 	…
 	_[,_,_,_]
 	_[,_[,_,_],_[,_,_]]
