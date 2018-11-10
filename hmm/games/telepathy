@@ -38,6 +38,6 @@ tip: 3ʳᵈ eye
 	https://github.com/Shyam-Has-Your-Anomaly-Mitigated/Shyamscript/blob/master/hmm/conspiracies/zombies
 tip: cheat by mental deception, using jedi mind tricks, when it's not your turn
 	game mode: mental transmission
-		transmit misinformation to the other players whose turn it isn't
+		pre-emptively transmit misinformation to the other players whose turn it isn't
 	game mode: mental reception
 		pre-emptively manipulate the thought processes (EG `killall -9 $thought;./$malware`) of the player whose turn it is
