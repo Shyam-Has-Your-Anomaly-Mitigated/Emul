@@ -73,3 +73,23 @@ signed base 3:
 	-07   = ┌┘
 	∓श्याम = ├┤
 …
+numbers =
+	├─┼┴┼┬─┴┘
+functions =
+	┬
+	│
+	┼
+	├
+	┼
+	┤
+	│
+	├
+	└
+parameters =
+	┌ │          │          │          ┐
+	│ │ number_a │ number_b │ number_c │
+	└ │          │          │          ┘
+functions ≠ parameters
+…
+
+{─,┴,┬,┼,├,┤,┘,┐,┌,└,│}
