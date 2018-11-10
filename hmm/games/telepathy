@@ -25,6 +25,7 @@ game over: the big bang theory
 	reverse order of player's turn, starting c̄ the last player
 	players' turn
 		all players reveal their top face down card
+		matching cards only match the card belonging to the player whose turn it is
 		matching cards goto player whose turn it is
 		unmatching cards get discarded face up in the middle
 		next players' turn
