@@ -17,4 +17,4 @@ discard all played cards, and go again/first if all opponents' cards are counter
 https://en.wikipedia.org/wiki/Last_stand
 strings can't win
 wins can be returned/cancelled
-possible winning play: 2 & 3 & 5 & 6 & 8 & 9 & J & K
+possible winning play: 2 & 3 & 5 & 6 & 8 & 9 & J & Q & A
