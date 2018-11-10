@@ -86,11 +86,11 @@ functions =
 	│
 	├
 	└
-parameters =
+parameter syntax =
 	┌ │          │          │          ┐
 	│ │ number_a │ number_b │ number_c │
 	└ │          │          │          ┘
-functions ≠ parameters … or parameters are functions
+functions ≠ parameter syntax … or parameter syntax are functions
 parameters can stack numbers vertically, but this must be defined =
 	a b
 	c d
