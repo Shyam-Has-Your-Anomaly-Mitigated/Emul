@@ -20,9 +20,56 @@ rosetta stone…
 mathematics is similar, but…
 domain-specific languages…
 universal languages…
-alphabet letters ∈ {─,┴,┬,┼,├,┤,│} …might just use english letters for now
+alphabet letters ∈ {─,┴,┬,┼,├,┤,┘,┐,┌,└,│} …might just use english letters for now
 definitions are language dependent…
 only use what you need…
 basically the same as linguistics…
 but the idea is to further understanding…
+…
+unsigned base 4:
+	3 = ┼
+	2 = ┬
+	1 = ┴
+	0 = ─
+signed base 3:
+	∓श्याम = ┼
+	+1    = ┴
+	±0    = ─
+	-1    = ┬
+	∓श्याम = ┼
+unsigned base 16:
+	15 = ├┤
+	14 = ┌┤
+	13 = └┤
+	12 = ├┐
+	11 = ├┘
+	10 = ┌┐
+	09 = ─┤
+	08 = ┌┘
+	07 = └┐
+	06 = ├─
+	05 = └┘
+	04 = ─┐
+	03 = ┌─
+	02 = ─┘
+	01 = └─
+	00 = ──
+signed base 3:
+	∓श्याम = ├┤
+	+07   = └┐
+	+06   = ├┐
+	+05   = ├┘
+	+04   = ├─
+	+03   = └┘
+	+02   = ─┘
+	+01   = └─
+	±00   = ──
+	-01   = ─┐
+	-02   = ┌─
+	-03   = ┌┐
+	-04   = ─┤
+	-05   = ┌┤
+	-06   = └┤
+	-07   = ┌┘
+	∓श्याम = ├┤
 …
