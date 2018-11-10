@@ -11,6 +11,7 @@ playing a string weakens your' play, but strengthens your' hand
 counter: play 2, or 6, on 3 & 4 & 5
 return: play 2 & 6 on 3 & 4 & 5
 playing all of your' cards as your' first play; means the start/end of string is arbitrary, so that any two cards in a row will return them all back into your' hands
+wrap around strings are a "-thing"
 
 discard all played cards, and go again/first if all opponents' cards are countered/returned
 
