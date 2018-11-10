@@ -90,7 +90,7 @@ parameters =
 	│ │ number_a │ number_b │ number_c │
 	└ │          │          │          ┘
 functions ≠ parameters
-parameters can stack numbers vertically, but this must be defined
+parameters can stack numbers vertically, but this must be defined =
 	a b
 	c d
 	…
