@@ -26,3 +26,4 @@ possible winning play: A & 2 & 4 & 5 & 7 & 8 & 10 & J
 tip: attempt to force opponent to return your cards in order to control which cards they discard
 tip: cancelled wins could return all cards (including discards)
 	maybe only if all cards are returned
+tip: to make it interesting; first turn/player shuffles hand, and draws any number of cards c̄out looking
