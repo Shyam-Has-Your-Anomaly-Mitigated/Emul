@@ -90,8 +90,27 @@ parameters =
 	│ │ number_a │ number_b │ number_c │
 	└ │          │          │          ┘
 functions ≠ parameters
+parameters can stack numbers vertically, but this must be defined
+	a b
+	c d
+	…
+	a b
+	d c
+	…
+	a c
+	b d
+	…
+	a d
+	b c
+	…
+	a c
+	d b
+	…
+	a d
+	c b
 …
 use natural language to define every"-thing" (for now); including number/function systems (size)…
+number_structure = natural_language_variables
 number_size = x
 function_size = 2 = {a,b}
 a = addition_definition
