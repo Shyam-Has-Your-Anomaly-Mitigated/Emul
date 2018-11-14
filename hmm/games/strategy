@@ -21,6 +21,7 @@ discard all played cards, and go again/first if all opponents' cards are counter
 
 https://en.wikipedia.org/wiki/Last_stand
 strings can't win
+win if your opponent can't play (blocked/afk/..)
 wins can be cancelled if the counter includes at least one return
 possible winning play: A & 2 & 4 & 5 & 7 & 8 & 10 & J
 A & 7 = A & 8
