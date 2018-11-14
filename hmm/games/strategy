@@ -1,5 +1,6 @@
 2 player game
 each player wears a suit
+yolo mode
 
 can't play matching cards; 3 on 3
 
@@ -22,9 +23,11 @@ https://en.wikipedia.org/wiki/Last_stand
 strings can't win
 wins can be cancelled if the counter includes at least one return
 possible winning play: A & 2 & 4 & 5 & 7 & 8 & 10 & J
+A & 7 = A & 8
+
+reincardation mode: cancelled wins could return all cards (including discards)
+	maybe only if all cards are returned
 
 tip: attempt to force opponent to return your cards in order to control which cards they discard
-tip: cancelled wins could return all cards (including discards)
-	maybe only if all cards are returned
 tip: to make it interesting; first turn/player shuffles hand, and draws any number of cards c̄out looking
 	13-sided dice: shuffle, draw one card = n, shuffle, draw n cards
