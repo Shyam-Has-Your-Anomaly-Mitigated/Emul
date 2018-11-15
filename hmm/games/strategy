@@ -24,7 +24,7 @@ strings can't win
 win if your opponent can't play (blocked/afk/..)
 wins can be cancelled if the counter includes at least one return
 possible winning play: A & 2 & 4 & 5 & 7 & 8 & 10 & J
-A & 7 = A & 8
+first turn: A & 7 = A & 8
 
 reincardation mode: cancelled wins could return all cards (including discards)
 	maybe only if all cards are returned
