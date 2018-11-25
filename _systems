@@ -55,7 +55,7 @@ unsigned base 16:
 	02   = ─┘
 	01   = └─
 	00   = ──
-signed base 3:
+signed base 16:
 	∓श्याम = ├┤
 	+07   = └┐
 	+06   = ├┐
