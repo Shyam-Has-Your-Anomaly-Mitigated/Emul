@@ -638,7 +638,7 @@ shyam.id.au [6:31 AM]
 
 shyam.id.au [6:47 PM]
 <br>Quipu could've been used instead of punched cards; benefits include reusability, and error control.
-Quipu is like tape, but better.
+<br>Quipu is like tape, but better.
 
 **2018-11-30**
 
