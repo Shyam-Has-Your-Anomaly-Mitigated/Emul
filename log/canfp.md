@@ -632,4 +632,27 @@ shyam.id.au [6:31 AM]
 <br>shyam.id.au [3:34 PM]
 <br>Is it self-hosting if you store the source as a string, and delete the original source post-compilation?
 
+...
+
+**2018-11-28**
+
+shyam.id.au [6:47 PM]
+<br>Quipu could've been used instead of punched cards; benefits include reusability, and error control.
+Quipu is like tape, but better.
+
+**2018-11-30**
+
+shyam.id.au [7:37 PM]
+<br>https://image.slidesharecdn.com/programmingparadigmsiitfest-091008114533-phpapp02/95/programming-paradigms-42-728.jpg
+
+**2018-12-02**
+
+shyam.id.au [4:13 PM]
+<br>What's the difference between procedural programming, and functional programming?
+<br>I can imagine a quipu-based knot tying machine metaprogramming a quipu-based machine that loops into an knot untying machine to be retied by the original quipu-based knot tying machine!!! :smile: (edited)
+<br>Can't do that c̄ punched cards, nor tape!
+<br>The quipu-based machine could be responsible for the metaprogramming of the original quipu-based knot tying machine… (edited)
+
+...
+
 ---
