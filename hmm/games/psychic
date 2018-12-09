@@ -127,7 +127,7 @@ mathematics:
 	…where n≠0; n=1 is all you need since n×(1÷d)=n÷d
 	…
 	…0÷d goto vertical line, but 1÷d doesn't; fromin n÷d as d goto 0
-	…but if d goto inverse of 0; 0÷d=0
+	…but if d goto inverse of 0; 0÷d goto 0
 
 mathematics:
 	0÷0=undefined replaced by _
