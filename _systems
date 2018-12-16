@@ -4,14 +4,14 @@ patterns; max word size = 3
 	__
 	___
 	_ _
+	____
 	_ __
 	__ _
+	_____
 	__ __
 	_ ___
 	___ _
-	__ ___
-	___ __
-	___ ___
+	_ _ _
 	…
 max word size = longest word in whatever language
 language structure…
