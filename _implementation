@@ -1,0 +1,9 @@
+i was going to make it a command-line option…
+just run the optimised implementation first, and run user-friendly versions if it fails
+if they fucked up, then they can pay the temporal price, and play the waiting game
+or use a better editor
+user-friendly are "-thing"s like; you fucked up somewhere between [x,y] on line z
+[x,y] is interval notation, but what about coordinate notation?
+combine them for; you fucked up somewhere between [(a,y),(b,y)], where y is now the vertical line number
+lets just abuse mathematics to insult innumerates; ∃[(a,y),(b,y)]→err_msg
+err_msg∈{⊥,λx.∞,..}
