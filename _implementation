@@ -8,3 +8,8 @@ combine them for; you fucked up somewhere between [(a,y),(b,y)], where y is now 
 lets just abuse mathematics to insult innumerates; ∃[(a,y),(b,y)]⊆F→err_msg
 err_msg∈{⊥,λx.∞,..}
 F = file address
+
+##prolog
+i prefer reversibility over optimisation
+i value the perfection of prolog over the heuristics of haskell (for my personal life)
+prolog is basically a bruteforce language and bruteforce is the slowest but guaranteed
