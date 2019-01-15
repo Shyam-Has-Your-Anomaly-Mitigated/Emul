@@ -20,6 +20,6 @@ coding convention
 f(I,O) :- true
 	, I = [_|_]
 	, O = [_|_]
-	; alt
-	; err
+	; alt(I,O)
+	; err(I,O)
 	.
