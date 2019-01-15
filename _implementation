@@ -155,11 +155,11 @@ arbitrary state manipulations
 
 perl is good for text processing but i feel like this is a job for list processing in lisp
 
-the fourmost foremost productive programming languages based on scientific research papers and empirical evidence
-prolog : language processing, language-based user interface, optimal exhaustive bruteforcing
-perl   : text processing    , text-based user interface    , one-liners
-lisp   : list processing    , metaprogramming              , prototyping
-haskell: multiprocessing    , formal methods               , lazy producer-consumer heuristics
+the fourmost foremost productive programming languages based on scientific research papers and empirical evidence:
+	‣ prolog : language processing, language-based user interface, optimal exhaustive bruteforcing
+	‣ perl   : text processing    , text-based user interface    , one-liners
+	‣ lisp   : list processing    , metaprogramming              , prototyping
+	‣ haskell: multiprocessing    , formal methods               , lazy producer-consumer heuristics
 
 extreme types of formal methods:
 	‣ formal verification of implementation against a formal specification
