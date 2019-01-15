@@ -57,6 +57,8 @@ coding convention
 f(I,O) :- true
 	, I = [H|T]
 	, O = [_|_]
+	, I = Q
+	, O = A
 	, g(H, O)
 	, f(T, O)
 	, ( true
