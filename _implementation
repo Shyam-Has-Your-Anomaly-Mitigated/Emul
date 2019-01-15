@@ -132,3 +132,12 @@ we can use squiggly lines to save ℝ space
 ℝ time
 ℂ space
 ℂ time
+
+          ┌┐┌┐ 
+     ╔═══╗││││
+[x]──╢ f ╟┘│││┌[y]
+     ╚═══╝ ││││
+           └┘└┘
+
+since thickness is already being used for directionality
+blackboxes can be double-lined
