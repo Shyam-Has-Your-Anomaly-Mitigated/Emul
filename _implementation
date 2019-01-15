@@ -173,10 +173,12 @@ arbitrary state manipulations
 perl is good for text processing but i feel like this is a job for list processing in lisp
 
 the fourmost foremost productive programming languages based on scientific research papers and empirical evidence:
-	‣ prolog : language processing, language-based user interface, optimal exhaustive bruteforcing
-	‣ perl   : text processing    , text-based user interface    , one-liners
-	‣ lisp   : list processing    , metaprogramming              , prototyping
-	‣ haskell: multiprocessing    , formal methods               , lazy producer-consumer heuristics
+	‣ prolog   : language processing, language-based user interface, optimal exhaustive bruteforcing
+	‣ perl     : text processing    , text-based user interface    , one-liners
+	‣ lisp     : list processing    , metaprogramming              , prototyping
+	‣ haskell  : multiprocessing    , formal methods               , lazy producer-consumer heuristics
+…
+	‣ smalltalk:                    , graphical user interface     ,
 
 smalltalk may be a productive language but my opinions of object-oriented have changed:
 	‣ object-oriented programming: based on the ℝ world; ℝ is mathematically imperfect
