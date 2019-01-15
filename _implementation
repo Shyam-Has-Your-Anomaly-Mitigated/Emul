@@ -47,8 +47,8 @@ naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
 'arg 0'([],[]).
 'arg 1'([ARG1],[]).
-'arg 1, arg 2'([ARG1,ARG2],[]).
-'arg 1, arg 2, arg 3'([ARG1,ARG2,ARG3],[]).
+'arg 1, arg 2'([ARG1, ARG2],[]).
+'arg 1, arg 2, arg 3'([ARG1, ARG2, ARG3],[]).
 …unless the arguments share "-thing"s in common; why should the order matter?
 property([H|T],[]).
 commonality([H|T],[]).
@@ -57,13 +57,13 @@ coding convention
 f(I,O) :- true
 	, I = [H|T]
 	, O = [_|_]
-	, g(H,O)
-	, f(T,O)
+	, g(H, O)
+	, f(T, O)
 	, ( true
 		, zero()
-		; alt(I,O)
+		; alt(I, O)
 	)
-	; err([f(I,O)],E)
+	; err([f(I, O)], E)
 	, E = []
 	.
 
