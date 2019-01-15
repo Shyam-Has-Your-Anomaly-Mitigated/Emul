@@ -160,8 +160,8 @@ perl   : text processing    , text-based user interface    , one-liners
 lisp   : list processing    , metaprogramming              , prototyping
 haskell: multiprocessing    , formal methods               , lazy producer-consumer heuristics
 
-extreme types of formal methods
-	formal verification of implementation against a formal specification
-	theorem proving
+extreme types of formal methods:
+	‣ formal verification of implementation against a formal specification
+	‣ theorem proving
 
 formal methods are just ways of migrating bugs into a corner and declaring this is where we must tread carefully for we may step on one over here and that would be an ethical disaster
