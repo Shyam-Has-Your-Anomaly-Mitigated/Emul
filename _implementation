@@ -22,6 +22,7 @@ f(I,O) :- true
 	, O = [_|_]
 	, g(H,O)
 	, f(T,O)
+	, zero()
 	; alt(I,O)
 	; err(I,O)
 	.
