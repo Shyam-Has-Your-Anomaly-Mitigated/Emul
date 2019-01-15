@@ -161,15 +161,25 @@ the fourmost foremost productive programming languages based on scientific resea
 	‣ lisp   : list processing    , metaprogramming              , prototyping
 	‣ haskell: multiprocessing    , formal methods               , lazy producer-consumer heuristics
 
-extreme types of formal methods:
-	‣ formal verification of implementation against a formal specification
-	‣ theorem proving
-
-formal methods are just ways of migrating bugs into a corner and declaring this is where we must tread carefully for we may step on one over here and that would be an ethical disaster
-
 smalltalk may be a productive language but my opinions of object-oriented have changed:
 	‣ object-oriented programming: based on the ℝ world; ℝ is mathematically imperfect
 	‣ literate programming       : based on ℕ languages; ℕ languages are informal
 smalltalk may be good for new programmers who can relate c̄ ℝ; unless they have a mathematical background, or are technically inclined
 
 if you attempt to compile english you get compilation exceptions; there are "weird" words that break the rule of ib4e
+
+formal methods are just ways of migrating bugs into a corner and declaring this is where we must tread carefully for we may step on one over here and that would be an ethical disaster
+
+extreme types of formal methods:
+	‣ formal verification of implementation against a formal specification
+	‣ theorem proving
+weakest types of formal methods:
+	‣ haskell
+all else is informal
+
+unsafe languages:
+	‣ lisp
+	‣ prolog
+	‣ perl; strict pragmas add safety but i do not use perl for safety, in fact i use perl because of the lack of safety
+red tape safety nets gets in the way; have you ever tried training wheels?
+cut across the lawn versus walking on the winding footpath; edward scissor-hands style
