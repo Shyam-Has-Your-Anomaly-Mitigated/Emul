@@ -24,5 +24,6 @@ f(I,O) :- true
 	, f(T,O)
 	, zero()
 	; alt(I,O)
-	; err(I,O)
+	; err([f(I,O)],E)
+	, E = []
 	.
