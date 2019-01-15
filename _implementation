@@ -50,8 +50,8 @@ arg1([ARG1],[]).
 arg1_arg2([ARG1,ARG2],[]).
 arg1_arg2_arg3([ARG1,ARG2,ARG3],[]).
 …unless the arguments share "-thing"s in common; why should the order matter?
-property([H|T]).
-commonality([H|T]).
+property([H|T],[]).
+commonality([H|T],[]).
 
 coding convention
 f(I,O) :- true
