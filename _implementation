@@ -10,12 +10,12 @@ err_msg∈{⊥,λx.∞,..}
 F = file address
 
  ╱
-╳ ╔════════════════════════════════╗
-╳ ║ from now on                    ║
-╳ ║ this is how i will use irc     ║
-╳ ║ vim makes it as easy as        ║
-╳ ║ Roverwritefollowedbyspace\e    ║
-╳ ╚════════════════════════════════╝
+╳ ╔══════════════════════════════════════╗
+╳ ║ from now on                          ║
+╳ ║ this is how i will use irc           ║
+╳ ║ vim makes it as easy as              ║
+╳ ║ Roverwritefollowedbyspace\e          ║
+╳ ╚══════════════════════════════════════╝
  ╲
 
 ##prolog
