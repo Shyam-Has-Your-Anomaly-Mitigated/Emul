@@ -18,8 +18,10 @@ prolog is basically a bruteforce language and bruteforce is the slowest but guar
 
 coding convention
 f(I,O) :- true
-	, I = [_|_]
+	, I = [H|T]
 	, O = [_|_]
+	, g(H,O)
+	, f(T,O)
 	; alt(I,O)
 	; err(I,O)
 	.
