@@ -152,3 +152,5 @@ cellular automata
 time machine like time travelling debuggers
 start, stop, loop/recurse, nth, interval notation [start,stop],..
 arbitrary state manipulations
+
+perl is good for text processing but i feel like this is a job for list processing in lisp
