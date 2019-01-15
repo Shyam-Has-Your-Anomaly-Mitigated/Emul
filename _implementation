@@ -22,6 +22,11 @@ F = file address
 ┊ i also like this ┊
  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
+canfp.slack.com
+`(= lisp functional_programming) ∧ (= lisp unsafe) → (= functional_programming informal)`
+`(= formal safe) ∧ (= haskell safe) → (= haskell formal)`
+I'm the man in the middle!!! :D
+
 ##prolog
 i prefer reversibility over optimisation
 i feel like optimisation at such high levels of abstraction is considered value drift
@@ -35,6 +40,8 @@ prolog is basically a bruteforce language and bruteforce is the slowest but guar
 ╳ ║ communication standards ║        
 ╳ ╚═════════════════════════╝
  ╲
+depth search is discovering the first satisfying leaf or node one at a time and breadth search is the superpositional exploration of all possibilities?
+	yes
 
 coding convention
 f(I,O) :- true
