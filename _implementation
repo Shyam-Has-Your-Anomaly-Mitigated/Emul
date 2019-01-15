@@ -24,6 +24,13 @@ i feel like optimisation at such high levels of abstraction is considered value 
 https://universalpaperclips.gamepedia.com/Value_Drift
 i value the perfection of prolog over the heuristics of haskell (for my personal life)
 prolog is basically a bruteforce language and bruteforce is the slowest but guaranteed
+/me wonders if irc supports ansi escaping
+ ╱
+╳ ╔═════════════════════════╗
+╳ ║ we need more expressive ║        
+╳ ║ communication standards ║        
+╳ ╚═════════════════════════╝
+ ╲
 
 coding convention
 f(I,O) :- true
