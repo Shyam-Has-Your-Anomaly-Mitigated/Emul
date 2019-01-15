@@ -9,6 +9,15 @@ lets just abuse mathematics to insult innumerates; ∃[(a,y),(b,y)]⊆F→err_ms
 err_msg∈{⊥,λx.∞,..}
 F = file address
 
+ ╱
+╳ ╔════════════════════════════════╗
+╳ ║ from now on                    ║
+╳ ║ this is how i will use irc     ║
+╳ ║ vim makes it as easy as        ║
+╳ ║ Roverwritefollowedbyspace\e    ║
+╳ ╚════════════════════════════════╝
+ ╲
+
 ##prolog
 i prefer reversibility over optimisation
 i feel like optimisation at such high levels of abstraction is considered value drift
