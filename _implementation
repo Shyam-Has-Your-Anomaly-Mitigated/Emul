@@ -46,3 +46,25 @@ f(I,O) :- true
 [numbers]        │      │          │
  ├────────┐      │      │          │
 [integer][float][atoms][variables][terms]
+
+
+
+machine idea
+
+[small memory]
+ └└└└└└└└└└└└──────────────────────┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐
+                                  [big memory big memory]
+[010110101101]
+ └└└└└└└└└└└└──────────────────────┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐┐
+                                  [110101000101101110101]
+repeating corners are animation spaces
+
+┌─┐        ┌           ┐
+ 0 ┐       │ 0 1 1 0 1 │
+ 1 ┤       └ ┊ ┊ ┊ ┊ ┊ ┘
+ 1 ┼─────────┼─┼─┼─┼─┼
+ 0 ┤       ┌ ┊ ┊ ┊ ┊ ┊ ┐
+ 1 ┘       │ 1 0 1 1 0 │
+└─┘        └           ┘
+
+i want to be able see the flow chart like the symbolic movements of the matrix
