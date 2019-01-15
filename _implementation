@@ -93,3 +93,9 @@ frame 0: [a]────────[?]
 
 bidirectional signal transmission (so light it can goto any key)
 http://ars.userfriendly.org/cartoons/?id=20030128
+
+     ┌─┐
+[x]──┤f├─────[y]
+     └─┘
+
+blackbox functionality and differing distances for complexity theorists
