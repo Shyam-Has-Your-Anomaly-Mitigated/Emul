@@ -27,3 +27,13 @@ f(I,O) :- true
 	; err([f(I,O)],E)
 	, E = []
 	.
+
+[terms]
+ ├─────────────────────────────────┐
+[simple terms]                    [complex terms]
+ ├──────────────────────┐          │
+[constants]             │         [compound terms]
+ ├───────────────┐      │          │
+[numbers]        │      │          │
+ ├────────┐      │      │          │
+[integer][float][atoms][variables][terms]
