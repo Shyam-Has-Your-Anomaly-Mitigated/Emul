@@ -15,3 +15,9 @@ i feel like optimisation at such high levels of abstraction is considered value 
 https://universalpaperclips.gamepedia.com/Value_Drift
 i value the perfection of prolog over the heuristics of haskell (for my personal life)
 prolog is basically a bruteforce language and bruteforce is the slowest but guaranteed
+
+coding convention
+f(I,O) :- true
+	, I = [_|_]
+	, O = [_|_]
+	.
