@@ -106,8 +106,8 @@ blackbox functionality and differing distances for complexity theorists
 
 blackbox dimensional area can be indicative of complexity theory
 
-temporal complexity is represented by connectivity distance
-spacial complexity is represented by blackbox dimensions
+ℂ temporal complexity is represented by connectivity distance
+ℂ spacial complexity is represented by blackbox dimensions
 
           ┌┐┌┐ 
      ┌───┐││││
@@ -116,3 +116,8 @@ spacial complexity is represented by blackbox dimensions
            └┘└┘
 
 we can use squiggly lines to save ℝ space 
+
+ℝ space
+ℝ time
+ℂ space
+ℂ time
