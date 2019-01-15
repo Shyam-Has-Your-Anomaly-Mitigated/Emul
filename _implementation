@@ -45,7 +45,7 @@ depth search is discovering the first satisfying leaf or node one at a time and 
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
-arg0.
+arg0([],[]).
 arg1([ARG1],[]).
 arg1_arg2([ARG1,ARG2],[]).
 arg1_arg2_arg3([ARG1,ARG2,ARG3],[]).
@@ -59,8 +59,10 @@ f(I,O) :- true
 	, O = [_|_]
 	, g(H,O)
 	, f(T,O)
-	, zero()
-	; alt(I,O)
+	, ( true
+		, zero()
+		; alt(I,O)
+	)
 	; err([f(I,O)],E)
 	, E = []
 	.
