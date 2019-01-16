@@ -70,6 +70,55 @@ f([I,O]) :- true
 	, E = []
 	.
 
+knowledge base types
+
+%propositional_knowledge_base
+'i have a lot of junk'.
+'i do not have a job'.
+
+%royal_knowledge_base
+'i am dieting'.
+'i am exercising'.
+'i am getting healthy' :- 'i am dieting', 'i am exercising'.
+'i am getting unhealthy' :- 'i am not dieting'; 'i am not exercising'.
+
+%factual_knowledge_base
+recipe(['thrown vegvit multivitamin']).
+recipe(['peeled fresh orange']).
+recipe(['peeled fresh banana']).
+recipe(['peeled fresh avocado']).
+recipe(['spreaded bread']).
+recipe(['serialised vegan milk']).
+recipe([
+   'stirred rice cooker'
+   , 'poured flaxseed oil'
+   , 'torn fresh chilli'
+   , 'tipped cup of rice'
+   , 'circumfused can of tomato dye'
+   , 'spilled can of corn kernels'
+   , 'decanted can of red kidney beans'
+   , 'sprinked iodised salt'
+   , 'scraped fresh avocado'
+]).
+recipe([
+   'stirred rice cooker'
+   , 'poured flaxseed oil'
+   , 'torn fresh chilli'
+   , 'tipped cup of rice'
+   , 'circumfused can of tomato dye'
+   , 'spilled can of corn kernels'
+   , 'decanted can of red kidney beans'
+   , 'sprinked iodised salt'
+   , 'scraped fresh avocado'
+   , 'vegan sour cream'
+   , 'vegan cheese'
+]).
+
+%tabular_knowledge_base
+c_table(X) :- findall(E, c_row(E), X).
+c_row(X) :- X = c1_c2_c3_c4_c5(_), X.
+c1_c2_c3_c4_c5([C1, C2, C3, C4, C5]).
+
 [terms]
  ├─────────────────────────────────┐
 [simple terms]                    [complex terms]
