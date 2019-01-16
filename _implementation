@@ -91,6 +91,7 @@ recipe(['spreaded bread']).
 recipe(['serialised vegan milk']).
 recipe([
    'stirred rice cooker'
+   , 'purified water filter'
    , 'bubbling water kettle'
    , 'poured flaxseed oil'
    , 'torn fresh chilli'
@@ -104,6 +105,7 @@ recipe([
 ]).
 recipe([
    'stirred rice cooker'
+   , 'purified water filter'
    , 'bubbling water kettle'
    , 'poured flaxseed oil'
    , 'torn fresh chilli'
