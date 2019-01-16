@@ -63,7 +63,7 @@ f([I,O]) :- true
 	, g([H, O])
 	, f([T, O])
 	, ( true
-		, zero([])
+		, zero([[],[]])
 		; alt([I, O])
 	)
 	; err([[f([I, O])], E])
