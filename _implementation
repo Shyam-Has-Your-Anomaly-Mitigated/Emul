@@ -70,7 +70,7 @@ f([I,O]) :- true
 	, E = []
 	.
 
-knowledge base types
+knowledge base systems
 
 %propositional_knowledge_base
 'i have a lot of junk'.
