@@ -125,6 +125,8 @@ tab1(X) :- findall(E, row1(E), X).
 row1(X) :- X = col1_col2_col3_col4_col5(_), X.
 col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 
+homoiconic graph theory
+
 [terms]
  ├─────────────────────────────────┐
 [simple terms]                    [complex terms]
@@ -134,8 +136,6 @@ col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 [numbers]        │      │          │
  ├────────┐      │      │          │
 [integer][float][atoms][variables][terms]
-
-
 
 machine simulation idea
 
