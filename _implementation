@@ -45,6 +45,7 @@ depth search is discovering the first satisfying leaf or node one at a time and 
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
+…lists are good for F(X) instead of F(A), F(A,B), F(A,B,C),..
 'arg 0'([],[]).
 'arg 1'([ARG1],[]).
 'arg 1, arg 2'([ARG1, ARG2],[]).
