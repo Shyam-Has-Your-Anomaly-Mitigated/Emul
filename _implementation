@@ -115,9 +115,9 @@ recipe([
 ]).
 
 %tabular_knowledge_base
-c_table(X) :- findall(E, c_row(E), X).
-c_row(X) :- X = c1_c2_c3_c4_c5(_), X.
-c1_c2_c3_c4_c5([C1, C2, C3, C4, C5]).
+tab1(X) :- findall(E, row1(E), X).
+row1(X) :- X = col1_col2_col3_col4_col5(_), X.
+col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 
 [terms]
  ├─────────────────────────────────┐
