@@ -91,6 +91,7 @@ recipe(['spreaded bread']).
 recipe(['serialised vegan milk']).
 recipe([
    'stirred rice cooker'
+   , 'bubbling water kettle'
    , 'poured flaxseed oil'
    , 'torn fresh chilli'
    , 'tipped cup of rice'
@@ -98,10 +99,12 @@ recipe([
    , 'spilled can of corn kernels'
    , 'decanted can of red kidney beans'
    , 'sprinked iodised salt'
+   , 'spouted water'
    , 'scraped fresh avocado'
 ]).
 recipe([
    'stirred rice cooker'
+   , 'bubbling water kettle'
    , 'poured flaxseed oil'
    , 'torn fresh chilli'
    , 'tipped cup of rice'
@@ -109,6 +112,7 @@ recipe([
    , 'spilled can of corn kernels'
    , 'decanted can of red kidney beans'
    , 'sprinked iodised salt'
+   , 'spouted water'
    , 'scraped fresh avocado'
    , 'spooned vegan sour cream'
    , 'tossed vegan cheese'
