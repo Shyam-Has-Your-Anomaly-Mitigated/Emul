@@ -115,9 +115,9 @@ recipe([
    , 'decanted can of red kidney beans'
    , 'sprinked iodised salt'
    , 'spouted water'
+   , 'tossed vegan cheese'
    , 'scraped fresh avocado'
    , 'spooned vegan sour cream'
-   , 'tossed vegan cheese'
 ]).
 
 %tabular_knowledge_base
