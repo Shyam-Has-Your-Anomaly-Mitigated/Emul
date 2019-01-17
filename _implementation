@@ -125,7 +125,7 @@ tab1(X) :- findall(E, row1(E), X).
 row1(X) :- X = col1_col2_col3_col4_col5(_), X.
 col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 
-dcg
+dcg rules
 
 get --> [X], {f(X)}.
 f --> [X], {f(X)}. % f/2 --> f/1.
