@@ -42,6 +42,8 @@ prolog is basically a bruteforce language and bruteforce is the slowest but guar
  ╲
 depth search is discovering the first satisfying leaf or node one at a time and breadth search is the superpositional exploration of all possibilities?
 	yes
+/me wonders if this is what everyone means when they say they are doing time or they did their time
+/me never wants to do time ever again after this
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
