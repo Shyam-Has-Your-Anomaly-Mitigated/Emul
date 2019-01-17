@@ -125,6 +125,15 @@ tab1(X) :- findall(E, row1(E), X).
 row1(X) :- X = col1_col2_col3_col4_col5(_), X.
 col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 
+dcg
+
+get --> [X], {f(X)}.
+f --> [X], {f(X)}. % f/2 --> f/1.
+f --> [X], {g(X)}.
+f --> [H|T], {h(H),t(T)}.
+f --> L, {lisp(L)}.
+f --> [A,B,C], {google([A,B,C])}.
+
 homoiconic graph theory
 
 [terms]
