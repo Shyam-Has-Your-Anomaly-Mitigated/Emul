@@ -134,6 +134,7 @@ f --> [H|T], {h(H),t(T)}.
 f --> L, {lisp(L)}.
 f --> [A,B,C], {google([A,B,C])}.
 
+% a plan is basically just a list of things to do
 f(Y) -> [X], {f(X,Y)}. % f/3 --> f/2
 
 homoiconic graph theory
