@@ -135,9 +135,9 @@ f --> [A,B,C], {google([A,B,C])}.
 
 % a plan is basically just a list of things to do
 
-% foreflow
+% foreflow/backflow
 f(Y) -> [X], {f(X,Y)}. % f/3 --> f/2
-% backflow
+% backflow/foreflow
 f --> [X], {f(X)}. % f/2 --> f/1.
 
 homoiconic graph theory
