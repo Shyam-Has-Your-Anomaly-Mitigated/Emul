@@ -138,7 +138,7 @@ f --> [A,B,C], {google([A,B,C])}.
 % foreflow/backflow
 f(Y) -> [X], {f(X,Y)}. % f/3 --> f/2
 % backflow/foreflow
-f --> [X], {f(X)}. % f/2 --> f/1.
+f --> [X], {f(X)}. % f/2 --> f/1
 
 homoiconic graph theory
 
