@@ -134,6 +134,8 @@ f --> [H|T], {h(H),t(T)}.
 f --> L, {lisp(L)}.
 f --> [A,B,C], {google([A,B,C])}.
 
+f(Y) -> [X], {f(X,Y)}. % f/3 --> f/2
+
 homoiconic graph theory
 
 [terms]
