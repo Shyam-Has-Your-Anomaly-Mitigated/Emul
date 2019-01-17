@@ -128,14 +128,17 @@ col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 dcg rules
 
 get --> [X], {f(X)}.
-f --> [X], {f(X)}. % f/2 --> f/1.
 f --> [X], {g(X)}.
 f --> [H|T], {h(H),t(T)}.
 f --> L, {lisp(L)}.
 f --> [A,B,C], {google([A,B,C])}.
 
 % a plan is basically just a list of things to do
+
+% foreflow
 f(Y) -> [X], {f(X,Y)}. % f/3 --> f/2
+% backflow
+f --> [X], {f(X)}. % f/2 --> f/1.
 
 homoiconic graph theory
 
