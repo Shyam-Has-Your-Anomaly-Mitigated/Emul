@@ -57,6 +57,14 @@ property([[H|T], []]).
 commonality([[H|T], []]).
 
 coding convention
+f --> {true}
+	, a
+	, b
+	, c
+	; x
+	, y
+	, z
+	.
 f([I,O]) :- true
 	, I = [H|T]
 	, O = [_|_]
@@ -128,6 +136,8 @@ row1(X) :- X = col1_col2_col3_col4_col5(_), X.
 col1_col2_col3_col4_col5([COL1, COL2, COL3, COL4, COL5]).
 
 dcg rules
+
+a --> true
 
 get --> [X], {f(X)}.
 f --> [X], {g(X)}.
