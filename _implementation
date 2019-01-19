@@ -58,6 +58,11 @@ and the preceding queries will attempt to remove any proof theoretic doubt
 "what is your gender?" → i am the man who knows every"-thing"
 "Which country is your point of origin?" → i come from the land down under where we criminally celebrate cop killers like the kelly gang
 "Will you marry me?" → i need; 100pts of id, blood/fluid test, background check, consent form, death/injury waiver; no meat, no drugs, no tobacco, no alcohol, no caffeine; …
+
+answers must be boolean assumed truths and unknowns
+to know, or not to know, that is the query
+but they may be false in ℝ
+so in ℝ they are trilean while in ℂ they are boolean
 */
 
  ╱
