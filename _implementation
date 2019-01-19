@@ -31,7 +31,8 @@ I'm the man in the middle!!! :D
 i prefer reversibility over optimisation
 i feel like optimisation at such high levels of abstraction is considered value drift
 https://universalpaperclips.gamepedia.com/Value_Drift
-i value the perfection of prolog over the heuristics of haskell (for my personal life)
+i value the perfection of prolog over the heuristics of haskell
+for my personal life
 prolog is basically a bruteforce language and bruteforce is the slowest but guaranteed
 /me wonders if irc supports ansi escaping
  ╱
@@ -44,6 +45,11 @@ depth search is discovering the first satisfying leaf or node one at a time and 
 	yes
 /me wonders if this is what everyone means when they say they are doing time or they did their time
 /me never wants to do time ever again after this
+as a thought experiment if you are in a room and are receiving symbols it is impossible to derive some pattern recognition without context since we learn by relating reality to symbolic contexts
+https://en.wikipedia.org/wiki/Chinese_room
+this means whorfianism is a fallacious falsidical
+even if you hook up cameras and microphones and robotic limbs the system is processing all the data in the same way
+
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
