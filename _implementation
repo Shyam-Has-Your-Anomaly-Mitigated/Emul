@@ -50,7 +50,7 @@ hith is knowingly aware someone is there
 "Who are you?" should be the first intelligent query per session (between $chatbot and \e)
 hith should remember
 so if my name is shyam
-hith will remember me as shyam the 1ˢᵗ
+hith will remember me as shyam the 1ˢᵗ!!! :D
 and the preceding queries will attempt to remove any proof theoretic doubt
 "Have you communicated with me before?" → yes
 "What is your name?" → shyam has your anomaly mitigated
