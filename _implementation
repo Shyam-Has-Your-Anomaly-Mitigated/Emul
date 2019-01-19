@@ -189,7 +189,7 @@ recipe([
 	, 'circumfused can of tomato dye'
 	, 'spilled can of corn kernels'
 	, 'decanted can of red kidney beans'
-	, 'sprinked iodised salt'
+	, 'sprinkled iodised salt'
 	, 'spouted water'
 	, 'scraped fresh avocado'
 ]).
@@ -203,7 +203,7 @@ recipe([
 	, 'circumfused can of tomato dye'
 	, 'spilled can of corn kernels'
 	, 'decanted can of red kidney beans'
-	, 'sprinked iodised salt'
+	, 'sprinkled iodised salt'
 	, 'spouted water'
 	, 'tossed vegan cheese'
 	, 'scraped fresh avocado'
@@ -343,7 +343,7 @@ r-expressions versus l-expressions
 
 the fourmost foremost productive programming language families based on scientific research papers and empirical evidence:
 	‣ prolog   : language processing, language-based user interface, optimal exhaustive bruteforcing
-	‣ perl     : text processing    , text-based user interface    , unix([one_liners, glue_code],[]).
+	‣ perl     : text processing    , text-based user interface    , unix([[one_liners, glue_code],[]]).
 	‣ lisp     : list processing    , metaprogramming              , prototyping
 	‣ haskell  : multiprocessing    , formal methods               , lazy producer-consumer heuristics
 …
