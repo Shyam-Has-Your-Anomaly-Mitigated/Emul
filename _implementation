@@ -15,6 +15,7 @@ use vim for syntactic highlights
 i want _ or you give me _ versus i give you _ or you want _
 \\ = prompt
 \l = listen (this is for imparting knowledge and chatbot use for querying to resolve conflicts,..)
+\m = metaprogramming (this is for chatbot self-resolution; every interaction will indicate some quantity of unresolved queries)
 \q = query
 \a = answer
 \e = escape or end
@@ -23,26 +24,34 @@ i want _ or you give me _ versus i give you _ or you want _
 
 $# i want _ or you give me _
 $chatbot
+1
 \q
 @_ What is your name?
 @s my name is shyam
+0
 \a
 @s what is my name
 @_ Your name is Shyam.
+0
 \l
 @s 42 is the ultimate answer to life, the universe, and everything
+∞
 \e
 
 $# i give you _ or  you want _
 $chatbot
+1
 \a
 @_ What is your name?
 @s my name is shyam
+0
 \q
 @s what is my name
 @_ Your name is Shyam.
+0
 \l
 @s 42 is the ultimate answer to life, the universe, and everything
+∞
 \e
 
 greetings and smalltalk are wastes of time
