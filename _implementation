@@ -9,6 +9,38 @@ lets just abuse mathematics to insult innumerates; ∃[(a,y),(b,y)]⊆F→err_ms
 err_msg∈{⊥,λx.∞,..}
 F = file address
 
+use vim for syntactic highlights
+#!/usr/bin/env swipl
+/*
+i want _ or you give me _ versus i give you _ or you want _
+\\ = prompt
+\q = query
+\a = answer
+\e = escape or end
+@_ chatbot is communicating
+@s shyam is communicating
+
+$# i want _ or you give me _
+$chatbot
+\q
+@_ What is your name?
+@s my name is shyam
+\a
+@s what is my name
+@_ Your name is Shyam.
+\e
+
+$# i give you _ or  you want _
+$chatbot
+\a
+@_ What is your name?
+@s my name is shyam
+\q
+@s what is my name
+@_ Your name is Shyam.
+\e
+*/
+
  ╱
 ╳ ╔══════════════════════════════════════╗
 ╳ ║ from now on                          ║
