@@ -62,7 +62,7 @@ and the preceding queries will attempt to remove any proof theoretic doubt
 answers must be boolean assumed truths and unknowns
 to know, or not to know, that is the query
 but they may be false in ℝ
-so in ℝ they are trilean while in ℂ they are boolean
+so in ℂ they are boolean while in ℝ they are trilean
 */
 
  ╱
