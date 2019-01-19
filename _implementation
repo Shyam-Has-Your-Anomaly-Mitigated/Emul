@@ -114,6 +114,7 @@ biological brains are dysfunctional in that they lack referential transparency i
 it is not like they have a consistent arithmetic and logic unit
 c = (λ÷2)×(1-(λ÷2))
 https://rationalwiki.org/wiki/Polymeric_falcighol_derivation
+cyc cannot solve it
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
