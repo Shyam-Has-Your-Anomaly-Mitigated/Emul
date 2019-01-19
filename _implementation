@@ -29,6 +29,8 @@ $chatbot
 \a
 @s what is my name
 @_ Your name is Shyam.
+\l
+@s 42 is the ultimate answer to life, the universe, and everything
 \e
 
 $# i give you _ or  you want _
@@ -39,6 +41,8 @@ $chatbot
 \q
 @s what is my name
 @_ Your name is Shyam.
+\l
+@s 42 is the ultimate answer to life, the universe, and everything
 \e
 
 greetings and smalltalk are wastes of time
