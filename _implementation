@@ -39,6 +39,20 @@ $chatbot
 @s what is my name
 @_ Your name is Shyam.
 \e
+
+greetings and smalltalk are wastes of time
+hith is knowingly aware someone is there
+"Who are you?" should be the first intelligent query per session (between $chatbot and \e)
+hith should remember
+so if my name is shyam
+hith will remember me as shyam the 1ˢᵗ
+and the preceding queries will attempt to remove any proof theoretic doubt
+"Have you communicated with me before?" → yes
+"What is your name?" → shyam
+"What is your age?" → 29
+"what is your gender?" → i am the man who knows every"-thing"
+"Which country is your point of origin?" → australia
+"Will you marry me?" → i need; 100pts of id, blood/fluid test, background check, consent form, death/injury waiver; no meat, no drugs, no tobacco, no alcohol, no caffeine; …
 */
 
  ╱
