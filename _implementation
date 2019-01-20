@@ -358,7 +358,7 @@ https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
 
 if you attempt to compile english you get compilation exceptions; there are "weird" words that break the rule of ib4e
 
-lisp is a gateway to formal methods; haskell,..
+lisp is a gateway to formal methods; curry,..
 prolog is a gateway to formal methods; mercury,..
 
 formal methods are just ways of migrating/luring/serenading/seducing/.. bugs into a corner and declaring this is where we must tread carefully for we may step on one over here and that would be an ethical disaster
