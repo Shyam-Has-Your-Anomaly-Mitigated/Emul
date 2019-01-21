@@ -124,6 +124,8 @@ it is not like they have a consistent arithmetic and logic unit
 c = (λ÷2)×(1-(λ÷2))
 https://rationalwiki.org/wiki/Polymeric_falcighol_derivation
 cyc cannot solve it
+\me just figured out that X = f(X) is recursion
+well X=f(X),X. with f(X):-f(X). in the basement
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
