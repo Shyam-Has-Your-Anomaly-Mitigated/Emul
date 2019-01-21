@@ -124,7 +124,6 @@ it is not like they have a consistent arithmetic and logic unit
 c = (λ÷2)×(1-(λ÷2))
 https://rationalwiki.org/wiki/Polymeric_falcighol_derivation
 cyc cannot solve it
-
 /me has awoken with a plan to refactor time into an elegant implementation
 /me has discovered how to do time the prolog way
 /me has discovered the prolog way is unsatisfactory for their purposes
