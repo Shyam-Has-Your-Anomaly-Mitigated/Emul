@@ -124,6 +124,7 @@ it is not like they have a consistent arithmetic and logic unit
 c = (λ÷2)×(1-(λ÷2))
 https://rationalwiki.org/wiki/Polymeric_falcighol_derivation
 cyc cannot solve it
+i would prefer to be ignorant of the low level to avoid value drift
 \me just figured out that X = f(X) is recursion
 well X=f(X),X. with f(X):-f(X). in the basement
 has bucketed 6 prolog books and tutorials
