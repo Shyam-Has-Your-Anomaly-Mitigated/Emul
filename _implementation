@@ -124,8 +124,63 @@ it is not like they have a consistent arithmetic and logic unit
 c = (λ÷2)×(1-(λ÷2))
 https://rationalwiki.org/wiki/Polymeric_falcighol_derivation
 cyc cannot solve it
+
+/me has awoken with a plan to refactor time into an elegant implementation
+/me has discovered how to do time the prolog way
+/me has discovered the prolog way is unsatisfactory for their purposes
+/me thinks they have found a bug
+?- findall(Y, (between(0,2000,Y), 0 is Y mod 100, day_of_the_year(date(Y,12,31),366)), L)
+https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar
+For example, the years 1700, 1800, and 1900 are not leap years, but the year 2000 is.[5]
+/me crashed and the last message they logged was at 01:40 < ardin_agoy> For example, the years 1700, 1800, and 1900 are not leap years, but the year 2000 is.[5]
+/me is submitting the bug
+/me submitted their first bug at https://github.com/SWI-Prolog/issues/issues/80
+/me is renaming themsalves
+/me is renaming themselves
+halt.
+/me does not know why that happens
+/me should have done this first https://github.com/SWI-Prolog/issues/issues?utf8=%E2%9C%93&q=leap+year
+/me thinks they found another bug
+/me was attempting to edit http://www.swi-prolog.org/bug.html
+http://www.swi-prolog.org/wiki_edit?location=/bug.html
+that is an internal server error
+/me does not know how to report this bug
+/me submitted their second bug at https://github.com/SWI-Prolog/issues/issues/81
+i am not fluent in any language
+i have been language hopping and decided to get fluent at prolog and try to use it every single day for the rest of my life
+well prolog family anyway
+i was thinking about using prolog for everything
+my goal for 2019 is to get fluent at prolog and write a planner to optimise my life for productivity
+2020 is perl and 2021 is lisp and 2022 is haskell
+but if i satisfy my linguistic goals early then everything will shift
+well the billion dollar fortnite is more popular than roblox
+i think popularity contests like alexa ranking is a good place to learn 5w of success
+wikipedia and wayback machine do fundraising based on donations
+ubuntu download page has a slider thing like the humble bundle
+https://en.wikipedia.org/wiki/Business_models_for_open-source_software
+euclideon got a 2 million dollar grant from the australian government
+https://en.wikipedia.org/wiki/Euclideon
+fortnite shares their profits with content creators
+chatbots make them redundant
+vsauce had an episode on it
+there was a guy dating an npc
+https://www.youtube.com/watch?v=qZXpgf8N6hs
+i think it was that one
+i am interested in formally verified malware
+to defend oneself one must be knowledgeable of offences
+governments are compromising firmware
+the ultimate query is how do you know if you have been compromised?
+if your hardware io is being split then they can monitor you without your knowledge
+is this about the european union and their gdpr ddos?
+they spammed my inbox like a million times
+larkc was sold to them as well?
+floss is good software
+free libre open source software
+i just floss daily
+_: there exists ethical malware https://github.com/kanaka/mal
+https://rosettacode.org/wiki/Program_name
 i would prefer to be ignorant of the low level to avoid value drift
-\me just figured out that X = f(X) is recursion
+/me just figured out that X = f(X) is recursion
 well X=f(X),X. with f(X):-f(X). in the basement
 has bucketed 6 prolog books and tutorials
 yes
