@@ -91,6 +91,7 @@ canfp.slack.com
 `(= lisp functional_programming) ∧ (= lisp unsafe) → (= functional_programming informal)`
 `(= formal safe) ∧ (= haskell safe) → (= haskell formal)`
 I'm the man in the middle!!! :D
+I like the way that sounds like using seeing-eye dogs to do computer vision, and monkeys to do typing…
 
 ##prolog
 i prefer reversibility over optimisation
