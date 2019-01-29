@@ -225,6 +225,7 @@ without hard coded value drift
 humanity is an example of swarm intelligence
 i think it would be better to merge software
 A=ls,A=cat % A dir = ls dir; A file = cat file
+A=vim
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
