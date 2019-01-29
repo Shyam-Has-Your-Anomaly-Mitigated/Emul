@@ -226,6 +226,7 @@ humanity is an example of swarm intelligence
 i think it would be better to merge software
 A=ls,A=cat % A dir = ls dir; A file = cat file
 A=vim
+it should be the same as putting them in the basement?
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
