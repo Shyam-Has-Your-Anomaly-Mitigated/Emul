@@ -447,6 +447,19 @@ blackboxes can be double-lined
 type writers are a type of machine
 cellular automata
 
+frame 0: [1]────────[0]
+frame 1: [0]━───────[0]
+frame 2: [0]─━──────[0]
+frame 3: [0]──━─────[0]
+frame 4: [0]───━────[0]
+frame 5: [0]────━───[0]
+frame 6: [0]─────━──[0]
+frame 7: [0]──────━─[0]
+frame 8: [0]───────━[0]
+frame 9: [0]────────[1]
+
+it is only binary though
+
 time machine like time travelling debuggers
 start, stop, loop/recurse, nth, interval notation [start,stop],..
 arbitrary state manipulations
