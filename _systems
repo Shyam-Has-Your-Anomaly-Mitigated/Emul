@@ -189,3 +189,10 @@ controls (maths can probably be aligned)
 _
 
 <3 dots is for control ∵ that is how we feel about control (we wants it)
+
+down = /\n/
+left = /\r/
+left* = /\r*/
+right = /\r\r/
+right* = /(\r\r)*/
+up = /\n\n/
