@@ -88,9 +88,9 @@ functions =
 	└
 functions are numerical…
 parameter syntax =
-	┌ │          │          │          ┐
-	│ │ number_a │ number_b │ number_c │
-	└ │          │          │          ┘
+	┌ │|          │|          │|          ┐
+	│ │| number_a │| number_b │| number_c │
+	└ │|          │|          │|          ┘
 functions ≠ parameter syntax … or parameter syntax are functions
 parameters can stack numbers vertically, but this must be defined =
 	a b
@@ -173,3 +173,11 @@ echo "Hello, Mr. $Name!"; # first word wastes everybody elses time/attention, se
 
 # having uppercase & lowercase retards education; more rules to learn, but it's not like nouns/verbs/adjectives/.. each have their own visual distinctions (and "-thing"s like verbal nouns retard education even further)
 # it is theorised that case-sensitive languages have more retards; shyamskrit is a therapeutic/medical treatment (attempt to patch a bug, and another appears; dyslexia is cured by fonts though, and shyamskrit fonts cannot be proprietary)
+
+controls
+|␣
+␣|
+␣. (high/low dots)
+.␣ (high/low dots)
+:␣
+␣:
