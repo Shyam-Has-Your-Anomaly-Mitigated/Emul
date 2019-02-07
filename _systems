@@ -198,3 +198,12 @@ right = /\r\r\r/
 right* = /(\r\r\r)*/
 up = /\n\n\n/
 up* = /(\n\n\n)*/
+
+s = up
+e = left
+w = right
+n = down
+se = es = s e = e s
+sw = ws = s w = w s
+ne = en = n e = e n
+nw = wn = n w = w n
