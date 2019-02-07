@@ -207,3 +207,7 @@ se = es = s e = e s
 sw = ws = s w = w s
 ne = en = n e = e n
 nw = wn = n w = w n
+se* = e*s = s e* = e* s
+sw* = w*s = s w* = w* s
+ne* = e*n = n e* = e* n
+nw* = w*n = n w* = w* n
