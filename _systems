@@ -215,3 +215,7 @@ nw* = w*n = n w* = w* n
 boxes
 [
 ]
+delimiters; avoids |||||||||||||||||||| leaning toothpick syndrom
+||
+terminators
+□
