@@ -237,6 +237,23 @@ it would have helped if it said the bird was afraid of something and not necessa
 /me spent most of the time exploring the forest
 it is more like a torest from torus oh now i get it
 programs are a means of storing our own intelligence so all programs are intelligent including hello world programs
+is there a way to abstractly declare properties of some goal state?
+do you remember when i solved tic tac toe?
+how could it be done without hard coding?
+i feel like i cheated
+http://boxbase.org/entries/2019/feb/11/dialogical-logic-programming/
+that?
+i have not read it yet but it was in my logs from yesterday
+what game is that for?
+valid_move/3
+so Game is just a list of moves?
+not a multidimensional list representing the board?
+how do you support n dimensional games?
+i think it is better to abstract into higher order lists
+like x and y coordinates
+you can check if there is a horizontal line or vertical line or diagonal line for each player
+you only need to compare binary points recursively for arbitrary dimensions
+i see no value in a log since the rules declare whose turn it is
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
