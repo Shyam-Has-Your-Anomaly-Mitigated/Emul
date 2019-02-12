@@ -254,6 +254,7 @@ like x and y coordinates
 you can check if there is a horizontal line or vertical line or diagonal line for each player
 you only need to compare binary points recursively for arbitrary dimensions
 i see no value in a log since the rules declare whose turn it is
+line checking does not need to be performed per player since unification will return which player won
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
