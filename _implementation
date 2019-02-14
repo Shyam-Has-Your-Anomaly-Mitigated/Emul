@@ -273,6 +273,8 @@ s(a)=v(n(a)) from s(A,Z):-n(A,B),v(B,Z).
 /me does not think logic programming has any further applications beyond reversible functions and automated searching
 unique applications
 although automated searching is just filtering permutations
+reversible functions and automated searching and definite clause grammars
+the things logic programming makes possible and trivial
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
