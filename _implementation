@@ -261,9 +261,18 @@ filtering a permutation
 well i do not know about reversibility
 i think that is the only unsolved problem
 actually one way functions are also unsolved so maybe they both cause an effective paradox?
-is thinking about branching reversibility into different zones of time
+/me is thinking about branching reversibility into different zones of time
 like a time machine
 like emacs
+what does logic programming have to offer besides reversibility?
+https://en.wikipedia.org/wiki/Reversible_computing#Physical_reversibility
+https://en.wikipedia.org/wiki/Search_problem#Objective
+those are all that logic programming is to me so far
+can you do difference lists in other languages?
+s(a)=v(n(a)) from s(A,Z):-n(A,B),v(B,Z).
+/me does not think logic programming has any further applications beyond reversible functions and automated searching
+unique applications
+although automated searching is just filtering permutations
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
