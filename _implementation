@@ -302,6 +302,7 @@ unless shell/1 checks $?
 yesbot: you should try docker or something
 could dcg it
 backticks --> command, semicolon, backticks. command --> [X], shell(X).
+could use shell/2 to automate error detection and correction
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
