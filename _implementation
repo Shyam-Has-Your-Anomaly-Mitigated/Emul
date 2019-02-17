@@ -88,10 +88,13 @@ so in ℂ they are boolean while in ℝ they are trilean
  ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 canfp.slack.com
+#general
 `(= lisp functional_programming) ∧ (= lisp unsafe) → (= functional_programming informal)`
 `(= formal safe) ∧ (= haskell safe) → (= haskell formal)`
 I'm the man in the middle!!! :D
 I like the way that sounds like using seeing-eye dogs to do computer vision, and monkeys to do typing…
+#nix
+I'd like to get a case c̄ a handle, and use it as a laptop, but monitors are the challenge; which could be built into the side of the case…
 
 ##prolog
 i prefer reversibility over optimisation
