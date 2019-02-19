@@ -307,6 +307,10 @@ could dcg it
 backticks --> command, semicolon, backticks. command --> [X], shell(X).
 could use shell/2 to automate error detection and correction
 i think the dcg needs to be implemented as a scannerless parser
+what about graphing a tree? like in lpn!
+ansi escaping bugs
+no need for time travelling debugger if you can see all of time itself
+it could just use symbolic links though that can be explored interactively like using emacs to read the emacs manual
 
 naming convention (you can think of arguments as facts of the clause)
 …lists are good for definite clause grammars
