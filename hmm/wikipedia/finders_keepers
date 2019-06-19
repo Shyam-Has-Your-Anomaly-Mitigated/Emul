@@ -1,0 +1,132 @@
+=Words Of Wisdom=
+==From Talk Page==
+: Using the '''[[IPO model]]''', and linguistics ([[Linguistic description|''description'']] versus [[Linguistic prescription|''prescription'']]); function problems are about already having an '''Output''' ''prescription'' for every '''Input''' of a given '''Process''', while search problems are about having a ''description'' of the '''Output''', and a given '''Input''', without knowledge of any '''Process''' (where the '''Process''' becomes the '''Output''', the '''Output''' becomes the '''Input''', and the '''Input''' becomes the '''Process'''; although, the '''Output''' is incomplete '''Input''', as it is merely a ''description'', which only becomes a ''prescription'' when the [[Satisfiability|satisfiable]] '''Process''' is [[Totality|totally]] checked). -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 12:41, 9 June 2019 (UTC)
+:: The [[Sussman anomaly]] from [[Blocks world]] described as a search problem: '''Output''' = stack the blocks alphabetically; '''Input''' = [B on the table, C atop A, A on the table]; '''Process''' = ''¿list of possible computational instructions; where there can be more than one solution, and finding all of them can turn into an optimisation problem, but there can also be no possible solution?''; (The '''Process''' is computed based on the [[Prolog#Rules and facts|facts & rules]] of blocks world.) -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 13:14, 9 June 2019 (UTC)
+::: You know what you '''''have'''''. You know what you '''''want'''''. What do you '''''need''''' to get from what you '''''have''''' to what you '''''want'''''? -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 14:35, 9 June 2019 (UTC)
+{{Collapse top|title=I didn't know how else to stop this from floating off to the right! -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 15:14, 9 June 2019 (UTC)}}
+{{Quote box
+|quote=(sic erat scriptum)
+* [[declarative programming|declarative]] in which the programmer merely declares properties of the desired result, but not how to compute it
+** [[functional programming|functional]] in which the desired result is declared as the value of a series of function applications,
+** [[logic programming|logic]] in which the desired result is declared as the answer to a question about a system of facts and rules,
+** [[Mathematical programming|mathematical]] in which the desired result is declared as the solution of an optimization problem
+|author=[[Programming paradigm]]
+|source=''[[Wikipedia]]''.
+|title=This is relevant.
+}}
+{{Collapse bottom}}
+
+:I don't understand the [[WP:TECHNICAL]] lead, but the rest of the article seems relevant. The lead divagates from [http://web.archive.org/web/20150930130607/http://planetmath.org/searchproblem PlanetMath]; using <math>T</math> to compute <math>R</math> instead of <math>f</math>, which makes more sense. I haven't read any further into the lead, since it's anomalous so early on. [https://planetmath.org/ PlanetMath] is [[WP:USERGENERATED]]; "Math for the people, by the people.". -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 23:37, 9 June 2019 (UTC)
+::I got so carried away, I forgot the rest of your discussion! My earlier response was about your claim that search problems are function problems. Declarative programming is about describing '''what''' a problem is, so the computer can compute '''how''' to solve it. I was referring to [[Termination analysis|totality checking]]; "The mathematical concept of a function being total vs. partial". And satisfiability in the logical sense; "A formula is satisfiable if it is possible to find an interpretation (model) that makes the formula true.". -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 23:50, 9 June 2019 (UTC)
+:::The process is from the IPO model. -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 00:12, 10 June 2019 (UTC)
+
+:I sectioned off the lead; unless you can explain the differences, I consider them to be the same (I fixed the mistake from when it was copied from [http://web.archive.org/web/20150930130607/http://planetmath.org/searchproblem PlanetMath], and this now follows the rest of the article). -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 18:39, 12 June 2019 (UTC)
+
+:Where are you getting your information from? The complexity text in the article comes from [http://web.archive.org/web/20150930130607/http://planetmath.org/searchproblem PlanetMath], which says <math>T</math> computes <math>f</math>, and <math>y=f(x)</math>. -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 19:19, 12 June 2019 (UTC)
+
+:Besides the aforementioned mistake in the current lead, these are unquoted:
+:*In computational complexity theory and computability theory, a search problem is a type of computational problem represented by a binary relation.
+:*Intuitively, the problem consists in finding structure "y" in object "x". An algorithm is said to solve the problem if at least one corresponding structure exists, and then one occurrence of this structure is made output; otherwise, the algorithm stops with an appropriate output ("Item not found" or any message of the like).
+:*Such problems occur very frequently in graph theory, for example, where searching graphs for structures such as particular matching, cliques, independent set, etc. are subjects of interest.
+:Graph theory is used to formalise programming. Just as [[Binary tree]]s represent [[S-expression]]s; the concept is shared, instead of being split. Mathematics is used to describe life, the universe, and everything; there is no separation between the mathematical concept of counting, and the concept of counting sheep to fall asleep, because counting is counting.
+:The article does not include any citation that supports your claim that search problems are function problems in any way; the only mention is in their respective "See also" sections. We might as well merge [[Entscheidungsproblem]] with [[Decision problem]].
+:In fact, [[Function problem]] has no footnotes! According to the template at the foot of the page.
+:Both these articles lack proper citations, which is indicative of amateur authorship.
+:I hope your knowledge of these concepts does not solely depend on Wikipedia alone; you can't learn this kind of stuff from Wikipedia.
+:There are [https://cs.stackexchange.com/questions/93082/classes-of-computatinal-problems others] who agree that search problems are not function problems; even the Wikipedia page on [[Computational problem]] they link to has no footnotes!
+:[https://www.cs.cmu.edu/~odonnell/15455-s17/midterm-practice-problems.pdf This], and [https://www.cs.cmu.edu/~odonnell/15455-s17/final-practice-problems.pdf that], also supports the notion that search problems are not function problems.
+:The fifth page of [https://www.comp.nus.edu.sg/~gem1501/year1314sem2/problems.pdf this] says function problems are a specialisation of search problems; so if anything, function problems should be merged into search problems.
+:[https://books.google.com.au/books?id=DVg9qRmoNPEC&pg=PA51&lpg=PA51&dq=%22search+problem%22+%22function+problem%22&source=bl&ots=2VRam2To9c&sig=ACfU3U3A3bdTcJ5sQ8tY8r1jGojyUEtQeg&hl=en&sa=X&ved=2ahUKEwjDtuy88ejiAhXVbCsKHSbDBc84ChDoATAEegQIBhAB#v=onepage&q=%22search%20problem%22%20%22function%20problem%22&f=false Of course, any decision problem can be viewed as a function problem, and any function problem can be viewed as a search problem. However, the reverse of either of these statements does not hold in general.]
+:[https://books.google.com.au/books?id=jXYQBwAAQBAJ&pg=PA3&lpg=PA3&dq=%22search+problem%22+%22function+problem%22&source=bl&ots=N3t9UzSK85&sig=ACfU3U2wTFSjsfDl17jJQZgIhNoJbN9vag&hl=en&sa=X&ved=2ahUKEwjDtuy88ejiAhXVbCsKHSbDBc84ChDoATAIegQICRAB#v=onepage&q=%22search%20problem%22%20%22function%20problem%22&f=false Here we are following the standard naming convention, even though the term "function problem" is misleading for the reason pointed out earlier.]
+:[https://books.google.com.au/books?id=2aW2sSlQj_QC&pg=PA229&lpg=PA229&dq=%22search+problem%22+%22function+problem%22&source=bl&ots=PlJ7_0kfqb&sig=ACfU3U2qTk2Ua45wyhiP00E9s4Z_Dp7vzw&hl=en&sa=X&ved=2ahUKEwjDtuy88ejiAhXVbCsKHSbDBc84ChDoATAGegQICBAB#v=onepage&q=%22search%20problem%22%20%22function%20problem%22&f=false Here] is the mathematics of a function problem as a search problem.
+:By "finding a function", I mean [[Metaprogramming]], where you implement a more ''general'' <math>f_0</math> that finds, and implements, any <math>f_1</math>; instead of you implementing a ''specific'' <math>f_1</math>.
+:You should learn [[Prolog]] to understand satisfiability in a programmatic sense.
+:[[Curry–Howard correspondence]]; with regards to formulas, and processes.
+:[https://en.wiktionary.org/wiki/process Processes are programs.]
+:-- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 12:04, 14 June 2019 (UTC)
+
+:It's probably not worth the effort, since it'll just get deleted again anyway; it's just too easy to delete stuff around here, and I couldn't explain it to you, therefore I couldn't explain it to anyone else who doesn't already know what I'm talking about, and trying to find trivially accessible references outside of textbooks is labourious; as far as I'm concerned, proceed deleting this article as you like. -- [[User:Shyam Has Your Anomaly Mitigated|Shyam Has Your Anomaly Mitigated]] ([[User talk:Shyam Has Your Anomaly Mitigated|talk]]) 20:28, 15 June 2019 (UTC)
+
+==After Thoughts==
+Search problems search for a way to solve a problem, rather than solving the problem itself.
+
+Search problems are such that, using the [[IPO model]] in the form <math>P(I)=O</math>:
+:<math>P_0(I_0)=O_0</math> solves <math>P_n(I_n)=O_n</math> by using <math>O_0(I_n)=O_n</math> instead of unintelligently acquiring <math>P_n</math> by means of manual labour; where the solution for <math>P_0(I_0)=O_0</math> is known, and can be applied to learn any unknown <math>O_n</math> for any known <math>I_n</math>.
+
+:<math>I_0=R(I_m,O_m)</math>
+
+:<math>I_m = I_n</math>
+
+:<math>O_m \approx O_n</math>
+
+===See Also===
+*[[AI-complete]]
+*[[Declarative programming]]
+*[[Functional logic programming]]
+*[[Metaprogramming]]
+*[[Symbolic artificial intelligence]]
+
+=[[Search problem|The Article]]=
+Search problems are a generalisation that involves finding a function to solve a specified problem, instead of implementing the necessary function itself.
+
+==Definition==
+A search problem is defined by:<ref name=Brown>{{cite web|last=Leyton-Brown|first=Kevin|title=Graph Search|url=http://www.cs.ubc.ca/~kevinlb/teaching/cs322%20-%202009-10/Lectures/Search2.pdf|publisher=ubc|accessdate=7 February 2013}}</ref> 
+* A set of [[State (computer science)|states]]
+* A [[start state]]
+* A [[goal state]] or goal test
+:a boolean function which tells us whether a given state is a goal state
+* A [[successor function]]
+:a mapping from a state to a set of new states
+
+==Objective==
+Find a solution when not given an algorithm to solve a problem, but only a specification of what a solution looks like.<ref name=Brown />
+
+==Search method==
+* Generic search algorithm: given a graph, start nodes, and goal nodes, incrementally explore paths from the start nodes.
+* Maintain a frontier of paths from the start node that have been explored.
+* As search proceeds, the frontier expands into the unexplored nodes until a goal node is encountered.
+* The way in which the frontier is expanded defines the search strategy.<ref name=Brown /> 
+    Input: a graph,
+        a set of start nodes,
+        Boolean procedure goal(n) that tests if n is a goal node.
+    frontier := {s : s is a start node};
+    while frontier is not empty:
+        select and remove path <n0, ..., nk> from frontier;
+        if goal(nk)
+            return <n0, ..., nk>;
+        for every neighbor n of nk
+            add <n0, ..., nk, n> to frontier;
+    end while
+
+==Complexity==
+In [[computational complexity theory]] and [[computability theory]], a '''search problem''' is a type of [[computational problem]] represented by a [[binary relation]].  If ''R'' is a binary relation such that field(''R'') ⊆ Γ<sup>+</sup> and ''T'' is a [[Turing machine]], then ''T'' calculates ''f'' if:
+
+* If ''x'' is such that there is some ''y'' such that ''R''(''x'', ''y'') then ''T'' accepts ''x'' with output ''z'' such that ''R''(''x'', ''z'') (there may be multiple ''y'', and ''T'' need only find one of them)
+* If ''x'' is such that there is no ''y'' such that ''R''(''x'', ''y'') then ''T'' rejects ''x''
+
+Intuitively, the problem consists in finding structure "y" in object "x". An [[algorithm]] is said to solve the problem if at least one corresponding structure exists, and then one occurrence of this structure is made output; otherwise, the algorithm stops with an appropriate output ("Item not found" or any message of the like).
+
+Such problems occur very frequently in [[graph theory]], for example, where searching graphs for structures such as particular [[Matching (graph theory)|matching]], [[clique (graph theory)|cliques]], [[Independent set (graph theory)|independent set]], etc. are subjects of interest.
+
+Note that the graph of a partial function is a binary relation, and if ''T'' calculates a partial function then there is at most one possible output.
+
+A relation ''R'' can be viewed as a search problem, and a Turing machine which calculates ''R'' is also said to solve it. Every search problem has a corresponding [[decision problem]], namely
+
+:<math>L(R)=\{x\mid \exists y R(x,y)\}. \, </math>
+
+This definition may be generalized to ''n''-ary relations using any suitable encoding which allows multiple strings to be compressed into one string (for instance by listing them consecutively with a delimiter).
+
+==See also==
+*[[Unbounded search operator]]
+*[[Decision problem]]
+*[[Optimization problem]]
+*[[Counting problem (complexity)]]
+*[[Function problem]]
+*[[Search games]]
+
+==References==
+{{Reflist}}
+
+{{PlanetMath attribution|id=3425|title=search problem}}
+
+[[:Category:Computational problems]]
